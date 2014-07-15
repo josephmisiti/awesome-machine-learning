@@ -188,10 +188,18 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 * [Distance](https://github.com/JuliaStats/Distance.jl)
 * [Decision Tree](https://github.com/bensadeghi/DecisionTree.jl)
 * [Neural](https://github.com/compressed/neural.jl)
+* [MCMC](https://github.com/doobwa/MCMC.jl)
+* [GLM](https://github.com/JuliaStats/GLM.jl)
+* [Online Learning](https://github.com/lendle/OnlineLearning.jl)
+* [GLMNet](https://github.com/simonster/GLMNet.jl)
+* [Clustering](https://github.com/JuliaStats/Clustering.jl)
+* [SVM](https://github.com/JuliaStats/SVM.jl)
+
 
 #### Natural Language Processing
 
 * [Topic Models](https://github.com/slycoder/TopicModels.jl)
+* [Text Analysis](https://github.com/johnmyleswhite/TextAnalysis.jl)
 
 
 #### Data Analysis / Data Visualization
@@ -201,11 +209,20 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 * [Julia Data](https://github.com/nfoti/JuliaData)
 * [Data Read](https://github.com/WizardMac/DataRead.jl)
 * [Hypothesis Tests](https://github.com/JuliaStats/HypothesisTests.jl)
+* [Gladfly](https://github.com/dcjones/Gadfly.jl)
+* [Stats](https://github.com/johnmyleswhite/stats.jl)
+* [RDataSets](https://github.com/johnmyleswhite/RDatasets.jl)
+* [DataFrames](https://github.com/JuliaStats/DataFrames.jl)
+* [Distributions](https://github.com/JuliaStats/Distributions.jl)
+* [Data Arrays](https://github.com/JuliaStats/DataArrays.jl)
+* [Time Series](https://github.com/JuliaStats/TimeSeries.jl)
+* [Sampling](https://github.com/JuliaStats/Sampling.jl)
 
-#### Misc Scripts + Presentations
+#### Misc Stuff / Presentations
 
 * [JuliaCon Presentations](https://github.com/JuliaCon/presentations)
-
+* [SignalProcessing](https://github.com/davidavdav/SignalProcessing)
+* [Images](https://github.com/timholy/Images.jl)
 
 ## Credits
 
