@@ -74,6 +74,8 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 
 
 
+## Credits
 
+* Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
 
 
