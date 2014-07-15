@@ -80,6 +80,32 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 
 ## Java
 
+#### Natural Language Processing
+
+* [CoreNLP] (http://nlp.stanford.edu/software/corenlp.shtml)
+* [Stanford Parser] (http://nlp.stanford.edu/software/lex-parser.shtml)
+* [Stanford POS Tagger] (http://nlp.stanford.edu/software/tagger.shtml)
+* [Stanford Name Entity Recognizer] (http://nlp.stanford.edu/software/CRF-NER.shtml)
+* [Stanford Word Segmenter] (http://nlp.stanford.edu/software/segmenter.shtml)
+* [Tregex, Tsurgeon and Semgrex](http://nlp.stanford.edu/software/tregex.shtml)
+* [Stanford Phrasal: A Phrase-Based Translation System](http://nlp.stanford.edu/software/phrasal/)
+* [Stanford English Tokenizer](http://nlp.stanford.edu/software/tokenizer.shtml)
+* [Stanford Tokens Regex](http://nlp.stanford.edu/software/tokensregex.shtml)
+* [Stanford Temporal Tagger](http://nlp.stanford.edu/software/sutime.shtml)
+* [Stanford SPIED](http://nlp.stanford.edu/software/patternslearning.shtml)
+* [Stanford Topic Modeling Toolbox](http://nlp.stanford.edu/software/tmt/tmt-0.4/)
+
+#### General-Purpose Machine Learning
+
+* [Mahout](https://github.com/apache/mahout)
+* [Stanford Classifier](http://nlp.stanford.edu/software/classifier.shtml)
+
+#### Data Analysis / Data Visualization
+
+* [Hadoop](https://github.com/apache/hadoop-mapreduce)
+* [Spark](https://github.com/apache/spark)
+* [Impala](https://github.com/cloudera/impala)
+
 
 ## Go
 
