@@ -126,7 +126,10 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 
 #### Natural Language Processing
 
-* TODO
+* [ScalaNLP](http://www.scalanlp.org/) - ScalaNLP is a suite of machine learning and numerical computing libraries.
+* [Breeze](https://github.com/scalanlp/breeze) - Breeze is a numerical processing library for Scala.
+* [Chalk](https://github.com/scalanlp/chalk) - Chalk is a natural language processing library.
+* [FACTORIE](https://github.com/factorie/factorie) - FACTORIE is a toolkit for deployable probabilistic modeling, implemented as a software library in Scala. It provides its users with a succinct language for creating relational factor graphs, estimating parameters and performing inference.
 
 #### Data Analysis / Data Visualization
 
@@ -137,6 +140,7 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 #### General-Purpose Machine Learning
 
 * [Conjecture](https://github.com/etsy/Conjecture)
+
 ## Java
 
 #### Natural Language Processing
@@ -170,15 +174,21 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 
 #### Natural Language Processing
 
-* TODO
+* [go-porterstemmer](https://github.com/reiver/go-porterstemmer)
+* [paicehusk](https://github.com/Rookii/paicehusk)
+* [snowball](https://bitbucket.org/tebeka/snowball)
 
 #### General-Purpose Machine Learning
 
 * [Go Learn](https://github.com/sjwhitworth/golearn)
+* [go-pr](https://github.com/daviddengcn/go-pr)
+* [bayesian](https://github.com/jbrukh/bayesian)
+* [go-galib](https://github.com/thoj/go-galib)
 
 #### Data Analysis / Data Visualization
 
-* TODO
+* [go-graph](https://github.com/StepLg/go-graph)
+* [SVGo](http://www.svgopen.org/2011/papers/34-SVGo_a_Go_Library_for_SVG_generation/)
 
 ## Matlab
 
@@ -256,5 +266,5 @@ on MNIST digits](http://www.cs.toronto.edu/~hinton/MatlabForSciencePaper.html) [
 ## Credits
 
 * Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
-
+* The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
 
