@@ -57,7 +57,16 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 
 ## Ruby
 
+#### Natural Language Processing
 
+*Libraries for working with human languages.*
+
+* [Treat](https://github.com/louismullie/treat) -  Text REtrieval and Annotation Toolkit, definitely the most comprehensive toolkit I’ve encountered so far for Ruby
+* [Ruby Linguistics](http://www.deveiate.org/projects/Linguistics/) -  NLTK for Ruby
+* [Stemmer](https://github.com/aurelian/ruby-stemmer) 
+* [Ruby Wordnet](http://www.deveiate.org/projects/Ruby-WordNet/)
+* [Raspel](http://sourceforge.net/projects/raspell/)
+* [UEA Stemmer](https://github.com/ealdent/uea-stemmer)
 ## Scala
 
 
