@@ -69,11 +69,11 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 
 #### Data Analysis / Data Visualization
 
-[rsruby](https://github.com/alexgutteridge/rsruby)
-[data-visualization-ruby](https://github.com/chrislo/data_visualisation_ruby)
-[ruby-plot](https://www.ruby-toolbox.com/projects/ruby-plot)
-[plot-rb](https://github.com/zuhao/plotrb)
-[scruffy](http://www.rubyinside.com/scruffy-a-beautiful-graphing-toolkit-for-ruby-194.html)
+* [rsruby](https://github.com/alexgutteridge/rsruby)
+* [data-visualization-ruby](https://github.com/chrislo/data_visualisation_ruby)
+* [ruby-plot](https://www.ruby-toolbox.com/projects/ruby-plot)
+* [plot-rb](https://github.com/zuhao/plotrb)
+* [scruffy](http://www.rubyinside.com/scruffy-a-beautiful-graphing-toolkit-for-ruby-194.html)
 
 ## Scala
 
