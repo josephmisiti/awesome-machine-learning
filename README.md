@@ -90,7 +90,7 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 * [scruffy](http://www.rubyinside.com/scruffy-a-beautiful-graphing-toolkit-for-ruby-194.html)
 * [SciRuby](http://sciruby.com/)
 
-## Javascrpt
+## Javascript
 
 #### Natural Language Processing
 
@@ -169,7 +169,6 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 * [Hadoop](https://github.com/apache/hadoop-mapreduce)
 * [Spark](https://github.com/apache/spark)
 * [Impala](https://github.com/cloudera/impala)
-
 
 ## Go
 
