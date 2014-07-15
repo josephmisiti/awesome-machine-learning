@@ -48,6 +48,16 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 * [Kartograph.py](https://github.com/kartograph/kartograph.py) - Rendering beautiful SVG maps in Python.
 * [pygal](http://pygal.org/) - A Python SVG Charts Creator.
 
+#### Misc Scripts / iPython Notebooks
+
+* [pattern_classification](https://github.com/rasbt/pattern_classification)
+* [thinking stats 2](https://github.com/Wavelets/ThinkStats2)
+* [hyperopt](https://github.com/hyperopt/hyperopt-sklearn)
+* [numpic](https://github.com/numenta/nupic)
+* [2012-paper-diginorm](https://github.com/ged-lab/2012-paper-diginorm)
+* [ipython-notebooks](https://github.com/ogrisel/notebooks)
+* []
+
 
 ## Ruby
 
@@ -77,6 +87,17 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 
 ## Scala
 
+#### Natural Language Processing
+
+* TODO
+
+#### Data Analysis / Data Visualization
+
+* TODO
+
+#### General-Purpose Machine Learning
+
+* [Conjecture](https://github.com/etsy/Conjecture)
 
 ## Java
 
@@ -109,12 +130,65 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 
 ## Go
 
+#### Natural Language Processing
+
+* TODO
+
+#### General-Purpose Machine Learning
+
+* [Go Learn](https://github.com/sjwhitworth/golearn)
+
+#### Data Analysis / Data Visualization
+
+* TODO
+
 
 ## R
+
+#### Natural Language Processing
+
+* TODO
+
+#### General-Purpose Machine Learning
+
+* TODO
+
+#### Data Analysis / Data Visualization
+
+* TODO
+
+## Matlab
+
+#### Natural Language Processing
+
+* TODO
+
+#### General-Purpose Machine Learning
+
+* TODO
+
+#### Data Analysis / Data Visualization
+
+* TODO
 
 
 ## Julia
 
+#### Natural Language Processing
+
+* TODO
+
+#### General-Purpose Machine Learning
+
+* TODO
+
+#### Data Analysis / Data Visualization
+
+* TODO
+
+#### Misc Scripts + Presentations
+
+* [JuliaCon Presentations](https://github.com/JuliaCon/presentations)
 
 
 ## Credits
