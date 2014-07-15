@@ -49,6 +49,7 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 * [ggplot](https://github.com/yhat/ggplot) - Same API as ggplot2 for R.
 * [Kartograph.py](https://github.com/kartograph/kartograph.py) - Rendering beautiful SVG maps in Python.
 * [pygal](http://pygal.org/) - A Python SVG Charts Creator.
+* [pycascading](https://github.com/twitter/pycascading)
 
 #### Misc Scripts / iPython Notebooks
 
@@ -71,6 +72,7 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 * [Ruby Wordnet](http://www.deveiate.org/projects/Ruby-WordNet/)
 * [Raspel](http://sourceforge.net/projects/raspell/)
 * [UEA Stemmer](https://github.com/ealdent/uea-stemmer)
+* [Twitter-text-rb](https://github.com/twitter/twitter-text-rb)
 
 #### General-Purpose Machine Learning
 
@@ -86,6 +88,32 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 * [ruby-plot](https://www.ruby-toolbox.com/projects/ruby-plot)
 * [plot-rb](https://github.com/zuhao/plotrb)
 * [scruffy](http://www.rubyinside.com/scruffy-a-beautiful-graphing-toolkit-for-ruby-194.html)
+* [SciRuby](http://sciruby.com/)
+
+## Javascrpt
+
+#### Natural Language Processing
+
+* [Twitter-text-js](https://github.com/twitter/twitter-text-js)
+* [NLP.js](https://github.com/nicktesla/nlpjs)
+
+
+#### Data Analysis / Data Visualization
+
+* TODO
+#### General-Purpose Machine Learning
+
+* [Convnet.js](http://cs.stanford.edu/people/karpathy/convnetjs/) [DEEP LEARNING]
+* [Clustering.js](https://github.com/tixz/clustering.js)
+* [Decision Trees](https://github.com/serendipious/nodejs-decision-tree-id3)
+* [Node-fann](https://github.com/rlidwka/node-fann)
+* [Kmeans.js](https://github.com/tixz/kmeans.js)
+* [LDA.js](https://github.com/primaryobjects/lda)
+* [Learning.js](https://github.com/yandongliu/learningjs)
+* [Machine Learning](http://joonku.com/project/machine_learning)
+* [Node-SVM](https://github.com/nicolaspanel/node-svm)
+* [Brain](https://github.com/harthur/brain)
+
 
 ## Scala
 
@@ -95,12 +123,13 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 
 #### Data Analysis / Data Visualization
 
-* TODO
+* [Scalding](https://github.com/twitter/scalding)
+* [Summing Bird](https://github.com/twitter/summingbird)
+* [Algebird](https://github.com/twitter/algebird)
 
 #### General-Purpose Machine Learning
 
 * [Conjecture](https://github.com/etsy/Conjecture)
-
 ## Java
 
 #### Natural Language Processing
@@ -117,7 +146,7 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 * [Stanford Temporal Tagger](http://nlp.stanford.edu/software/sutime.shtml)
 * [Stanford SPIED](http://nlp.stanford.edu/software/patternslearning.shtml)
 * [Stanford Topic Modeling Toolbox](http://nlp.stanford.edu/software/tmt/tmt-0.4/)
-
+* [Twitter Text Java](https://github.com/twitter/twitter-text-java)
 #### General-Purpose Machine Learning
 
 * [Mahout](https://github.com/apache/mahout)
@@ -194,6 +223,9 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 * [GLMNet](https://github.com/simonster/GLMNet.jl)
 * [Clustering](https://github.com/JuliaStats/Clustering.jl)
 * [SVM](https://github.com/JuliaStats/SVM.jl)
+* [Kernal Density](https://github.com/JuliaStats/KernelDensity.jl)
+* [Dimensionality Reduction](https://github.com/JuliaStats/DimensionalityReduction.jl)
+* [NMF](https://github.com/JuliaStats/NMF.jl)
 
 
 #### Natural Language Processing
