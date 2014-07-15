@@ -53,8 +53,6 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 * [pygal](http://pygal.org/) - A Python SVG Charts Creator.
 
 
-
-
 ## Ruby
 
 #### Natural Language Processing
@@ -67,6 +65,13 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 * [Ruby Wordnet](http://www.deveiate.org/projects/Ruby-WordNet/)
 * [Raspel](http://sourceforge.net/projects/raspell/)
 * [UEA Stemmer](https://github.com/ealdent/uea-stemmer)
+
+#### General-Purpose Machine Learning
+
+*Libraries for Machine Learning.*
+
+
+
 ## Scala
 
 
