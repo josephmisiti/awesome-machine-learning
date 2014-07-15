@@ -181,11 +181,18 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 * [PGM](https://github.com/JuliaStats/PGM.jl)
 * [DA](https://github.com/trthatcher/DA.jl)
 * [Regression](https://github.com/lindahua/Regression.jl)
-
+* [Local Regression](https://github.com/dcjones/Loess.jl)
+* [Naive Bayes](https://github.com/nutsiepully/NaiveBayes.jl)
+* [Mixed Models](https://github.com/dmbates/MixedModels.jl)
+* [Simple MCMC](https://github.com/fredo-dedup/SimpleMCMC.jl)
+* [Distance](https://github.com/JuliaStats/Distance.jl)
+* [Decision Tree](https://github.com/bensadeghi/DecisionTree.jl)
+* [Neural](https://github.com/compressed/neural.jl)
 
 #### Natural Language Processing
 
-* TODO
+* [Topic Models](https://github.com/slycoder/TopicModels.jl)
+
 
 #### Data Analysis / Data Visualization
 
@@ -193,6 +200,7 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 * [Data Frames Meta](https://github.com/JuliaStats/DataFramesMeta.jl)
 * [Julia Data](https://github.com/nfoti/JuliaData)
 * [Data Read](https://github.com/WizardMac/DataRead.jl)
+* [Hypothesis Tests](https://github.com/JuliaStats/HypothesisTests.jl)
 
 #### Misc Scripts + Presentations
 
