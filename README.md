@@ -5,8 +5,6 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 
 #### Natural Language Processing
 
-*Libraries for working with human languages.*
-
 * [NLTK](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
 * [Pattern](http://www.clips.ua.ac.be/pattern) - A web mining module for the Python programming language. It has tools for natural language processing, machine learning, among others.
 * [TextBlob](http://textblob.readthedocs.org/) - Providing a consistent API for diving into common natural language processing (NLP) tasks. Stands on the giant shoulders of NLTK and Pattern, and plays nicely with both.
@@ -16,8 +14,6 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 * [genius](https://github.com/duanhongyi/genius) - A Chinese segment base on Conditional Random Field.
 
 #### General-Purpose Machine Learning
-
-*Libraries for Machine Learning.*
 
 * [scikit-learn](http://scikit-learn.org/) - A Python module for machine learning built on top of SciPy.
 * [pattern](https://github.com/clips/pattern) - Web mining module for Python.
@@ -57,8 +53,6 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 
 #### Natural Language Processing
 
-*Libraries for working with human languages.*
-
 * [Treat](https://github.com/louismullie/treat) -  Text REtrieval and Annotation Toolkit, definitely the most comprehensive toolkit I’ve encountered so far for Ruby
 * [Ruby Linguistics](http://www.deveiate.org/projects/Linguistics/) -  NLTK for Ruby
 * [Stemmer](https://github.com/aurelian/ruby-stemmer) 
@@ -68,9 +62,18 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 
 #### General-Purpose Machine Learning
 
-*Libraries for Machine Learning.*
+* [Ruby Machine Learning](https://github.com/tsycho/ruby-machine-learning)
+* [Machine Learning Ruby](https://github.com/mizoR/machine-learning-ruby)
+* [jRuby Mahout](https://github.com/vasinov/jruby_mahout)
+* [CardMagic-Classifier](https://github.com/cardmagic/classifier)
 
+#### Data Analysis / Data Visualization
 
+[rsruby](https://github.com/alexgutteridge/rsruby)
+[data-visualization-ruby](https://github.com/chrislo/data_visualisation_ruby)
+[ruby-plot](https://www.ruby-toolbox.com/projects/ruby-plot)
+[plot-rb](https://github.com/zuhao/plotrb)
+[scruffy](http://www.rubyinside.com/scruffy-a-beautiful-graphing-toolkit-for-ruby-194.html)
 
 ## Scala
 
