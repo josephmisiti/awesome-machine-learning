@@ -100,7 +100,14 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 
 #### Data Analysis / Data Visualization
 
-* TODO
+* [High Charts](http://www.highcharts.com/)
+* [NVD3.js](http://nvd3.org/)
+* [dc.js](http://dc-js.github.io/dc.js/)
+* [chartjs](http://www.chartjs.org/)
+* [dimple](http://dimplejs.org/)
+* [amCharts](http://www.amcharts.com/)
+
+
 #### General-Purpose Machine Learning
 
 * [Convnet.js](http://cs.stanford.edu/people/karpathy/convnetjs/) [DEEP LEARNING]
@@ -173,35 +180,25 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 
 * TODO
 
-
-## R
-
-#### Natural Language Processing
-
-* TODO
-
-#### General-Purpose Machine Learning
-
-* TODO
-
-#### Data Analysis / Data Visualization
-
-* TODO
-
 ## Matlab
 
 #### Natural Language Processing
 
-* TODO
+* [NLP](https://amplab.cs.berkeley.edu/2012/05/05/an-nlp-library-for-matlab/)
 
 #### General-Purpose Machine Learning
 
-* TODO
+* [Training a deep autoencoder or a classifier 
+on MNIST digits](http://www.cs.toronto.edu/~hinton/MatlabForSciencePaper.html) [DEEP LEARNING]
+* [t-Distributed Stochastic Neighbor Embedding](http://homepage.tudelft.nl/19j49/t-SNE.html)
+* [Spider](http://people.kyb.tuebingen.mpg.de/spider/)
+* [LibSVM](http://www.csie.ntu.edu.tw/~cjlin/libsvm/#matlab)
+* [LibLinear](http://www.csie.ntu.edu.tw/~cjlin/liblinear/#download)
 
 #### Data Analysis / Data Visualization
 
-* TODO
-
+* [matlab_gbl](https://www.cs.purdue.edu/homes/dgleich/packages/matlab_bgl/)
+* [gamic](http://www.mathworks.com/matlabcentral/fileexchange/24134-gaimc---graph-algorithms-in-matlab-code)
 
 ## Julia
 
