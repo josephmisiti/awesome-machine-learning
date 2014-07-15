@@ -25,6 +25,7 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 * [PyBrain](https://github.com/pybrain/pybrain) - Another Python Machine Learning Library.
 * [Crab](https://github.com/muricoca/crab) - A ﬂexible, fast recommender engine.
 * [python-recsys](https://github.com/ocelma/python-recsys) - A Python library for implementing a Recommender System.
+* [BayesPy](https://github.com/maxsklar/BayesPy)
 
 #### Data Analysis / Data Visualization
 
@@ -57,7 +58,7 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 * [numpic](https://github.com/numenta/nupic)
 * [2012-paper-diginorm](https://github.com/ged-lab/2012-paper-diginorm)
 * [ipython-notebooks](https://github.com/ogrisel/notebooks)
-* []
+* [decision-weights](https://github.com/CamDavidsonPilon/decision-weights)
 
 
 ## Ruby
@@ -175,17 +176,23 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 
 ## Julia
 
-#### Natural Language Processing
-
-* TODO
-
 #### General-Purpose Machine Learning
+
+* [PGM](https://github.com/JuliaStats/PGM.jl)
+* [DA](https://github.com/trthatcher/DA.jl)
+* [Regression](https://github.com/lindahua/Regression.jl)
+
+
+#### Natural Language Processing
 
 * TODO
 
 #### Data Analysis / Data Visualization
 
-* TODO
+* [Graph Layout](https://github.com/IainNZ/GraphLayout.jl)
+* [Data Frames Meta](https://github.com/JuliaStats/DataFramesMeta.jl)
+* [Julia Data](https://github.com/nfoti/JuliaData)
+* [Data Read](https://github.com/WizardMac/DataRead.jl)
 
 #### Misc Scripts + Presentations
 
