@@ -88,7 +88,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [kaggle-cifar](https://github.com/zygmuntz/kaggle-cifar) - Code for the CIFAR-10 competition at Kaggle, uses cuda-convnet
 * [kaggle-blackbox](https://github.com/zygmuntz/kaggle-blackbox) - Deep learning made easy
 * [kaggle-accelerometer](https://github.com/zygmuntz/kaggle-accelerometer) - Code for Accelerometer Biometric Competition at Kaggle 
-
+* [kaggle-advertised-salaries](https://github.com/zygmuntz/kaggle-advertised-salaries) - Predicting job salaries from ads - a Kaggle competition 
 
 ## C++
 
@@ -239,7 +239,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Mahout](https://github.com/apache/mahout) - Distributed machine learning
 * [Stanford Classifier](http://nlp.stanford.edu/software/classifier.shtml) - A classifier is a machine learning tool that will take data items and place them into one of k classes.
 * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) - Weka is a collection of machine learning algorithms for data mining tasks
-	
+* [ORYX](https://github.com/cloudera/oryx) - Simple real-time large-scale machine learning infrastructure.
+
 #### Data Analysis / Data Visualization
 
 * [Hadoop](https://github.com/apache/hadoop-mapreduce) - Hadoop/HDFS
@@ -270,6 +271,14 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## Matlab
 
+#### Computer Vision
+
+[Contourlets](http://www.ifp.illinois.edu/~minhdo/software/contourlet_toolbox.tar) - MATLAB source code that implements the contourlet transform and its utility functions.
+[Shearlets](http://www.shearlab.org/index_software.html) - MATLAB code for shearlet transform
+[Curvelets](http://www.curvelet.org/software.html) - The Curvelet transform is a higher dimensional generalization of the Wavelet transform designed to represent images at different scales and different angles.
+[Bandlets](http://www.cmap.polytechnique.fr/~peyre/download/) - MATLAB code for bandlet transform
+
+
 #### Natural Language Processing
 
 * [NLP](https://amplab.cs.berkeley.edu/2012/05/05/an-nlp-library-for-matlab/) - An NLP library for Matlab
@@ -283,6 +292,7 @@ on MNIST digits[DEEP LEARNING]
 * [Spider](http://people.kyb.tuebingen.mpg.de/spider/) - The spider is intended to be a complete object orientated environment for machine learning in Matlab.
 * [LibSVM](http://www.csie.ntu.edu.tw/~cjlin/libsvm/#matlab) - A Library for Support Vector Machines
 * [LibLinear](http://www.csie.ntu.edu.tw/~cjlin/liblinear/#download) - A Library for Large Linear Classification
+* [Machine Learning Module](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF,lectures,code
 
 #### Data Analysis / Data Visualization
 
