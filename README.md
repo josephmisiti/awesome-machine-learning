@@ -17,6 +17,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [ecogg](https://code.google.com/p/encog-cpp/)
 * [shark](http://image.diku.dk/shark/sphinx_pages/build/html/index.html)
 
+#### Neural Nets
+
+* [Caffe](caffe.berkeleyvision.org)
+
 ## Closure
 
 #### General-Purpose Machine Learning
