@@ -16,6 +16,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [DLib](http://dlib.net/ml.html)
 * [ecogg](https://code.google.com/p/encog-cpp/)
 * [shark](http://image.diku.dk/shark/sphinx_pages/build/html/index.html)
+* [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind.
 
 ## Closure
 
@@ -189,6 +190,7 @@ on MNIST digits[DEEP LEARNING]
 * [LibSVM](http://www.csie.ntu.edu.tw/~cjlin/libsvm/#matlab) - A Library for Support Vector Machines
 * [LibLinear](http://www.csie.ntu.edu.tw/~cjlin/liblinear/#download) - A Library for Large Linear Classification
 * [Machine Learning Module](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF,lectures,code
+* [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind.
 
 #### Data Analysis / Data Visualization
 
@@ -229,6 +231,7 @@ on MNIST digits[DEEP LEARNING]
 * [CoverTree](https://github.com/patvarilly/CoverTree) - Python implementation of cover trees, near-drop-in replacement for scipy.spatial.kdtree
 * [nilearn](https://github.com/nilearn/nilearn) - Machine learning for NeuroImaging in Python
 * [Shogun](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox	
+* [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind.
 
 #### Data Analysis / Data Visualization
 
