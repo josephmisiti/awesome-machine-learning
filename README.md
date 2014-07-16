@@ -14,6 +14,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [SnowNLP](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
 * [loso](https://github.com/victorlin/loso) - Another Chinese segmentation library.
 * [genius](https://github.com/duanhongyi/genius) - A Chinese segment base on Conditional Random Field.
+* [nut](https://github.com/pprett/nut) - Natural language Understanding Toolkit
 
 #### General-Purpose Machine Learning
 
@@ -31,7 +32,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [python-recsys](https://github.com/ocelma/python-recsys) - A Python library for implementing a Recommender System.
 * [thinking bayes](https://github.com/AllenDowney/ThinkBayes) - Book on Bayesian Analysis
 * [Restricted Boltzmann Machines](https://github.com/echen/restricted-boltzmann-machines) -Restricted Boltzmann Machines in Python. [DEEP LEARNING]
-* [Bold](https://github.com/pprett/bolt) - Bolt Online Learning Toolbox
+* [Bolt](https://github.com/pprett/bolt) - Bolt Online Learning Toolbox
+* [CoverTree](https://github.com/patvarilly/CoverTree) - Python implementation of cover trees, near-drop-in replacement for scipy.spatial.kdtree
 
 #### Data Analysis / Data Visualization
 
@@ -71,7 +73,14 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Scipy Tutorials](https://github.com/Wavelets/scipy-tutorials) - SciPy tutorials. This is outdated, check out scipy-lecture-notes
 * [Crab](https://github.com/marcelcaraciolo/crab) - A recommendation engine library for Python
 * [BayesPy](https://github.com/maxsklar/BayesPy) - Bayesian Inference Tools in Python
+* [scikit-learn tutorials](https://github.com/GaelVaroquaux/scikit-learn-tutorial) - Series of notebooks for learning scikit-learn
+* [sentiment-analyzer](https://github.com/madhusudancs/sentiment-analyzer) - Tweets Sentiment Analyzer
+* [group-lasso](https://github.com/fabianp/group_lasso) - Some experiments with the coordinate descent algorithm used in the (Sparse) Group Lasso model
 
+#### Kaggle Competition Source Code 
+
+* [wiki challange](https://github.com/hammer/wikichallenge) - An implementation of Dell Zhang's solution to Wikipedia's Participation Challenge on Kaggle
+* [kaggle insults](https://github.com/amueller/kaggle_insults) - Kaggle Submission for "Detecting Insults in Social Commentary"
 ## C++
 
 #### Compute Vision
