@@ -93,6 +93,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [Twitter-text-js](https://github.com/twitter/twitter-text-js) - A JavaScript implementation of Twitter's text processing library
 * [NLP.js](https://github.com/nicktesla/nlpjs) - NLP utilities in javascript and coffeescript
+* [natural](https://github.com/NaturalNode/natural) - General natural language facilities for node
 
 
 #### Data Analysis / Data Visualization
