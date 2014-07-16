@@ -365,6 +365,151 @@ on MNIST digits[DEEP LEARNING]
 * [adam](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed. 
 * [bioscala](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
 
+<<<<<<< HEAD
+=======
+## Java
+
+#### Natural Language Processing
+
+* [CoreNLP] (http://nlp.stanford.edu/software/corenlp.shtml) - Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words
+* [Stanford Parser] (http://nlp.stanford.edu/software/lex-parser.shtml) - A natural language parser is a program that works out the grammatical structure of sentences
+* [Stanford POS Tagger] (http://nlp.stanford.edu/software/tagger.shtml) - A Part-Of-Speech Tagger (POS Tagger
+* [Stanford Name Entity Recognizer] (http://nlp.stanford.edu/software/CRF-NER.shtml) - Stanford NER is a Java implementation of a Named Entity Recognizer.
+* [Stanford Word Segmenter] (http://nlp.stanford.edu/software/segmenter.shtml) - Tokenization of raw text is a standard pre-processing step for many NLP tasks. 
+* [Tregex, Tsurgeon and Semgrex](http://nlp.stanford.edu/software/tregex.shtml) - Tregex is a utility for matching patterns in trees, based on tree relationships and regular expression matches on nodes (the name is short for "tree regular expressions").
+* [Stanford Phrasal: A Phrase-Based Translation System](http://nlp.stanford.edu/software/phrasal/)
+* [Stanford English Tokenizer](http://nlp.stanford.edu/software/tokenizer.shtml) - Stanford Phrasal is a state-of-the-art statistical phrase-based machine translation system, written in Java.
+* [Stanford Tokens Regex](http://nlp.stanford.edu/software/tokensregex.shtml) - A tokenizer divides text into a sequence of tokens, which roughly correspond to "words"
+* [Stanford Temporal Tagger](http://nlp.stanford.edu/software/sutime.shtml) - SUTime is a library for recognizing and normalizing time expressions. 
+* [Stanford SPIED](http://nlp.stanford.edu/software/patternslearning.shtml) - Learning entities from unlabeled text starting with seed sets using patterns in an iterative fashion
+* [Stanford Topic Modeling Toolbox](http://nlp.stanford.edu/software/tmt/tmt-0.4/) - Topic modeling tools to social scientists and others who wish to perform analysis on datasets
+* [Twitter Text Java](https://github.com/twitter/twitter-text-java) - A Java implementation of Twitter's text processing library
+* [MALLET](http://mallet.cs.umass.edu/) - A Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.
+* [OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text.
+* [LingPipe](http://alias-i.com/lingpipe/index.html) - A tool kit for processing text using computational linguistics.
+
+#### General-Purpose Machine Learning
+
+* [MLlib in Apache Spark](http://spark.apache.org/docs/latest/mllib-guide.html) - Distributed machine learning library in Spark
+* [Mahout](https://github.com/apache/mahout) - Distributed machine learning
+* [Stanford Classifier](http://nlp.stanford.edu/software/classifier.shtml) - A classifier is a machine learning tool that will take data items and place them into one of k classes.
+* [Weka](http://www.cs.waikato.ac.nz/ml/weka/) - Weka is a collection of machine learning algorithms for data mining tasks
+* [ORYX](https://github.com/cloudera/oryx) - Simple real-time large-scale machine learning infrastructure.
+* [0xdata H20](http://0xdata.com/h2o-2/) - Distributed machine learning. 
+	
+#### Data Analysis / Data Visualization
+
+* [Hadoop](https://github.com/apache/hadoop-mapreduce) - Hadoop/HDFS
+* [Spark](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
+* [Impala](https://github.com/cloudera/impala) - Real-time Query for Hadoop
+
+## Go
+
+#### Natural Language Processing
+
+* [go-porterstemmer](https://github.com/reiver/go-porterstemmer) - A native Go clean room implementation of the Porter Stemming algorithm.
+* [paicehusk](https://github.com/Rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm
+* [snowball](https://bitbucket.org/tebeka/snowball) - Snowball Stemmer for Go.
+
+#### General-Purpose Machine Learning
+
+* [Go Learn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go
+* [go-pr](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang.
+* [bayesian](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
+* [go-galib](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / golang
+
+#### Data Analysis / Data Visualization
+
+* [go-graph](https://github.com/StepLg/go-graph) - Graph library for Go/golang language.
+* [SVGo](http://www.svgopen.org/2011/papers/34-SVGo_a_Go_Library_for_SVG_generation/) - The Go Language library for SVG generation
+
+
+
+## Matlab
+
+#### Computer Vision
+
+* [Contourlets](http://www.ifp.illinois.edu/~minhdo/software/contourlet_toolbox.tar) - MATLAB source code that implements the contourlet transform and its utility functions.
+* [Shearlets](http://www.shearlab.org/index_software.html) - MATLAB code for shearlet transform
+* [Curvelets](http://www.curvelet.org/software.html) - The Curvelet transform is a higher dimensional generalization of the Wavelet transform designed to represent images at different scales and different angles.
+* [Bandlets](http://www.cmap.polytechnique.fr/~peyre/download/) - MATLAB code for bandlet transform
+
+
+#### Natural Language Processing
+
+* [NLP](https://amplab.cs.berkeley.edu/2012/05/05/an-nlp-library-for-matlab/) - An NLP library for Matlab
+
+#### General-Purpose Machine Learning
+
+* [Training a deep autoencoder or a classifier 
+on MNIST digits](http://www.cs.toronto.edu/~hinton/MatlabForSciencePaper.html) - Training a deep autoencoder or a classifier 
+on MNIST digits[DEEP LEARNING]
+* [t-Distributed Stochastic Neighbor Embedding](http://homepage.tudelft.nl/19j49/t-SNE.html) - t-Distributed Stochastic Neighbor Embedding (t-SNE) is a (prize-winning) technique for dimensionality reduction that is particularly well suited for the visualization of high-dimensional datasets.
+* [Spider](http://people.kyb.tuebingen.mpg.de/spider/) - The spider is intended to be a complete object orientated environment for machine learning in Matlab.
+* [LibSVM](http://www.csie.ntu.edu.tw/~cjlin/libsvm/#matlab) - A Library for Support Vector Machines
+* [LibLinear](http://www.csie.ntu.edu.tw/~cjlin/liblinear/#download) - A Library for Large Linear Classification
+* [Machine Learning Module](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF,lectures,code
+
+#### Data Analysis / Data Visualization
+
+* [matlab_gbl](https://www.cs.purdue.edu/homes/dgleich/packages/matlab_bgl/) - MatlabBGL is a Matlab package for working with graphs. 
+* [gamic](http://www.mathworks.com/matlabcentral/fileexchange/24134-gaimc---graph-algorithms-in-matlab-code) - Efficient pure-Matlab implementations of graph algorithms to complement MatlabBGL's mex functions.
+
+## Julia
+
+#### General-Purpose Machine Learning
+
+* [PGM](https://github.com/JuliaStats/PGM.jl) - A Julia framework for probabilistic graphical models.
+* [DA](https://github.com/trthatcher/DA.jl) - Julia package for Regularized Discriminant Analysis
+* [Regression](https://github.com/lindahua/Regression.jl) - Algorithms for regression analysis (e.g. linear regression and logistic regression)
+* [Local Regression](https://github.com/dcjones/Loess.jl) - Local regression, so smooooth!
+* [Naive Bayes](https://github.com/nutsiepully/NaiveBayes.jl) - Simple Naive Bayes implementation in Julia
+* [Mixed Models](https://github.com/dmbates/MixedModels.jl) - A Julia package for fitting (statistical) mixed-effects models
+* [Simple MCMC](https://github.com/fredo-dedup/SimpleMCMC.jl) - basic mcmc sampler implemented in Julia
+* [Distance](https://github.com/JuliaStats/Distance.jl) - Julia module for Distance evaluation
+* [Decision Tree](https://github.com/bensadeghi/DecisionTree.jl) - Decision Tree Classifier and Regressor
+* [Neural](https://github.com/compressed/neural.jl) - A neural network in Julia
+* [MCMC](https://github.com/doobwa/MCMC.jl) - MCMC tools for Julia
+* [GLM](https://github.com/JuliaStats/GLM.jl) - Generalized linear models in Julia
+* [Online Learning](https://github.com/lendle/OnlineLearning.jl)
+* [GLMNet](https://github.com/simonster/GLMNet.jl) - Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet
+* [Clustering](https://github.com/JuliaStats/Clustering.jl) - Basic functions for clustering data: k-means, dp-means, etc.
+* [SVM](https://github.com/JuliaStats/SVM.jl) - SVM's for Julia
+* [Kernal Density](https://github.com/JuliaStats/KernelDensity.jl) - Kernel density estimators for julia
+* [Dimensionality Reduction](https://github.com/JuliaStats/DimensionalityReduction.jl) - Methods for dimensionality reduction
+* [NMF](https://github.com/JuliaStats/NMF.jl) - A Julia package for non-negative matrix factorization
+
+
+#### Natural Language Processing
+
+* [Topic Models](https://github.com/slycoder/TopicModels.jl) - TopicModels for Julia
+* [Text Analysis](https://github.com/johnmyleswhite/TextAnalysis.jl) - Julia package for text analysis
+
+
+#### Data Analysis / Data Visualization
+
+* [Graph Layout](https://github.com/IainNZ/GraphLayout.jl) - Graph layout algorithms in pure Julia
+* [Data Frames Meta](https://github.com/JuliaStats/DataFramesMeta.jl) - Metaprogramming tools for DataFrames
+* [Julia Data](https://github.com/nfoti/JuliaData) - library for working with tabular data in Julia
+* [Data Read](https://github.com/WizardMac/DataRead.jl) - Read files from Stata, SAS, and SPSS
+* [Hypothesis Tests](https://github.com/JuliaStats/HypothesisTests.jl) - Hypothesis tests for Julia
+* [Gladfly](https://github.com/dcjones/Gadfly.jl) - Crafty statistical graphics for Julia.
+* [Stats](https://github.com/johnmyleswhite/stats.jl) - Statistical tests for Julia 
+
+* [RDataSets](https://github.com/johnmyleswhite/RDatasets.jl) - Julia package for loading many of the data sets available in R
+* [DataFrames](https://github.com/JuliaStats/DataFrames.jl) - library for working with tabular data in Julia
+* [Distributions](https://github.com/JuliaStats/Distributions.jl) - A Julia package for probability distributions and associated functions.
+* [Data Arrays](https://github.com/JuliaStats/DataArrays.jl) - Data structures that allow missing values
+* [Time Series](https://github.com/JuliaStats/TimeSeries.jl) - Time series toolkit for Julia
+* [Sampling](https://github.com/JuliaStats/Sampling.jl) - Basic sampling algorithms for Julia
+
+#### Misc Stuff / Presentations
+
+* [JuliaCon Presentations](https://github.com/JuliaCon/presentations) - Presentations for JuliaCon
+* [SignalProcessing](https://github.com/davidavdav/SignalProcessing) - Signal Processing tools for Julia
+* [Images](https://github.com/timholy/Images.jl) - An image library for Julia
+
+>>>>>>> 0ca159f09c3d0cddfa461ef0d5db325d0892ea35
 ## Credits
 
 * Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
