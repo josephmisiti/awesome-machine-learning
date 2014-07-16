@@ -120,6 +120,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 #### Data Analysis / Data Visualization
 
+* [D3.js](http://d3js.org/)
 * [High Charts](http://www.highcharts.com/)
 * [NVD3.js](http://nvd3.org/)
 * [dc.js](http://dc-js.github.io/dc.js/)
