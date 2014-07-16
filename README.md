@@ -1,6 +1,6 @@
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
 
-If you want to contribute to this list, send me a pull request or contact me [@josephmisiti](https://www.twitter.com/josephmisiti)
+If you want to contribute to this list (please do), send me a pull request or contact me [@josephmisiti](https://www.twitter.com/josephmisiti)
 
 ## Python
 
