@@ -90,6 +90,15 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [kaggle-blackbox](https://github.com/zygmuntz/kaggle-blackbox) - Deep learning made easy
 * [kaggle-accelerometer](https://github.com/zygmuntz/kaggle-accelerometer) - Code for Accelerometer Biometric Competition at Kaggle 
 * [kaggle-advertised-salaries](https://github.com/zygmuntz/kaggle-advertised-salaries) - Predicting job salaries from ads - a Kaggle competition 
+* [kaggle amazon](https://github.com/zygmuntz/kaggle-amazon) - Amazon access control challenge
+* [kaggle-bestbuy_big](https://github.com/zygmuntz/kaggle-bestbuy_big) - Code for the Best Buy competition at Kaggle
+* [kaggle-bestbuy_small](https://github.com/zygmuntz/kaggle-bestbuy_small)
+* [Kaggle Dogs vs. Cats](https://github.com/kastnerkyle/kaggle-dogs-vs-cats) - Code for Kaggle Dovs vs. Cats competition
+* [Kaggle Gender](https://github.com/zygmuntz/kaggle-gender) - A Kaggle competition: discriminate gender based on handwriting
+* [Kaggle Merck](https://github.com/zygmuntz/kaggle-merck) - Merck challenge at Kaggle
+* [Kaggle Stackoverflow](https://github.com/zygmuntz/kaggle-stackoverflow) - Predicting closed questions on Stack Overflow
+* [kaggle_acquire-valued-shoppers-challenge](https://github.com/MLWave/kaggle_acquire-valued-shoppers-challenge) - Code for the Kaggle acquire valued shoppers challenge
+* [wine-quality](https://github.com/zygmuntz/wine-quality) - Predicting wine quality
 
 ## C++
 
