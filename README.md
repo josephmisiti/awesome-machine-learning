@@ -17,6 +17,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 #### General-Purpose Machine Learning
 
 * [scikit-learn](http://scikit-learn.org/) - A Python module for machine learning built on top of SciPy.
+* * [OpenCV](http://opencv.org) - OpenCV has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS. It has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS.
+* [BigML](https://bigml.com) - A library that contacts external servers.
 * [pattern](https://github.com/clips/pattern) - Web mining module for Python.
 * [NuPIC](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing.
 * [Pylearn2](https://github.com/lisa-lab/pylearn2) - A Machine Learning library based on [Theano](https://github.com/Theano/Theano).
@@ -295,6 +297,9 @@ on MNIST digits[DEEP LEARNING]
 * [JuliaCon Presentations](https://github.com/JuliaCon/presentations) - Presentations for JuliaCon
 * [SignalProcessing](https://github.com/davidavdav/SignalProcessing) - Signal Processing tools for Julia
 * [Images](https://github.com/timholy/Images.jl) - An image library for Julia
+
+
+
 
 ## Credits
 
