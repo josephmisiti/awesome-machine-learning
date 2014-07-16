@@ -320,6 +320,10 @@ on MNIST digits[DEEP LEARNING]
 
 ## Python
 
+#### Computer Vision
+
+* [SimpleCV](http://simplecv.org/) - An open source computer vision framework that gives access to several high-powered computer vision libraries, such as OpenCV. Written on Python and runs on Mac, Windows, and Ubuntu Linux.
+
 #### Natural Language Processing
 
 * [NLTK](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
