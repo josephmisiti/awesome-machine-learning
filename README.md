@@ -18,6 +18,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [shark](http://image.diku.dk/shark/sphinx_pages/build/html/index.html)
 * [Vowpal Wabbit (VW)](https://github.com/JohnLangford/vowpal_wabbit/wiki) - A fast out-of-core learning system.
 * [sofia-ml](https://code.google.com/p/sofia-ml/) - Suite of fast incremental algorithms.
+* [Shogun](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox	
 
 #### Neural Nets
 =======
@@ -250,7 +251,6 @@ on MNIST digits[DEEP LEARNING]
 * [Bolt](https://github.com/pprett/bolt) - Bolt Online Learning Toolbox
 * [CoverTree](https://github.com/patvarilly/CoverTree) - Python implementation of cover trees, near-drop-in replacement for scipy.spatial.kdtree
 * [nilearn](https://github.com/nilearn/nilearn) - Machine learning for NeuroImaging in Python
-* [Shogun](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox	
 * [Pyevolve](https://github.com/perone/Pyevolve) - Genetic algorithm framework.
 * [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind.
 
