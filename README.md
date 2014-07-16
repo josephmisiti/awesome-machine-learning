@@ -111,8 +111,8 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 
 #### Natural Language Processing
 
-* [Twitter-text-js](https://github.com/twitter/twitter-text-js)
-* [NLP.js](https://github.com/nicktesla/nlpjs)
+* [Twitter-text-js](https://github.com/twitter/twitter-text-js) - A JavaScript implementation of Twitter's text processing library
+* [NLP.js](https://github.com/nicktesla/nlpjs) - NLP utilities in javascript and coffeescript
 
 
 #### Data Analysis / Data Visualization
