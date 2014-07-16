@@ -16,6 +16,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [DLib](http://dlib.net/ml.html)
 * [ecogg](https://code.google.com/p/encog-cpp/)
 * [shark](http://image.diku.dk/shark/sphinx_pages/build/html/index.html)
+* [Vowpal Wabbit (VW)](https://github.com/JohnLangford/vowpal_wabbit/wiki) - A fast out-of-core learning system.
+* [sofia-ml](https://code.google.com/p/sofia-ml/) - Suite of fast incremental algorithms.
 
 ## Closure
 
