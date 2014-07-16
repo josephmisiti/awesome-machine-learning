@@ -109,6 +109,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Machine Learning](http://joonku.com/project/machine_learning) - Machine learning library for Node.js
 * [Node-SVM](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for nodejs
 * [Brain](https://github.com/harthur/brain) - Neural networks in JavaScript
+* [Bayesian-Bandit](https://github.com/omphalos/bayesian-bandit.js) - Bayesian bandit implementation for Node and the browser.
 
 ## Julia
 
