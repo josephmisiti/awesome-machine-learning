@@ -169,24 +169,24 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 
 #### Natural Language Processing
 
-* [CoreNLP] (http://nlp.stanford.edu/software/corenlp.shtml)
-* [Stanford Parser] (http://nlp.stanford.edu/software/lex-parser.shtml)
-* [Stanford POS Tagger] (http://nlp.stanford.edu/software/tagger.shtml)
-* [Stanford Name Entity Recognizer] (http://nlp.stanford.edu/software/CRF-NER.shtml)
-* [Stanford Word Segmenter] (http://nlp.stanford.edu/software/segmenter.shtml)
-* [Tregex, Tsurgeon and Semgrex](http://nlp.stanford.edu/software/tregex.shtml)
+* [CoreNLP] (http://nlp.stanford.edu/software/corenlp.shtml) - Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words
+* [Stanford Parser] (http://nlp.stanford.edu/software/lex-parser.shtml) - A natural language parser is a program that works out the grammatical structure of sentences
+* [Stanford POS Tagger] (http://nlp.stanford.edu/software/tagger.shtml) - A Part-Of-Speech Tagger (POS Tagger
+* [Stanford Name Entity Recognizer] (http://nlp.stanford.edu/software/CRF-NER.shtml) - Stanford NER is a Java implementation of a Named Entity Recognizer.
+* [Stanford Word Segmenter] (http://nlp.stanford.edu/software/segmenter.shtml) - Tokenization of raw text is a standard pre-processing step for many NLP tasks. 
+* [Tregex, Tsurgeon and Semgrex](http://nlp.stanford.edu/software/tregex.shtml) - Tregex is a utility for matching patterns in trees, based on tree relationships and regular expression matches on nodes (the name is short for "tree regular expressions").
 * [Stanford Phrasal: A Phrase-Based Translation System](http://nlp.stanford.edu/software/phrasal/)
-* [Stanford English Tokenizer](http://nlp.stanford.edu/software/tokenizer.shtml)
-* [Stanford Tokens Regex](http://nlp.stanford.edu/software/tokensregex.shtml)
-* [Stanford Temporal Tagger](http://nlp.stanford.edu/software/sutime.shtml)
-* [Stanford SPIED](http://nlp.stanford.edu/software/patternslearning.shtml)
-* [Stanford Topic Modeling Toolbox](http://nlp.stanford.edu/software/tmt/tmt-0.4/)
-* [Twitter Text Java](https://github.com/twitter/twitter-text-java)
+* [Stanford English Tokenizer](http://nlp.stanford.edu/software/tokenizer.shtml) - Stanford Phrasal is a state-of-the-art statistical phrase-based machine translation system, written in Java.
+* [Stanford Tokens Regex](http://nlp.stanford.edu/software/tokensregex.shtml) - A tokenizer divides text into a sequence of tokens, which roughly correspond to "words"
+* [Stanford Temporal Tagger](http://nlp.stanford.edu/software/sutime.shtml) - SUTime is a library for recognizing and normalizing time expressions. 
+* [Stanford SPIED](http://nlp.stanford.edu/software/patternslearning.shtml) - Learning entities from unlabeled text starting with seed sets using patterns in an iterative fashion
+* [Stanford Topic Modeling Toolbox](http://nlp.stanford.edu/software/tmt/tmt-0.4/) - Topic modeling tools to social scientists and others who wish to perform analysis on datasets
+* [Twitter Text Java](https://github.com/twitter/twitter-text-java) - A Java implementation of Twitter's text processing library
 
 #### General-Purpose Machine Learning
 
-* [Mahout](https://github.com/apache/mahout)
-* [Stanford Classifier](http://nlp.stanford.edu/software/classifier.shtml)
+* [Mahout](https://github.com/apache/mahout) - Distributed machine learning
+* [Stanford Classifier](http://nlp.stanford.edu/software/classifier.shtml) - A classifier is a machine learning tool that will take data items and place them into one of k classes.
 
 #### Data Analysis / Data Visualization
 
