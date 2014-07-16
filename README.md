@@ -190,35 +190,37 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 
 #### Data Analysis / Data Visualization
 
-* [Hadoop](https://github.com/apache/hadoop-mapreduce)
-* [Spark](https://github.com/apache/spark)
-* [Impala](https://github.com/cloudera/impala)
+* [Hadoop](https://github.com/apache/hadoop-mapreduce) - Hadoop/HDFS
+* [Spark](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
+* [Impala](https://github.com/cloudera/impala) - Real-time Query for Hadoop
 
 ## Go
 
 #### Natural Language Processing
 
-* [go-porterstemmer](https://github.com/reiver/go-porterstemmer)
-* [paicehusk](https://github.com/Rookii/paicehusk)
-* [snowball](https://bitbucket.org/tebeka/snowball)
+* [go-porterstemmer](https://github.com/reiver/go-porterstemmer) - A native Go clean room implementation of the Porter Stemming algorithm.
+* [paicehusk](https://github.com/Rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm
+* [snowball](https://bitbucket.org/tebeka/snowball) - Snowball Stemmer for Go.
 
 #### General-Purpose Machine Learning
 
-* [Go Learn](https://github.com/sjwhitworth/golearn)
-* [go-pr](https://github.com/daviddengcn/go-pr)
-* [bayesian](https://github.com/jbrukh/bayesian)
-* [go-galib](https://github.com/thoj/go-galib)
+* [Go Learn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go
+* [go-pr](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang.
+* [bayesian](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
+* [go-galib](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / golang
 
 #### Data Analysis / Data Visualization
 
-* [go-graph](https://github.com/StepLg/go-graph)
-* [SVGo](http://www.svgopen.org/2011/papers/34-SVGo_a_Go_Library_for_SVG_generation/)
+* [go-graph](https://github.com/StepLg/go-graph) - Graph library for Go/golang language.
+* [SVGo](http://www.svgopen.org/2011/papers/34-SVGo_a_Go_Library_for_SVG_generation/) - The Go Language library for SVG generation
+
+
 
 ## Matlab
 
 #### Natural Language Processing
 
-* [NLP](https://amplab.cs.berkeley.edu/2012/05/05/an-nlp-library-for-matlab/)
+* [NLP](https://amplab.cs.berkeley.edu/2012/05/05/an-nlp-library-for-matlab/) - An NLP library for Matlab
 
 #### General-Purpose Machine Learning
 
