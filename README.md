@@ -336,10 +336,14 @@ on MNIST digits[DEEP LEARNING]
 
 * [Clever Algorithms For Machine Learning](https://github.com/jbrownlee/CleverAlgorithmsMachineLearning)
 * [Machine Learning For Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)
+* [Machine Learning Task View on CRAN](http://cran.r-project.org/web/views/MachineLearning.html) - A list of ML packages in R, grouped by algorithm type.
+* [caret](http://caret.r-forge.r-project.org/) - Unified interface to ~150 ML algorithms in R.
+* [SuperLearner](https://github.com/ecpolley/SuperLearner) and [subsemble](http://cran.r-project.org/web/packages/subsemble/index.html) - Multi-algorithm ensemble learning packages.
 
 #### Data Analysis / Data Visualization
 
 * [Learning Statistics Using R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/)
+* [ggplot2](http://ggplot2.org/) - A data visualization package based on the grammar of graphics.
 
 ## Scala
 
