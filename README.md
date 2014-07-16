@@ -77,6 +77,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Stanford Classifier](http://nlp.stanford.edu/software/classifier.shtml) - A classifier is a machine learning tool that will take data items and place them into one of k classes.
 * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) - Weka is a collection of machine learning algorithms for data mining tasks
 * [ORYX](https://github.com/cloudera/oryx) - Simple real-time large-scale machine learning infrastructure.
+* [H2O](https://github.com/0xdata/h2o) - ML engine that supports distributed learning on data stored in HDFS. 
 
 #### Data Analysis / Data Visualization
 
