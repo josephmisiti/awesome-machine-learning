@@ -150,10 +150,8 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 
 #### Data Analysis / Data Visualization
 
-* [Scalding](https://github.com/twitter/scalding) - A Scala API for Cascading 
-
-* [Summing Bird](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm 
-
+* [Scalding](https://github.com/twitter/scalding) - A Scala API for Cascading
+* [Summing Bird](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm
 * [Algebird](https://github.com/twitter/algebird) - Abstract Algebra for Scala
 * [xerial](https://github.com/xerial/xerial) - Data management utilities for Scala
 * [simmer](https://github.com/avibryant/simmer) - Reduce your data. A unix filter for algebird-powered aggregation.
