@@ -2,6 +2,7 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@josephmisiti](https://www.twitter.com/josephmisiti)
 
+
 ## Python
 
 #### Natural Language Processing
@@ -17,7 +18,6 @@ If you want to contribute to this list (please do), send me a pull request or co
 #### General-Purpose Machine Learning
 
 * [scikit-learn](http://scikit-learn.org/) - A Python module for machine learning built on top of SciPy.
-* * [OpenCV](http://opencv.org) - OpenCV has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS. It has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS.
 * [BigML](https://bigml.com) - A library that contacts external servers.
 * [pattern](https://github.com/clips/pattern) - Web mining module for Python.
 * [NuPIC](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing.
@@ -62,6 +62,21 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [2012-paper-diginorm](https://github.com/ged-lab/2012-paper-diginorm)
 * [ipython-notebooks](https://github.com/ogrisel/notebooks)
 * [decision-weights](https://github.com/CamDavidsonPilon/decision-weights)
+
+## C++
+
+#### Compute Vision
+
+* [ccv](https://github.com/liuliu/ccv)
+* [OpenCV](http://opencv.org) - OpenCV has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS. It has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS.
+
+#### General-Purpose Machine Learning
+
+* [MLPack](http://www.mlpack.org/)
+* [DLib](http://dlib.net/ml.html)
+* [ecogg](https://code.google.com/p/encog-cpp/)
+* [shark](http://image.diku.dk/shark/sphinx_pages/build/html/index.html)
+
 
 ## Ruby
 
@@ -195,7 +210,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Mahout](https://github.com/apache/mahout) - Distributed machine learning
 * [Stanford Classifier](http://nlp.stanford.edu/software/classifier.shtml) - A classifier is a machine learning tool that will take data items and place them into one of k classes.
 * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) - Weka is a collection of machine learning algorithms for data mining tasks
-
+	
 #### Data Analysis / Data Visualization
 
 * [Hadoop](https://github.com/apache/hadoop-mapreduce) - Hadoop/HDFS
