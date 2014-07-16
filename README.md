@@ -176,6 +176,17 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [SignalProcessing](https://github.com/davidavdav/SignalProcessing) - Signal Processing tools for Julia
 * [Images](https://github.com/timholy/Images.jl) - An image library for Julia
 
+## Lua
+
+#### General-Purpose Machine Learning
+
+* [Torch7](http://torch.ch/)
+* [Numeric Lua](http://numlua.luaforge.net/)
+* [Lunatic Python](http://labix.org/lunatic-python)
+* [SciLua](http://www.scilua.org/)
+* [Lua - Numerical Algorithms](https://bitbucket.org/lucashnegri/lna)
+* [Lunum](http://zrake.webfactional.com/projects/lunum)
+
 ## Matlab
 
 #### Computer Vision
@@ -390,16 +401,6 @@ on MNIST digits[DEEP LEARNING]
 * [bioscala](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
 * [BIDMach](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
 
-## Lua
-
-#### General-Purpose Machine Learning
-
-* [Torch7](http://torch.ch/)
-* [Numeric Lua](http://numlua.luaforge.net/)
-* [Lunatic Python](http://labix.org/lunatic-python)
-* [SciLua](http://www.scilua.org/)
-* [Lua - Numerical Algorithms](https://bitbucket.org/lucashnegri/lna)
-* [Lunum](http://zrake.webfactional.com/projects/lunum)
 
 ## Credits
 
