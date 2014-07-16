@@ -19,6 +19,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Vowpal Wabbit (VW)](https://github.com/JohnLangford/vowpal_wabbit/wiki) - A fast out-of-core learning system.
 * [sofia-ml](https://code.google.com/p/sofia-ml/) - Suite of fast incremental algorithms.
 
+#### Neural Nets
+
+* [Caffe](caffe.berkeleyvision.org)
+
 ## Closure
 
 #### General-Purpose Machine Learning
