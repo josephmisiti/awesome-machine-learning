@@ -61,7 +61,6 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 * [ipython-notebooks](https://github.com/ogrisel/notebooks)
 * [decision-weights](https://github.com/CamDavidsonPilon/decision-weights)
 
-
 ## Ruby
 
 #### Natural Language Processing
@@ -89,6 +88,19 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 * [plot-rb](https://github.com/zuhao/plotrb)
 * [scruffy](http://www.rubyinside.com/scruffy-a-beautiful-graphing-toolkit-for-ruby-194.html)
 * [SciRuby](http://sciruby.com/)
+* [Glean](https://github.com/glean/glean) - A data management tool for humans
+* [Bioruby](https://github.com/bioruby/bioruby)
+* [Arel](https://github.com/nkallen/arel)
+
+#### Misc
+
+* [Big Data For Chimps](https://github.com/infochimps-labs/big_data_for_chimps)
+
+## R
+
+#### General-Purpose Machine Learning
+
+* [Clever Algorithms For Machine Learning](https://github.com/jbrownlee/CleverAlgorithmsMachineLearning)
 
 ## Javascript
 
@@ -136,10 +148,17 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 * [Scalding](https://github.com/twitter/scalding)
 * [Summing Bird](https://github.com/twitter/summingbird)
 * [Algebird](https://github.com/twitter/algebird)
+* [xerial](https://github.com/xerial/xerial)
+* [simmer](https://github.com/avibryant/simmer)
+* [PredictionIO](https://github.com/PredictionIO/PredictionIO)
 
 #### General-Purpose Machine Learning
 
 * [Conjecture](https://github.com/etsy/Conjecture)
+* [brushfire](https://github.com/avibryant/brushfire)
+* [ganitha](https://github.com/tresata/ganitha)
+* [adam](https://github.com/bigdatagenomics/adam)
+* [bioscala](https://github.com/bioscala/bioscala)
 
 ## Java
 
