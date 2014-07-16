@@ -191,6 +191,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [Mahout](https://github.com/apache/mahout) - Distributed machine learning
 * [Stanford Classifier](http://nlp.stanford.edu/software/classifier.shtml) - A classifier is a machine learning tool that will take data items and place them into one of k classes.
+* [Weka](http://www.cs.waikato.ac.nz/ml/weka/) - Weka is a collection of machine learning algorithms for data mining tasks
 
 #### Data Analysis / Data Visualization
 
