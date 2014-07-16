@@ -274,10 +274,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 #### Computer Vision
 
-[Contourlets](http://www.ifp.illinois.edu/~minhdo/software/contourlet_toolbox.tar) - MATLAB source code that implements the contourlet transform and its utility functions.
-[Shearlets](http://www.shearlab.org/index_software.html) - MATLAB code for shearlet transform
-[Curvelets](http://www.curvelet.org/software.html) - The Curvelet transform is a higher dimensional generalization of the Wavelet transform designed to represent images at different scales and different angles.
-[Bandlets](http://www.cmap.polytechnique.fr/~peyre/download/) - MATLAB code for bandlet transform
+* [Contourlets](http://www.ifp.illinois.edu/~minhdo/software/contourlet_toolbox.tar) - MATLAB source code that implements the contourlet transform and its utility functions.
+* [Shearlets](http://www.shearlab.org/index_software.html) - MATLAB code for shearlet transform
+* [Curvelets](http://www.curvelet.org/software.html) - The Curvelet transform is a higher dimensional generalization of the Wavelet transform designed to represent images at different scales and different angles.
+* [Bandlets](http://www.cmap.polytechnique.fr/~peyre/download/) - MATLAB code for bandlet transform
 
 
 #### Natural Language Processing
