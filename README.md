@@ -17,6 +17,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 #### General-Purpose Machine Learning
 
+* [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 * [MLlib in Apache Spark](http://spark.apache.org/docs/latest/mllib-guide.html) - Distributed machine learning library in Spark
 * [scikit-learn](http://scikit-learn.org/) - A Python module for machine learning built on top of SciPy.
 * [BigML](https://bigml.com) - A library that contacts external servers.
@@ -29,6 +30,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Crab](https://github.com/muricoca/crab) - A ﬂexible, fast recommender engine.
 * [python-recsys](https://github.com/ocelma/python-recsys) - A Python library for implementing a Recommender System.
 * [BayesPy](https://github.com/maxsklar/BayesPy)
+* [thinking bayes](https://github.com/AllenDowney/ThinkBayes)
+
 
 #### Data Analysis / Data Visualization
 
@@ -54,7 +57,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [pygal](http://pygal.org/) - A Python SVG Charts Creator.
 * [pycascading](https://github.com/twitter/pycascading)
 
-#### Misc Scripts / iPython Notebooks
+#### Misc Scripts / iPython Notebooks / Codebases
 
 * [pattern_classification](https://github.com/rasbt/pattern_classification)
 * [thinking stats 2](https://github.com/Wavelets/ThinkStats2)
@@ -63,6 +66,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [2012-paper-diginorm](https://github.com/ged-lab/2012-paper-diginorm)
 * [ipython-notebooks](https://github.com/ogrisel/notebooks)
 * [decision-weights](https://github.com/CamDavidsonPilon/decision-weights)
+* [Sarah Palin LDA](https://github.com/Wavelets/sarah-palin-lda) - Topic Modeling the Sarah Palin emails.
+* [Diffusion Segmentation](https://github.com/Wavelets/diffusion-segmentation) - A collection of image segmentation algorithms based on diffusion methods
+* [Scipy Tutorials](https://github.com/Wavelets/scipy-tutorials) - SciPy tutorials. This is outdated, check out scipy-lecture-notes
+* [Crab](https://github.com/marcelcaraciolo/crab) - A recommendation engine library for Python
 
 ## C++
 
