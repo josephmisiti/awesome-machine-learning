@@ -23,8 +23,6 @@ If you want to contribute to this list (please do), send me a pull request or co
 =======
 * [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind.
 
-* [Caffe](caffe.berkeleyvision.org)
-
 ## Clojure
 
 #### General-Purpose Machine Learning
