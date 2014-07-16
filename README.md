@@ -7,7 +7,6 @@ If you want to contribute to this list (please do), send me a pull request or co
 #### Natural Language Processing
 
 * [NLTK](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
-* [OpenCV](http://opencv.org) - OpenCV has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS. It has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS.
 * [Pattern](http://www.clips.ua.ac.be/pattern) - A web mining module for the Python programming language. It has tools for natural language processing, machine learning, among others.
 * [TextBlob](http://textblob.readthedocs.org/) - Providing a consistent API for diving into common natural language processing (NLP) tasks. Stands on the giant shoulders of NLTK and Pattern, and plays nicely with both.
 * [jieba](https://github.com/fxsjy/jieba#jieba-1) - Chinese Words Segmentation Utilities.
@@ -18,6 +17,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 #### General-Purpose Machine Learning
 
 * [scikit-learn](http://scikit-learn.org/) - A Python module for machine learning built on top of SciPy.
+* * [OpenCV](http://opencv.org) - OpenCV has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS. It has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS.
+* [BigML](https://bigml.com) - A library that contacts external servers.
 * [pattern](https://github.com/clips/pattern) - Web mining module for Python.
 * [NuPIC](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing.
 * [Pylearn2](https://github.com/lisa-lab/pylearn2) - A Machine Learning library based on [Theano](https://github.com/Theano/Theano).
