@@ -231,6 +231,7 @@ on MNIST digits[DEEP LEARNING]
 * [CoverTree](https://github.com/patvarilly/CoverTree) - Python implementation of cover trees, near-drop-in replacement for scipy.spatial.kdtree
 * [nilearn](https://github.com/nilearn/nilearn) - Machine learning for NeuroImaging in Python
 * [Shogun](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox	
+* [Pyevolve](https://github.com/perone/Pyevolve) - Genetic algorithm framework.
 
 #### Data Analysis / Data Visualization
 
