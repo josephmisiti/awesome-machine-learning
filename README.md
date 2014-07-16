@@ -20,6 +20,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [sofia-ml](https://code.google.com/p/sofia-ml/) - Suite of fast incremental algorithms.
 
 #### Neural Nets
+=======
+* [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind.
 
 * [Caffe](caffe.berkeleyvision.org)
 
@@ -198,6 +200,7 @@ on MNIST digits[DEEP LEARNING]
 * [LibSVM](http://www.csie.ntu.edu.tw/~cjlin/libsvm/#matlab) - A Library for Support Vector Machines
 * [LibLinear](http://www.csie.ntu.edu.tw/~cjlin/liblinear/#download) - A Library for Large Linear Classification
 * [Machine Learning Module](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF,lectures,code
+* [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind.
 
 #### Data Analysis / Data Visualization
 
@@ -240,6 +243,7 @@ on MNIST digits[DEEP LEARNING]
 * [nilearn](https://github.com/nilearn/nilearn) - Machine learning for NeuroImaging in Python
 * [Shogun](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox	
 * [Pyevolve](https://github.com/perone/Pyevolve) - Genetic algorithm framework.
+* [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind.
 
 #### Data Analysis / Data Visualization
 
