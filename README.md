@@ -368,6 +368,16 @@ on MNIST digits[DEEP LEARNING]
 * [adam](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed. 
 * [bioscala](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
 
+## Lua
+
+#### General-Purpose Machine Learning
+
+* [Torch7](http://torch.ch/)
+* [Numeric Lua](http://numlua.luaforge.net/)
+* [Lunatic Python](http://labix.org/lunatic-python)
+* [SciLua](http://www.scilua.org/)
+* [Lua - Numerical Algorithms](https://bitbucket.org/lucashnegri/lna)
+* [Lunum](http://zrake.webfactional.com/projects/lunum)
 
 ## Credits
 
