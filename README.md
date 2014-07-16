@@ -359,6 +359,7 @@ on MNIST digits[DEEP LEARNING]
 * [xerial](https://github.com/xerial/xerial) - Data management utilities for Scala
 * [simmer](https://github.com/avibryant/simmer) - Reduce your data. A unix filter for algebird-powered aggregation.
 * [PredictionIO](https://github.com/PredictionIO/PredictionIO) - PredictionIO, a machine learning server for software developers and data engineers.
+* [BIDMat](https://github.com/BIDData/BIDMat) - CPU and GPU-accelerated matrix library intended to support large-scale exploratory data analysis.
 
 #### General-Purpose Machine Learning
 
@@ -367,7 +368,7 @@ on MNIST digits[DEEP LEARNING]
 * [ganitha](https://github.com/tresata/ganitha) - scalding powered machine learning
 * [adam](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed. 
 * [bioscala](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
-
+* [BIDMach](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
 
 ## Credits
 
