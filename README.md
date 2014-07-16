@@ -150,20 +150,22 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 
 #### Data Analysis / Data Visualization
 
-* [Scalding](https://github.com/twitter/scalding)
-* [Summing Bird](https://github.com/twitter/summingbird)
-* [Algebird](https://github.com/twitter/algebird)
-* [xerial](https://github.com/xerial/xerial)
-* [simmer](https://github.com/avibryant/simmer)
-* [PredictionIO](https://github.com/PredictionIO/PredictionIO)
+* [Scalding](https://github.com/twitter/scalding) - A Scala API for Cascading 
+
+* [Summing Bird](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm 
+
+* [Algebird](https://github.com/twitter/algebird) - Abstract Algebra for Scala
+* [xerial](https://github.com/xerial/xerial) - Data management utilities for Scala
+* [simmer](https://github.com/avibryant/simmer) - Reduce your data. A unix filter for algebird-powered aggregation.
+* [PredictionIO](https://github.com/PredictionIO/PredictionIO) - PredictionIO, a machine learning server for software developers and data engineers.
 
 #### General-Purpose Machine Learning
 
-* [Conjecture](https://github.com/etsy/Conjecture)
-* [brushfire](https://github.com/avibryant/brushfire)
-* [ganitha](https://github.com/tresata/ganitha)
-* [adam](https://github.com/bigdatagenomics/adam)
-* [bioscala](https://github.com/bioscala/bioscala)
+* [Conjecture](https://github.com/etsy/Conjecture) - Scalable Machine Learning in Scalding
+* [brushfire](https://github.com/avibryant/brushfire) - decision trees for scalding
+* [ganitha](https://github.com/tresata/ganitha) - scalding powered machine learning
+* [adam](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed. 
+* [bioscala](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
 
 ## Java
 
