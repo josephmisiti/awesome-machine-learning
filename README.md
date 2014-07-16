@@ -75,6 +75,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 #### General-Purpose Machine Learning
 
+* [JSAT](https://code.google.com/p/java-statistical-analysis-tool/) - Numerous Machine Learning algoirhtms for classification, regresion, and  clustering. 
 * [MLlib in Apache Spark](http://spark.apache.org/docs/latest/mllib-guide.html) - Distributed machine learning library in Spark
 * [Mahout](https://github.com/apache/mahout) - Distributed machine learning
 * [Stanford Classifier](http://nlp.stanford.edu/software/classifier.shtml) - A classifier is a machine learning tool that will take data items and place them into one of k classes.
@@ -94,7 +95,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [Twitter-text-js](https://github.com/twitter/twitter-text-js) - A JavaScript implementation of Twitter's text processing library
 * [NLP.js](https://github.com/nicktesla/nlpjs) - NLP utilities in javascript and coffeescript
-
+* [natural](https://github.com/NaturalNode/natural) - General natural language facilities for node
+* [Knwl.js](https://github.com/loadfive/Knwl.js) - A Natural Language Processor in JS
 
 #### Data Analysis / Data Visualization
 
@@ -180,11 +182,65 @@ If you want to contribute to this list (please do), send me a pull request or co
 #### General-Purpose Machine Learning
 
 * [Torch7](http://torch.ch/)
+  * [cephes](http://jucor.github.io/torch-cephes) - Cephes mathematical functions library, wrapped for Torch. Provides and wraps the 180+ special mathematical functions from the Cephes mathematical library, developed by Stephen L. Moshier. It is used, among many other places, at the heart of SciPy.
+  * [graph](https://github.com/torch/graph) - Graph package for Torch
+  * [randomkit](http://jucor.github.io/torch-randomkit/) - Numpy's randomkit, wrapped for Torch
+  * [signal](http://soumith.ch/torch-signal/signal/) - A signal processing toolbox for Torch-7. FFT, DCT, Hilbert, cepstrums, stft
+
+  * [nn](https://github.com/torch/nn) - Neural Network package for Torch
+  * [nngraph](https://github.com/torch/nngraph) - This package provides graphical computation for nn library in Torch7.
+  * [nnx](https://github.com/clementfarabet/lua---nnx) - A completely unstable and experimental package that extends Torch's builtin nn library
+  * [optim](https://github.com/torch/optim) - An optimization library for Torch. SGD, Adagrad, Conjugate-Gradient, LBFGS, RProp and more.
+  * [unsup](https://github.com/koraykv/unsup) - A package for unsupervised learning in Torch. Provides modules that are compatible with nn (LinearPsd, ConvPsd, AutoEncoder, ...), and self-contained algorithms (k-means, PCA). 
+  * [manifold](https://github.com/clementfarabet/manifold) - A package to manipulate manifolds
+  * [svm](https://github.com/koraykv/torch-svm) - Torch-SVM library
+  * [lbfgs](https://github.com/clementfarabet/lbfgs) - FFI Wrapper for liblbfgs
+  * [vowpalwabbit](https://github.com/clementfarabet/vowpal_wabbit) - An old vowpalwabbit interface to torch.
+  * [OpenGM](https://github.com/clementfarabet/lua---opengm) - OpenGM is a C++ library for graphical modeling, and inference. The Lua bindings provide a simple way of describing graphs, from Lua, and then optimizing them with OpenGM.
+  * [sphagetti](https://github.com/MichaelMathieu/lua---spaghetti) - Spaghetti (sparse linear) module for torch7 by @MichaelMathieu
+  * [LuaSHKit](https://github.com/ocallaco/LuaSHkit) - A lua wrapper around the Locality sensitive hashing library SHKit
+  * [kernel smoothing](https://github.com/rlowrance/kernel-smoothers) - KNN, kernel-weighted average, local linear regression smoothers
+  * [cutorch](https://github.com/torch/cutorch) - Torch CUDA Implementation
+  * [cunn](https://github.com/torch/cunn) - Torch CUDA Neural Network Implementation
+  * [imgraph](https://github.com/clementfarabet/lua---imgraph) - An image/graph library for Torch. This package provides routines to construct graphs on images, segment them, build trees out of them, and convert them back to images.
+  * [videograph](https://github.com/clementfarabet/videograph) - A video/graph library for Torch. This package provides routines to construct graphs on videos, segment them, build trees out of them, and convert them back to videos.
+  * [saliency](https://github.com/marcoscoffier/torch-saliency) - code and tools around integral images. A library for finding interest points based on fast integral histograms. 
+  * [stitch](https://github.com/marcoscoffier/lua---stitch) - allows us to use hugin to stitch images and apply same stitching to a video sequence
+  * [sfm](https://github.com/marcoscoffier/lua---sfm) - A bundle adjustment/structure from motion package
+  * [fex](https://github.com/koraykv/fex) - A package for feature extraction in Torch. Provides SIFT and dSIFT modules. 
+  * [OverFeat](https://github.com/sermanet/OverFeat) - A state-of-the-art generic dense feature extractor
 * [Numeric Lua](http://numlua.luaforge.net/)
 * [Lunatic Python](http://labix.org/lunatic-python)
 * [SciLua](http://www.scilua.org/)
 * [Lua - Numerical Algorithms](https://bitbucket.org/lucashnegri/lna)
 * [Lunum](http://zrake.webfactional.com/projects/lunum)
+
+#### Demos and Scripts
+* [Core torch7 demos repository](https://github.com/e-lab/torch7-demos). 
+  * linear-regression, logistic-regression
+  * face detector (training and detection as separate demos)
+  * mst-based-segmenter
+  * train-a-digit-classifier
+  * train-autoencoder
+  * optical flow demo
+  * train-on-housenumbers
+  * train-on-cifar
+  * tracking with deep nets
+  * kinect demo
+  * filter-bank visualization
+  * saliency-networks
+* [Training a Convnet for the Galaxy-Zoo Kaggle challenge(CUDA demo)](https://github.com/soumith/galaxyzoo)
+* [Music Tagging](https://github.com/mbhenaff/MusicTagging) - Music Tagging scripts for torch7
+* [torch-datasets](https://github.com/rosejn/torch-datasets) - Scripts to load several popular datasets including:
+  * BSR 500
+  * CIFAR-10
+  * COIL
+  * Street View House Numbers
+  * MNIST
+  * NORB
+* [Atari2600](https://github.com/fidlej/aledataset) - Scripts to generate a dataset with static frames from the Arcade Learning Environment
+
+
 
 ## Matlab
 
