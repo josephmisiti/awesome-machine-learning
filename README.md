@@ -23,11 +23,11 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [Caffe](caffe.berkeleyvision.org)
 
-## Closure
+## Clojure
 
 #### General-Purpose Machine Learning
 
-* [Closure Toolbox](http://www.clojure-toolbox.com) - A categorised directory of libraries and tools for Clojure
+* [Clojure Toolbox](http://www.clojure-toolbox.com) - A categorised directory of libraries and tools for Clojure
 
 ## Go
 
