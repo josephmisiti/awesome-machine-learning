@@ -14,6 +14,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 #### Computer Vision
 
+* [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
 * [OpenCV](http://opencv.org) - OpenCV has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS.
 
 #### General-Purpose Machine Learning
@@ -192,6 +193,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 #### Misc Stuff / Presentations
 
+* [DSP](https://github.com/JuliaDSP/DSP) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
 * [JuliaCon Presentations](https://github.com/JuliaCon/presentations) - Presentations for JuliaCon
 * [SignalProcessing](https://github.com/davidavdav/SignalProcessing) - Signal Processing tools for Julia
 * [Images](https://github.com/timholy/Images.jl) - An image library for Julia
