@@ -507,5 +507,4 @@ on MNIST digits[DEEP LEARNING]
 
 * Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
 * The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
-=======
->>>>>>> External Changes
+
