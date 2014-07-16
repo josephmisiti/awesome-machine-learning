@@ -17,7 +17,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 #### General-Purpose Machine Learning
 
-* [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+* [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Book/iPython notebooks on Probabilistic Programming in Python
 * [MLlib in Apache Spark](http://spark.apache.org/docs/latest/mllib-guide.html) - Distributed machine learning library in Spark
 * [scikit-learn](http://scikit-learn.org/) - A Python module for machine learning built on top of SciPy.
 * [BigML](https://bigml.com) - A library that contacts external servers.
@@ -29,9 +29,9 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [PyBrain](https://github.com/pybrain/pybrain) - Another Python Machine Learning Library.
 * [Crab](https://github.com/muricoca/crab) - A ﬂexible, fast recommender engine.
 * [python-recsys](https://github.com/ocelma/python-recsys) - A Python library for implementing a Recommender System.
-* [BayesPy](https://github.com/maxsklar/BayesPy)
-* [thinking bayes](https://github.com/AllenDowney/ThinkBayes)
-
+* [thinking bayes](https://github.com/AllenDowney/ThinkBayes) - Book on Bayesian Analysis
+* [Restricted Boltzmann Machines](https://github.com/echen/restricted-boltzmann-machines) -Restricted Boltzmann Machines in Python. [DEEP LEARNING]
+* [Bold](https://github.com/pprett/bolt) - Bolt Online Learning Toolbox
 
 #### Data Analysis / Data Visualization
 
@@ -70,6 +70,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Diffusion Segmentation](https://github.com/Wavelets/diffusion-segmentation) - A collection of image segmentation algorithms based on diffusion methods
 * [Scipy Tutorials](https://github.com/Wavelets/scipy-tutorials) - SciPy tutorials. This is outdated, check out scipy-lecture-notes
 * [Crab](https://github.com/marcelcaraciolo/crab) - A recommendation engine library for Python
+* [BayesPy](https://github.com/maxsklar/BayesPy) - Bayesian Inference Tools in Python
 
 ## C++
 
