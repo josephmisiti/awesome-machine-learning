@@ -190,6 +190,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 #### General-Purpose Machine Learning
 
 * [Mahout](https://github.com/apache/mahout) - Distributed machine learning
+* [Mallet] (http://mallet.cs.umass.edu/) - A package which provides document classification, sequence tagging, topic modelling and numerical optimization.
 * [Stanford Classifier](http://nlp.stanford.edu/software/classifier.shtml) - A classifier is a machine learning tool that will take data items and place them into one of k classes.
 
 #### Data Analysis / Data Visualization
