@@ -213,6 +213,7 @@ on MNIST digits[DEEP LEARNING]
 * [loso](https://github.com/victorlin/loso) - Another Chinese segmentation library.
 * [genius](https://github.com/duanhongyi/genius) - A Chinese segment base on Conditional Random Field.
 * [nut](https://github.com/pprett/nut) - Natural language Understanding Toolkit
+* [Rosetta](https://github.com/columbia-applied-data-science/rosetta) - Text processing tools and wrappers (e.g. Vowpal Wabbit)
 
 #### General-Purpose Machine Learning
 
