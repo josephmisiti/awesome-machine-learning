@@ -7,12 +7,13 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 #### General-Purpose Machine Learning
 * [Recommender](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
-* [Accord-Framework](http://accord-framework.net/) -The Accord.NET Framework is a complete framework for building machine learning, computer vision, computer audition, signal processing and statistical applications. * [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
+* [Accord-Framework](http://accord-framework.net/) -The Accord.NET Framework is a complete framework for building machine learning, computer vision, computer audition, signal processing and statistical applications. 
 
 ## C++
 
 #### Computer Vision
 
+* [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
 * [OpenCV](http://opencv.org) - OpenCV has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS.
 
 #### General-Purpose Machine Learning
@@ -191,6 +192,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 #### Misc Stuff / Presentations
 
+* [DSP](https://github.com/JuliaDSP/DSP) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
 * [JuliaCon Presentations](https://github.com/JuliaCon/presentations) - Presentations for JuliaCon
 * [SignalProcessing](https://github.com/davidavdav/SignalProcessing) - Signal Processing tools for Julia
 * [Images](https://github.com/timholy/Images.jl) - An image library for Julia
