@@ -66,26 +66,26 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 #### Natural Language Processing
 
 * [Treat](https://github.com/louismullie/treat) -  Text REtrieval and Annotation Toolkit, definitely the most comprehensive toolkit I’ve encountered so far for Ruby
-* [Ruby Linguistics](http://www.deveiate.org/projects/Linguistics/) -  NLTK for Ruby
-* [Stemmer](https://github.com/aurelian/ruby-stemmer) 
-* [Ruby Wordnet](http://www.deveiate.org/projects/Ruby-WordNet/)
-* [Raspel](http://sourceforge.net/projects/raspell/)
-* [UEA Stemmer](https://github.com/ealdent/uea-stemmer)
-* [Twitter-text-rb](https://github.com/twitter/twitter-text-rb)
+* [Ruby Linguistics](http://www.deveiate.org/projects/Linguistics/) -  Linguistics is a framework for building linguistic utilities for Ruby objects in any language. It includes a generic language-independant front end, a module for mapping language codes into language names, and a module which contains various English-language utilities.
+* [Stemmer](https://github.com/aurelian/ruby-stemmer) - Expose libstemmer_c to Ruby 
+* [Ruby Wordnet](http://www.deveiate.org/projects/Ruby-WordNet/) - This library is a Ruby interface to WordNet
+* [Raspel](http://sourceforge.net/projects/raspell/) - raspell is an interface binding for ruby 
+* [UEA Stemmer](https://github.com/ealdent/uea-stemmer) - Ruby port of UEALite Stemmer - a conservative stemmer for search and indexing
+* [Twitter-text-rb](https://github.com/twitter/twitter-text-rb) - A library that does auto linking and extraction of usernames, lists and hashtags in tweets
 
 #### General-Purpose Machine Learning
 
-* [Ruby Machine Learning](https://github.com/tsycho/ruby-machine-learning)
+* [Ruby Machine Learning](https://github.com/tsycho/ruby-machine-learning) - Some Machine Learning algorithms, implemented in Ruby
 * [Machine Learning Ruby](https://github.com/mizoR/machine-learning-ruby)
-* [jRuby Mahout](https://github.com/vasinov/jruby_mahout)
-* [CardMagic-Classifier](https://github.com/cardmagic/classifier)
+* [jRuby Mahout](https://github.com/vasinov/jruby_mahout) - JRuby Mahout is a gem that unleashes the power of Apache Mahout in the world of JRuby.
+* [CardMagic-Classifier](https://github.com/cardmagic/classifier) - A general classifier module to allow Bayesian and other types of classifications.
 
 #### Data Analysis / Data Visualization
 
-* [rsruby](https://github.com/alexgutteridge/rsruby)
-* [data-visualization-ruby](https://github.com/chrislo/data_visualisation_ruby)
-* [ruby-plot](https://www.ruby-toolbox.com/projects/ruby-plot)
-* [plot-rb](https://github.com/zuhao/plotrb)
+* [rsruby](https://github.com/alexgutteridge/rsruby) - Ruby - R bridge
+* [data-visualization-ruby](https://github.com/chrislo/data_visualisation_ruby) - Source code and supporting content for my Ruby Manor presentation on Data Visualisation with Ruby
+* [ruby-plot](https://www.ruby-toolbox.com/projects/ruby-plot) - gnuplot wrapper for ruby, especially for plotting roc curves into svg files
+* [plot-rb](https://github.com/zuhao/plotrb) - A plotting library in Ruby built on top of Vega and D3.
 * [scruffy](http://www.rubyinside.com/scruffy-a-beautiful-graphing-toolkit-for-ruby-194.html)
 * [SciRuby](http://sciruby.com/)
 * [Glean](https://github.com/glean/glean) - A data management tool for humans
@@ -101,6 +101,11 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 #### General-Purpose Machine Learning
 
 * [Clever Algorithms For Machine Learning](https://github.com/jbrownlee/CleverAlgorithmsMachineLearning)
+* [Machine Learning For Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)
+
+#### Data Analysis / Data Visualization
+
+* [Learning Statistics Using R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/)
 
 ## Javascript
 
