@@ -266,6 +266,7 @@ on MNIST digits[DEEP LEARNING]
 * [LibLinear](http://www.csie.ntu.edu.tw/~cjlin/liblinear/#download) - A Library for Large Linear Classification
 * [Machine Learning Module](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF,lectures,code
 * [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind.
+* [Pattern Recognition Toolbox](https://github.com/newfolder/PRT)  - A complete object-oriented environment for machine learning in Matlab.
 
 #### Data Analysis / Data Visualization
 
