@@ -86,7 +86,7 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 * [data-visualization-ruby](https://github.com/chrislo/data_visualisation_ruby) - Source code and supporting content for my Ruby Manor presentation on Data Visualisation with Ruby
 * [ruby-plot](https://www.ruby-toolbox.com/projects/ruby-plot) - gnuplot wrapper for ruby, especially for plotting roc curves into svg files
 * [plot-rb](https://github.com/zuhao/plotrb) - A plotting library in Ruby built on top of Vega and D3.
-* [scruffy](http://www.rubyinside.com/scruffy-a-beautiful-graphing-toolkit-for-ruby-194.html)
+* [scruffy](http://www.rubyinside.com/scruffy-a-beautiful-graphing-toolkit-for-ruby-194.html) - A beautiful graphing toolkit for Ruby
 * [SciRuby](http://sciruby.com/)
 * [Glean](https://github.com/glean/glean) - A data management tool for humans
 * [Bioruby](https://github.com/bioruby/bioruby)
@@ -238,54 +238,55 @@ on MNIST digits](http://www.cs.toronto.edu/~hinton/MatlabForSciencePaper.html) [
 
 #### General-Purpose Machine Learning
 
-* [PGM](https://github.com/JuliaStats/PGM.jl)
-* [DA](https://github.com/trthatcher/DA.jl)
-* [Regression](https://github.com/lindahua/Regression.jl)
-* [Local Regression](https://github.com/dcjones/Loess.jl)
-* [Naive Bayes](https://github.com/nutsiepully/NaiveBayes.jl)
-* [Mixed Models](https://github.com/dmbates/MixedModels.jl)
-* [Simple MCMC](https://github.com/fredo-dedup/SimpleMCMC.jl)
-* [Distance](https://github.com/JuliaStats/Distance.jl)
-* [Decision Tree](https://github.com/bensadeghi/DecisionTree.jl)
-* [Neural](https://github.com/compressed/neural.jl)
-* [MCMC](https://github.com/doobwa/MCMC.jl)
-* [GLM](https://github.com/JuliaStats/GLM.jl)
+* [PGM](https://github.com/JuliaStats/PGM.jl) - A Julia framework for probabilistic graphical models.
+* [DA](https://github.com/trthatcher/DA.jl) - Julia package for Regularized Discriminant Analysis
+* [Regression](https://github.com/lindahua/Regression.jl) - Algorithms for regression analysis (e.g. linear regression and logistic regression)
+* [Local Regression](https://github.com/dcjones/Loess.jl) - Local regression, so smooooth!
+* [Naive Bayes](https://github.com/nutsiepully/NaiveBayes.jl) - Simple Naive Bayes implementation in Julia
+* [Mixed Models](https://github.com/dmbates/MixedModels.jl) - A Julia package for fitting (statistical) mixed-effects models
+* [Simple MCMC](https://github.com/fredo-dedup/SimpleMCMC.jl) - basic mcmc sampler implemented in Julia
+* [Distance](https://github.com/JuliaStats/Distance.jl) - Julia module for Distance evaluation
+* [Decision Tree](https://github.com/bensadeghi/DecisionTree.jl) - Decision Tree Classifier and Regressor
+* [Neural](https://github.com/compressed/neural.jl) - A neural network in Julia
+* [MCMC](https://github.com/doobwa/MCMC.jl) - MCMC tools for Julia
+* [GLM](https://github.com/JuliaStats/GLM.jl) - Generalized linear models in Julia
 * [Online Learning](https://github.com/lendle/OnlineLearning.jl)
-* [GLMNet](https://github.com/simonster/GLMNet.jl)
-* [Clustering](https://github.com/JuliaStats/Clustering.jl)
-* [SVM](https://github.com/JuliaStats/SVM.jl)
-* [Kernal Density](https://github.com/JuliaStats/KernelDensity.jl)
-* [Dimensionality Reduction](https://github.com/JuliaStats/DimensionalityReduction.jl)
-* [NMF](https://github.com/JuliaStats/NMF.jl)
+* [GLMNet](https://github.com/simonster/GLMNet.jl) - Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet
+* [Clustering](https://github.com/JuliaStats/Clustering.jl) - Basic functions for clustering data: k-means, dp-means, etc.
+* [SVM](https://github.com/JuliaStats/SVM.jl) - SVM's for Julia
+* [Kernal Density](https://github.com/JuliaStats/KernelDensity.jl) - Kernel density estimators for julia
+* [Dimensionality Reduction](https://github.com/JuliaStats/DimensionalityReduction.jl) - Methods for dimensionality reduction
+* [NMF](https://github.com/JuliaStats/NMF.jl) - A Julia package for non-negative matrix factorization
 
 
 #### Natural Language Processing
 
-* [Topic Models](https://github.com/slycoder/TopicModels.jl)
-* [Text Analysis](https://github.com/johnmyleswhite/TextAnalysis.jl)
+* [Topic Models](https://github.com/slycoder/TopicModels.jl) - TopicModels for Julia
+* [Text Analysis](https://github.com/johnmyleswhite/TextAnalysis.jl) - Julia package for text analysis
 
 
 #### Data Analysis / Data Visualization
 
-* [Graph Layout](https://github.com/IainNZ/GraphLayout.jl)
-* [Data Frames Meta](https://github.com/JuliaStats/DataFramesMeta.jl)
-* [Julia Data](https://github.com/nfoti/JuliaData)
-* [Data Read](https://github.com/WizardMac/DataRead.jl)
-* [Hypothesis Tests](https://github.com/JuliaStats/HypothesisTests.jl)
-* [Gladfly](https://github.com/dcjones/Gadfly.jl)
-* [Stats](https://github.com/johnmyleswhite/stats.jl)
-* [RDataSets](https://github.com/johnmyleswhite/RDatasets.jl)
-* [DataFrames](https://github.com/JuliaStats/DataFrames.jl)
-* [Distributions](https://github.com/JuliaStats/Distributions.jl)
-* [Data Arrays](https://github.com/JuliaStats/DataArrays.jl)
-* [Time Series](https://github.com/JuliaStats/TimeSeries.jl)
-* [Sampling](https://github.com/JuliaStats/Sampling.jl)
+* [Graph Layout](https://github.com/IainNZ/GraphLayout.jl) - Graph layout algorithms in pure Julia
+* [Data Frames Meta](https://github.com/JuliaStats/DataFramesMeta.jl) - Metaprogramming tools for DataFrames
+* [Julia Data](https://github.com/nfoti/JuliaData) - library for working with tabular data in Julia
+* [Data Read](https://github.com/WizardMac/DataRead.jl) - Read files from Stata, SAS, and SPSS
+* [Hypothesis Tests](https://github.com/JuliaStats/HypothesisTests.jl) - Hypothesis tests for Julia
+* [Gladfly](https://github.com/dcjones/Gadfly.jl) - Crafty statistical graphics for Julia.
+* [Stats](https://github.com/johnmyleswhite/stats.jl) - Statistical tests for Julia 
+
+* [RDataSets](https://github.com/johnmyleswhite/RDatasets.jl) - Julia package for loading many of the data sets available in R
+* [DataFrames](https://github.com/JuliaStats/DataFrames.jl) - library for working with tabular data in Julia
+* [Distributions](https://github.com/JuliaStats/Distributions.jl) - A Julia package for probability distributions and associated functions.
+* [Data Arrays](https://github.com/JuliaStats/DataArrays.jl) - Data structures that allow missing values
+* [Time Series](https://github.com/JuliaStats/TimeSeries.jl) - Time series toolkit for Julia
+* [Sampling](https://github.com/JuliaStats/Sampling.jl) - Basic sampling algorithms for Julia
 
 #### Misc Stuff / Presentations
 
-* [JuliaCon Presentations](https://github.com/JuliaCon/presentations)
-* [SignalProcessing](https://github.com/davidavdav/SignalProcessing)
-* [Images](https://github.com/timholy/Images.jl)
+* [JuliaCon Presentations](https://github.com/JuliaCon/presentations) - Presentations for JuliaCon
+* [SignalProcessing](https://github.com/davidavdav/SignalProcessing) - Signal Processing tools for Julia
+* [Images](https://github.com/timholy/Images.jl) - An image library for Julia
 
 ## Credits
 
