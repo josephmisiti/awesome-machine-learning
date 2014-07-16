@@ -75,6 +75,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 #### General-Purpose Machine Learning
 
+* [JSAT](https://code.google.com/p/java-statistical-analysis-tool/) - Numerous Machine Learning algoirhtms for classification, regresion, and  clustering. 
 * [MLlib in Apache Spark](http://spark.apache.org/docs/latest/mllib-guide.html) - Distributed machine learning library in Spark
 * [Mahout](https://github.com/apache/mahout) - Distributed machine learning
 * [Stanford Classifier](http://nlp.stanford.edu/software/classifier.shtml) - A classifier is a machine learning tool that will take data items and place them into one of k classes.
