@@ -336,6 +336,7 @@ on MNIST digits[DEEP LEARNING]
 
 * [Clever Algorithms For Machine Learning](https://github.com/jbrownlee/CleverAlgorithmsMachineLearning)
 * [Machine Learning For Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)
+* [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 
 #### Data Analysis / Data Visualization
 
