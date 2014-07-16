@@ -133,7 +133,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Kernal Density](https://github.com/JuliaStats/KernelDensity.jl) - Kernel density estimators for julia
 * [Dimensionality Reduction](https://github.com/JuliaStats/DimensionalityReduction.jl) - Methods for dimensionality reduction
 * [NMF](https://github.com/JuliaStats/NMF.jl) - A Julia package for non-negative matrix factorization
-
+* [ANN](https://github.com/EricChiang/ANN.jl) - Julia artificial neural networks
 
 #### Natural Language Processing
 
