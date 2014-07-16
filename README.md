@@ -350,6 +350,7 @@ on MNIST digits[DEEP LEARNING]
 * [Machine Learning Task View on CRAN](http://cran.r-project.org/web/views/MachineLearning.html) - A list of ML packages in R, grouped by algorithm type.
 * [caret](http://caret.r-forge.r-project.org/) - Unified interface to ~150 ML algorithms in R.
 * [SuperLearner](https://github.com/ecpolley/SuperLearner) and [subsemble](http://cran.r-project.org/web/packages/subsemble/index.html) - Multi-algorithm ensemble learning packages.
+* [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 
 #### Data Analysis / Data Visualization
 
