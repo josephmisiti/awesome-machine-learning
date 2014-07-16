@@ -1,3 +1,4 @@
+<<<<<<< Local Changes
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
 Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
@@ -7,6 +8,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 #### General-Purpose Machine Learning
 * [Recommender](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
+* [Accord-Framework](http://accord-framework.net/) -The Accord.NET Framework is a complete framework for building machine learning, computer vision, computer audition, signal processing and statistical applications. 
 
 ## C++
 
@@ -24,16 +26,28 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Vowpal Wabbit (VW)](https://github.com/JohnLangford/vowpal_wabbit/wiki) - A fast out-of-core learning system.
 * [sofia-ml](https://code.google.com/p/sofia-ml/) - Suite of fast incremental algorithms.
 * [Shogun](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox	
-
-#### Neural Nets
-=======
-* [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind.
+* [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind. [DEEP LEARNING]
 
 ## Clojure
 
+#### Natural Language Processing
+
+* [Clojure-openNLP](https://github.com/dakrone/clojure-opennlp) - Natural Language Processing in Clojure (opennlp)
+* [Infections-clj](https://github.com/r0man/inflections-clj) - Rails-like inflection library for Clojure and ClojureScript
+
 #### General-Purpose Machine Learning
 
-* [Clojure Toolbox](http://www.clojure-toolbox.com) - A categorised directory of libraries and tools for Clojure
+* [Touchstone](https://github.com/ptaoussanis/touchstone) - Clojure A/B testing library
+* [Clojush](https://github.com/lspector/Clojush) -  he Push programming language and the PushGP genetic programming system implemented in Clojure
+* [Infer](https://github.com/aria42/infer) - Inference and machine learning in clojure
+* [Clj-ML](https://github.com/antoniogarrote/clj-ml) - A machine learning library for Clojure built on top of Weka and friends
+* [Encog](https://github.com/jimpil/enclog) - Clojure wrapper for Encog (v3) (Machine-Learning framework that specialises in neural-nets)
+* [Fungp](https://github.com/vollmerm/fungp) - A genetic programming library for Clojure
+
+#### Data Analysis / Data Visualization
+
+* [Incanter](http://incanter.org/) - Incanter is a Clojure-based, R-like platform for statistical computing and graphics.
+
 
 ## Go
 
@@ -49,6 +63,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [go-pr](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang.
 * [bayesian](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
 * [go-galib](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / golang
+* [Cloudforest](https://github.com/ryanbressler/CloudForest) - Ensembles of decision trees in go/golang.
 
 #### Data Analysis / Data Visualization
 
@@ -493,3 +508,5 @@ on MNIST digits[DEEP LEARNING]
 
 * Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
 * The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
+=======
+>>>>>>> External Changes
