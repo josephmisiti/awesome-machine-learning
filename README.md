@@ -3,6 +3,11 @@ Other awesome lists can be found in the [awesome-awesomeness](https://github.com
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@josephmisiti](https://www.twitter.com/josephmisiti)
 
+## C
+
+#### General-Purpose Machine Learning
+* [Recommender](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
+
 ## C++
 
 #### Computer Vision
