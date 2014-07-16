@@ -127,16 +127,16 @@ If you want to contribute to this list, send me a pull request or contact me [@j
 
 #### General-Purpose Machine Learning
 
-* [Convnet.js](http://cs.stanford.edu/people/karpathy/convnetjs/) [DEEP LEARNING]
-* [Clustering.js](https://github.com/tixz/clustering.js)
-* [Decision Trees](https://github.com/serendipious/nodejs-decision-tree-id3)
-* [Node-fann](https://github.com/rlidwka/node-fann)
-* [Kmeans.js](https://github.com/tixz/kmeans.js)
-* [LDA.js](https://github.com/primaryobjects/lda)
-* [Learning.js](https://github.com/yandongliu/learningjs)
-* [Machine Learning](http://joonku.com/project/machine_learning)
-* [Node-SVM](https://github.com/nicolaspanel/node-svm)
-* [Brain](https://github.com/harthur/brain)
+* [Convnet.js](http://cs.stanford.edu/people/karpathy/convnetjs/) - ConvNetJS is a Javascript library for training Deep Learning models[DEEP LEARNING]
+* [Clustering.js](https://github.com/tixz/clustering.js) - Clustering algorithms implemented in Javascript for Node.js and the browser
+* [Decision Trees](https://github.com/serendipious/nodejs-decision-tree-id3) - NodeJS Implementation of Decision Tree using ID3 Algorithm
+* [Node-fann](https://github.com/rlidwka/node-fann) - FANN (Fast Artificial Neural Network Library) bindings for Node.js
+* [Kmeans.js](https://github.com/tixz/kmeans.js) - Simple Javascript implementation of the k-means algorithm, for node.js and the browser
+* [LDA.js](https://github.com/primaryobjects/lda) - LDA topic modeling for node.js
+* [Learning.js](https://github.com/yandongliu/learningjs) - Javascript implementation of logistic regression/c4.5 decision tree
+* [Machine Learning](http://joonku.com/project/machine_learning) - Machine learning library for Node.js
+* [Node-SVM](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for nodejs
+* [Brain](https://github.com/harthur/brain) - Neural networks in JavaScript
 
 
 ## Scala
