@@ -13,7 +13,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 #### Computer Vision
 
 * [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
-* [OpenCV](http://opencv.org) - OpenCV has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS. It has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS.
+* [OpenCV](http://opencv.org) - OpenCV has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS.
 
 #### General-Purpose Machine Learning
 
