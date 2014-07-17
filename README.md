@@ -475,6 +475,7 @@ on MNIST digits[DEEP LEARNING]
 
 #### General-Purpose Machine Learning
 
+* [h2o](http://cran.r-project.org/web/packages/h2o/index.html) - A framework for fast, parallel, and distributed machine learning algorithms at scale -- Deeplearning, Random forests, GBM, KMeans, PCA, GLM
 * [Clever Algorithms For Machine Learning](https://github.com/jbrownlee/CleverAlgorithmsMachineLearning)
 * [Machine Learning For Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)
 * [nnet](http://cran.r-project.org/web/packages/nnet/index.html) - nnet: Feed-forward Neural Networks and Multinomial Log-Linear Models
