@@ -131,7 +131,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [chartjs](http://www.chartjs.org/)
 * [dimple](http://dimplejs.org/)
 * [amCharts](http://www.amcharts.com/)
-
+* [statkit](https://github.com/rigtorp/statkit) - Statistics kit for JavaScript
+* [science.js](https://github.com/jasondavies/science.js/) - Scientific and statistical computing in JavaScript.
 
 #### General-Purpose Machine Learning
 
