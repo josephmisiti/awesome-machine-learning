@@ -3,6 +3,8 @@ Other awesome lists can be found in the [awesome-awesomeness](https://github.com
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@josephmisiti](https://www.twitter.com/josephmisiti)
 
+For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
+
 ## C
 
 #### General-Purpose Machine Learning
