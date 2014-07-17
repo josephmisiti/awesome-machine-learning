@@ -106,6 +106,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [ORYX](https://github.com/cloudera/oryx) - Simple real-time large-scale machine learning infrastructure.
 * [H2O](https://github.com/0xdata/h2o) - ML engine that supports distributed learning on data stored in HDFS.
 * [WalnutiQ](https://github.com/WalnutiQ/WalnutiQ) - object oriented model of the human brain
+* [ELKI](http://elki.dbs.ifi.lmu.de/) - Java toolkit for data mining. (unsupervised: clustering, outlier detection etc.)
 
 #### Data Analysis / Data Visualization
 
