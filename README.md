@@ -621,6 +621,10 @@ Angle Regression
 * [bioscala](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
 * [BIDMach](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
 
+## Swift
+#### General-Purpose Machine Learning
+* [swix](https://github.com/scottsievert/swix) - A bare bones library that
+  includes a general matrix language and wraps some OpenCV for iOS development.
 
 ## Credits
 
