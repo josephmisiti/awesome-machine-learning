@@ -197,7 +197,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 #### Misc Stuff / Presentations
 
-* [DSP](https://github.com/JuliaDSP/DSP) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
+* [DSP](https://github.com/JuliaDSP/DSP.jl) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
 * [JuliaCon Presentations](https://github.com/JuliaCon/presentations) - Presentations for JuliaCon
 * [SignalProcessing](https://github.com/davidavdav/SignalProcessing) - Signal Processing tools for Julia
 * [Images](https://github.com/timholy/Images.jl) - An image library for Julia
