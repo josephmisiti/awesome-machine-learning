@@ -32,7 +32,8 @@ For a list of free machine learning books available for download, go [here](http
 * [sofia-ml](https://code.google.com/p/sofia-ml/) - Suite of fast incremental algorithms.
 * [Shogun](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox	
 * [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind. [DEEP LEARNING]
-
+* [CUDA](https://code.google.com/p/cuda-convnet/) - This is a fast C++/CUDA implementation of convolutional [DEEP LEARNING]
+ 
 ## Clojure
 
 #### Natural Language Processing
