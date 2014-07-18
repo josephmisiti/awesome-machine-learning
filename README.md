@@ -621,6 +621,7 @@ Angle Regression
 * [adam](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
 * [bioscala](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
 * [BIDMach](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
+* [Figaro](https://github.com/p2t2/figaro) - a Scala library for constructing probabilistic models.
 
 ## Swift
 #### General-Purpose Machine Learning
