@@ -20,12 +20,12 @@ For a list of free machine learning books available for download, go [here](http
 #### Computer Vision
 
 * [OpenCV](http://opencv.org) - OpenCV has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS.
-
+* [DLib](http://dlib.net/imaging.html) - DLib has C++ and Python interfaces for face detection and training general object detectors.
 
 #### General-Purpose Machine Learning
 
 * [MLPack](http://www.mlpack.org/)
-* [DLib](http://dlib.net/ml.html)
+* [DLib](http://dlib.net/ml.html) - A suite of ML tools designed to be easy to imbed in other applications
 * [ecogg](https://code.google.com/p/encog-cpp/)
 * [shark](http://image.diku.dk/shark/sphinx_pages/build/html/index.html)
 * [Vowpal Wabbit (VW)](https://github.com/JohnLangford/vowpal_wabbit/wiki) - A fast out-of-core learning system.
@@ -33,7 +33,10 @@ For a list of free machine learning books available for download, go [here](http
 * [Shogun](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox	
 * [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind. [DEEP LEARNING]
 * [CUDA](https://code.google.com/p/cuda-convnet/) - This is a fast C++/CUDA implementation of convolutional [DEEP LEARNING]
- 
+
+#### Natural Language Processing
+* [MIT Information Extraction Toolkit](https://github.com/mit-nlp/MITIE) - C, C++, and Python tools for named entity recognition and relation extraction
+
 ## Clojure
 
 #### Natural Language Processing
