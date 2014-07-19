@@ -388,6 +388,7 @@ on MNIST digits[DEEP LEARNING]
 * [SymPy](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
 * [statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 * [astropy](http://www.astropy.org/) - A community Python library for Astronomy.
+* [astroML](http://www.astroml.org/) - Machine Learning and Data Mining for Astronomy.
 * [matplotlib](http://matplotlib.org/) - A Python 2D plotting library.
 * [bokeh](https://github.com/ContinuumIO/bokeh) - Interactive Web Plotting for Python.
 * [plotly](https://plot.ly/python) - Collaborative web plotting for Python and matplotlib.
