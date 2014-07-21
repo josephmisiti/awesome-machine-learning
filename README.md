@@ -30,12 +30,15 @@ For a list of free machine learning books available for download, go [here](http
 * [shark](http://image.diku.dk/shark/sphinx_pages/build/html/index.html)
 * [Vowpal Wabbit (VW)](https://github.com/JohnLangford/vowpal_wabbit/wiki) - A fast out-of-core learning system.
 * [sofia-ml](https://code.google.com/p/sofia-ml/) - Suite of fast incremental algorithms.
-* [Shogun](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox	
+* [Shogun](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox
 * [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind. [DEEP LEARNING]
 * [CUDA](https://code.google.com/p/cuda-convnet/) - This is a fast C++/CUDA implementation of convolutional [DEEP LEARNING]
 
 #### Natural Language Processing
 * [MIT Information Extraction Toolkit](https://github.com/mit-nlp/MITIE) - C, C++, and Python tools for named entity recognition and relation extraction
+
+#### Sequence Analysis
+* [ToPS](https://github.com/ayoshiaki/tops) - This is an objected-oriented framework that facilitates the integration of probabilistic models for sequences over a user defined alphabet.
 
 ## Clojure
 
@@ -104,7 +107,7 @@ For a list of free machine learning books available for download, go [here](http
 
 #### General-Purpose Machine Learning
 
-* [JSAT](https://code.google.com/p/java-statistical-analysis-tool/) - Numerous Machine Learning algoirhtms for classification, regresion, and  clustering. 
+* [JSAT](https://code.google.com/p/java-statistical-analysis-tool/) - Numerous Machine Learning algoirhtms for classification, regresion, and  clustering.
 * [MLlib in Apache Spark](http://spark.apache.org/docs/latest/mllib-guide.html) - Distributed machine learning library in Spark
 * [Mahout](https://github.com/apache/mahout) - Distributed machine learning
 * [Stanford Classifier](http://nlp.stanford.edu/software/classifier.shtml) - A classifier is a machine learning tool that will take data items and place them into one of k classes.
@@ -224,7 +227,7 @@ For a list of free machine learning books available for download, go [here](http
   * [nngraph](https://github.com/torch/nngraph) - This package provides graphical computation for nn library in Torch7.
   * [nnx](https://github.com/clementfarabet/lua---nnx) - A completely unstable and experimental package that extends Torch's builtin nn library
   * [optim](https://github.com/torch/optim) - An optimization library for Torch. SGD, Adagrad, Conjugate-Gradient, LBFGS, RProp and more.
-  * [unsup](https://github.com/koraykv/unsup) - A package for unsupervised learning in Torch. Provides modules that are compatible with nn (LinearPsd, ConvPsd, AutoEncoder, ...), and self-contained algorithms (k-means, PCA). 
+  * [unsup](https://github.com/koraykv/unsup) - A package for unsupervised learning in Torch. Provides modules that are compatible with nn (LinearPsd, ConvPsd, AutoEncoder, ...), and self-contained algorithms (k-means, PCA).
   * [manifold](https://github.com/clementfarabet/manifold) - A package to manipulate manifolds
   * [svm](https://github.com/koraykv/torch-svm) - Torch-SVM library
   * [lbfgs](https://github.com/clementfarabet/lbfgs) - FFI Wrapper for liblbfgs
@@ -237,10 +240,10 @@ For a list of free machine learning books available for download, go [here](http
   * [cunn](https://github.com/torch/cunn) - Torch CUDA Neural Network Implementation
   * [imgraph](https://github.com/clementfarabet/lua---imgraph) - An image/graph library for Torch. This package provides routines to construct graphs on images, segment them, build trees out of them, and convert them back to images.
   * [videograph](https://github.com/clementfarabet/videograph) - A video/graph library for Torch. This package provides routines to construct graphs on videos, segment them, build trees out of them, and convert them back to videos.
-  * [saliency](https://github.com/marcoscoffier/torch-saliency) - code and tools around integral images. A library for finding interest points based on fast integral histograms. 
+  * [saliency](https://github.com/marcoscoffier/torch-saliency) - code and tools around integral images. A library for finding interest points based on fast integral histograms.
   * [stitch](https://github.com/marcoscoffier/lua---stitch) - allows us to use hugin to stitch images and apply same stitching to a video sequence
   * [sfm](https://github.com/marcoscoffier/lua---sfm) - A bundle adjustment/structure from motion package
-  * [fex](https://github.com/koraykv/fex) - A package for feature extraction in Torch. Provides SIFT and dSIFT modules. 
+  * [fex](https://github.com/koraykv/fex) - A package for feature extraction in Torch. Provides SIFT and dSIFT modules.
   * [OverFeat](https://github.com/sermanet/OverFeat) - A state-of-the-art generic dense feature extractor
 * [Numeric Lua](http://numlua.luaforge.net/)
 * [Lunatic Python](http://labix.org/lunatic-python)
@@ -249,7 +252,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Lunum](http://zrake.webfactional.com/projects/lunum)
 
 #### Demos and Scripts
-* [Core torch7 demos repository](https://github.com/e-lab/torch7-demos). 
+* [Core torch7 demos repository](https://github.com/e-lab/torch7-demos).
   * linear-regression, logistic-regression
   * face detector (training and detection as separate demos)
   * mst-based-segmenter
@@ -372,7 +375,7 @@ on MNIST digits[DEEP LEARNING]
 * [Shogun](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox
 * [Pyevolve](https://github.com/perone/Pyevolve) - Genetic algorithm framework.
 * [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind.
-* [Shogun](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox	
+* [Shogun](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox
 * [breze](https://github.com/breze-no-salt/breze) - Theano based library for deep and recurrent neural networks
 
 #### Data Analysis / Data Visualization
