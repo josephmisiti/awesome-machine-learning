@@ -41,6 +41,7 @@ The following is a list of free, open source books on machine learning, statisti
 * [Basic Probability Theory](http://www.math.uiuc.edu/~r-ash/BPT/BPT.pdf)
 * [Introduction to probability](http://math.dartmouth.edu/~prob/prob/prob.pdf)
 * [Principle of Uncertainty](http://uncertainty.stat.cmu.edu/wp-content/uploads/2011/05/principles-of-uncertainty.pdf)
+* [Probability & Statistics Cookbook](http://matthias.vallentin.net/probability-and-statistics-cookbook/)
 
 ## Linear Algebra
 
