@@ -24,6 +24,10 @@ The following is a list of free, open source books on machine learning, statisti
 * [Machine Learning](http://www.intechopen.com/books/machine_learning)
 * [A Quest for AI](http://ai.stanford.edu/~nilsson/QAI/qai.pdf)
 
+## Naturual Language Processing
+
+* [Coursera Course Book on NLP](http://www.cs.columbia.edu/~mcollins/notes-spring2013.html)
+
 ## Probability & Statistics
 
 * [Thinking Stats](http://www.greenteapress.com/thinkstats/) - Book + Python Code
