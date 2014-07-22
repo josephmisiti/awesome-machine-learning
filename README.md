@@ -480,6 +480,7 @@ on MNIST digits[DEEP LEARNING]
 #### Misc
 
 * [Big Data For Chimps](https://github.com/infochimps-labs/big_data_for_chimps)
+* [Listof](https://github.com/kevincobain2000/listof) - Community based data collection, packed in gem. Get list of pretty much anything (stop words, countries, non words) in txt, json or hash. [Demo/Search for a list](http://listof.herokuapp.com/)
 
 ## R
 
