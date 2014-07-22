@@ -27,6 +27,9 @@ The following is a list of free, open source books on machine learning, statisti
 ## Naturual Language Processing
 
 * [Coursera Course Book on NLP](http://www.cs.columbia.edu/~mcollins/notes-spring2013.html)
+* [NLTK](http://www.nltk.org/book/)
+* [NLP w/ Python](http://victoria.lviv.ua/html/fl5/NaturalLanguageProcessingWithPython.pdf)
+* [Foundations of Statistical Language Processing](http://nlp.stanford.edu/fsnlp/promo/)
 
 ## Probability & Statistics
 
