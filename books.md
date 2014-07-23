@@ -26,6 +26,8 @@ The following is a list of free, open source books on machine learning, statisti
 * [Introduction to Applied Bayesian
 Statistics and Estimation for
 Social Scientists](http://faculty.ksu.edu.sa/69424/us_BOOk/Introduction%20to%20Applied%20Bayesian%20Statistics.pdf)
+* [Bayesian Modeling, Inference
+and Prediction](http://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf)
 
 ## Naturual Language Processing
 
