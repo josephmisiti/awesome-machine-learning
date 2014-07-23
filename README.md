@@ -5,6 +5,77 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 
+## Table of Contents
+
+<!-- MarkdownTOC depth=4 -->
+
+- C
+    - General-Purpose Machine Learning
+    - Computer Vision
+- C++
+    - Computer Vision
+    - General-Purpose Machine Learning
+    - Natural Language Processing
+    - Sequence Analysis
+- Clojure
+    - Natural Language Processing
+    - General-Purpose Machine Learning
+    - Data Analysis / Data Visualization
+- Go
+    - Natural Language Processing
+    - General-Purpose Machine Learning
+    - Data Analysis / Data Visualization
+- Java
+    - Natural Language Processing
+    - General-Purpose Machine Learning
+    - Data Analysis / Data Visualization
+- Javascript
+    - Natural Language Processing
+    - Data Analysis / Data Visualization
+    - General-Purpose Machine Learning
+- Julia
+    - General-Purpose Machine Learning
+    - Natural Language Processing
+    - Data Analysis / Data Visualization
+    - Misc Stuff / Presentations
+- Lua
+    - General-Purpose Machine Learning
+    - Demos and Scripts
+- Matlab
+    - Computer Vision
+    - Natural Language Processing
+    - General-Purpose Machine Learning
+    - Data Analysis / Data Visualization
+- .NET
+    - Computer Vision
+    - Natural Language Processing
+    - General-Purpose Machine Learning
+    - Data Analysis / Data Visualization
+- Python
+    - Computer Vision
+    - Natural Language Processing
+    - General-Purpose Machine Learning
+    - Data Analysis / Data Visualization
+    - Misc Scripts / iPython Notebooks / Codebases
+    - Kaggle Competition Source Code
+- Ruby
+    - Natural Language Processing
+    - General-Purpose Machine Learning
+    - Data Analysis / Data Visualization
+    - Misc
+- R
+    - General-Purpose Machine Learning
+    - Data Analysis / Data Visualization
+- Scala
+    - Natural Language Processing
+    - Data Analysis / Data Visualization
+    - General-Purpose Machine Learning
+- Swift
+    - General-Purpose Machine Learning
+- Credits
+
+<!-- /MarkdownTOC -->
+
 ## C
 
 #### General-Purpose Machine Learning
