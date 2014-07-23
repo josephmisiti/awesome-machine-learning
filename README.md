@@ -9,90 +9,96 @@ For a list of free machine learning books available for download, go [here](http
 
 <!-- MarkdownTOC depth=4 -->
 
-- C
-    - General-Purpose Machine Learning
-    - Computer Vision
-- C++
-    - Computer Vision
-    - General-Purpose Machine Learning
-    - Natural Language Processing
-    - Sequence Analysis
-- Clojure
-    - Natural Language Processing
-    - General-Purpose Machine Learning
-    - Data Analysis / Data Visualization
-- Go
-    - Natural Language Processing
-    - General-Purpose Machine Learning
-    - Data Analysis / Data Visualization
-- Java
-    - Natural Language Processing
-    - General-Purpose Machine Learning
-    - Data Analysis / Data Visualization
-- Javascript
-    - Natural Language Processing
-    - Data Analysis / Data Visualization
-    - General-Purpose Machine Learning
-- Julia
-    - General-Purpose Machine Learning
-    - Natural Language Processing
-    - Data Analysis / Data Visualization
-    - Misc Stuff / Presentations
-- Lua
-    - General-Purpose Machine Learning
-    - Demos and Scripts
-- Matlab
-    - Computer Vision
-    - Natural Language Processing
-    - General-Purpose Machine Learning
-    - Data Analysis / Data Visualization
-- .NET
-    - Computer Vision
-    - Natural Language Processing
-    - General-Purpose Machine Learning
-    - Data Analysis / Data Visualization
-- Python
-    - Computer Vision
-    - Natural Language Processing
-    - General-Purpose Machine Learning
-    - Data Analysis / Data Visualization
-    - Misc Scripts / iPython Notebooks / Codebases
-    - Kaggle Competition Source Code
-- Ruby
-    - Natural Language Processing
-    - General-Purpose Machine Learning
-    - Data Analysis / Data Visualization
-    - Misc
-- R
-    - General-Purpose Machine Learning
-    - Data Analysis / Data Visualization
-- Scala
-    - Natural Language Processing
-    - Data Analysis / Data Visualization
-    - General-Purpose Machine Learning
-- Swift
-    - General-Purpose Machine Learning
-- Credits
+- [C](#c)
+    - [General-Purpose Machine Learning](#c-general-purpose)
+    - [Computer Vision](#c-cv)
+- [C++](#cpp)
+    - [Computer Vision](#cpp-cv)
+    - [General-Purpose Machine Learning](#cpp-general-purpose)
+    - [Natural Language Processing](#cpp-nlp)
+    - [Sequence Analysis](#cpp-sequence)
+- [Clojure](#clojure)
+    - [Natural Language Processing](#clojure-nlp)
+    - [General-Purpose Machine Learning](#clojure-general-purpose)
+    - [Data Analysis / Data Visualization](#clojure-data-analysis)
+- [Go](#go)
+    - [Natural Language Processing](#go-nlp)
+    - [General-Purpose Machine Learning](#go-general-purpose)
+    - [Data Analysis / Data Visualization](#go-data-analysis)
+- [Java](#java)
+    - [Natural Language Processing](#java-nlp)
+    - [General-Purpose Machine Learning](#java-general-purpose)
+    - [Data Analysis / Data Visualization](#java-data-analysis)
+- [Javascript](#javascript)
+    - [Natural Language Processing](#javascript-nlp)
+    - [Data Analysis / Data Visualization](#javascript-data-analysis)
+    - [General-Purpose Machine Learning](#javascript-general-purpose)
+- [Julia](#julia)
+    - [General-Purpose Machine Learning](#julia-general-purpose)
+    - [Natural Language Processing](#julia-nlp)
+    - [Data Analysis / Data Visualization](#julia-data-analysis)
+    - [Misc Stuff / Presentations](#julia-misc)
+- [Lua](#lua)
+    - [General-Purpose Machine Learning](#lua-general-purpose)
+    - [Demos and Scripts](#lua-demos)
+- [Matlab](#matlab)
+    - [Computer Vision](#matlab-cv)
+    - [Natural Language Processing](#matlab-nlp)
+    - [General-Purpose Machine Learning](#matlab-general-purpose)
+    - [Data Analysis / Data Visualization](#matlab-data-analysis)
+- [.NET](#net)
+    - [Computer Vision](#net-cv)
+    - [Natural Language Processing](#net-nlp)
+    - [General-Purpose Machine Learning](#net-general-purpose)
+    - [Data Analysis / Data Visualization](#net-data-analysis)
+- [Python](#python)
+    - [Computer Vision](#python-cv)
+    - [Natural Language Processing](#python-nlp)
+    - [General-Purpose Machine Learning](#python-general-purpose)
+    - [Data Analysis / Data Visualization](#python-data-analysis)
+    - [Misc Scripts / iPython Notebooks / Codebases](#python-misc)
+    - [Kaggle Competition Source Code](#python-kaggle)
+- [Ruby](#ruby)
+    - [Natural Language Processing](#ruby-nlp)
+    - [General-Purpose Machine Learning](#ruby-general-purpose)
+    - [Data Analysis / Data Visualization](#ruby-data-analysis)
+    - [Misc](#ruby-misc)
+- [R](#r)
+    - [General-Purpose Machine Learning](#r-general-purpose)
+    - [Data Analysis / Data Visualization](#r-data-analysis)
+- [Scala](#scala)
+    - [Natural Language Processing](#scala-nlp)
+    - [Data Analysis / Data Visualization](#scala-data-analysis)
+    - [General-Purpose Machine Learning](#scala-general-purpose)
+- [Swift](#swift)
+    - [General-Purpose Machine Learning](#swift-general-purpose)
+- [Credits](#credits)
 
 <!-- /MarkdownTOC -->
 
+<a name="c" />
 ## C
 
+<a name="c-general-purpose" />
 #### General-Purpose Machine Learning
 * [Recommender](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
 * [Accord-Framework](http://accord-framework.net/) -The Accord.NET Framework is a complete framework for building machine learning, computer vision, computer audition, signal processing and statistical applications.
 
+<a name="c-cv" />
 #### Computer Vision
 
 * [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
 
+<a name="cpp" />
 ## C++
 
+<a name="cpp-cv" />
 #### Computer Vision
 
 * [OpenCV](http://opencv.org) - OpenCV has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS.
 * [DLib](http://dlib.net/imaging.html) - DLib has C++ and Python interfaces for face detection and training general object detectors.
 
+<a name="cpp-general-purpose" />
 #### General-Purpose Machine Learning
 
 * [MLPack](http://www.mlpack.org/)
@@ -105,19 +111,24 @@ For a list of free machine learning books available for download, go [here](http
 * [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind. [DEEP LEARNING]
 * [CUDA](https://code.google.com/p/cuda-convnet/) - This is a fast C++/CUDA implementation of convolutional [DEEP LEARNING]
 
+<a name="cpp-nlp" />
 #### Natural Language Processing
 * [MIT Information Extraction Toolkit](https://github.com/mit-nlp/MITIE) - C, C++, and Python tools for named entity recognition and relation extraction
 
+<a name="cpp-sequence" />
 #### Sequence Analysis
 * [ToPS](https://github.com/ayoshiaki/tops) - This is an objected-oriented framework that facilitates the integration of probabilistic models for sequences over a user defined alphabet.
 
+<a name="clojure" />
 ## Clojure
 
+<a name="clojure-nlp" />
 #### Natural Language Processing
 
 * [Clojure-openNLP](https://github.com/dakrone/clojure-opennlp) - Natural Language Processing in Clojure (opennlp)
 * [Infections-clj](https://github.com/r0man/inflections-clj) - Rails-like inflection library for Clojure and ClojureScript
 
+<a name="clojure-general-purpose" />
 #### General-Purpose Machine Learning
 
 * [Touchstone](https://github.com/ptaoussanis/touchstone) - Clojure A/B testing library
@@ -127,19 +138,23 @@ For a list of free machine learning books available for download, go [here](http
 * [Encog](https://github.com/jimpil/enclog) - Clojure wrapper for Encog (v3) (Machine-Learning framework that specialises in neural-nets)
 * [Fungp](https://github.com/vollmerm/fungp) - A genetic programming library for Clojure
 
+<a name="clojure-data-analysis" />
 #### Data Analysis / Data Visualization
 
 * [Incanter](http://incanter.org/) - Incanter is a Clojure-based, R-like platform for statistical computing and graphics.
 
 
+<a name="go" />
 ## Go
 
+<a name="go-nlp" />
 #### Natural Language Processing
 
 * [go-porterstemmer](https://github.com/reiver/go-porterstemmer) - A native Go clean room implementation of the Porter Stemming algorithm.
 * [paicehusk](https://github.com/Rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm
 * [snowball](https://bitbucket.org/tebeka/snowball) - Snowball Stemmer for Go.
 
+<a name="go-general-purpose" />
 #### General-Purpose Machine Learning
 
 * [Go Learn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go
@@ -149,13 +164,16 @@ For a list of free machine learning books available for download, go [here](http
 * [Cloudforest](https://github.com/ryanbressler/CloudForest) - Ensembles of decision trees in go/golang.
 * [gobrain](https://github.com/jonhkr/gobrain) - Neural Networks written in go
 
+<a name="go-data-analysis" />
 #### Data Analysis / Data Visualization
 
 * [go-graph](https://github.com/StepLg/go-graph) - Graph library for Go/golang language.
 * [SVGo](http://www.svgopen.org/2011/papers/34-SVGo_a_Go_Library_for_SVG_generation/) - The Go Language library for SVG generation
 
+<a name="java" />
 ## Java
 
+<a name="java-nlp" />
 #### Natural Language Processing
 
 * [CoreNLP] (http://nlp.stanford.edu/software/corenlp.shtml) - Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words
@@ -177,6 +195,7 @@ For a list of free machine learning books available for download, go [here](http
 * [ClearTK](https://code.google.com/p/cleartk/) - ClearTK provides a framework for developing statistical natural language processing (NLP) components in Java and is built on top of Apache UIMA.
 * [Apache cTAKES](http://ctakes.apache.org/) - Apache clinical Text Analysis and Knowledge Extraction System (cTAKES) is an open-source natural language processing system for information extraction from electronic medical record clinical free-text.
 
+<a name="java-general-purpose" />
 #### General-Purpose Machine Learning
 
 * [JSAT](https://code.google.com/p/java-statistical-analysis-tool/) - Numerous Machine Learning algoirhtms for classification, regresion, and  clustering.
@@ -189,14 +208,17 @@ For a list of free machine learning books available for download, go [here](http
 * [WalnutiQ](https://github.com/WalnutiQ/WalnutiQ) - object oriented model of the human brain
 * [ELKI](http://elki.dbs.ifi.lmu.de/) - Java toolkit for data mining. (unsupervised: clustering, outlier detection etc.)
 
+<a name="java-data-analysis" />
 #### Data Analysis / Data Visualization
 
 * [Hadoop](https://github.com/apache/hadoop-mapreduce) - Hadoop/HDFS
 * [Spark](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
 * [Impala](https://github.com/cloudera/impala) - Real-time Query for Hadoop
 
+<a name="javascript" />
 ## Javascript
 
+<a name="javascript-nlp" />
 #### Natural Language Processing
 
 * [Twitter-text-js](https://github.com/twitter/twitter-text-js) - A JavaScript implementation of Twitter's text processing library
@@ -204,6 +226,7 @@ For a list of free machine learning books available for download, go [here](http
 * [natural](https://github.com/NaturalNode/natural) - General natural language facilities for node
 * [Knwl.js](https://github.com/loadfive/Knwl.js) - A Natural Language Processor in JS
 
+<a name="javascript-data-analysis" />
 #### Data Analysis / Data Visualization
 
 * [D3.js](http://d3js.org/)
@@ -216,6 +239,7 @@ For a list of free machine learning books available for download, go [here](http
 * [statkit](https://github.com/rigtorp/statkit) - Statistics kit for JavaScript
 * [science.js](https://github.com/jasondavies/science.js/) - Scientific and statistical computing in JavaScript.
 
+<a name="javascript-general-purpose" />
 #### General-Purpose Machine Learning
 
 * [Convnet.js](http://cs.stanford.edu/people/karpathy/convnetjs/) - ConvNetJS is a Javascript library for training Deep Learning models[DEEP LEARNING]
@@ -230,8 +254,10 @@ For a list of free machine learning books available for download, go [here](http
 * [Brain](https://github.com/harthur/brain) - Neural networks in JavaScript
 * [Bayesian-Bandit](https://github.com/omphalos/bayesian-bandit.js) - Bayesian bandit implementation for Node and the browser.
 
+<a name="julia" />
 ## Julia
 
+<a name="julia-general-purpose" />
 #### General-Purpose Machine Learning
 
 * [PGM](https://github.com/JuliaStats/PGM.jl) - A Julia framework for probabilistic graphical models.
@@ -255,12 +281,14 @@ For a list of free machine learning books available for download, go [here](http
 * [NMF](https://github.com/JuliaStats/NMF.jl) - A Julia package for non-negative matrix factorization
 * [ANN](https://github.com/EricChiang/ANN.jl) - Julia artificial neural networks
 
+<a name="julia-nlp" />
 #### Natural Language Processing
 
 * [Topic Models](https://github.com/slycoder/TopicModels.jl) - TopicModels for Julia
 * [Text Analysis](https://github.com/johnmyleswhite/TextAnalysis.jl) - Julia package for text analysis
 
 
+<a name="julia-data-analysis" />
 #### Data Analysis / Data Visualization
 
 * [Graph Layout](https://github.com/IainNZ/GraphLayout.jl) - Graph layout algorithms in pure Julia
@@ -278,6 +306,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Time Series](https://github.com/JuliaStats/TimeSeries.jl) - Time series toolkit for Julia
 * [Sampling](https://github.com/JuliaStats/Sampling.jl) - Basic sampling algorithms for Julia
 
+<a name="julia-misc" />
 #### Misc Stuff / Presentations
 
 * [DSP](https://github.com/JuliaDSP/DSP.jl) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
@@ -285,8 +314,10 @@ For a list of free machine learning books available for download, go [here](http
 * [SignalProcessing](https://github.com/davidavdav/SignalProcessing) - Signal Processing tools for Julia
 * [Images](https://github.com/timholy/Images.jl) - An image library for Julia
 
+<a name="lua" />
 ## Lua
 
+<a name="lua-general-purpose" />
 #### General-Purpose Machine Learning
 
 * [Torch7](http://torch.ch/)
@@ -323,6 +354,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Lua - Numerical Algorithms](https://bitbucket.org/lucashnegri/lna)
 * [Lunum](http://zrake.webfactional.com/projects/lunum)
 
+<a name="lua-demos" />
 #### Demos and Scripts
 * [Core torch7 demos repository](https://github.com/e-lab/torch7-demos).
   * linear-regression, logistic-regression
@@ -350,8 +382,10 @@ For a list of free machine learning books available for download, go [here](http
 
 
 
+<a name="matlab" />
 ## Matlab
 
+<a name="matlab-cv" />
 #### Computer Vision
 
 * [Contourlets](http://www.ifp.illinois.edu/~minhdo/software/contourlet_toolbox.tar) - MATLAB source code that implements the contourlet transform and its utility functions.
@@ -359,10 +393,12 @@ For a list of free machine learning books available for download, go [here](http
 * [Curvelets](http://www.curvelet.org/software.html) - The Curvelet transform is a higher dimensional generalization of the Wavelet transform designed to represent images at different scales and different angles.
 * [Bandlets](http://www.cmap.polytechnique.fr/~peyre/download/) - MATLAB code for bandlet transform
 
+<a name="matlab-nlp" />
 #### Natural Language Processing
 
 * [NLP](https://amplab.cs.berkeley.edu/2012/05/05/an-nlp-library-for-matlab/) - An NLP library for Matlab
 
+<a name="matlab-general-purpose" />
 #### General-Purpose Machine Learning
 
 * [Training a deep autoencoder or a classifier
@@ -376,22 +412,27 @@ on MNIST digits[DEEP LEARNING]
 * [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind.
 * [Pattern Recognition Toolbox](https://github.com/newfolder/PRT)  - A complete object-oriented environment for machine learning in Matlab.
 
+<a name="matlab-data-analysis" />
 #### Data Analysis / Data Visualization
 
 * [matlab_gbl](https://www.cs.purdue.edu/homes/dgleich/packages/matlab_bgl/) - MatlabBGL is a Matlab package for working with graphs.
 * [gamic](http://www.mathworks.com/matlabcentral/fileexchange/24134-gaimc---graph-algorithms-in-matlab-code) - Efficient pure-Matlab implementations of graph algorithms to complement MatlabBGL's mex functions.
 
+<a name="net" />
 ## .NET
 
+<a name="net-cv" />
 #### Computer Vision
 
 * [OpenCVDotNet](https://code.google.com/p/opencvdotnet/) - A wrapper for the OpenCV project to be used with .NET applications.
 * [Emgu CV](http://www.emgu.com/wiki/index.php/Main_Page) - Cross platform wrapper of OpenCV which can be compiled in Mono to e run on Windows, Linus, Mac OS X, iOS, and Android.
 
+<a name="net-nlp" />
 #### Natural Language Processing
 
 * [Stanford.NLP for .NET](https://github.com/sergey-tihon/Stanford.NLP.NET/) - A full port of Stanford NLP packages to .NET and also available precompiled as a NuGet package.
 
+<a name="net-general-purpose" />
 #### General-Purpose Machine Learning
 
 * [Accord.MachineLearning](http://www.nuget.org/packages/Accord.MachineLearning/) - Support Vector Machines, Decision Trees, Naive Bayesian models, K-means, Gaussian Mixture models and general algorithms such as Ransac, Cross-validation and Grid-Search for machine-learning applications. This package is part of the Accord.NET Framework.
@@ -399,18 +440,22 @@ on MNIST digits[DEEP LEARNING]
 * [Encog](http://www.nuget.org/packages/encog-dotnet-core/) -  An advanced neural network and machine learning framework. Encog contains classes to create a wide variety of networks, as well as support classes to normalize and process data for these neural networks. Encog trains using multithreaded resilient propagation. Encog can also make use of a GPU to further speed processing time. A GUI based workbench is also provided to help model and train neural networks.
 * [Neural Network Designer](http://bragisoft.com/) - DBMS management system and designer for neural networks. The designer application is developed using WPF, and is a user interface which allows you to design your neural network, query the network, create and configure chat bots that are capable of asking questions and learning from your feed back.  The chat bots can even scrape the internet for information to return in their output as well as to use for learning.
 
+<a name="net-data-analysis" />
 #### Data Analysis / Data Visualization
 
 * [numl](http://www.nuget.org/packages/numl/) - numl is a machine learning library intended to ease the use of using standard modeling techniques for both prediction and clustering.
 * [Math.NET Numerics](http://www.nuget.org/packages/MathNet.Numerics/) - Numerical foundation of the Math.NET project, aiming to provide methods and algorithms for numerical computations in science, engineering and every day use. Supports .Net 4.0, .Net 3.5 and Mono on Windows, Linux and Mac; Silverlight 5, WindowsPhone/SL 8, WindowsPhone 8.1 and Windows 8 with PCL Portable Profiles 47 and 344; Android/iOS with Xamarin.
 * [Sho](http://research.microsoft.com/en-us/projects/sho/) - Sho is an interactive environment for data analysis and scientific computing that lets you seamlessly connect scripts (in IronPython) with compiled code (in .NET) to enable fast and flexible prototyping. The environment includes powerful and efficient libraries for linear algebra as well as data visualization that can be used from any .NET language, as well as a feature-rich interactive shell for rapid development.
 
+<a name="python" />
 ## Python
 
+<a name="python-cv" />
 #### Computer Vision
 
 * [SimpleCV](http://simplecv.org/) - An open source computer vision framework that gives access to several high-powered computer vision libraries, such as OpenCV. Written on Python and runs on Mac, Windows, and Ubuntu Linux.
 
+<a name="python-nlp" />
 #### Natural Language Processing
 
 * [NLTK](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
@@ -423,6 +468,7 @@ on MNIST digits[DEEP LEARNING]
 * [nut](https://github.com/pprett/nut) - Natural language Understanding Toolkit
 * [Rosetta](https://github.com/columbia-applied-data-science/rosetta) - Text processing tools and wrappers (e.g. Vowpal Wabbit)
 
+<a name="python-general-purpose" />
 #### General-Purpose Machine Learning
 
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Book/iPython notebooks on Probabilistic Programming in Python
@@ -448,8 +494,8 @@ on MNIST digits[DEEP LEARNING]
 * [Pyevolve](https://github.com/perone/Pyevolve) - Genetic algorithm framework.
 * [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind.
 * [breze](https://github.com/breze-no-salt/breze) - Theano based library for deep and recurrent neural networks
-* [pyhsmm](https://github.com/mattjj/pyhsmm) - library for approximate unsupervised inference in Bayesian Hidden Markov Models (HMMs) and explicit-duration Hidden semi-Markov Models (HSMMs), focusing on the Bayesian Nonparametric extensions, the HDP-HMM and HDP-HSMM, mostly with weak-limit approximations.
 
+<a name="python-data-analysis" />
 #### Data Analysis / Data Visualization
 
 * [SciPy](http://www.scipy.org/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering.
@@ -474,6 +520,7 @@ on MNIST digits[DEEP LEARNING]
 * [pygal](http://pygal.org/) - A Python SVG Charts Creator.
 * [pycascading](https://github.com/twitter/pycascading)
 
+<a name="python-misc" />
 #### Misc Scripts / iPython Notebooks / Codebases
 
 * [pattern_classification](https://github.com/rasbt/pattern_classification)
@@ -497,6 +544,7 @@ on MNIST digits[DEEP LEARNING]
 * [pandas cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
 * [climin](https://github.com/BRML/climin) - Optimization library focused on machine learning, pythonic implementations of gradient descent, LBFGS, rmsprop, adadelta and others
 
+<a name="python-kaggle" />
 #### Kaggle Competition Source Code
 
 * [wiki challange](https://github.com/hammer/wikichallenge) - An implementation of Dell Zhang's solution to Wikipedia's Participation Challenge on Kaggle
@@ -517,8 +565,10 @@ on MNIST digits[DEEP LEARNING]
 * [kaggle_acquire-valued-shoppers-challenge](https://github.com/MLWave/kaggle_acquire-valued-shoppers-challenge) - Code for the Kaggle acquire valued shoppers challenge
 * [wine-quality](https://github.com/zygmuntz/wine-quality) - Predicting wine quality
 
+<a name="ruby" />
 ## Ruby
 
+<a name="ruby-nlp" />
 #### Natural Language Processing
 
 * [Treat](https://github.com/louismullie/treat) -  Text REtrieval and Annotation Toolkit, definitely the most comprehensive toolkit I’ve encountered so far for Ruby
@@ -529,6 +579,7 @@ on MNIST digits[DEEP LEARNING]
 * [UEA Stemmer](https://github.com/ealdent/uea-stemmer) - Ruby port of UEALite Stemmer - a conservative stemmer for search and indexing
 * [Twitter-text-rb](https://github.com/twitter/twitter-text-rb) - A library that does auto linking and extraction of usernames, lists and hashtags in tweets
 
+<a name="ruby-general-purpose" />
 #### General-Purpose Machine Learning
 
 * [Ruby Machine Learning](https://github.com/tsycho/ruby-machine-learning) - Some Machine Learning algorithms, implemented in Ruby
@@ -537,6 +588,7 @@ on MNIST digits[DEEP LEARNING]
 * [CardMagic-Classifier](https://github.com/cardmagic/classifier) - A general classifier module to allow Bayesian and other types of classifications.
 * [Neural Networks and Deep Learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning" [DEEP LEARNING]
 
+<a name="ruby-data-analysis" />
 #### Data Analysis / Data Visualization
 
 * [rsruby](https://github.com/alexgutteridge/rsruby) - Ruby - R bridge
@@ -549,13 +601,16 @@ on MNIST digits[DEEP LEARNING]
 * [Bioruby](https://github.com/bioruby/bioruby)
 * [Arel](https://github.com/nkallen/arel)
 
+<a name="ruby-misc" />
 #### Misc
 
 * [Big Data For Chimps](https://github.com/infochimps-labs/big_data_for_chimps)
 * [Listof](https://github.com/kevincobain2000/listof) - Community based data collection, packed in gem. Get list of pretty much anything (stop words, countries, non words) in txt, json or hash. [Demo/Search for a list](http://listof.herokuapp.com/)
 
+<a name="r" />
 ## R
 
+<a name="r-general-purpose" />
 #### General-Purpose Machine Learning
 
 * [h2o](http://cran.r-project.org/web/packages/h2o/index.html) - A framework for fast, parallel, and distributed machine learning algorithms at scale -- Deeplearning, Random forests, GBM, KMeans, PCA, GLM
@@ -668,13 +723,16 @@ Angle Regression
 * [SuperLearner](https://github.com/ecpolley/SuperLearner) and [subsemble](http://cran.r-project.org/web/packages/subsemble/index.html) - Multi-algorithm ensemble learning packages.
 * [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 
+<a name="r-data-analysis" />
 #### Data Analysis / Data Visualization
 
 * [Learning Statistics Using R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/)
 * [ggplot2](http://ggplot2.org/) - A data visualization package based on the grammar of graphics.
 
+<a name="scala" />
 ## Scala
 
+<a name="scala-nlp" />
 #### Natural Language Processing
 
 * [ScalaNLP](http://www.scalanlp.org/) - ScalaNLP is a suite of machine learning and numerical computing libraries.
@@ -682,6 +740,7 @@ Angle Regression
 * [Chalk](https://github.com/scalanlp/chalk) - Chalk is a natural language processing library.
 * [FACTORIE](https://github.com/factorie/factorie) - FACTORIE is a toolkit for deployable probabilistic modeling, implemented as a software library in Scala. It provides its users with a succinct language for creating relational factor graphs, estimating parameters and performing inference.
 
+<a name="scala-data-analysis" />
 #### Data Analysis / Data Visualization
 
 * [MLlib in Apache Spark](http://spark.apache.org/docs/latest/mllib-guide.html) - Distributed machine learning library in Spark
@@ -693,6 +752,7 @@ Angle Regression
 * [PredictionIO](https://github.com/PredictionIO/PredictionIO) - PredictionIO, a machine learning server for software developers and data engineers.
 * [BIDMat](https://github.com/BIDData/BIDMat) - CPU and GPU-accelerated matrix library intended to support large-scale exploratory data analysis.
 
+<a name="scala-general-purpose" />
 #### General-Purpose Machine Learning
 
 * [Conjecture](https://github.com/etsy/Conjecture) - Scalable Machine Learning in Scalding
@@ -703,11 +763,15 @@ Angle Regression
 * [BIDMach](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
 * [Figaro](https://github.com/p2t2/figaro) - a Scala library for constructing probabilistic models.
 
+<a name="swift" />
 ## Swift
+
+<a name="swift-general-purpose" />
 #### General-Purpose Machine Learning
 * [swix](https://github.com/scottsievert/swix) - A bare bones library that
   includes a general matrix language and wraps some OpenCV for iOS development.
 
+<a name="credits" />
 ## Credits
 
 * Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
