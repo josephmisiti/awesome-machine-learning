@@ -230,6 +230,7 @@ For a list of free machine learning books available for download, go [here](http
 * [NLP.js](https://github.com/nicktesla/nlpjs) - NLP utilities in javascript and coffeescript
 * [natural](https://github.com/NaturalNode/natural) - General natural language facilities for node
 * [Knwl.js](https://github.com/loadfive/Knwl.js) - A Natural Language Processor in JS
+* [Retext](http://github.com/wooorm/retext) - Extensible system for analysing and manipulating natural language
 
 <a name="javascript-data-analysis" />
 #### Data Analysis / Data Visualization
