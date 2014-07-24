@@ -154,8 +154,9 @@ For a list of free machine learning books available for download, go [here](http
 #### Natural Language Processing
 
 * [go-porterstemmer](https://github.com/reiver/go-porterstemmer) - A native Go clean room implementation of the Porter Stemming algorithm.
-* [paicehusk](https://github.com/Rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm
+* [paicehusk](https://github.com/Rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm.
 * [snowball](https://bitbucket.org/tebeka/snowball) - Snowball Stemmer for Go.
+* [go-ngram](https://github.com/Lazin/go-ngram) - In-memory n-gram index with compression.
 
 <a name="go-general-purpose" />
 #### General-Purpose Machine Learning
