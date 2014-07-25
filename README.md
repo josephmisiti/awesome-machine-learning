@@ -501,6 +501,7 @@ on MNIST digits[DEEP LEARNING]
 * [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind.
 * [breze](https://github.com/breze-no-salt/breze) - Theano based library for deep and recurrent neural networks
 * [pyhsmm](https://github.com/mattjj/pyhsmm) - library for approximate unsupervised inference in Bayesian Hidden Markov Models (HMMs) and explicit-duration Hidden semi-Markov Models (HSMMs), focusing on the Bayesian Nonparametric extensions, the HDP-HMM and HDP-HSMM, mostly with weak-limit approximations.
+* [mrjob](https://pythonhosted.org/mrjob/) - A library to let Python program run on Hadoop.
 
 <a name="python-data-analysis" />
 #### Data Analysis / Data Visualization
