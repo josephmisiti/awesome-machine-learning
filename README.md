@@ -21,6 +21,8 @@ For a list of free machine learning books available for download, go [here](http
     - [Natural Language Processing](#clojure-nlp)
     - [General-Purpose Machine Learning](#clojure-general-purpose)
     - [Data Analysis / Data Visualization](#clojure-data-analysis)
+- [Erlang](#erlang)
+    - [General-Purpose Machine Learning](#erlang-general-purpose)
 - [Go](#go)
     - [Natural Language Processing](#go-nlp)
     - [General-Purpose Machine Learning](#go-general-purpose)
@@ -146,6 +148,12 @@ For a list of free machine learning books available for download, go [here](http
 
 * [Incanter](http://incanter.org/) - Incanter is a Clojure-based, R-like platform for statistical computing and graphics.
 
+<a name="erlang" />
+## Erlang
+
+<a name="erlang-general-purpose" />
+#### General-Purpose Machine Learning
+* [Disco](https://github.com/discoproject/disco/) - Map Reduce in Erlang
 
 <a name="go" />
 ## Go
