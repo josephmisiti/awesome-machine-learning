@@ -466,7 +466,9 @@ on MNIST digits[DEEP LEARNING]
 
 * [NLTK](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
 * [Pattern](http://www.clips.ua.ac.be/pattern) - A web mining module for the Python programming language. It has tools for natural language processing, machine learning, among others.
+* [Quepy](https://github.com/machinalis/quepy) - A python framework to transform natural language questions to queries in a database query language
 * [TextBlob](http://textblob.readthedocs.org/) - Providing a consistent API for diving into common natural language processing (NLP) tasks. Stands on the giant shoulders of NLTK and Pattern, and plays nicely with both.
+* [YAlign](https://github.com/machinalis/yalign) - A sentence aligner, a friendly tool for extracting parallel sentences from comparable corpora.
 * [jieba](https://github.com/fxsjy/jieba#jieba-1) - Chinese Words Segmentation Utilities.
 * [SnowNLP](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
 * [loso](https://github.com/victorlin/loso) - Another Chinese segmentation library.
@@ -478,8 +480,10 @@ on MNIST digits[DEEP LEARNING]
 #### General-Purpose Machine Learning
 
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Book/iPython notebooks on Probabilistic Programming in Python
+* [Featureforge](https://github.com/machinalis/featureforge) A set of tools for creating and testing machine learning features, with a scikit-learn compatible API
 * [MLlib in Apache Spark](http://spark.apache.org/docs/latest/mllib-guide.html) - Distributed machine learning library in Spark
 * [scikit-learn](http://scikit-learn.org/) - A Python module for machine learning built on top of SciPy.
+* [SimpleAI](http://github.com/simpleai-team/simpleai) Python implementation of many of the artificial intelligence algorithms described on the book "Artificial Intelligence, a Modern Approach". It focuses on providing an easy to use, well documented and tested library.
 * [astroML](http://www.astroml.org/) - Machine Learning and Data Mining for Astronomy.
 * [graphlab-create](http://graphlab.com/products/create/docs/) - A library with various machine learning models (regression, clustering, recommender systems, graph analytics, etc.) implemented on top of a disk-backed DataFrame.
 * [BigML](https://bigml.com) - A library that contacts external servers.
