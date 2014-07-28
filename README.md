@@ -194,8 +194,10 @@ For a list of free machine learning books available for download, go [here](http
 
 <a name="haskell-general-purpose" />
 #### General-Purpose Machine Learning
-* [hnn](http://www.haskell.org/haskellwiki/HNN) - Haskell Neural Network library.
+* [haskell-ml](https://github.com/ajtulloch/haskell-ml) - Haskell implementations of various ML algorithms.
 * [HLearn](https://github.com/mikeizbicki/HLearn) - a suite of libraries for interpreting machine learning models according to their algebraic structure.
+* [hnn](http://www.haskell.org/haskellwiki/HNN) - Haskell Neural Network library.
+* [hopfield-networks](https://github.com/ajtulloch/hopfield-networks) - Hopfield Networks for unsupervised learning in Haskell.
 
 
 <a name="java" />
