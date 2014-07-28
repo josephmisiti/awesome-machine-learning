@@ -27,6 +27,8 @@ For a list of free machine learning books available for download, go [here](http
     - [Natural Language Processing](#go-nlp)
     - [General-Purpose Machine Learning](#go-general-purpose)
     - [Data Analysis / Data Visualization](#go-data-analysis)
+- [Haskell](#haskell)
+    - [General-Purpose Machine Learning](#haskell-general-purpose)
 - [Java](#java)
     - [Natural Language Processing](#java-nlp)
     - [General-Purpose Machine Learning](#java-general-purpose)
@@ -100,7 +102,7 @@ For a list of free machine learning books available for download, go [here](http
 * [OpenCV](http://opencv.org) - OpenCV has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS.
 * [DLib](http://dlib.net/imaging.html) - DLib has C++ and Python interfaces for face detection and training general object detectors.
 * [EBLearn](http://eblearn.sourceforge.net/) - Eblearn is an object-oriented C++ library that implements various machine learning models
-* 
+*
 
 <a name="cpp-general-purpose" />
 #### General-Purpose Machine Learning
@@ -185,6 +187,16 @@ For a list of free machine learning books available for download, go [here](http
 
 * [go-graph](https://github.com/StepLg/go-graph) - Graph library for Go/golang language.
 * [SVGo](http://www.svgopen.org/2011/papers/34-SVGo_a_Go_Library_for_SVG_generation/) - The Go Language library for SVG generation
+
+
+<a name="haskell" />
+## Haskell
+
+<a name="haskell-general-purpose" />
+#### General-Purpose Machine Learning
+* [hnn](http://www.haskell.org/haskellwiki/HNN) - Haskell Neural Network library.
+* [HLearn](https://github.com/mikeizbicki/HLearn) - a suite of libraries for interpreting machine learning models according to their algebraic structure.
+
 
 <a name="java" />
 ## Java
@@ -804,4 +816,3 @@ Angle Regression
 
 * Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
 * The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
-
