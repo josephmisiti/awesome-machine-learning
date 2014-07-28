@@ -99,6 +99,8 @@ For a list of free machine learning books available for download, go [here](http
 
 * [OpenCV](http://opencv.org) - OpenCV has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS.
 * [DLib](http://dlib.net/imaging.html) - DLib has C++ and Python interfaces for face detection and training general object detectors.
+* [EBLearn](http://eblearn.sourceforge.net/) - Eblearn is an object-oriented C++ library that implements various machine learning models
+* 
 
 <a name="cpp-general-purpose" />
 #### General-Purpose Machine Learning
@@ -222,6 +224,8 @@ For a list of free machine learning books available for download, go [here](http
 * [H2O](https://github.com/0xdata/h2o) - ML engine that supports distributed learning on data stored in HDFS.
 * [WalnutiQ](https://github.com/WalnutiQ/WalnutiQ) - object oriented model of the human brain
 * [ELKI](http://elki.dbs.ifi.lmu.de/) - Java toolkit for data mining. (unsupervised: clustering, outlier detection etc.)
+* [Neuroph](http://neuroph.sourceforge.net/) - Neuroph is lightweight Java neural network framework
+* [java-deeplearning](https://github.com/agibsonccc/java-deeplearning) - Distributed Deep Learning Platform for Java, Clojure,Scala
 
 <a name="java-data-analysis" />
 #### Data Analysis / Data Visualization
@@ -517,6 +521,7 @@ on MNIST digits[DEEP LEARNING]
 * [pyhsmm](https://github.com/mattjj/pyhsmm) - library for approximate unsupervised inference in Bayesian Hidden Markov Models (HMMs) and explicit-duration Hidden semi-Markov Models (HSMMs), focusing on the Bayesian Nonparametric extensions, the HDP-HMM and HDP-HSMM, mostly with weak-limit approximations.
 * [mrjob](https://pythonhosted.org/mrjob/) - A library to let Python program run on Hadoop.
 * [SKLL](https://github.com/EducationalTestingService/skll) - A wrapper around scikit-learn that makes it simpler to conduct experiments.
+* [neurolab](https://code.google.com/p/neurolab/) - https://code.google.com/p/neurolab/
 
 <a name="python-data-analysis" />
 #### Data Analysis / Data Visualization
