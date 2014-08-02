@@ -154,6 +154,7 @@ For a list of free machine learning books available for download, go [here](http
 #### Data Analysis / Data Visualization
 
 * [Incanter](http://incanter.org/) - Incanter is a Clojure-based, R-like platform for statistical computing and graphics.
+* [PigPen](https://github.com/Netflix/PigPen) - Map-Reduce for Clojure.
 
 <a name="erlang" />
 ## Erlang
@@ -446,6 +447,7 @@ on MNIST digits[DEEP LEARNING]
 * [Machine Learning Module](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF,lectures,code
 * [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind.
 * [Pattern Recognition Toolbox](https://github.com/newfolder/PRT)  - A complete object-oriented environment for machine learning in Matlab.
+* [Pattern Recognition and Machine Learning](https://github.com/PRML/PRML) - This package contains the matlab implementation of the algorithms described in the book Pattern Recognition and Machine Learning by C. Bishop.
 
 <a name="matlab-data-analysis" />
 #### Data Analysis / Data Visualization
@@ -537,6 +539,7 @@ on MNIST digits[DEEP LEARNING]
 * [mrjob](https://pythonhosted.org/mrjob/) - A library to let Python program run on Hadoop.
 * [SKLL](https://github.com/EducationalTestingService/skll) - A wrapper around scikit-learn that makes it simpler to conduct experiments.
 * [neurolab](https://code.google.com/p/neurolab/) - https://code.google.com/p/neurolab/
+* [Spearmint](https://github.com/JasperSnoek/spearmint) - Spearmint is a package to perform Bayesian optimization according to the algorithms outlined in the paper: Practical Bayesian Optimization of Machine Learning Algorithms. Jasper Snoek, Hugo Larochelle and Ryan P. Adams. Advances in Neural Information Processing Systems, 2012.
 
 <a name="python-data-analysis" />
 #### Data Analysis / Data Visualization
@@ -562,6 +565,9 @@ on MNIST digits[DEEP LEARNING]
 * [Kartograph.py](https://github.com/kartograph/kartograph.py) - Rendering beautiful SVG maps in Python.
 * [pygal](http://pygal.org/) - A Python SVG Charts Creator.
 * [pycascading](https://github.com/twitter/pycascading)
+* [Petrel](https://github.com/AirSage/Petrel) - Tools for writing, submitting, debugging, and monitoring Storm topologies in pure Python.
+* [Blaze](https://github.com/ContinuumIO/blaze) - NumPy and Pandas interface to Big Data.
+* [emcee](https://github.com/dfm/emcee) - The Python ensemble sampling toolkit for affine-invariant MCMC.
 
 <a name="python-misc" />
 #### Misc Scripts / iPython Notebooks / Codebases
@@ -586,6 +592,10 @@ on MNIST digits[DEEP LEARNING]
 * [mne-python-notebooks](https://github.com/mne-tools/mne-python-notebooks) - IPython notebooks for EEG/MEG data processing using mne-python
 * [pandas cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
 * [climin](https://github.com/BRML/climin) - Optimization library focused on machine learning, pythonic implementations of gradient descent, LBFGS, rmsprop, adadelta and others
+* [Allen Downey’s Data Science Course](https://github.com/AllenDowney/DataScience) - Code for Data Science at Olin College, Spring 2014.
+* [Allen Downey’s Think Bayes Code](https://github.com/AllenDowney/ThinkBayes) - Code repository for Think Bayes.
+* [Allen Downey’s Think Complexity Code](https://github.com/AllenDowney/ThinkComplexity) - Code for Allen Downey's book Think Complexity.
+* [Allen Downey’s Think OS Code](https://github.com/AllenDowney/ThinkOS) - Text and supporting code for Think OS: A Brief Introduction to Operating Systems.
 
 <a name="python-kaggle" />
 #### Kaggle Competition Source Code
@@ -805,6 +815,7 @@ Angle Regression
 * [bioscala](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
 * [BIDMach](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
 * [Figaro](https://github.com/p2t2/figaro) - a Scala library for constructing probabilistic models.
+* [h2o-sparkling](https://github.com/0xdata/h2o-sparkling) - H2O and Spark interoperability.
 
 <a name="swift" />
 ## Swift
