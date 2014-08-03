@@ -243,6 +243,9 @@ For a list of free machine learning books available for download, go [here](http
 * [Neuroph](http://neuroph.sourceforge.net/) - Neuroph is lightweight Java neural network framework
 * [java-deeplearning](https://github.com/agibsonccc/java-deeplearning) - Distributed Deep Learning Platform for Java, Clojure,Scala
 
+#### Speech Recognition
+* [CMU Sphinx](http://cmusphinx.sourceforge.net/) - Open Source Toolkit For Speech Recognition purely based on Java speech recognition library.
+
 <a name="java-data-analysis" />
 #### Data Analysis / Data Visualization
 
