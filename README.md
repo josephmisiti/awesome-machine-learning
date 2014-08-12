@@ -571,6 +571,7 @@ on MNIST digits[DEEP LEARNING]
 * [Petrel](https://github.com/AirSage/Petrel) - Tools for writing, submitting, debugging, and monitoring Storm topologies in pure Python.
 * [Blaze](https://github.com/ContinuumIO/blaze) - NumPy and Pandas interface to Big Data.
 * [emcee](https://github.com/dfm/emcee) - The Python ensemble sampling toolkit for affine-invariant MCMC.
+* [windML](http://www.windml.org) - A Python Framework for Wind Energy Analysis and Prediction
 
 <a name="python-misc" />
 #### Misc Scripts / iPython Notebooks / Codebases
