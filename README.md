@@ -572,6 +572,7 @@ on MNIST digits[DEEP LEARNING]
 * [Blaze](https://github.com/ContinuumIO/blaze) - NumPy and Pandas interface to Big Data.
 * [emcee](https://github.com/dfm/emcee) - The Python ensemble sampling toolkit for affine-invariant MCMC.
 * [windML](http://www.windml.org) - A Python Framework for Wind Energy Analysis and Prediction
+* [vispy](https://github.com/vispy/vispy) - GPU-based high-performance interactive OpenGL 2D/3D data visualization library
 
 <a name="python-misc" />
 #### Misc Scripts / iPython Notebooks / Codebases
