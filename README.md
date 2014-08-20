@@ -567,6 +567,7 @@ on MNIST digits[DEEP LEARNING]
 * [ggplot](https://github.com/yhat/ggplot) - Same API as ggplot2 for R.
 * [Kartograph.py](https://github.com/kartograph/kartograph.py) - Rendering beautiful SVG maps in Python.
 * [pygal](http://pygal.org/) - A Python SVG Charts Creator.
+* [PyQtGraph](https://github.com/pyqtgraph/pyqtgraph) - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
 * [pycascading](https://github.com/twitter/pycascading)
 * [Petrel](https://github.com/AirSage/Petrel) - Tools for writing, submitting, debugging, and monitoring Storm topologies in pure Python.
 * [Blaze](https://github.com/ContinuumIO/blaze) - NumPy and Pandas interface to Big Data.
