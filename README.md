@@ -156,7 +156,7 @@ For a list of free machine learning books available for download, go [here](http
 
 * [Incanter](http://incanter.org/) - Incanter is a Clojure-based, R-like platform for statistical computing and graphics.
 * [PigPen](https://github.com/Netflix/PigPen) - Map-Reduce for Clojure.
-
+* [Envision] (https://github.com/clojurewerkz/envision) - Clojure Data Visualisation library, based on Statistiker and D3
 <a name="erlang" />
 ## Erlang
 
