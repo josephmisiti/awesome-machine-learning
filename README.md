@@ -55,6 +55,8 @@ For a list of free machine learning books available for download, go [here](http
     - [Natural Language Processing](#net-nlp)
     - [General-Purpose Machine Learning](#net-general-purpose)
     - [Data Analysis / Data Visualization](#net-data-analysis)
+- [Objective C](#objectivec)
+    - [General-Purpose Machine Learning](#objectivec-general-purpose)
 - [Python](#python)
     - [Computer Vision](#python-cv)
     - [Natural Language Processing](#python-nlp)
@@ -487,6 +489,14 @@ on MNIST digits[DEEP LEARNING]
 * [numl](http://www.nuget.org/packages/numl/) - numl is a machine learning library intended to ease the use of using standard modeling techniques for both prediction and clustering.
 * [Math.NET Numerics](http://www.nuget.org/packages/MathNet.Numerics/) - Numerical foundation of the Math.NET project, aiming to provide methods and algorithms for numerical computations in science, engineering and every day use. Supports .Net 4.0, .Net 3.5 and Mono on Windows, Linux and Mac; Silverlight 5, WindowsPhone/SL 8, WindowsPhone 8.1 and Windows 8 with PCL Portable Profiles 47 and 344; Android/iOS with Xamarin.
 * [Sho](http://research.microsoft.com/en-us/projects/sho/) - Sho is an interactive environment for data analysis and scientific computing that lets you seamlessly connect scripts (in IronPython) with compiled code (in .NET) to enable fast and flexible prototyping. The environment includes powerful and efficient libraries for linear algebra as well as data visualization that can be used from any .NET language, as well as a feature-rich interactive shell for rapid development.
+
+<a name="objectivec">
+## Objective C
+
+<a name="objectivec-general-purpose">
+### General-Purpose Machine Learning
+
+* [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X. MLPNeuralNet predicts new examples by trained neural network. It is built on top of the Apple's Accelerate Framework, using vectorized operations and hardware acceleration if available.
 
 <a name="python" />
 ## Python
