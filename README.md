@@ -152,6 +152,8 @@ For a list of free machine learning books available for download, go [here](http
 * [Encog](https://github.com/jimpil/enclog) - Clojure wrapper for Encog (v3) (Machine-Learning framework that specialises in neural-nets)
 * [Fungp](https://github.com/vollmerm/fungp) - A genetic programming library for Clojure
 * [Statistiker](https://github.com/clojurewerkz/statistiker) - Basic Machine Learning algorithms in Clojure.
+* [clortex](https://github.com/nupic-community/clortex) - General Machine Learning library using Numenta’s Cortical Learning Algorithm
+* [comportex](https://github.com/nupic-community/comportex) - Functionally composable Machine Learning library using Numenta’s Cortical Learning Algorithm
 
 <a name="clojure-data-analysis" />
 #### Data Analysis / Data Visualization
@@ -245,6 +247,7 @@ For a list of free machine learning books available for download, go [here](http
 * [ELKI](http://elki.dbs.ifi.lmu.de/) - Java toolkit for data mining. (unsupervised: clustering, outlier detection etc.)
 * [Neuroph](http://neuroph.sourceforge.net/) - Neuroph is lightweight Java neural network framework
 * [java-deeplearning](https://github.com/agibsonccc/java-deeplearning) - Distributed Deep Learning Platform for Java, Clojure,Scala
+* [htm.java](https://github.com/numenta/htm.java) - General Machine Learning library using Numenta’s Cortical Learning Algorithm
 
 #### Speech Recognition
 * [CMU Sphinx](http://cmusphinx.sourceforge.net/) - Open Source Toolkit For Speech Recognition purely based on Java speech recognition library.
