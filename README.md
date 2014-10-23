@@ -588,6 +588,8 @@ on MNIST digits[DEEP LEARNING]
 * [emcee](https://github.com/dfm/emcee) - The Python ensemble sampling toolkit for affine-invariant MCMC.
 * [windML](http://www.windml.org) - A Python Framework for Wind Energy Analysis and Prediction
 * [vispy](https://github.com/vispy/vispy) - GPU-based high-performance interactive OpenGL 2D/3D data visualization library
+* [cerebro2](https://github.com/numenta/nupic.cerebro2) A web-based visualization and debugging platform for NuPIC.
+* [NuPIC Studio](https://github.com/nupic-community/nupic.studio) An all-in-one NuPIC Hierarchical Temporal Memory visualization and debugging super-tool!
 
 <a name="python-misc" />
 #### Misc Scripts / iPython Notebooks / Codebases
