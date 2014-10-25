@@ -298,6 +298,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Node-SVM](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for nodejs
 * [Brain](https://github.com/harthur/brain) - Neural networks in JavaScript
 * [Bayesian-Bandit](https://github.com/omphalos/bayesian-bandit.js) - Bayesian bandit implementation for Node and the browser.
+* [Synaptic](https://github.com/cazala/synaptic) - Architecture-free neural network library for node.js and the browser
 
 <a name="julia" />
 ## Julia
