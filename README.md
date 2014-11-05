@@ -271,6 +271,8 @@ For a list of free machine learning books available for download, go [here](http
 * [natural](https://github.com/NaturalNode/natural) - General natural language facilities for node
 * [Knwl.js](https://github.com/loadfive/Knwl.js) - A Natural Language Processor in JS
 * [Retext](http://github.com/wooorm/retext) - Extensible system for analysing and manipulating natural language
+* [TextProcessing](https://www.mashape.com/japerk/text-processing/support) - Sentiment analysis, stemming and lemmatization, part-of-speech tagging and chunking, phrase extraction and named entity recognition.
+
 
 <a name="javascript-data-analysis" />
 #### Data Analysis / Data Visualization
