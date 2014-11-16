@@ -125,6 +125,7 @@ For a list of free machine learning books available for download, go [here](http
 #### Natural Language Processing
 * [MIT Information Extraction Toolkit](https://github.com/mit-nlp/MITIE) - C, C++, and Python tools for named entity recognition and relation extraction
 * [CRF++](http://crfpp.googlecode.com/svn/trunk/doc/index.html) - Open source implementation of Conditional Random Fields (CRFs) for segmenting/labeling sequential data & other Natural Language Processing tasks.
+* [BLLIP Parser](http://github.com/BLLIP/bllip-parser) - BLLIP Natural Language Parser (also known as the Charniak-Johnson parser)
 
 #### Speech Recognition
 * [Kaldi](http://kaldi.sourceforge.net/) - Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
@@ -527,6 +528,7 @@ on MNIST digits[DEEP LEARNING]
 * [genius](https://github.com/duanhongyi/genius) - A Chinese segment base on Conditional Random Field.
 * [nut](https://github.com/pprett/nut) - Natural language Understanding Toolkit
 * [Rosetta](https://github.com/columbia-applied-data-science/rosetta) - Text processing tools and wrappers (e.g. Vowpal Wabbit)
+* [BLLIP Parser](https://pypi.python.org/pypi/bllipparser/) - Python bindings for the BLLIP Natural Language Parser (also known as the Charniak-Johnson parser)
 
 <a name="python-general-purpose" />
 #### General-Purpose Machine Learning
