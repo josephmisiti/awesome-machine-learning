@@ -285,7 +285,7 @@ For a list of free machine learning books available for download, go [here](http
 * [chartjs](http://www.chartjs.org/)
 * [dimple](http://dimplejs.org/)
 * [amCharts](http://www.amcharts.com/)
-* [D3xter](https://github.com/NathanEpstein/D3xter)
+* [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting built on D3
 * [statkit](https://github.com/rigtorp/statkit) - Statistics kit for JavaScript
 * [science.js](https://github.com/jasondavies/science.js/) - Scientific and statistical computing in JavaScript.
 
