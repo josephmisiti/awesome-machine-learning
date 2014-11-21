@@ -285,6 +285,7 @@ For a list of free machine learning books available for download, go [here](http
 * [chartjs](http://www.chartjs.org/)
 * [dimple](http://dimplejs.org/)
 * [amCharts](http://www.amcharts.com/)
+* [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting built on D3
 * [statkit](https://github.com/rigtorp/statkit) - Statistics kit for JavaScript
 * [science.js](https://github.com/jasondavies/science.js/) - Scientific and statistical computing in JavaScript.
 
@@ -303,6 +304,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Brain](https://github.com/harthur/brain) - Neural networks in JavaScript
 * [Bayesian-Bandit](https://github.com/omphalos/bayesian-bandit.js) - Bayesian bandit implementation for Node and the browser.
 * [Synaptic](https://github.com/cazala/synaptic) - Architecture-free neural network library for node.js and the browser
+* [kNear](https://github.com/NathanEpstein/kNear) - JavaScript implementation of the k nearest neighbors algorithm for supervised learning
 
 <a name="julia" />
 ## Julia
