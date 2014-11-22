@@ -332,6 +332,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Dimensionality Reduction](https://github.com/JuliaStats/DimensionalityReduction.jl) - Methods for dimensionality reduction
 * [NMF](https://github.com/JuliaStats/NMF.jl) - A Julia package for non-negative matrix factorization
 * [ANN](https://github.com/EricChiang/ANN.jl) - Julia artificial neural networks
+* [Mocha.jl](https://github.com/pluskid/Mocha.jl) - Deep Learning framework for Julia inspired by Caffe
 
 <a name="julia-nlp" />
 #### Natural Language Processing
