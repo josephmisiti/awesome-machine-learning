@@ -117,6 +117,8 @@ For a list of free machine learning books available for download, go [here](http
 * [sofia-ml](https://code.google.com/p/sofia-ml/) - Suite of fast incremental algorithms.
 * [Shogun](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox
 * [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind. [DEEP LEARNING]
+* [CXXNET](https://github.com/antinucleon/cxxnet) - Yet another deep learning framework with less than 1000 lines core code
+* [XGBoost](https://github.com/tqchen/xgboost) - A parallelized optimized general purpose gradient boosting library. 
 * [CUDA](https://code.google.com/p/cuda-convnet/) - This is a fast C++/CUDA implementation of convolutional [DEEP LEARNING]
 * [Stan](http://mc-stan.org/) - A probabilistic programming language implementing full Bayesian statistical inference with Hamiltonian Monte Carlo sampling
 * [BanditLib](https://github.com/jkomiyama/banditlib) - A simple Multi-armed Bandit library.
@@ -333,6 +335,7 @@ For a list of free machine learning books available for download, go [here](http
 * [NMF](https://github.com/JuliaStats/NMF.jl) - A Julia package for non-negative matrix factorization
 * [ANN](https://github.com/EricChiang/ANN.jl) - Julia artificial neural networks
 * [Mocha.jl](https://github.com/pluskid/Mocha.jl) - Deep Learning framework for Julia inspired by Caffe
+* [XGBoost.jl](https://github.com/antinucleon/XGBoost.jl) - eXtreme Gradient Boosting Package in Julia
 
 <a name="julia-nlp" />
 #### Natural Language Processing
