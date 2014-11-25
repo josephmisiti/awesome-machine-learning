@@ -40,6 +40,12 @@ http://sebastianraschka.com/
 
 http://dogdogfish.com/
 
+http://www.johnmyleswhite.com/
+
+http://drewconway.com/zia/
+
+http://bugra.github.io/
+
 ##### Math
 
 http://www.sumsar.net/
