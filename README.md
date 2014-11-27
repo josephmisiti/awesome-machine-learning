@@ -851,6 +851,7 @@ Angle Regression
 * [simmer](https://github.com/avibryant/simmer) - Reduce your data. A unix filter for algebird-powered aggregation.
 * [PredictionIO](https://github.com/PredictionIO/PredictionIO) - PredictionIO, a machine learning server for software developers and data engineers.
 * [BIDMat](https://github.com/BIDData/BIDMat) - CPU and GPU-accelerated matrix library intended to support large-scale exploratory data analysis.
+* [Wolfe](http://www.wolfe.ml/) Declarative Machine Learning
 
 <a name="scala-general-purpose" />
 #### General-Purpose Machine Learning
