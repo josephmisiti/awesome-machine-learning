@@ -588,6 +588,7 @@ on MNIST digits[DEEP LEARNING]
 * [Theano](https://github.com/Theano/Theano/) - Optimizing GPU-meta-programming code generating array oriented optimizing math compiler in Python
 * [yahmm](https://github.com/jmschrei/yahmm/) - Hidden Markov Models for Python, implemented in Cython for speed and efficiency.
 * [python-timbl](https://github.com/proycon/python-timbl) - A Python extension module wrapping the full TiMBL C++ programming interface. Timbl is an elaborate k-Nearest Neighbours machine learning toolkit.
+* [deap](https://github.com/deap/deap) - Evolutionary algorithm framework.
 
 <a name="python-data-analysis" />
 #### Data Analysis / Data Visualization
