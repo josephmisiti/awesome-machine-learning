@@ -58,7 +58,7 @@ For a list of free machine learning books available for download, go [here](http
 - [Objective C](#objectivec)
     - [General-Purpose Machine Learning](#objectivec-general-purpose)
 - [Python](#python)
-    - [Computer Vision](#python-cv)
+    - [Computer Vision](#python-P)
     - [Natural Language Processing](#python-nlp)
     - [General-Purpose Machine Learning](#python-general-purpose)
     - [Data Analysis / Data Visualization](#python-data-analysis)
@@ -589,6 +589,7 @@ on MNIST digits[DEEP LEARNING]
 * [yahmm](https://github.com/jmschrei/yahmm/) - Hidden Markov Models for Python, implemented in Cython for speed and efficiency.
 * [python-timbl](https://github.com/proycon/python-timbl) - A Python extension module wrapping the full TiMBL C++ programming interface. Timbl is an elaborate k-Nearest Neighbours machine learning toolkit.
 * [deap](https://github.com/deap/deap) - Evolutionary algorithm framework.
+* [pydeep](https://github.com/andersbll/deeppy) - Deep Learning In Python
 
 <a name="python-data-analysis" />
 #### Data Analysis / Data Visualization
