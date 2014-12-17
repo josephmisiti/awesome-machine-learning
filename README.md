@@ -94,6 +94,7 @@ For a list of free machine learning books available for download, go [here](http
 #### Computer Vision
 
 * [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
+* [VLFeat](http://www.vlfeat.org/) - VLFeat is an open and portable library of computer vision algorithms, which has Matlab toolbox
 
 <a name="cpp" />
 ## C++
@@ -104,7 +105,6 @@ For a list of free machine learning books available for download, go [here](http
 * [OpenCV](http://opencv.org) - OpenCV has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS.
 * [DLib](http://dlib.net/imaging.html) - DLib has C++ and Python interfaces for face detection and training general object detectors.
 * [EBLearn](http://eblearn.sourceforge.net/) - Eblearn is an object-oriented C++ library that implements various machine learning models
-*
 
 <a name="cpp-general-purpose" />
 #### General-Purpose Machine Learning
