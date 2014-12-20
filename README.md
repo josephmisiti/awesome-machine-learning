@@ -118,7 +118,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Shogun](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox
 * [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind. [DEEP LEARNING]
 * [CXXNET](https://github.com/antinucleon/cxxnet) - Yet another deep learning framework with less than 1000 lines core code [DEEP LEARNING]
-* [XGBoost](https://github.com/tqchen/xgboost) - A parallelized optimized general purpose gradient boosting library. 
+* [XGBoost](https://github.com/tqchen/xgboost) - A parallelized optimized general purpose gradient boosting library.
 * [CUDA](https://code.google.com/p/cuda-convnet/) - This is a fast C++/CUDA implementation of convolutional [DEEP LEARNING]
 * [Stan](http://mc-stan.org/) - A probabilistic programming language implementing full Bayesian statistical inference with Hamiltonian Monte Carlo sampling
 * [BanditLib](https://github.com/jkomiyama/banditlib) - A simple Multi-armed Bandit library.
@@ -129,7 +129,7 @@ For a list of free machine learning books available for download, go [here](http
 * [MIT Information Extraction Toolkit](https://github.com/mit-nlp/MITIE) - C, C++, and Python tools for named entity recognition and relation extraction
 * [CRF++](http://crfpp.googlecode.com/svn/trunk/doc/index.html) - Open source implementation of Conditional Random Fields (CRFs) for segmenting/labeling sequential data & other Natural Language Processing tasks.
 * [BLLIP Parser](http://github.com/BLLIP/bllip-parser) - BLLIP Natural Language Parser (also known as the Charniak-Johnson parser)
-* [colibri-core](https://github.com/proycon/colibri-core) - C++ library, command line tools, and Python binding for extracting and working with with basic linguistic constructions such as n-grams and skipgrams in a quick and memory-efficient way. 
+* [colibri-core](https://github.com/proycon/colibri-core) - C++ library, command line tools, and Python binding for extracting and working with with basic linguistic constructions such as n-grams and skipgrams in a quick and memory-efficient way.
 * [ucto](https://github.com/proycon/ucto) - Unicode-aware regular-expression based tokeniser for various languages. Tool and C++ library. Supports FoLiA format.
 * [libfolia](https://github.com/proycon/libfolia) - C++ library for the [FoLiA format](https://proycon.github.io/folia)
 * [frog](https://github.com/proycon/frog) - Memory-based NLP suite developed for Dutch: PoS tagger, lemmatiser, dependency parser, NER, shallow parser, morphological analyser.
@@ -298,6 +298,7 @@ For a list of free machine learning books available for download, go [here](http
 * [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting built on D3
 * [statkit](https://github.com/rigtorp/statkit) - Statistics kit for JavaScript
 * [science.js](https://github.com/jasondavies/science.js/) - Scientific and statistical computing in JavaScript.
+* [Z3d](https://github.com/NathanEpstein/Z3d) - Easily make interactive 3d plots built on Three.js
 
 <a name="javascript-general-purpose" />
 #### General-Purpose Machine Learning
