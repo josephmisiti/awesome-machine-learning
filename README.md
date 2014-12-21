@@ -33,6 +33,7 @@ For a list of free machine learning books available for download, go [here](http
     - [Natural Language Processing](#java-nlp)
     - [General-Purpose Machine Learning](#java-general-purpose)
     - [Data Analysis / Data Visualization](#java-data-analysis)
+    - [Deep Learning](#java-deep-learning)
 - [Javascript](#javascript)
     - [Natural Language Processing](#javascript-nlp)
     - [Data Analysis / Data Visualization](#javascript-data-analysis)
@@ -270,6 +271,11 @@ For a list of free machine learning books available for download, go [here](http
 * [Hadoop](https://github.com/apache/hadoop-mapreduce) - Hadoop/HDFS
 * [Spark](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
 * [Impala](https://github.com/cloudera/impala) - Real-time Query for Hadoop
+
+<a name="java-deep-learning" />
+#### Deep Learning
+
+* [Deeplearning4j](https://github.com/SkymindIO/deeplearning4j/) - Scalable deep learning for industry with parallel GPUs
 
 <a name="javascript" />
 ## Javascript
