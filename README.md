@@ -663,7 +663,7 @@ on MNIST digits[DEEP LEARNING]
 <a name="python-kaggle" />
 #### Kaggle Competition Source Code
 
-* [wiki challange](https://github.com/hammer/wikichallenge) - An implementation of Dell Zhang's solution to Wikipedia's Participation Challenge on Kaggle
+* [wiki challenge](https://github.com/hammer/wikichallenge) - An implementation of Dell Zhang's solution to Wikipedia's Participation Challenge on Kaggle
 * [kaggle insults](https://github.com/amueller/kaggle_insults) - Kaggle Submission for "Detecting Insults in Social Commentary"
 * [kaggle_acquire-valued-shoppers-challenge](https://github.com/MLWave/kaggle_acquire-valued-shoppers-challenge) - Code for the Kaggle acquire valued shoppers challenge
 * [kaggle-cifar](https://github.com/zygmuntz/kaggle-cifar) - Code for the CIFAR-10 competition at Kaggle, uses cuda-convnet
@@ -688,7 +688,7 @@ on MNIST digits[DEEP LEARNING]
 #### Natural Language Processing
 
 * [Treat](https://github.com/louismullie/treat) -  Text REtrieval and Annotation Toolkit, definitely the most comprehensive toolkit I’ve encountered so far for Ruby
-* [Ruby Linguistics](http://www.deveiate.org/projects/Linguistics/) -  Linguistics is a framework for building linguistic utilities for Ruby objects in any language. It includes a generic language-independant front end, a module for mapping language codes into language names, and a module which contains various English-language utilities.
+* [Ruby Linguistics](http://www.deveiate.org/projects/Linguistics/) -  Linguistics is a framework for building linguistic utilities for Ruby objects in any language. It includes a generic language-independent front end, a module for mapping language codes into language names, and a module which contains various English-language utilities.
 * [Stemmer](https://github.com/aurelian/ruby-stemmer) - Expose libstemmer_c to Ruby
 * [Ruby Wordnet](http://www.deveiate.org/projects/Ruby-WordNet/) - This library is a Ruby interface to WordNet
 * [Raspel](http://sourceforge.net/projects/raspell/) - raspell is an interface binding for ruby
