@@ -557,6 +557,7 @@ on MNIST digits[DEEP LEARNING]
 * [python-ucto](https://github.com/proycon/python-ucto) - Python binding to ucto (a unicode-aware rule-based tokenizer for various languages)
 * [python-frog](https://github.com/proycon/python-frog) - Python binding to Frog, an NLP suite for Dutch. (pos tagging, lemmatisation, dependency parsing, NER)
 * [colibri-core](https://github.com/proycon/colibri-core) - Python binding to C++ library for extracting and working with with basic linguistic constructions such as n-grams and skipgrams in a quick and memory-efficient way.
+* [spaCy](https://github.com/honnibal/spaCy/) - Industrial strength NLP with Python and Cython.
 
 <a name="python-general-purpose" />
 #### General-Purpose Machine Learning
