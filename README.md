@@ -17,6 +17,8 @@ For a list of free machine learning books available for download, go [here](http
     - [General-Purpose Machine Learning](#cpp-general-purpose)
     - [Natural Language Processing](#cpp-nlp)
     - [Sequence Analysis](#cpp-sequence)
+- [Common Lisp](#common-lisp)
+    - [General-Purpose Machine Learning](#common-lisp-general-purpose)
 - [Clojure](#clojure)
     - [Natural Language Processing](#clojure-nlp)
     - [General-Purpose Machine Learning](#clojure-general-purpose)
@@ -141,6 +143,16 @@ For a list of free machine learning books available for download, go [here](http
 <a name="cpp-sequence" />
 #### Sequence Analysis
 * [ToPS](https://github.com/ayoshiaki/tops) - This is an objected-oriented framework that facilitates the integration of probabilistic models for sequences over a user defined alphabet.
+
+<a name="common-lisp" />
+## Common Lisp
+
+<a name="common-lisp-general-purpose" />
+#### General-Purpose Machine Learning
+
+* [mgl](https://github.com/melisgl/mgl/) - Neural networks  (boltzmann machines, feed-forward and recurrent nets), Gaussian Processes
+* [mgl-gpr](https://github.com/melisgl/mgl-gpr/) - Evolutionary algorithms
+* [cl-libsvm](https://github.com/melisgl/cl-libsvm/) - Wrapper for the libsvm support vector machine library
 
 <a name="clojure" />
 ## Clojure
