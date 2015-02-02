@@ -751,8 +751,7 @@ on MNIST digits[DEEP LEARNING]
 * [Boruta](http://cran.r-project.org/web/packages/Boruta/index.html) - Boruta: A wrapper algorithm for all-relevant feature selection
 * [bst](http://cran.r-project.org/web/packages/bst/index.html) - bst: Gradient Boosting
 * [C50](http://cran.r-project.org/web/packages/C50/index.html) - C50: C5.0 Decision Trees and Rule-Based Models
-* [caret](http://caret.r-forge.r-project.org/) - Unified interface to ~150 ML algorithms in R.
-* [caret](http://cran.r-project.org/web/packages/caret/index.html) - caret: Classification and Regression Training
+* [caret](http://caret.r-forge.r-project.org/) - Classification and Regression Training: Unified interface to ~150 ML algorithms in R.
 * [Clever Algorithms For Machine Learning](https://github.com/jbrownlee/CleverAlgorithmsMachineLearning)
 * [CORElearn](http://cran.r-project.org/web/packages/CORElearn/index.html) - CORElearn: Classification, regression, feature evaluation and ordinal evaluation
 * [CoxBoost](http://cran.r-project.org/web/packages/CoxBoost/index.html) - CoxBoost: Cox models by likelihood based boosting for a single survival endpoint or competing risks
