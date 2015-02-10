@@ -3,7 +3,7 @@ Other awesome lists can be found in the [awesome-awesomeness](https://github.com
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@josephmisiti](https://www.twitter.com/josephmisiti)
 
-For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
+For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md).
 
 ## Table of Contents
 
@@ -570,6 +570,7 @@ on MNIST digits[DEEP LEARNING]
 * [python-frog](https://github.com/proycon/python-frog) - Python binding to Frog, an NLP suite for Dutch. (pos tagging, lemmatisation, dependency parsing, NER)
 * [colibri-core](https://github.com/proycon/colibri-core) - Python binding to C++ library for extracting and working with with basic linguistic constructions such as n-grams and skipgrams in a quick and memory-efficient way.
 * [spaCy](https://github.com/honnibal/spaCy/) - Industrial strength NLP with Python and Cython.
+* [PyStanfordDependencies](https://github.com/dmcc/PyStanfordDependencies) - Python interface for converting Penn Treebank trees to Stanford Dependencies.
 
 <a name="python-general-purpose" />
 #### General-Purpose Machine Learning
