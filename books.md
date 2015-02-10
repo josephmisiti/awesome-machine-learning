@@ -28,8 +28,9 @@ Statistics and Estimation for
 Social Scientists](http://faculty.ksu.edu.sa/69424/us_BOOk/Introduction%20to%20Applied%20Bayesian%20Statistics.pdf)
 * [Bayesian Modeling, Inference
 and Prediction](http://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf)
+* [A Course in Machine Learning](http://ciml.info/)
 
-## Naturual Language Processing
+## Natural Language Processing
 
 * [Coursera Course Book on NLP](http://www.cs.columbia.edu/~mcollins/notes-spring2013.html)
 * [NLTK](http://www.nltk.org/book/)
