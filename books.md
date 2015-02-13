@@ -52,7 +52,7 @@ and Prediction](http://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf)
 
 ## Linear Algebra
 
-* [Linear Algebra Done Wrong](http://www.math.brown.edu/~treil/papers/LADW/LADW.pdf)
+* [Linear Algebra Done Wrong](http://www.math.brown.edu/~treil/papers/LADW/book.pdf)
 * [Linear Algebra, Theory, and Applications](https://math.byu.edu/~klkuttle/Linearalgebra.pdf)
 * [Convex Optimization](http://www.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 * [Applied Numerical Computing](http://www.seas.ucla.edu/~vandenbe/103/reader.pdf)
