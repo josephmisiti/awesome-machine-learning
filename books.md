@@ -35,7 +35,7 @@ and Prediction](http://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf)
 * [Coursera Course Book on NLP](http://www.cs.columbia.edu/~mcollins/notes-spring2013.html)
 * [NLTK](http://www.nltk.org/book/)
 * [NLP w/ Python](http://victoria.lviv.ua/html/fl5/NaturalLanguageProcessingWithPython.pdf)
-* [Foundations of Statistical Language Processing](http://nlp.stanford.edu/fsnlp/promo/)
+* [Foundations of Statistical Natural Language Processing](http://nlp.stanford.edu/fsnlp/promo/)
 
 ## Probability & Statistics
 
