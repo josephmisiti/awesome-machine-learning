@@ -227,6 +227,7 @@ For a list of free machine learning books available for download, go [here](http
 * [HLearn](https://github.com/mikeizbicki/HLearn) - a suite of libraries for interpreting machine learning models according to their algebraic structure.
 * [hnn](http://www.haskell.org/haskellwiki/HNN) - Haskell Neural Network library.
 * [hopfield-networks](https://github.com/ajtulloch/hopfield-networks) - Hopfield Networks for unsupervised learning in Haskell.
+* [caffegraph](https://github.com/ajtulloch/caffegraph) - A DSL for deep neural networks
 
 
 <a name="java" />
