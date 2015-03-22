@@ -114,7 +114,7 @@ For a list of free machine learning books available for download, go [here](http
 
 * [MLPack](http://www.mlpack.org/)
 * [DLib](http://dlib.net/ml.html) - A suite of ML tools designed to be easy to imbed in other applications
-* [ecogg](https://code.google.com/p/encog-cpp/)
+* [encog-cpp](https://code.google.com/p/encog-cpp/)
 * [shark](http://image.diku.dk/shark/sphinx_pages/build/html/index.html)
 * [Vowpal Wabbit (VW)](https://github.com/JohnLangford/vowpal_wabbit/wiki) - A fast out-of-core learning system.
 * [sofia-ml](https://code.google.com/p/sofia-ml/) - Suite of fast incremental algorithms.
