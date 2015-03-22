@@ -862,7 +862,7 @@ on MNIST digits[DEEP LEARNING]
 #### General-Purpose Machine Learning
 
 * [Conjecture](https://github.com/etsy/Conjecture) - Scalable Machine Learning in Scalding
-* [brushfire](https://github.com/avibryant/brushfire) - decision trees for scalding
+* [brushfire](https://github.com/avibryant/brushfire) - decision trees and random forests for scalding
 * [ganitha](https://github.com/tresata/ganitha) - scalding powered machine learning
 * [adam](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
 * [bioscala](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
