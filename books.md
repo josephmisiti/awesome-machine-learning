@@ -37,6 +37,10 @@ and Prediction](http://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf)
 * [NLP w/ Python](http://victoria.lviv.ua/html/fl5/NaturalLanguageProcessingWithPython.pdf)
 * [Foundations of Statistical Natural Language Processing](http://nlp.stanford.edu/fsnlp/promo/)
 
+## Neural Networks
+
+* [A Brief Introduction to Neural Networks](http://www.dkriesel.com/_media/science/neuronalenetze-en-zeta2-2col-dkrieselcom.pdf)
+
 ## Probability & Statistics
 
 * [Thinking Stats](http://www.greenteapress.com/thinkstats/) - Book + Python Code
