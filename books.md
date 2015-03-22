@@ -45,10 +45,14 @@ and Prediction](http://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf)
 * [All of Statistics](http://www.ucl.ac.uk/~rmjbale/Stat/wasserman2.pdf)
 * [Introduction to statistical thought](https://www.math.umass.edu/~lavine/Book/book.pdf)
 * [Basic Probability Theory](http://www.math.uiuc.edu/~r-ash/BPT/BPT.pdf)
-* [Introduction to probability](http://math.dartmouth.edu/~prob/prob/prob.pdf)
+* [Introduction to probability](http://math.dartmouth.edu/~prob/prob/prob.pdf) - By Dartmouth College
 * [Principle of Uncertainty](http://uncertainty.stat.cmu.edu/wp-content/uploads/2011/05/principles-of-uncertainty.pdf)
 * [Probability & Statistics Cookbook](http://matthias.vallentin.net/probability-and-statistics-cookbook/)
 * [Advanced Data Analysis From An Elmentary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
+* [Introduction to Probability](http://athenasc.com/probbook.html) -  Book and course by MIT
+* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction.](http://statweb.stanford.edu/~tibs/ElemStatLearn/) -Book  
+* [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) - Book
+
 
 ## Linear Algebra
 
