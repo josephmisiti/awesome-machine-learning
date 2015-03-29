@@ -206,6 +206,7 @@ For a list of free machine learning books available for download, go [here](http
 
 * [Go Learn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go
 * [go-pr](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang.
+* [go-ml](https://github.com/alonsovidales/go_ml) - Linear / Logistic regression, Neural Networks, Collaborative Filtering and Gaussian Multivariate Distribution
 * [bayesian](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
 * [go-galib](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / golang
 * [Cloudforest](https://github.com/ryanbressler/CloudForest) - Ensembles of decision trees in go/golang.
