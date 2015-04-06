@@ -326,13 +326,16 @@ For a list of free machine learning books available for download, go [here](http
 #### General-Purpose Machine Learning
 
 * [Convnet.js](http://cs.stanford.edu/people/karpathy/convnetjs/) - ConvNetJS is a Javascript library for training Deep Learning models[DEEP LEARNING]
+* [Clusterfck](http://harthur.github.io/clusterfck/) - Agglomerative hierarchical clustering implemented in Javascript for Node.js and the browser
 * [Clustering.js](https://github.com/tixz/clustering.js) - Clustering algorithms implemented in Javascript for Node.js and the browser
 * [Decision Trees](https://github.com/serendipious/nodejs-decision-tree-id3) - NodeJS Implementation of Decision Tree using ID3 Algorithm
+* [figue](http://code.google.com/p/figue/) - K-means, fuzzy c-means and agglomerative clustering
 * [Node-fann](https://github.com/rlidwka/node-fann) - FANN (Fast Artificial Neural Network Library) bindings for Node.js
 * [Kmeans.js](https://github.com/tixz/kmeans.js) - Simple Javascript implementation of the k-means algorithm, for node.js and the browser
 * [LDA.js](https://github.com/primaryobjects/lda) - LDA topic modeling for node.js
 * [Learning.js](https://github.com/yandongliu/learningjs) - Javascript implementation of logistic regression/c4.5 decision tree
 * [Machine Learning](http://joonku.com/project/machine_learning) - Machine learning library for Node.js
+* [mil-tokyo](https://github.com/mil-tokyo) - List of several machine learning libraries
 * [Node-SVM](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for nodejs
 * [Brain](https://github.com/harthur/brain) - Neural networks in JavaScript
 * [Bayesian-Bandit](https://github.com/omphalos/bayesian-bandit.js) - Bayesian bandit implementation for Node and the browser.
