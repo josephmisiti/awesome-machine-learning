@@ -46,6 +46,8 @@ http://drewconway.com/zia/
 
 http://bugra.github.io/
 
+http://opendata.cern.ch/
+
 ##### Math
 
 http://www.sumsar.net/
