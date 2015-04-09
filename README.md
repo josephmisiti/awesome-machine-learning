@@ -349,6 +349,8 @@ For a list of free machine learning books available for download, go [here](http
 
 * [sylvester](https://github.com/jcoglan/sylvester) - Vector and Matrix math for JavaScript.
 * [simple-statistics](https://github.com/tmcw/simple-statistics) - A JavaScript implementation of descriptive, regression, and inference statistics. Implemented in literate JavaScript with no dependencies, designed to work in all modern browsers (including IE) as well as in node.js.
+* [regression-js](https://github.com/Tom-Alexander/regression-js) - A javascript library containing a collection of least squares fitting methods for finding a trend in a set of data.
+* [Lyric](https://github.com/flurry/Lyric) - Linear Regression library.
 
 <a name="julia" />
 ## Julia
