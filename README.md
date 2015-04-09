@@ -40,6 +40,7 @@ For a list of free machine learning books available for download, go [here](http
     - [Natural Language Processing](#javascript-nlp)
     - [Data Analysis / Data Visualization](#javascript-data-analysis)
     - [General-Purpose Machine Learning](#javascript-general-purpose)
+    - [Misc](#javascript-misc)
 - [Julia](#julia)
     - [General-Purpose Machine Learning](#julia-general-purpose)
     - [Natural Language Processing](#julia-nlp)
@@ -342,6 +343,12 @@ For a list of free machine learning books available for download, go [here](http
 * [Synaptic](https://github.com/cazala/synaptic) - Architecture-free neural network library for node.js and the browser
 * [kNear](https://github.com/NathanEpstein/kNear) - JavaScript implementation of the k nearest neighbors algorithm for supervised learning
 * [NeuralN](https://github.com/totemstech/neuraln) - C++ Neural Network library for Node.js. It has advantage on large dataset and multi-threaded training.
+
+<a name="javascript-misc" />
+#### Misc
+
+* [sylvester](https://github.com/jcoglan/sylvester) - Vector and Matrix math for JavaScript.
+* [simple-statistics](https://github.com/tmcw/simple-statistics) - A JavaScript implementation of descriptive, regression, and inference statistics. Implemented in literate JavaScript with no dependencies, designed to work in all modern browsers (including IE) as well as in node.js.
 
 <a name="julia" />
 ## Julia
