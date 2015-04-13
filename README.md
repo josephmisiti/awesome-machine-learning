@@ -237,7 +237,7 @@ For a list of free machine learning books available for download, go [here](http
 
 <a name="java-nlp" />
 #### Natural Language Processing
-* [Cortical.io] (http://cortical.io) - NLP The way the brain does it! Do Apple - Fruit = Computer using the same algorithm found in the neocortex. See our [API] (http://api.cortical.io)'s for: Semantic Folding, Classification, Disambiguation and much more!
+* [Cortical.io] (http://cortical.io) - NLP The way the brain does it! Do:```java Apple - Fruit = Computer``` using the same algorithm found in the neocortex. See our [API] (http://api.cortical.io)'s for: Semantic Folding, Classification, Disambiguation and much more!
 * [CoreNLP] (http://nlp.stanford.edu/software/corenlp.shtml) - Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words
 * [Stanford Parser] (http://nlp.stanford.edu/software/lex-parser.shtml) - A natural language parser is a program that works out the grammatical structure of sentences
 * [Stanford POS Tagger] (http://nlp.stanford.edu/software/tagger.shtml) - A Part-Of-Speech Tagger (POS Tagger
