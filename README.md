@@ -230,7 +230,7 @@ For a list of free machine learning books available for download, go [here](http
 * [hnn](http://www.haskell.org/haskellwiki/HNN) - Haskell Neural Network library.
 * [hopfield-networks](https://github.com/ajtulloch/hopfield-networks) - Hopfield Networks for unsupervised learning in Haskell.
 * [caffegraph](https://github.com/ajtulloch/caffegraph) - A DSL for deep neural networks
-
+* [LambdaNet](https://github.com/jbarrow/LambdaNet) - Configurable Neural Networks in Haskell
 
 <a name="java" />
 ## Java
