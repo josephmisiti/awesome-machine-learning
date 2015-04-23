@@ -52,6 +52,8 @@ http://alexanderetz.com/
 
 http://www.sumsar.net/
 
+http://countbayesie.com
+
 ##### Math
 
 http://www.sumsar.net/
