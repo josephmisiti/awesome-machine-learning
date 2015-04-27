@@ -349,6 +349,9 @@ For a list of free machine learning books available for download, go [here](http
 
 * [sylvester](https://github.com/jcoglan/sylvester) - Vector and Matrix math for JavaScript.
 * [simple-statistics](https://github.com/tmcw/simple-statistics) - A JavaScript implementation of descriptive, regression, and inference statistics. Implemented in literate JavaScript with no dependencies, designed to work in all modern browsers (including IE) as well as in node.js.
+* [regression-js](https://github.com/Tom-Alexander/regression-js) - A javascript library containing a collection of least squares fitting methods for finding a trend in a set of data.
+* [Lyric](https://github.com/flurry/Lyric) - Linear Regression library.
+* [GreatCircle](https://github.com/mwgg/GreatCircle) - Library for calculating great circle distance.
 
 <a name="julia" />
 ## Julia
@@ -690,6 +693,7 @@ on MNIST digits[DEEP LEARNING]
 * [Allen Downey’s Think Complexity Code](https://github.com/AllenDowney/ThinkComplexity) - Code for Allen Downey's book Think Complexity.
 * [Allen Downey’s Think OS Code](https://github.com/AllenDowney/ThinkOS) - Text and supporting code for Think OS: A Brief Introduction to Operating Systems.
 * [Python Programming for the Humanities](http://fbkarsdorp.github.io/python-course/) - Course for Python programming for the Humanities, assuming no prior knowledge. Heavy focus on text processing / NLP.
+* [GreatCircle](https://github.com/mwgg/GreatCircle) - Library for calculating great circle distance.
 
 <a name="python-kaggle" />
 #### Kaggle Competition Source Code
