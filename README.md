@@ -631,6 +631,7 @@ on MNIST digits[DEEP LEARNING]
 * [python-timbl](https://github.com/proycon/python-timbl) - A Python extension module wrapping the full TiMBL C++ programming interface. Timbl is an elaborate k-Nearest Neighbours machine learning toolkit.
 * [deap](https://github.com/deap/deap) - Evolutionary algorithm framework.
 * [pydeep](https://github.com/andersbll/deeppy) - Deep Learning In Python
+* [mlxtend](https://github.com/rasbt/mlxtend) - A library consisting of useful tools for data science and machine learning tasks.
 
 <a name="python-data-analysis" />
 #### Data Analysis / Data Visualization
@@ -773,6 +774,7 @@ on MNIST digits[DEEP LEARNING]
 * [bst](http://cran.r-project.org/web/packages/bst/index.html) - bst: Gradient Boosting
 * [C50](http://cran.r-project.org/web/packages/C50/index.html) - C50: C5.0 Decision Trees and Rule-Based Models
 * [caret](http://caret.r-forge.r-project.org/) - Classification and Regression Training: Unified interface to ~150 ML algorithms in R.
+* [caretEnsemble](http://cran.r-project.org/web/packages/caretEnsemble/index.html) - caretEnsemble: Framework for fitting multiple caret models as well as creating ensembles of such models.
 * [Clever Algorithms For Machine Learning](https://github.com/jbrownlee/CleverAlgorithmsMachineLearning)
 * [CORElearn](http://cran.r-project.org/web/packages/CORElearn/index.html) - CORElearn: Classification, regression, feature evaluation and ordinal evaluation
 * [CoxBoost](http://cran.r-project.org/web/packages/CoxBoost/index.html) - CoxBoost: Cox models by likelihood based boosting for a single survival endpoint or competing risks
@@ -805,6 +807,7 @@ on MNIST digits[DEEP LEARNING]
 * [Machine Learning For Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)
 * [maptree](http://cran.r-project.org/web/packages/maptree/index.html) - maptree: Mapping, pruning, and graphing tree models
 * [mboost](http://cran.r-project.org/web/packages/mboost/index.html) - mboost: Model-Based Boosting
+* [medley](https://www.kaggle.com/forums/f/15/kaggle-forum/t/3661/medley-a-new-r-package-for-blending-regression-models/21278) - medley: Blending regression models, using a greedy stepwise approach
 * [mlr](http://cran.r-project.org/web/packages/mlr/index.html) - mlr: Machine Learning in R
 * [mvpart](http://cran.r-project.org/web/packages/mvpart/index.html) - mvpart: Multivariate partitioning
 * [ncvreg](http://cran.r-project.org/web/packages/ncvreg/index.html) - ncvreg: Regularization paths for SCAD- and MCP-penalized regression models
