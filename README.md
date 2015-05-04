@@ -668,7 +668,7 @@ on MNIST digits[DEEP LEARNING]
 
 <a name="python-misc" />
 #### Misc Scripts / iPython Notebooks / Codebases
-
+* [BioPy](https://github.com/jaredmichaelsmith/BioPy) - Biologically-Inspired and Machine Learning Algorithms in Python.
 * [pattern_classification](https://github.com/rasbt/pattern_classification)
 * [thinking stats 2](https://github.com/Wavelets/ThinkStats2)
 * [hyperopt](https://github.com/hyperopt/hyperopt-sklearn)
