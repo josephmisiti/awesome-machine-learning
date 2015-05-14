@@ -127,6 +127,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Stan](http://mc-stan.org/) - A probabilistic programming language implementing full Bayesian statistical inference with Hamiltonian Monte Carlo sampling
 * [BanditLib](https://github.com/jkomiyama/banditlib) - A simple Multi-armed Bandit library.
 * [Timbl](http://ilk.uvt.nl/timbl) - A software package/C++ library implementing several memory-based learning algorithms, among which IB1-IG, an implementation of k-nearest neighbor classification, and IGTree, a decision-tree approximation of IB1-IG. Commonly used for NLP.
+* [neon](https://github.com/NervanaSystems/neon) - Nervana's [high-performance](https://github.com/soumith/convnet-benchmarks) Python-based Deep Learning framework [DEEP LEARNING]
 
 <a name="cpp-nlp" />
 #### Natural Language Processing
