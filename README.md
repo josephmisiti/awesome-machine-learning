@@ -113,7 +113,7 @@ For a list of free machine learning books available for download, go [here](http
 <a name="cpp-general-purpose" />
 #### General-Purpose Machine Learning
 
-* [MLPack](http://www.mlpack.org/)
+* [MLPack](http://www.mlpack.org/) - A scalable C++ machine learning library
 * [DLib](http://dlib.net/ml.html) - A suite of ML tools designed to be easy to imbed in other applications
 * [encog-cpp](https://code.google.com/p/encog-cpp/)
 * [shark](http://image.diku.dk/shark/sphinx_pages/build/html/index.html)
