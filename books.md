@@ -14,12 +14,12 @@ The following is a list of free, open source books on machine learning, statisti
 * [A First Encounter with Machine Learning](https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf)
 * [Pattern Recognition and Machine Learning](http://www.hua.edu.vn/khoa/fita/wp-content/uploads/2013/08/Pattern-Recognition-and-Machine-Learning-Christophe-M-Bishop.pdf)
 * [Machine Learning & Bayesian Reasoning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf)
-* [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf)
+* [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf) - Alex Smola and S.V.N. Vishwanathan
 * [A Probabilistic Theory of Pattern Recognition](http://www.szit.bme.hu/~gyorfi/pbook.pdf)
 * [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/pdf/irbookprint.pdf)
 * [Forecasting: principles and practice](http://otexts.com/fpp/)
 * [Practical Artificial Intelligence Programming in Java](http://www.markwatson.com/opencontent_data/JavaAI3rd.pdf)
-* [Introduction to Machine Learning](http://arxiv.org/pdf/0904.3664v1.pdf)
+* [Introduction to Machine Learning](http://arxiv.org/pdf/0904.3664v1.pdf) - Amnon Shashua
 * [Reinforcement Learning](http://www.intechopen.com/books/reinforcement_learning)
 * [Machine Learning](http://www.intechopen.com/books/machine_learning)
 * [A Quest for AI](http://ai.stanford.edu/~nilsson/QAI/qai.pdf)
@@ -29,6 +29,7 @@ Social Scientists](http://faculty.ksu.edu.sa/69424/us_BOOk/Introduction%20to%20A
 * [Bayesian Modeling, Inference
 and Prediction](http://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf)
 * [A Course in Machine Learning](http://ciml.info/)
+* [Machine Learning, Neural and Statistical Classification](http://www1.maths.leeds.ac.uk/~charles/statlog/)
 
 ## Natural Language Processing
 
