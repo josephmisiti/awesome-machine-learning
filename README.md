@@ -360,6 +360,8 @@ For a list of free machine learning books available for download, go [here](http
 <a name="julia-general-purpose" />
 #### General-Purpose Machine Learning
 
+* [MachineLearning](https://github.com/benhamner/MachineLearning.jl) - Julia Machine Learning library
+* [MLBase](https://github.com/JuliaStats/MLBase.jl) - A set of functions to support the development of machine learning algorithms
 * [PGM](https://github.com/JuliaStats/PGM.jl) - A Julia framework for probabilistic graphical models.
 * [DA](https://github.com/trthatcher/DA.jl) - Julia package for Regularized Discriminant Analysis
 * [Regression](https://github.com/lindahua/Regression.jl) - Algorithms for regression analysis (e.g. linear regression and logistic regression)
@@ -371,6 +373,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Decision Tree](https://github.com/bensadeghi/DecisionTree.jl) - Decision Tree Classifier and Regressor
 * [Neural](https://github.com/compressed/neural.jl) - A neural network in Julia
 * [MCMC](https://github.com/doobwa/MCMC.jl) - MCMC tools for Julia
+* [Mamba](https://github.com/brian-j-smith/Mamba.jl) - Markov chain Monte Carlo (MCMC) for Bayesian analysis in Julia
 * [GLM](https://github.com/JuliaStats/GLM.jl) - Generalized linear models in Julia
 * [Online Learning](https://github.com/lendle/OnlineLearning.jl)
 * [GLMNet](https://github.com/simonster/GLMNet.jl) - Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet
@@ -380,8 +383,9 @@ For a list of free machine learning books available for download, go [here](http
 * [Dimensionality Reduction](https://github.com/JuliaStats/DimensionalityReduction.jl) - Methods for dimensionality reduction
 * [NMF](https://github.com/JuliaStats/NMF.jl) - A Julia package for non-negative matrix factorization
 * [ANN](https://github.com/EricChiang/ANN.jl) - Julia artificial neural networks
-* [Mocha.jl](https://github.com/pluskid/Mocha.jl) - Deep Learning framework for Julia inspired by Caffe
-* [XGBoost.jl](https://github.com/antinucleon/XGBoost.jl) - eXtreme Gradient Boosting Package in Julia
+* [Mocha](https://github.com/pluskid/Mocha.jl) - Deep Learning framework for Julia inspired by Caffe
+* [XGBoost](https://github.com/antinucleon/XGBoost.jl) - eXtreme Gradient Boosting Package in Julia
+* [ManifoldLearning](https://github.com/wildart/ManifoldLearning.jl) - A Julia package for manifold learning and nonlinear dimensionality reduction
 
 <a name="julia-nlp" />
 #### Natural Language Processing
