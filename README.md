@@ -684,6 +684,7 @@ on MNIST digits[DEEP LEARNING]
 * [hyperopt](https://github.com/hyperopt/hyperopt-sklearn)
 * [numpic](https://github.com/numenta/nupic)
 * [2012-paper-diginorm](https://github.com/ged-lab/2012-paper-diginorm)
+* [A gallery of interesting IPython notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 * [ipython-notebooks](https://github.com/ogrisel/notebooks)
 * [decision-weights](https://github.com/CamDavidsonPilon/decision-weights)
 * [Sarah Palin LDA](https://github.com/Wavelets/sarah-palin-lda) - Topic Modeling the Sarah Palin emails.
