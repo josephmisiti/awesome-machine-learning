@@ -1,5 +1,7 @@
 #### A List Of Machine Learning + Applied Math Blogs
 
+http://www.datatau.com/news - hacker news for Data Science
+
 ##### Data Science / Statistics
 
 http://iamtrask.github.io/
@@ -53,6 +55,8 @@ http://alexanderetz.com/
 http://www.sumsar.net/
 
 http://countbayesie.com
+
+http://karpathy.github.io/
 
 ##### Math
 
