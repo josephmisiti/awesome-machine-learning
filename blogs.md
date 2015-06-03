@@ -54,6 +54,10 @@ http://www.sumsar.net/
 
 http://countbayesie.com
 
+http://blog.dato.com/
+
+http://blog.kaggle.com/
+
 ##### Math
 
 http://www.sumsar.net/
