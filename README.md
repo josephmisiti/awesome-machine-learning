@@ -344,6 +344,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Synaptic](https://github.com/cazala/synaptic) - Architecture-free neural network library for node.js and the browser
 * [kNear](https://github.com/NathanEpstein/kNear) - JavaScript implementation of the k nearest neighbors algorithm for supervised learning
 * [NeuralN](https://github.com/totemstech/neuraln) - C++ Neural Network library for Node.js. It has advantage on large dataset and multi-threaded training.
+* [kalman](https://github.com/itamarwe/kalman) - Kalman filter for Javascript.
 
 <a name="javascript-misc" />
 #### Misc
