@@ -58,6 +58,11 @@ http://countbayesie.com
 
 http://karpathy.github.io/
 
+http://blog.dato.com/
+
+http://blog.kaggle.com/
+
+
 ##### Math
 
 http://www.sumsar.net/
