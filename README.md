@@ -128,6 +128,7 @@ For a list of free machine learning books available for download, go [here](http
 * [BanditLib](https://github.com/jkomiyama/banditlib) - A simple Multi-armed Bandit library.
 * [Timbl](http://ilk.uvt.nl/timbl) - A software package/C++ library implementing several memory-based learning algorithms, among which IB1-IG, an implementation of k-nearest neighbor classification, and IGTree, a decision-tree approximation of IB1-IG. Commonly used for NLP.
 * [neon](https://github.com/NervanaSystems/neon) - Nervana's [high-performance](https://github.com/soumith/convnet-benchmarks) Python-based Deep Learning framework [DEEP LEARNING]
+* [Keras](https://github.com/fchollet/keras) - minimalist & highly modular Theano-based neural network library written in Python [DEEP LEARNING]
 
 <a name="cpp-nlp" />
 #### Natural Language Processing
