@@ -82,6 +82,8 @@ http://blog.dato.com/
 
 http://blog.kaggle.com/
 
+http://www.danvk.org/
+
 
 Math
 ----
