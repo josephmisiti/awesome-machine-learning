@@ -677,6 +677,7 @@ on MNIST digits[DEEP LEARNING]
 * [vispy](https://github.com/vispy/vispy) - GPU-based high-performance interactive OpenGL 2D/3D data visualization library
 * [cerebro2](https://github.com/numenta/nupic.cerebro2) A web-based visualization and debugging platform for NuPIC.
 * [NuPIC Studio](https://github.com/nupic-community/nupic.studio) An all-in-one NuPIC Hierarchical Temporal Memory visualization and debugging super-tool!
+* [SparklingPandas](https://github.com/sparklingpandas/sparklingpandas)
 
 <a name="python-misc" />
 #### Misc Scripts / iPython Notebooks / Codebases
