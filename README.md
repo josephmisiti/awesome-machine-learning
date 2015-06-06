@@ -605,7 +605,6 @@ on MNIST digits[DEEP LEARNING]
 <a name="python-general-purpose" />
 #### General-Purpose Machine Learning
 * [XGBoost](https://github.com/tqchen/xgboost) - Python bindings for eXtreme Gradient Boosting (Tree) Library
-
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Book/iPython notebooks on Probabilistic Programming in Python
 * [Featureforge](https://github.com/machinalis/featureforge) A set of tools for creating and testing machine learning features, with a scikit-learn compatible API
 * [MLlib in Apache Spark](http://spark.apache.org/docs/latest/mllib-guide.html) - Distributed machine learning library in Spark
@@ -617,6 +616,7 @@ on MNIST digits[DEEP LEARNING]
 * [pattern](https://github.com/clips/pattern) - Web mining module for Python.
 * [NuPIC](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing.
 * [Pylearn2](https://github.com/lisa-lab/pylearn2) - A Machine Learning library based on [Theano](https://github.com/Theano/Theano).
+* [keras](https://github.com/fchollet/keras) - Modular neural network library based on [Theano](https://github.com/Theano/Theano).
 * [hebel](https://github.com/hannes-brt/hebel) - GPU-Accelerated Deep Learning Library in Python.
 * [gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans.
 * [PyBrain](https://github.com/pybrain/pybrain) - Another Python Machine Learning Library.
