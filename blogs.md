@@ -1,8 +1,28 @@
-#### A List Of Machine Learning + Applied Math Blogs
+Blogs/Podcasts
+===============
 
-http://www.datatau.com/news - hacker news for Data Science
+[Hacker News for Data Science](http://www.datatau.com/news)
 
-##### Data Science / Statistics
+Podcasts
+--------
+
+[The O'Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast)
+
+[Partially Derivative](http://www.partiallyderivative.com/)
+
+[The Talking Machines](http://www.thetalkingmachines.com/)
+
+[The Data Skeptic](http://dataskeptic.com/)
+
+[Linear Digressions](https://www.udacity.com/podcasts/linear-digressions)
+
+[Data Stories](http://datastori.es/)
+
+[Learning Machines 101](http://www.learningmachines101.com/)
+
+
+Data Science / Statistics
+-------------------------
 
 http://iamtrask.github.io/
 
@@ -63,7 +83,8 @@ http://blog.dato.com/
 http://blog.kaggle.com/
 
 
-##### Math
+Math
+----
 
 http://www.sumsar.net/
 
@@ -75,6 +96,8 @@ http://petewarden.com/
 
 http://mrtz.org/blog/
 
-##### Security Related
+
+Security Related
+----------------
 
 http://jordan-wright.github.io/blog/
