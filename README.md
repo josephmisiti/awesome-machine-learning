@@ -865,7 +865,6 @@ on MNIST digits[DEEP LEARNING]
 <a name="r-data-analysis" />
 #### Data Analysis / Data Visualization
 
-* [Learning Statistics Using R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/)
 * [ggplot2](http://ggplot2.org/) - A data visualization package based on the grammar of graphics.
 
 <a name="scala" />
