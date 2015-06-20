@@ -84,6 +84,8 @@ http://blog.kaggle.com/
 
 http://www.danvk.org/
 
+http://hunch.net/
+
 
 Math
 ----
