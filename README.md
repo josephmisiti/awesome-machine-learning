@@ -328,6 +328,8 @@ For a list of free machine learning books available for download, go [here](http
 * [science.js](https://github.com/jasondavies/science.js/) - Scientific and statistical computing in JavaScript.
 * [Z3d](https://github.com/NathanEpstein/Z3d) - Easily make interactive 3d plots built on Three.js
 * [Sigma.js](http://sigmajs.org/) - JavaScript library dedicated to graph drawing.
+* [C3.js](http://c3js.org/)- customizable library based on D3.js for easy chart drawing. 
+
 
 <a name="javascript-general-purpose" />
 #### General-Purpose Machine Learning
