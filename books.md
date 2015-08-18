@@ -37,6 +37,7 @@ and Prediction](http://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf)
 * [NLTK](http://www.nltk.org/book/)
 * [NLP w/ Python](http://victoria.lviv.ua/html/fl5/NaturalLanguageProcessingWithPython.pdf)
 * [Foundations of Statistical Natural Language Processing](http://nlp.stanford.edu/fsnlp/promo/)
+* [Speech and Language Processing (Second Edition)](http://www.cs.colorado.edu/~martin/SLP/Updates/1.pdf)
 
 ## Neural Networks
 
