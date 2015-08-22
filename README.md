@@ -604,6 +604,7 @@ on MNIST digits[DEEP LEARNING]
 * [SnowNLP](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
 * [loso](https://github.com/victorlin/loso) - Another Chinese segmentation library.
 * [genius](https://github.com/duanhongyi/genius) - A Chinese segment base on Conditional Random Field.
+* [KoNLPy](http://konlpy.org) - A Python package for Korean natural language processing.
 * [nut](https://github.com/pprett/nut) - Natural language Understanding Toolkit
 * [Rosetta](https://github.com/columbia-applied-data-science/rosetta) - Text processing tools and wrappers (e.g. Vowpal Wabbit)
 * [BLLIP Parser](https://pypi.python.org/pypi/bllipparser/) - Python bindings for the BLLIP Natural Language Parser (also known as the Charniak-Johnson parser)
