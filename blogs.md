@@ -20,6 +20,7 @@ Podcasts
 
 [Learning Machines 101](http://www.learningmachines101.com/)
 
+[Randal Olson](http://www.randalolson.com/blog/)
 
 Data Science / Statistics
 -------------------------
