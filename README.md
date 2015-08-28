@@ -63,6 +63,8 @@ For a list of free machine learning books available for download, go [here](http
     - [Data Analysis / Data Visualization](#net-data-analysis)
 - [Objective C](#objectivec)
     - [General-Purpose Machine Learning](#objectivec-general-purpose)
+- [PHP](#php)
+    - [General-Purpose Machine Learning](#php-general-purpose)
 - [Python](#python)
     - [Computer Vision](#python-P)
     - [Natural Language Processing](#python-nlp)
@@ -583,6 +585,14 @@ on MNIST digits[DEEP LEARNING]
 * [KRHebbian-Algorithm](https://github.com/Kalvar/ios-KRHebbian-Algorithm) - It is a non-supervisor and self-learning algorithm (adjust the weights) in neural network of Machine Learning.
 * [KRKmeans-Algorithm](https://github.com/Kalvar/ios-KRKmeans-Algorithm) - It implemented K-Means the clustering and classification algorithm. It could be used in data mining and image compression.
 * [KRFuzzyCMeans-Algorithm](https://github.com/Kalvar/ios-KRFuzzyCMeans-Algorithm) - It implemented Fuzzy C-Means (FCM) the fuzzy clustering / classification algorithm on Machine Learning. It could be used in data mining and image compression.
+
+<a name="php">
+## PHP
+
+<a name="php-general-purpose">
+### General-Purpose Machine Learning
+
+* [PredictionBuilder](https://github.com/denissimon/prediction-builder) - A library for machine learning that builds predictions using a linear regression.
 
 <a name="python" />
 ## Python
