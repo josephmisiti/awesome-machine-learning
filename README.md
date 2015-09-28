@@ -333,6 +333,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Sigma.js](http://sigmajs.org/) - JavaScript library dedicated to graph drawing.
 * [C3.js](http://c3js.org/)- customizable library based on D3.js for easy chart drawing. 
 * [ZingChart](http://www.zingchart.com/)- library written on Vanilla JS for big data visualization.
+* [cheminfo](http://www.cheminfo.org/) - Platform for data visualization and analysis, using the [visualizer](https://github.com/npellet/visualizer) project.
 
 
 <a name="javascript-general-purpose" />
@@ -357,6 +358,7 @@ For a list of free machine learning books available for download, go [here](http
 * [NeuralN](https://github.com/totemstech/neuraln) - C++ Neural Network library for Node.js. It has advantage on large dataset and multi-threaded training.
 * [kalman](https://github.com/itamarwe/kalman) - Kalman filter for Javascript.
 * [shaman](https://github.com/dambalah/shaman) - node.js library with support for both simple and multiple linear regression.
+* [ml.js](https://github.com/mljs/ml) - Machine learning and numerical analysis tools for Node.js and the Browser!
 
 <a name="javascript-misc" />
 #### Misc
