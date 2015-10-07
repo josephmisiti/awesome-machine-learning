@@ -674,6 +674,7 @@ on MNIST digits[DEEP LEARNING]
 * [mlxtend](https://github.com/rasbt/mlxtend) - A library consisting of useful tools for data science and machine learning tasks.
 * [neon](https://github.com/NervanaSystems/neon) - Nervana's [high-performance](https://github.com/soumith/convnet-benchmarks) Python-based Deep Learning framework [DEEP LEARNING]
 * [Optunity](http://docs.optunity.net) - A library dedicated to automated hyperparameter optimization with a simple, lightweight API to facilitate drop-in replacement of grid search.
+* [Neural Networks and Deep Learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning" [DEEP LEARNING]
 
 <a name="python-data-analysis" />
 #### Data Analysis / Data Visualization
@@ -784,7 +785,6 @@ on MNIST digits[DEEP LEARNING]
 * [Machine Learning Ruby](https://github.com/mizoR/machine-learning-ruby)
 * [jRuby Mahout](https://github.com/vasinov/jruby_mahout) - JRuby Mahout is a gem that unleashes the power of Apache Mahout in the world of JRuby.
 * [CardMagic-Classifier](https://github.com/cardmagic/classifier) - A general classifier module to allow Bayesian and other types of classifications.
-* [Neural Networks and Deep Learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning" [DEEP LEARNING]
 
 <a name="ruby-data-analysis" />
 #### Data Analysis / Data Visualization
