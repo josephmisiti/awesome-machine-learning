@@ -647,6 +647,7 @@ on MNIST digits[DEEP LEARNING]
 * [Pylearn2](https://github.com/lisa-lab/pylearn2) - A Machine Learning library based on [Theano](https://github.com/Theano/Theano).
 * [keras](https://github.com/fchollet/keras) - Modular neural network library based on [Theano](https://github.com/Theano/Theano).
 * [hebel](https://github.com/hannes-brt/hebel) - GPU-Accelerated Deep Learning Library in Python.
+* [Chainer](https://github.com/pfnet/chainer) - Flexible neural network framework
 * [gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans.
 * [PyBrain](https://github.com/pybrain/pybrain) - Another Python Machine Learning Library.
 * [Crab](https://github.com/muricoca/crab) - A ﬂexible, fast recommender engine.
