@@ -30,6 +30,7 @@ Social Scientists](http://faculty.ksu.edu.sa/69424/us_BOOk/Introduction%20to%20A
 and Prediction](http://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf)
 * [A Course in Machine Learning](http://ciml.info/)
 * [Machine Learning, Neural and Statistical Classification](http://www1.maths.leeds.ac.uk/~charles/statlog/)
+* [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage) Book+MatlabToolBox
 
 ## Natural Language Processing
 
