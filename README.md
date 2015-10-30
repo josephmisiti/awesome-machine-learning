@@ -66,7 +66,7 @@ For a list of free machine learning books available for download, go [here](http
 - [PHP](#php)
     - [General-Purpose Machine Learning](#php-general-purpose)
 - [Python](#python)
-    - [Computer Vision](#python-P)
+    - [Computer Vision](#python-cv)
     - [Natural Language Processing](#python-nlp)
     - [General-Purpose Machine Learning](#python-general-purpose)
     - [Data Analysis / Data Visualization](#python-data-analysis)
@@ -651,6 +651,7 @@ on MNIST digits[DEEP LEARNING]
 * [hebel](https://github.com/hannes-brt/hebel) - GPU-Accelerated Deep Learning Library in Python.
 * [Chainer](https://github.com/pfnet/chainer) - Flexible neural network framework
 * [gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans.
+* [topik](https://github.com/ContinuumIO/topik) - Topic modelling toolkit
 * [PyBrain](https://github.com/pybrain/pybrain) - Another Python Machine Learning Library.
 * [Crab](https://github.com/muricoca/crab) - A ﬂexible, fast recommender engine.
 * [python-recsys](https://github.com/ocelma/python-recsys) - A Python library for implementing a Recommender System.
@@ -678,6 +679,7 @@ on MNIST digits[DEEP LEARNING]
 * [neon](https://github.com/NervanaSystems/neon) - Nervana's [high-performance](https://github.com/soumith/convnet-benchmarks) Python-based Deep Learning framework [DEEP LEARNING]
 * [Optunity](http://docs.optunity.net) - A library dedicated to automated hyperparameter optimization with a simple, lightweight API to facilitate drop-in replacement of grid search.
 * [Neural Networks and Deep Learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning" [DEEP LEARNING]
+* [Annoy](https://github.com/spotify/annoy) - Approximate nearest neighbours implementation
 
 <a name="python-data-analysis" />
 #### Data Analysis / Data Visualization
@@ -713,6 +715,7 @@ on MNIST digits[DEEP LEARNING]
 * [NuPIC Studio](https://github.com/nupic-community/nupic.studio) An all-in-one NuPIC Hierarchical Temporal Memory visualization and debugging super-tool!
 * [SparklingPandas](https://github.com/sparklingpandas/sparklingpandas) Pandas on PySpark (POPS)
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) - A python visualization library based on matplotlib
+* [bqplot](https://github.com/bloomberg/bqplot) - An API for plotting in Jupyter (IPython)
 
 <a name="python-misc" />
 #### Misc Scripts / iPython Notebooks / Codebases
