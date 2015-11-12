@@ -753,6 +753,7 @@ on MNIST digits[DEEP LEARNING]
 * [Python Programming for the Humanities](http://fbkarsdorp.github.io/python-course/) - Course for Python programming for the Humanities, assuming no prior knowledge. Heavy focus on text processing / NLP.
 * [GreatCircle](https://github.com/mwgg/GreatCircle) - Library for calculating great circle distance.
 * [Optunity examples](http://docs.optunity.net/notebooks/index.html) - Examples demonstrating how to use Optunity in synergy with machine learning libraries.
+* [Dive into Machine Learning  with Python Jupyter notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning) - "I learned Python by hacking first, and getting serious *later.* I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself."
 
 <a name="python-kaggle" />
 #### Kaggle Competition Source Code
