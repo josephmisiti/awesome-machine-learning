@@ -244,7 +244,7 @@ For a list of free machine learning books available for download, go [here](http
 
 <a name="java-nlp" />
 #### Natural Language Processing
-* [Cortical.io](http://cortical.io) - Retina: an API performing complex NLP operations (disambiguation, classification, streaming text filtering, etc...) as quickly and intuitively as the brain. 
+* [Cortical.io](http://cortical.io) - Retina: an API performing complex NLP operations (disambiguation, classification, streaming text filtering, etc...) as quickly and intuitively as the brain.
 * [CoreNLP](http://nlp.stanford.edu/software/corenlp.shtml) - Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words
 * [Stanford Parser](http://nlp.stanford.edu/software/lex-parser.shtml) - A natural language parser is a program that works out the grammatical structure of sentences
 * [Stanford POS Tagger](http://nlp.stanford.edu/software/tagger.shtml) - A Part-Of-Speech Tagger (POS Tagger
@@ -297,7 +297,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Spark](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
 * [Impala](https://github.com/cloudera/impala) - Real-time Query for Hadoop
 * [DataMelt](http://jwork.org/dmelt/) - Mathematics software for numeric computation, statistics, symbolic calculations, data analysis and data visualization.
-* [Dr. Michael Thomas Flanagan's Java Scientific Library](http://www.ee.ucl.ac.uk/~mflanaga/java/) 
+* [Dr. Michael Thomas Flanagan's Java Scientific Library](http://www.ee.ucl.ac.uk/~mflanaga/java/)
 
 <a name="java-deep-learning" />
 #### Deep Learning
@@ -331,10 +331,11 @@ For a list of free machine learning books available for download, go [here](http
 * [amCharts](http://www.amcharts.com/)
 * [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting built on D3
 * [statkit](https://github.com/rigtorp/statkit) - Statistics kit for JavaScript
+* [datakit](https://github.com/nathanepstein/datakit) - A lightweight framework for data analysis in JavaScript
 * [science.js](https://github.com/jasondavies/science.js/) - Scientific and statistical computing in JavaScript.
 * [Z3d](https://github.com/NathanEpstein/Z3d) - Easily make interactive 3d plots built on Three.js
 * [Sigma.js](http://sigmajs.org/) - JavaScript library dedicated to graph drawing.
-* [C3.js](http://c3js.org/)- customizable library based on D3.js for easy chart drawing. 
+* [C3.js](http://c3js.org/)- customizable library based on D3.js for easy chart drawing.
 * [ZingChart](http://www.zingchart.com/)- library written on Vanilla JS for big data visualization.
 * [cheminfo](http://www.cheminfo.org/) - Platform for data visualization and analysis, using the [visualizer](https://github.com/npellet/visualizer) project.
 
@@ -362,7 +363,7 @@ For a list of free machine learning books available for download, go [here](http
 * [kalman](https://github.com/itamarwe/kalman) - Kalman filter for Javascript.
 * [shaman](https://github.com/dambalah/shaman) - node.js library with support for both simple and multiple linear regression.
 * [ml.js](https://github.com/mljs/ml) - Machine learning and numerical analysis tools for Node.js and the Browser!
-
+* [Pavlov.js](https://github.com/NathanEpstein/Pavlov.js) - Reinforcement learning using Markov Decision Processes
 <a name="javascript-misc" />
 #### Misc
 
@@ -607,7 +608,7 @@ on MNIST digits[DEEP LEARNING]
 <a name="python-cv" />
 #### Computer Vision
 
-* [Scikit-Image](https://github.com/scikit-image/scikit-image) - A collection of algorithms for image processing in Python. 
+* [Scikit-Image](https://github.com/scikit-image/scikit-image) - A collection of algorithms for image processing in Python.
 * [SimpleCV](http://simplecv.org/) - An open source computer vision framework that gives access to several high-powered computer vision libraries, such as OpenCV. Written on Python and runs on Mac, Windows, and Ubuntu Linux.
 * [Vigranumpy](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
 
@@ -953,7 +954,7 @@ on MNIST digits[DEEP LEARNING]
 
 <a name="swift-general-purpose" />
 #### General-Purpose Machine Learning
-* [BrainCore](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework 
+* [BrainCore](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework
 * [swix](https://github.com/scottsievert/swix) - A bare bones library that
   includes a general matrix language and wraps some OpenCV for iOS development.
 
