@@ -331,6 +331,7 @@ For a list of free machine learning books available for download, go [here](http
 * [amCharts](http://www.amcharts.com/)
 * [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting built on D3
 * [statkit](https://github.com/rigtorp/statkit) - Statistics kit for JavaScript
+* [datakit](https://github.com/nathanepstein/datakit) - A lightweight framework for data analysis in JavaScript
 * [science.js](https://github.com/jasondavies/science.js/) - Scientific and statistical computing in JavaScript.
 * [Z3d](https://github.com/NathanEpstein/Z3d) - Easily make interactive 3d plots built on Three.js
 * [Sigma.js](http://sigmajs.org/) - JavaScript library dedicated to graph drawing.
@@ -362,6 +363,7 @@ For a list of free machine learning books available for download, go [here](http
 * [kalman](https://github.com/itamarwe/kalman) - Kalman filter for Javascript.
 * [shaman](https://github.com/dambalah/shaman) - node.js library with support for both simple and multiple linear regression.
 * [ml.js](https://github.com/mljs/ml) - Machine learning and numerical analysis tools for Node.js and the Browser!
+* [Pavlov.js](https://github.com/NathanEpstein/Pavlov.js) - Reinforcement learning using Markov Decision Processes
 
 <a name="javascript-misc" />
 #### Misc
