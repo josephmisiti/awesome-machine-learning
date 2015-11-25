@@ -284,6 +284,7 @@ For a list of free machine learning books available for download, go [here](http
 * [RapidMiner](http://rapid-i.com/wiki/index.php?title=Integrating_RapidMiner_into_your_application) - RapidMiner integration into Java code
 * [Stanford Classifier](http://nlp.stanford.edu/software/classifier.shtml) - A classifier is a machine learning tool that will take data items and place them into one of k classes.
 * [SmileMiner](https://github.com/haifengl/smile) - Statistical Machine Intelligence & Learning Engine
+* [SystemML](https://github.com/apache/incubator-systemml) - flexible, scalable machine learning (ML) language.
 * [WalnutiQ](https://github.com/WalnutiQ/WalnutiQ) - object oriented model of the human brain
 * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) - Weka is a collection of machine learning algorithms for data mining tasks
 
