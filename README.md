@@ -688,6 +688,7 @@ on MNIST digits[DEEP LEARNING]
 * [Optunity](http://docs.optunity.net) - A library dedicated to automated hyperparameter optimization with a simple, lightweight API to facilitate drop-in replacement of grid search.
 * [Neural Networks and Deep Learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning" [DEEP LEARNING]
 * [Annoy](https://github.com/spotify/annoy) - Approximate nearest neighbours implementation
+* [skflow](https://github.com/google/skflow) - Simplified interface for TensorFlow, mimicking Scikit Learn.
 
 <a name="python-data-analysis" />
 #### Data Analysis / Data Visualization
