@@ -424,7 +424,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Data Read](https://github.com/WizardMac/DataRead.jl) - Read files from Stata, SAS, and SPSS
 * [Hypothesis Tests](https://github.com/JuliaStats/HypothesisTests.jl) - Hypothesis tests for Julia
 * [Gadfly](https://github.com/dcjones/Gadfly.jl) - Crafty statistical graphics for Julia.
-* [Stats](https://github.com/johnmyleswhite/stats.jl) - Statistical tests for Julia
+* [Stats](https://github.com/JuliaStats/Stats.jl) - Statistical tests for Julia
 
 * [RDataSets](https://github.com/johnmyleswhite/RDatasets.jl) - Julia package for loading many of the data sets available in R
 * [DataFrames](https://github.com/JuliaStats/DataFrames.jl) - library for working with tabular data in Julia
