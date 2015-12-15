@@ -64,6 +64,7 @@ For a list of free machine learning books available for download, go [here](http
 - [Objective C](#objectivec)
     - [General-Purpose Machine Learning](#objectivec-general-purpose)
 - [PHP](#php)
+    - [Natural Language Processing](#php-nlp)
     - [General-Purpose Machine Learning](#php-general-purpose)
 - [Python](#python)
     - [Computer Vision](#python-cv)
@@ -244,7 +245,7 @@ For a list of free machine learning books available for download, go [here](http
 
 <a name="java-nlp" />
 #### Natural Language Processing
-* [Cortical.io](http://www.cortical.io/) - Retina: an API performing complex NLP operations (disambiguation, classification, streaming text filtering, etc...) as quickly and intuitively as the brain. 
+* [Cortical.io](http://www.cortical.io/) - Retina: an API performing complex NLP operations (disambiguation, classification, streaming text filtering, etc...) as quickly and intuitively as the brain.
 * [CoreNLP](http://nlp.stanford.edu/software/corenlp.shtml) - Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words
 * [Stanford Parser](http://nlp.stanford.edu/software/lex-parser.shtml) - A natural language parser is a program that works out the grammatical structure of sentences
 * [Stanford POS Tagger](http://nlp.stanford.edu/software/tagger.shtml) - A Part-Of-Speech Tagger (POS Tagger
@@ -299,7 +300,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Spark](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
 * [Impala](https://github.com/cloudera/impala) - Real-time Query for Hadoop
 * [DataMelt](http://jwork.org/dmelt/) - Mathematics software for numeric computation, statistics, symbolic calculations, data analysis and data visualization.
-* [Dr. Michael Thomas Flanagan's Java Scientific Library](http://www.ee.ucl.ac.uk/~mflanaga/java/) 
+* [Dr. Michael Thomas Flanagan's Java Scientific Library](http://www.ee.ucl.ac.uk/~mflanaga/java/)
 
 <a name="java-deep-learning" />
 #### Deep Learning
@@ -337,7 +338,7 @@ For a list of free machine learning books available for download, go [here](http
 * [science.js](https://github.com/jasondavies/science.js/) - Scientific and statistical computing in JavaScript.
 * [Z3d](https://github.com/NathanEpstein/Z3d) - Easily make interactive 3d plots built on Three.js
 * [Sigma.js](http://sigmajs.org/) - JavaScript library dedicated to graph drawing.
-* [C3.js](http://c3js.org/)- customizable library based on D3.js for easy chart drawing. 
+* [C3.js](http://c3js.org/)- customizable library based on D3.js for easy chart drawing.
 * [ZingChart](http://www.zingchart.com/)- library written on Vanilla JS for big data visualization.
 * [cheminfo](http://www.cheminfo.org/) - Platform for data visualization and analysis, using the [visualizer](https://github.com/npellet/visualizer) project.
 
@@ -600,6 +601,11 @@ on MNIST digits[DEEP LEARNING]
 <a name="php">
 ## PHP
 
+<a name="php-nlp">
+### Natural Language Processing
+
+* [jieba-php](https://github.com/fukuball/jieba-php) - Chinese Words Segmentation Utilities.
+
 <a name="php-general-purpose">
 ### General-Purpose Machine Learning
 
@@ -611,7 +617,7 @@ on MNIST digits[DEEP LEARNING]
 <a name="python-cv" />
 #### Computer Vision
 
-* [Scikit-Image](https://github.com/scikit-image/scikit-image) - A collection of algorithms for image processing in Python. 
+* [Scikit-Image](https://github.com/scikit-image/scikit-image) - A collection of algorithms for image processing in Python.
 * [SimpleCV](http://simplecv.org/) - An open source computer vision framework that gives access to several high-powered computer vision libraries, such as OpenCV. Written on Python and runs on Mac, Windows, and Ubuntu Linux.
 * [Vigranumpy](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
 
@@ -647,7 +653,7 @@ on MNIST digits[DEEP LEARNING]
 * [Featureforge](https://github.com/machinalis/featureforge) A set of tools for creating and testing machine learning features, with a scikit-learn compatible API
 * [MLlib in Apache Spark](http://spark.apache.org/docs/latest/mllib-guide.html) - Distributed machine learning library in Spark
 * [scikit-learn](http://scikit-learn.org/) - A Python module for machine learning built on top of SciPy.
-* [metric-learn](https://github.com/all-umass/metric-learn) - A Python module for metric learning. 
+* [metric-learn](https://github.com/all-umass/metric-learn) - A Python module for metric learning.
 * [SimpleAI](http://github.com/simpleai-team/simpleai) Python implementation of many of the artificial intelligence algorithms described on the book "Artificial Intelligence, a Modern Approach". It focuses on providing an easy to use, well documented and tested library.
 * [astroML](http://www.astroml.org/) - Machine Learning and Data Mining for Astronomy.
 * [graphlab-create](http://graphlab.com/products/create/docs/) - A library with various machine learning models (regression, clustering, recommender systems, graph analytics, etc.) implemented on top of a disk-backed DataFrame.
@@ -961,7 +967,7 @@ on MNIST digits[DEEP LEARNING]
 
 <a name="swift-general-purpose" />
 #### General-Purpose Machine Learning
-* [BrainCore](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework 
+* [BrainCore](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework
 * [swix](https://github.com/scottsievert/swix) - A bare bones library that
   includes a general matrix language and wraps some OpenCV for iOS development.
 
