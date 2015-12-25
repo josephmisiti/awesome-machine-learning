@@ -49,7 +49,7 @@ and Prediction](http://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf)
 
 ## Probability & Statistics
 
-* [Thinking Stats](http://www.greenteapress.com/thinkstats/) - Book + Python Code
+* [Think Stats](http://www.greenteapress.com/thinkstats/) - Book + Python Code
 * [From Algorithms to Z-Scores](http://heather.cs.ucdavis.edu/probstatbook) - Book
 * [The Art of R Programming](http://heather.cs.ucdavis.edu/~matloff/132/NSPpart.pdf) - Book (Not Finished)
 * [All of Statistics](http://www.ucl.ac.uk/~rmjbale/Stat/wasserman2.pdf)
