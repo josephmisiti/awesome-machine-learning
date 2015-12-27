@@ -5,7 +5,7 @@ The following is a list of free, open source books on machine learning, statisti
 * [An Introduction To Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) - Book + R Code
 * [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) - Book
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Book + IPython Notebooks
-* [Thinking Bayes](http://www.greenteapress.com/thinkbayes/) - Book + Python Code
+* [Think Bayes](http://www.greenteapress.com/thinkbayes/) - Book + Python Code
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/mackay/itila/book.html)
 * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/chapters/)
 * [Data Intensive Text Processing w/ MapReduce](http://lintool.github.io/MapReduceAlgorithms/)
@@ -49,7 +49,7 @@ and Prediction](http://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf)
 
 ## Probability & Statistics
 
-* [Thinking Stats](http://www.greenteapress.com/thinkstats/) - Book + Python Code
+* [Think Stats](http://www.greenteapress.com/thinkstats/) - Book + Python Code
 * [From Algorithms to Z-Scores](http://heather.cs.ucdavis.edu/probstatbook) - Book
 * [The Art of R Programming](http://heather.cs.ucdavis.edu/~matloff/132/NSPpart.pdf) - Book (Not Finished)
 * [All of Statistics](http://www.ucl.ac.uk/~rmjbale/Stat/wasserman2.pdf)
@@ -58,7 +58,7 @@ and Prediction](http://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf)
 * [Introduction to probability](http://math.dartmouth.edu/~prob/prob/prob.pdf) - By Dartmouth College
 * [Principle of Uncertainty](http://uncertainty.stat.cmu.edu/wp-content/uploads/2011/05/principles-of-uncertainty.pdf)
 * [Probability & Statistics Cookbook](http://matthias.vallentin.net/probability-and-statistics-cookbook/)
-* [Advanced Data Analysis From An Elmentary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
+* [Advanced Data Analysis From An Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
 * [Introduction to Probability](http://athenasc.com/probbook.html) -  Book and course by MIT
 * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction.](http://statweb.stanford.edu/~tibs/ElemStatLearn/) -Book  
 * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) - Book
