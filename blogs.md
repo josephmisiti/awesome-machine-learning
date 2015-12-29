@@ -20,7 +20,7 @@ Podcasts
 
 [Learning Machines 101](http://www.learningmachines101.com/)
 
-[Not So Standard Deviations](https://soundcloud.com/nssd-podcast)
+[Not So Standard Deviations](http://simplystatistics.org/2015/09/17/not-so-standard-deviations-the-podcast/)
 
 Data Science / Statistics
 -------------------------
