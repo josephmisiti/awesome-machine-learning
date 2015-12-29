@@ -971,6 +971,8 @@ on MNIST digits[DEEP LEARNING]
 * [BrainCore](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework
 * [swix](https://github.com/scottsievert/swix) - A bare bones library that
   includes a general matrix language and wraps some OpenCV for iOS development.
+* [DeepLearningKit](http://deeplearningkit.org/) an Open Source Deep Learning Framework for Apple’s iOS, OS X and tvOS. 
+  It currently allows using deep convolutional neural network models trained in Caffe on Apple operating systems.
 
 <a name="credits" />
 ## Credits
