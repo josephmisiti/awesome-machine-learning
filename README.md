@@ -18,6 +18,7 @@ For a list of free machine learning books available for download, go [here](http
     - [General-Purpose Machine Learning](#cpp-general-purpose)
     - [Natural Language Processing](#cpp-nlp)
     - [Sequence Analysis](#cpp-sequence)
+    - [Gesture Recognition](#cpp-gestures)
 - [Common Lisp](#common-lisp)
     - [General-Purpose Machine Learning](#common-lisp-general-purpose)
 - [Clojure](#clojure)
@@ -152,6 +153,10 @@ For a list of free machine learning books available for download, go [here](http
 <a name="cpp-sequence" />
 #### Sequence Analysis
 * [ToPS](https://github.com/ayoshiaki/tops) - This is an objected-oriented framework that facilitates the integration of probabilistic models for sequences over a user defined alphabet.
+
+<a name="cpp-gestures" />
+#### Gesture Detection
+* [grt](https://github.com/nickgillian/grt) - The Gesture Recognition Toolkit (GRT) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
 
 <a name="common-lisp" />
 ## Common Lisp
