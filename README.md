@@ -702,6 +702,7 @@ on MNIST digits[DEEP LEARNING]
 * [Annoy](https://github.com/spotify/annoy) - Approximate nearest neighbours implementation
 * [skflow](https://github.com/google/skflow) - Simplified interface for TensorFlow, mimicking Scikit Learn.
 * [TPOT](https://github.com/rhiever/tpot) - Tool that automatically creates and optimizes machine learning pipelines using genetic programming. Consider it your personal data science assistant, automating a tedious part of machine learning.
+* [pgmpy](https://github.com/pgmpy/pgmpy) A python library for working with Probabilistic Graphical Models.
 
 <a name="python-data-analysis" />
 #### Data Analysis / Data Visualization
