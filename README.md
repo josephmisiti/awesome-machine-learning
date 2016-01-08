@@ -289,6 +289,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Neuroph](http://neuroph.sourceforge.net/) - Neuroph is lightweight Java neural network framework
 * [ORYX](https://github.com/oryxproject/oryx) - Lambda Architecture Framework using Apache Spark and Apache Kafka with a specialization for real-time large-scale machine learning.
 * [RankLib](http://sourceforge.net/p/lemur/wiki/RankLib/) - RankLib is a library of learning to rank algorithms
+* [rapaio](https://github.com/padreati/rapaio) - statistics, data mining and machine learning toolbox in Java
 * [RapidMiner](http://rapid-i.com/wiki/index.php?title=Integrating_RapidMiner_into_your_application) - RapidMiner integration into Java code
 * [Stanford Classifier](http://nlp.stanford.edu/software/classifier.shtml) - A classifier is a machine learning tool that will take data items and place them into one of k classes.
 * [SmileMiner](https://github.com/haifengl/smile) - Statistical Machine Intelligence & Learning Engine
