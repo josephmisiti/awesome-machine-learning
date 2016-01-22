@@ -708,6 +708,7 @@ on MNIST digits[DEEP LEARNING]
 * [TPOT](https://github.com/rhiever/tpot) - Tool that automatically creates and optimizes machine learning pipelines using genetic programming. Consider it your personal data science assistant, automating a tedious part of machine learning.
 * [pgmpy](https://github.com/pgmpy/pgmpy) A python library for working with Probabilistic Graphical Models.
 * [DIGITS](https://github.com/NVIDIA/DIGITS) - The Deep Learning GPU Training System (DIGITS) is a web application for training deep learning models.
+* [Orange](http://orange.biolab.si/) - Open source data visualization and data analysis for novices and experts. 
 
 <a name="python-data-analysis" />
 #### Data Analysis / Data Visualization
