@@ -234,6 +234,7 @@ For a list of free machine learning books available for download, go [here](http
 
 * [go-graph](https://github.com/StepLg/go-graph) - Graph library for Go/golang language.
 * [SVGo](http://www.svgopen.org/2011/papers/34-SVGo_a_Go_Library_for_SVG_generation/) - The Go Language library for SVG generation
+* [RF](https://github.com/fxsjy/RF.go) - Random forests implementation in Go
 
 
 <a name="haskell" />
