@@ -228,6 +228,7 @@ For a list of free machine learning books available for download, go [here](http
 * [go-galib](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / golang
 * [Cloudforest](https://github.com/ryanbressler/CloudForest) - Ensembles of decision trees in go/golang.
 * [gobrain](https://github.com/goml/gobrain) - Neural Networks written in go
+* [GoNN](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN
 
 <a name="go-data-analysis" />
 #### Data Analysis / Data Visualization
