@@ -63,6 +63,8 @@ For a list of free machine learning books available for download, go [here](http
     - [Data Analysis / Data Visualization](#net-data-analysis)
 - [Objective C](#objectivec)
     - [General-Purpose Machine Learning](#objectivec-general-purpose)
+- [OCaml](#ocaml)
+    - [General-Purpose Machine Learning](#ocaml-general-purpose)
 - [PHP](#php)
     - [Natural Language Processing](#php-nlp)
     - [General-Purpose Machine Learning](#php-general-purpose)
@@ -608,6 +610,15 @@ on MNIST digits[DEEP LEARNING]
 * [KRHebbian-Algorithm](https://github.com/Kalvar/ios-KRHebbian-Algorithm) - It is a non-supervisor and self-learning algorithm (adjust the weights) in neural network of Machine Learning.
 * [KRKmeans-Algorithm](https://github.com/Kalvar/ios-KRKmeans-Algorithm) - It implemented K-Means the clustering and classification algorithm. It could be used in data mining and image compression.
 * [KRFuzzyCMeans-Algorithm](https://github.com/Kalvar/ios-KRFuzzyCMeans-Algorithm) - It implemented Fuzzy C-Means (FCM) the fuzzy clustering / classification algorithm on Machine Learning. It could be used in data mining and image compression.
+
+<a name="ocaml">
+## OCaml
+
+<a name="ocaml-general-purpose">
+### General-Purpose Machine Learning
+* [Oml](https://github.com/hammerlab/oml/) - A general statistics and machine learning library.
+* [GPR](http://mmottl.github.io/gpr) - Efficient Gaussian Process Regression in OCaml.
+* [Libra-Tk](http://libra.cs.uoregon.edu) - Algorithms for learning and inference with discrete probabilistic models.
 
 <a name="php">
 ## PHP
