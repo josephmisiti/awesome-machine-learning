@@ -108,7 +108,7 @@ For a list of free machine learning books available for download, go [here](http
 * [VLFeat](http://www.vlfeat.org/) - VLFeat is an open and portable library of computer vision algorithms, which has Matlab toolbox
 
 ### Speech Recognition
-* [HTK](https://htk.eng.cam.ac.uk/) -The Hidden Markov Model Toolkit (HTK) is a portable toolkit for building and manipulating hidden Markov models.
+* [HTK](http://htk.eng.cam.ac.uk/) -The Hidden Markov Model Toolkit (HTK) is a portable toolkit for building and manipulating hidden Markov models.
 
 <a name="cpp" />
 ## C++
