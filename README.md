@@ -290,6 +290,7 @@ For a list of free machine learning books available for download, go [here](http
 * [ELKI](http://elki.dbs.ifi.lmu.de/) - Java toolkit for data mining. (unsupervised: clustering, outlier detection etc.)
 * [Encog](https://github.com/encog/encog-java-core) - An advanced neural network and machine learning framework. Encog contains classes to create a wide variety of networks, as well as support classes to normalize and process data for these neural networks. Encog trains using multithreaded resilient propagation. Encog can also make use of a GPU to further speed processing time. A GUI based workbench is also provided to help model and train neural networks.
 * [EvA2](www.ra.cs.uni-tuebingen.de/software/eva2/) - Evolutionary Algorithms Framework with Genetic Algorithm, Differential Evolution, Particle Swarm Optimization, Evolution Strategies, Covariance Matrix Adaptation Evolution Strategy, and more
+* [FlinkML in Apache Flink](https://ci.apache.org/projects/flink/flink-docs-master/apis/batch/libs/ml/index.html) - Distributed machine learning library in Flink
 * [H2O](https://github.com/h2oai/h2o-3) - ML engine that supports distributed learning on Hadoop, Spark or your laptop via APIs in R, Python, Scala, REST/JSON.
 * [htm.java](https://github.com/numenta/htm.java) - General Machine Learning library using Numenta’s Cortical Learning Algorithm
 * [java-deeplearning](https://github.com/deeplearning4j/deeplearning4j) - Distributed Deep Learning Platform for Java, Clojure,Scala
@@ -315,6 +316,7 @@ For a list of free machine learning books available for download, go [here](http
 <a name="java-data-analysis" />
 #### Data Analysis / Data Visualization
 
+* [Flink](http://flink.apache.org/) - Open source platform for distributed stream and batch data processing.
 * [Hadoop](https://github.com/apache/hadoop-mapreduce) - Hadoop/HDFS
 * [Spark](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
 * [Impala](https://github.com/cloudera/impala) - Real-time Query for Hadoop
@@ -990,6 +992,7 @@ on MNIST digits[DEEP LEARNING]
 * [PredictionIO](https://github.com/PredictionIO/PredictionIO) - PredictionIO, a machine learning server for software developers and data engineers.
 * [BIDMat](https://github.com/BIDData/BIDMat) - CPU and GPU-accelerated matrix library intended to support large-scale exploratory data analysis.
 * [Wolfe](http://www.wolfe.ml/) Declarative Machine Learning
+* [Flink](http://flink.apache.org/) - Open source platform for distributed stream and batch data processing.
 
 <a name="scala-general-purpose" />
 #### General-Purpose Machine Learning
@@ -1002,6 +1005,7 @@ on MNIST digits[DEEP LEARNING]
 * [BIDMach](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
 * [Figaro](https://github.com/p2t2/figaro) - a Scala library for constructing probabilistic models.
 * [H2O Sparkling Water](https://github.com/h2oai/sparkling-water) - H2O and Spark interoperability.
+* [FlinkML in Apache Flink](https://ci.apache.org/projects/flink/flink-docs-master/apis/batch/libs/ml/index.html) - Distributed machine learning library in Flink
 
 <a name="swift" />
 ## Swift
