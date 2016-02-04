@@ -107,6 +107,9 @@ For a list of free machine learning books available for download, go [here](http
 * [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
 * [VLFeat](http://www.vlfeat.org/) - VLFeat is an open and portable library of computer vision algorithms, which has Matlab toolbox
 
+### Speech Recognition
+* [HTK](http://htk.eng.cam.ac.uk/) -The Hidden Markov Model Toolkit (HTK) is a portable toolkit for building and manipulating hidden Markov models.
+
 <a name="cpp" />
 ## C++
 
