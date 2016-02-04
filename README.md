@@ -235,6 +235,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Cloudforest](https://github.com/ryanbressler/CloudForest) - Ensembles of decision trees in go/golang.
 * [gobrain](https://github.com/goml/gobrain) - Neural Networks written in go
 * [GoNN](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN
+* [MXNet](https://github.com/dmlc/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
 
 <a name="go-data-analysis" />
 #### Data Analysis / Data Visualization
@@ -385,6 +386,7 @@ For a list of free machine learning books available for download, go [here](http
 * [shaman](https://github.com/dambalah/shaman) - node.js library with support for both simple and multiple linear regression.
 * [ml.js](https://github.com/mljs/ml) - Machine learning and numerical analysis tools for Node.js and the Browser!
 * [Pavlov.js](https://github.com/NathanEpstein/Pavlov.js) - Reinforcement learning using Markov Decision Processes
+* [MXNet](https://github.com/dmlc/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
 
 <a name="javascript-misc" />
 #### Misc
@@ -427,6 +429,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Mocha](https://github.com/pluskid/Mocha.jl) - Deep Learning framework for Julia inspired by Caffe
 * [XGBoost](https://github.com/dmlc/XGBoost.jl) - eXtreme Gradient Boosting Package in Julia
 * [ManifoldLearning](https://github.com/wildart/ManifoldLearning.jl) - A Julia package for manifold learning and nonlinear dimensionality reduction
+* [MXNet](https://github.com/dmlc/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
 
 <a name="julia-nlp" />
 #### Natural Language Processing
@@ -730,6 +733,7 @@ on MNIST digits[DEEP LEARNING]
 * [pgmpy](https://github.com/pgmpy/pgmpy) A python library for working with Probabilistic Graphical Models.
 * [DIGITS](https://github.com/NVIDIA/DIGITS) - The Deep Learning GPU Training System (DIGITS) is a web application for training deep learning models.
 * [Orange](http://orange.biolab.si/) - Open source data visualization and data analysis for novices and experts. 
+* [MXNet](https://github.com/dmlc/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
 
 <a name="python-data-analysis" />
 #### Data Analysis / Data Visualization
@@ -956,6 +960,7 @@ on MNIST digits[DEEP LEARNING]
 * [XGBoost.R](https://github.com/tqchen/xgboost/tree/master/R-package) - R binding for eXtreme Gradient Boosting (Tree) Library
 * [Optunity](http://docs.optunity.net) - A library dedicated to automated hyperparameter optimization with a simple, lightweight API to facilitate drop-in replacement of grid search. Optunity is written in Python but interfaces seamlessly to R.
 * [igraph](http://igraph.org/r/) - binding to igraph library - General purpose graph library
+* [MXNet](https://github.com/dmlc/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
 
 <a name="r-data-analysis" />
 #### Data Analysis / Data Visualization
