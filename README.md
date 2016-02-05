@@ -80,6 +80,8 @@ For a list of free machine learning books available for download, go [here](http
     - [General-Purpose Machine Learning](#ruby-general-purpose)
     - [Data Analysis / Data Visualization](#ruby-data-analysis)
     - [Misc](#ruby-misc)
+- [Rust](#rust)
+    - [General-Purpose Machine Learning](#rust-general-purpose)
 - [R](#r)
     - [General-Purpose Machine Learning](#r-general-purpose)
     - [Data Analysis / Data Visualization](#r-data-analysis)
