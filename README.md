@@ -3,8 +3,12 @@
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@josephmisiti](https://twitter.com/josephmisiti)
+Also, when you noticed that listed repository should be deprecated.
 
-For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md).
+* Repository's owner explicitly say that "this library is not maintained".
+* Not committed for long time (2~3 years).
+
+For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md). 
 
 ## Table of Contents
 
@@ -380,7 +384,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Machine Learning](http://joonku.com/project/machine_learning) - Machine learning library for Node.js
 * [mil-tokyo](https://github.com/mil-tokyo) - List of several machine learning libraries
 * [Node-SVM](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for nodejs
-* [Brain](https://github.com/harthur/brain) - Neural networks in JavaScript
+* [Brain](https://github.com/harthur/brain) - Neural networks in JavaScript **[Deprecated]**
 * [Bayesian-Bandit](https://github.com/omphalos/bayesian-bandit.js) - Bayesian bandit implementation for Node and the browser.
 * [Synaptic](https://github.com/cazala/synaptic) - Architecture-free neural network library for node.js and the browser
 * [kNear](https://github.com/NathanEpstein/kNear) - JavaScript implementation of the k nearest neighbors algorithm for supervised learning
