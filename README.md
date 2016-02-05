@@ -735,7 +735,7 @@ on MNIST digits[DEEP LEARNING]
 * [TPOT](https://github.com/rhiever/tpot) - Tool that automatically creates and optimizes machine learning pipelines using genetic programming. Consider it your personal data science assistant, automating a tedious part of machine learning.
 * [pgmpy](https://github.com/pgmpy/pgmpy) A python library for working with Probabilistic Graphical Models.
 * [DIGITS](https://github.com/NVIDIA/DIGITS) - The Deep Learning GPU Training System (DIGITS) is a web application for training deep learning models.
-* [Orange](http://orange.biolab.si/) - Open source data visualization and data analysis for novices and experts. 
+* [Orange](http://orange.biolab.si/) - Open source data visualization and data analysis for novices and experts.
 * [MXNet](https://github.com/dmlc/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
 
 <a name="python-data-analysis" />
@@ -873,6 +873,18 @@ on MNIST digits[DEEP LEARNING]
 
 * [Big Data For Chimps](https://github.com/infochimps-labs/big_data_for_chimps)
 * [Listof](https://github.com/kevincobain2000/listof) - Community based data collection, packed in gem. Get list of pretty much anything (stop words, countries, non words) in txt, json or hash. [Demo/Search for a list](http://listof.herokuapp.com/)
+
+
+<a name="rust" />
+## Rust
+
+<a name="rust-general-purpose" />
+#### General-Purpose Machine Learning
+* [deeplearn-rs](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
+* [rustlearn](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
+* [leaf](https://github.com/autumnai/leaf) - open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe.  Available under the MIT license.
+* [RustNN](https://github.com/jackm321/RustNN) - RustNN is a feedforward neural network library.
+
 
 <a name="r" />
 ## R
