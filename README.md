@@ -860,6 +860,7 @@ on MNIST digits[DEEP LEARNING]
 * [Machine Learning Ruby](https://github.com/mizoR/machine-learning-ruby)
 * [jRuby Mahout](https://github.com/vasinov/jruby_mahout) - JRuby Mahout is a gem that unleashes the power of Apache Mahout in the world of JRuby.
 * [CardMagic-Classifier](https://github.com/cardmagic/classifier) - A general classifier module to allow Bayesian and other types of classifications.
+* [rb-libsvm](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM which is a Library for Support Vector Machines
 
 <a name="ruby-data-analysis" />
 #### Data Analysis / Data Visualization
