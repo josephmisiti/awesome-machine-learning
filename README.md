@@ -89,6 +89,12 @@ For a list of free machine learning books available for download, go [here](http
 - [R](#r)
     - [General-Purpose Machine Learning](#r-general-purpose)
     - [Data Analysis / Data Visualization](#r-data-analysis)
+- SAS (#sas)
+    - [General-Purpose Machine Learning] (#sas-general-purpose)
+    - [Data Analysis / Data Visualization] (#sas-data-analysis)
+    - [High Performance Machine Learning (MPP)] (#sas-mpp)
+    - [Natural Language Processing] (#sas-nlp)
+    - [Demos and Scripts] (#sas-demos)
 - [Scala](#scala)
     - [Natural Language Processing](#scala-nlp)
     - [Data Analysis / Data Visualization](#scala-data-analysis)
@@ -991,6 +997,43 @@ on MNIST digits[DEEP LEARNING]
 #### Data Analysis / Data Visualization
 
 * [ggplot2](http://ggplot2.org/) - A data visualization package based on the grammar of graphics.
+
+<a name="sas" />
+## SAS
+
+<a name="sas-general-purpose" />
+#### General-Purpose Machine Learning
+
+* [Enterprise Miner] (http://www.sas.com/en_us/software/analytics/enterprise-miner.html) - Data mining and machine learning that creates deployable models using a GUI or code.
+* [Factory Miner] (http://www.sas.com/en_us/software/analytics/factory-miner.html) - Automatically creates deployable machine learning models across numerous market or customer segments using a GUI.
+
+<a name="sas-data-analysis" />
+#### Data Analysis / Data Visualization
+
+* [SAS/STAT] (http://www.sas.com/en_us/software/analytics/stat.html) - For conducting advanced statistical analysis.
+* [University Edition] (http://www.sas.com/en_us/software/university-edition.html) - FREE! Includes all SAS packages necessary for data analysis and visualization, and includes online SAS courses.
+
+<a name="sas-mpp" />
+#### High Performance Machine Learning
+
+* [High Performance Data Mining] (http://www.sas.com/en_us/software/analytics/high-performance-data-mining.html) - Data mining and machine learning that creates deployable models using a GUI or code in an MPP environment, including Hadoop.
+* [High Performance Text Mining] (http://www.sas.com/en_us/software/analytics/high-performance-text-mining.html) - Text mining using a GUI or code in an MPP environment, including Hadoop.
+
+<a name="sas-nlp" />
+#### Natural Language Processing
+
+* [Contextual Analysis] (http://www.sas.com/en_us/software/analytics/contextual-analysis.html) - Add structure to unstructured text using a GUI.
+* [Sentiment Analysis] (http://www.sas.com/en_us/software/analytics/sentiment-analysis.html) - Extract sentiment from text using a GUI.
+* [Text Miner] (http://www.sas.com/en_us/software/analytics/text-miner.html) - Text mining using a GUI or code.
+
+<a name="sas-demos" />
+#### Demos and Scripts
+
+* [enlighten-apply] (https://github.com/sassoftware/enlighten-apply) - Example code and materials that illustrate applications of SAS machine learning techniques.
+* [enlighten-integration] (https://github.com/sassoftware/enlighten-integration) - Example code and materials that illustrate techniques for integrating SAS with other analytics technologies in Java, PMML, Python and R.
+* [enlighten-deep] (https://github.com/sassoftware/enlighten-deep) - Example code and materials that illustrate using neural networks with several hidden layers in SAS.
+* [dm-flow] (https://github.com/sassoftware/dm-flow) - Library of SAS Enterprise Miner process flow diagrams to help you learn by example about specific data mining topics.
+
 
 <a name="scala" />
 ## Scala
