@@ -89,7 +89,7 @@ For a list of free machine learning books available for download, go [here](http
 - [R](#r)
     - [General-Purpose Machine Learning](#r-general-purpose)
     - [Data Analysis / Data Visualization](#r-data-analysis)
-- SAS (#sas)
+- [SAS] (#sas)
     - [General-Purpose Machine Learning] (#sas-general-purpose)
     - [Data Analysis / Data Visualization] (#sas-data-analysis)
     - [High Performance Machine Learning (MPP)] (#sas-mpp)
@@ -1029,6 +1029,7 @@ on MNIST digits[DEEP LEARNING]
 <a name="sas-demos" />
 #### Demos and Scripts
 
+* [ML_Tables] (https://github.com/sassoftware/enlighten-apply/tree/master/ML_tables) - Concise cheat sheets containing machine learning best practices.
 * [enlighten-apply] (https://github.com/sassoftware/enlighten-apply) - Example code and materials that illustrate applications of SAS machine learning techniques.
 * [enlighten-integration] (https://github.com/sassoftware/enlighten-integration) - Example code and materials that illustrate techniques for integrating SAS with other analytics technologies in Java, PMML, Python and R.
 * [enlighten-deep] (https://github.com/sassoftware/enlighten-deep) - Example code and materials that illustrate using neural networks with several hidden layers in SAS.
