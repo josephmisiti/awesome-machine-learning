@@ -32,6 +32,7 @@ and Prediction](http://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf)
 * [Machine Learning, Neural and Statistical Classification](http://www1.maths.leeds.ac.uk/~charles/statlog/)
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage) Book+MatlabToolBox
 * [R Programming for Data Science](https://leanpub.com/rprogramming)
+* [Data Mining - Practical Machine Learning Tools and Techniques](http://www.cse.hcmut.edu.vn/~chauvtn/data_mining/Texts/%5B7%5D%20Data%20Mining%20-%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%20%283rd%20Ed%29.pdf) Book
 
 ## Natural Language Processing
 
