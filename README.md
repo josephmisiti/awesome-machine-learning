@@ -97,6 +97,7 @@ For a list of free machine learning books available for download, go [here](http
 <a name="c-general-purpose" />
 #### General-Purpose Machine Learning
 * [Recommender](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
+* [Darknet](https://github.com/pjreddie/darknet) - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 
 
 <a name="c-cv" />
