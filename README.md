@@ -1074,6 +1074,7 @@ on MNIST digits[DEEP LEARNING]
 * [Figaro](https://github.com/p2t2/figaro) - a Scala library for constructing probabilistic models.
 * [H2O Sparkling Water](https://github.com/h2oai/sparkling-water) - H2O and Spark interoperability.
 * [FlinkML in Apache Flink](https://ci.apache.org/projects/flink/flink-docs-master/apis/batch/libs/ml/index.html) - Distributed machine learning library in Flink
+* [DynaML](https://github.com/mandar2812/DynaML) - Scala Library/REPL for Machine Learning Research
 
 <a name="swift" />
 ## Swift
