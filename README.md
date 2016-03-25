@@ -8,7 +8,7 @@ Also, when you noticed that listed repository should be deprecated.
 * Repository's owner explicitly say that "this library is not maintained".
 * Not committed for long time (2~3 years).
 
-For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md). 
+For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md).
 
 ## Table of Contents
 
@@ -752,6 +752,7 @@ on MNIST digits[DEEP LEARNING]
 * [DIGITS](https://github.com/NVIDIA/DIGITS) - The Deep Learning GPU Training System (DIGITS) is a web application for training deep learning models.
 * [Orange](http://orange.biolab.si/) - Open source data visualization and data analysis for novices and experts.
 * [MXNet](https://github.com/dmlc/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
+* [milk](https://github.com/luispedro/milk) - Machine learning toolkit focused on supervised classification.
 
 <a name="python-data-analysis" />
 #### Data Analysis / Data Visualization
