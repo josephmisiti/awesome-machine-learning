@@ -791,6 +791,7 @@ on MNIST digits[DEEP LEARNING]
 * [SparklingPandas](https://github.com/sparklingpandas/sparklingpandas) Pandas on PySpark (POPS)
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) - A python visualization library based on matplotlib
 * [bqplot](https://github.com/bloomberg/bqplot) - An API for plotting in Jupyter (IPython)
+* [pastalog](https://github.com/rewonc/pastalog) - Simple, realtime visualization of neural network training performance.
 
 <a name="python-misc" />
 #### Misc Scripts / iPython Notebooks / Codebases
