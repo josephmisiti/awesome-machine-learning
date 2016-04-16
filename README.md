@@ -448,6 +448,7 @@ For a list of free machine learning books available for download, go [here](http
 * [XGBoost](https://github.com/dmlc/XGBoost.jl) - eXtreme Gradient Boosting Package in Julia
 * [ManifoldLearning](https://github.com/wildart/ManifoldLearning.jl) - A Julia package for manifold learning and nonlinear dimensionality reduction
 * [MXNet](https://github.com/dmlc/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
+* [Merlin](https://github.com/hshindo/Merlin.jl) - Flexible Deep Learning Framework in Julia
 
 <a name="julia-nlp" />
 #### Natural Language Processing
