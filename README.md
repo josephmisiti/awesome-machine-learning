@@ -1071,6 +1071,7 @@ on MNIST digits[DEEP LEARNING]
 * [BIDMat](https://github.com/BIDData/BIDMat) - CPU and GPU-accelerated matrix library intended to support large-scale exploratory data analysis.
 * [Wolfe](http://www.wolfe.ml/) Declarative Machine Learning
 * [Flink](http://flink.apache.org/) - Open source platform for distributed stream and batch data processing.
+* [Spark Notebook](http://spark-notebook.io) - Interactive and Reactive Data Science using Scala and Spark.
 
 <a name="scala-general-purpose" />
 #### General-Purpose Machine Learning
