@@ -204,7 +204,7 @@ For a list of free machine learning books available for download, go [here](http
 #### General-Purpose Machine Learning
 
 * [Touchstone](https://github.com/ptaoussanis/touchstone) - Clojure A/B testing library
-* [Clojush](https://github.com/lspector/Clojush) -  he Push programming language and the PushGP genetic programming system implemented in Clojure
+* [Clojush](https://github.com/lspector/Clojush) -  The Push programming language and the PushGP genetic programming system implemented in Clojure
 * [Infer](https://github.com/aria42/infer) - Inference and machine learning in clojure
 * [Clj-ML](https://github.com/antoniogarrote/clj-ml) - A machine learning library for Clojure built on top of Weka and friends
 * [Encog](https://github.com/jimpil/enclog) - Clojure wrapper for Encog (v3) (Machine-Learning framework that specializes in neural-nets)
