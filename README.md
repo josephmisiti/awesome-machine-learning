@@ -379,6 +379,7 @@ For a list of free machine learning books available for download, go [here](http
 * [C3.js](http://c3js.org/)- customizable library based on D3.js for easy chart drawing.
 * [ZingChart](http://www.zingchart.com/)- library written on Vanilla JS for big data visualization.
 * [cheminfo](http://www.cheminfo.org/) - Platform for data visualization and analysis, using the [visualizer](https://github.com/npellet/visualizer) project.
+* [AnyChart] (http://www.anychart.com) - Interactive JavaScript (HTML5) charts, maps, stock (date/time) graphs, Gantt charts and dashboards.
 
 
 <a name="javascript-general-purpose" />
