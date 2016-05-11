@@ -800,6 +800,7 @@ on MNIST digits[DEEP LEARNING]
 * [bqplot](https://github.com/bloomberg/bqplot) - An API for plotting in Jupyter (IPython)
 * [pastalog](https://github.com/rewonc/pastalog) - Simple, realtime visualization of neural network training performance.
 * [caravel](https://github.com/airbnb/caravel) - A data exploration platform designed to be visual, intuitive, and interactive.
+* [Dora](https://github.com/nathanepstein/dora) - Tools for exploratory data analysis in Python.
 
 <a name="python-misc" />
 #### Misc Scripts / iPython Notebooks / Codebases
