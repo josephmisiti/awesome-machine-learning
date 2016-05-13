@@ -156,6 +156,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Warp-CTC](https://github.com/baidu-research/warp-ctc) - A fast parallel implementation of Connectionist Temporal Classification (CTC), on both CPU and GPU.
 * [CNTK](https://github.com/Microsoft/CNTK) - The Computational Network Toolkit (CNTK) by Microsoft Research, is a unified deep-learning toolkit that describes neural networks as a series of computational steps via a directed graph.
 * [DeepDetect](https://github.com/beniz/deepdetect) - A machine learning API and server written in C++11. It makes state of the art machine learning easy to work with and integrate into existing applications.
+* [Fido](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics.
 
 <a name="cpp-nlp" />
 #### Natural Language Processing
@@ -203,7 +204,7 @@ For a list of free machine learning books available for download, go [here](http
 #### General-Purpose Machine Learning
 
 * [Touchstone](https://github.com/ptaoussanis/touchstone) - Clojure A/B testing library
-* [Clojush](https://github.com/lspector/Clojush) -  he Push programming language and the PushGP genetic programming system implemented in Clojure
+* [Clojush](https://github.com/lspector/Clojush) -  The Push programming language and the PushGP genetic programming system implemented in Clojure
 * [Infer](https://github.com/aria42/infer) - Inference and machine learning in clojure
 * [Clj-ML](https://github.com/antoniogarrote/clj-ml) - A machine learning library for Clojure built on top of Weka and friends
 * [Encog](https://github.com/jimpil/enclog) - Clojure wrapper for Encog (v3) (Machine-Learning framework that specializes in neural-nets)
@@ -491,13 +492,16 @@ For a list of free machine learning books available for download, go [here](http
 
 * [Torch7](http://torch.ch/)
   * [cephes](http://jucor.github.io/torch-cephes) - Cephes mathematical functions library, wrapped for Torch. Provides and wraps the 180+ special mathematical functions from the Cephes mathematical library, developed by Stephen L. Moshier. It is used, among many other places, at the heart of SciPy.
+  * [autograd](https://github.com/twitter/torch-autograd) - Autograd automatically differentiates native Torch code. Inspired by the original Python version.
   * [graph](https://github.com/torch/graph) - Graph package for Torch
   * [randomkit](http://jucor.github.io/torch-randomkit/) - Numpy's randomkit, wrapped for Torch
   * [signal](http://soumith.ch/torch-signal/signal/) - A signal processing toolbox for Torch-7. FFT, DCT, Hilbert, cepstrums, stft
-
   * [nn](https://github.com/torch/nn) - Neural Network package for Torch
   * [nngraph](https://github.com/torch/nngraph) - This package provides graphical computation for nn library in Torch7.
   * [nnx](https://github.com/clementfarabet/lua---nnx) - A completely unstable and experimental package that extends Torch's builtin nn library
+  * [rnn](https://github.com/Element-Research/rnn) - A Recurrent Neural Network library that extends Torch's nn. RNNs, LSTMs, GRUs, BRNNs, BLSTMs, etc.
+  * [dpnn](https://github.com/Element-Research/dpnn) - Many useful features that aren't part of the main nn package.
+  * [dp](https://github.com/nicholas-leonard/dp) - A deep learning library designed for streamlining research and development using the Torch7 distribution. It emphasizes flexibility through the elegant use of object-oriented design patterns.
   * [optim](https://github.com/torch/optim) - An optimization library for Torch. SGD, Adagrad, Conjugate-Gradient, LBFGS, RProp and more.
   * [unsup](https://github.com/koraykv/unsup) - A package for unsupervised learning in Torch. Provides modules that are compatible with nn (LinearPsd, ConvPsd, AutoEncoder, ...), and self-contained algorithms (k-means, PCA).
   * [manifold](https://github.com/clementfarabet/manifold) - A package to manipulate manifolds
@@ -796,6 +800,7 @@ on MNIST digits[DEEP LEARNING]
 * [bqplot](https://github.com/bloomberg/bqplot) - An API for plotting in Jupyter (IPython)
 * [pastalog](https://github.com/rewonc/pastalog) - Simple, realtime visualization of neural network training performance.
 * [caravel](https://github.com/airbnb/caravel) - A data exploration platform designed to be visual, intuitive, and interactive.
+* [Dora](https://github.com/nathanepstein/dora) - Tools for exploratory data analysis in Python.
 
 <a name="python-misc" />
 #### Misc Scripts / iPython Notebooks / Codebases
@@ -1095,6 +1100,7 @@ on MNIST digits[DEEP LEARNING]
   includes a general matrix language and wraps some OpenCV for iOS development.
 * [DeepLearningKit](http://deeplearningkit.org/) an Open Source Deep Learning Framework for Apple’s iOS, OS X and tvOS.
   It currently allows using deep convolutional neural network models trained in Caffe on Apple operating systems.
+* [AIToolbox](https://github.com/KevinCoble/AIToolbox) - A toolbox framework of AI modules written in Swift:  Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians.
 
 <a name="credits" />
 ## Credits
