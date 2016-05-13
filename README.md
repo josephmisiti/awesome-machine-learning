@@ -801,6 +801,7 @@ on MNIST digits[DEEP LEARNING]
 * [pastalog](https://github.com/rewonc/pastalog) - Simple, realtime visualization of neural network training performance.
 * [caravel](https://github.com/airbnb/caravel) - A data exploration platform designed to be visual, intuitive, and interactive.
 * [Dora](https://github.com/nathanepstein/dora) - Tools for exploratory data analysis in Python.
+* [Ruffus](http://www.ruffus.org.uk) - Computation Pipeline library for python.
 
 <a name="python-misc" />
 #### Misc Scripts / iPython Notebooks / Codebases
