@@ -79,6 +79,7 @@ For a list of free machine learning books available for download, go [here](http
     - [Data Analysis / Data Visualization](#python-data-analysis)
     - [Misc Scripts / iPython Notebooks / Codebases](#python-misc)
     - [Kaggle Competition Source Code](#python-kaggle)
+    - [Neural networks](#python-neural networks)
 - [Ruby](#ruby)
     - [Natural Language Processing](#ruby-nlp)
     - [General-Purpose Machine Learning](#ruby-general-purpose)
@@ -840,8 +841,15 @@ on MNIST digits[DEEP LEARNING]
 * [TDB](https://github.com/ericjang/tdb) - TensorDebugger (TDB) is a visual debugger for deep learning. It features interactive, node-by-node debugging and visualization for TensorFlow.
 
 
+<a name="python-neural networks"/>
+#### Neural networks
+* [Neural networks](https://github.com/karpathy/neuraltalk) - NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.
+
+
 <a name="python-kaggle" />
 #### Kaggle Competition Source Code
+
+
 
 * [wiki challenge](https://github.com/hammer/wikichallenge) - An implementation of Dell Zhang's solution to Wikipedia's Participation Challenge on Kaggle
 * [kaggle insults](https://github.com/amueller/kaggle_insults) - Kaggle Submission for "Detecting Insults in Social Commentary"
