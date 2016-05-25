@@ -14,6 +14,8 @@ For a list of free machine learning books available for download, go [here](http
 
 <!-- MarkdownTOC depth=4 -->
 
+- [APL](#apl)
+    - [General-Purpose Machine Learning](#apl-general-purpose)
 - [C](#c)
     - [General-Purpose Machine Learning](#c-general-purpose)
     - [Computer Vision](#c-cv)
@@ -105,6 +107,13 @@ For a list of free machine learning books available for download, go [here](http
 - [Credits](#credits)
 
 <!-- /MarkdownTOC -->
+
+<a name="apl" />
+## APL
+
+<a name="apl-general-purpose" />
+#### General-Purpose Machine Learning
+* [naive-apl](https://github.com/mattcunningham/naive-apl) - Naive Bayesian Classifier implementation in APL
 
 <a name="c" />
 ## C
