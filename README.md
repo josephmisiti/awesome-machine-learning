@@ -110,6 +110,8 @@ For a list of free machine learning books available for download, go [here](http
 
 <a name="apl" />
 ## APL
+
+<a name="apl-general-purpose" />
 #### General-Purpose Machine Learning
 * [naive-apl](https://github.com/mattcunningham/naive-apl) - Naive Bayesian Classifier implementation in APL
 
