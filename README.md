@@ -306,13 +306,10 @@ For a list of free machine learning books available for download, go [here](http
 * [Datumbox](https://github.com/datumbox/datumbox-framework) - Machine Learning framework for rapid development of Machine Learning and Statistical applications
 * [ELKI](http://elki.dbs.ifi.lmu.de/) - Java toolkit for data mining. (unsupervised: clustering, outlier detection etc.)
 * [Encog](https://github.com/encog/encog-java-core) - An advanced neural network and machine learning framework. Encog contains classes to create a wide variety of networks, as well as support classes to normalize and process data for these neural networks. Encog trains using multithreaded resilient propagation. Encog can also make use of a GPU to further speed processing time. A GUI based workbench is also provided to help model and train neural networks.
-* [EvA2](www.ra.cs.uni-tuebingen.de/software/eva2/) - Evolutionary Algorithms Framework with Genetic Algorithm, Differential Evolution, Particle Swarm Optimization, Evolution Strategies, Covariance Matrix Adaptation Evolution Strategy, and more
 * [FlinkML in Apache Flink](https://ci.apache.org/projects/flink/flink-docs-master/apis/batch/libs/ml/index.html) - Distributed machine learning library in Flink
 * [H2O](https://github.com/h2oai/h2o-3) - ML engine that supports distributed learning on Hadoop, Spark or your laptop via APIs in R, Python, Scala, REST/JSON.
 * [htm.java](https://github.com/numenta/htm.java) - General Machine Learning library using Numenta’s Cortical Learning Algorithm
 * [java-deeplearning](https://github.com/deeplearning4j/deeplearning4j) - Distributed Deep Learning Platform for Java, Clojure,Scala
-* [JAVA-ML](http://java-ml.sourceforge.net/) - A general ML library with a common interface for all algorithms in Java
-* [JSAT](https://code.google.com/p/java-statistical-analysis-tool/) - Numerous Machine Learning algorithms for classification, regression, and  clustering.
 * [Mahout](https://github.com/apache/mahout) - Distributed machine learning
 * [Meka](http://meka.sourceforge.net/) - An open source implementation of methods for multi-label classification and evaluation (extension to Weka).
 * [MLlib in Apache Spark](http://spark.apache.org/docs/latest/mllib-guide.html) - Distributed machine learning library in Spark
