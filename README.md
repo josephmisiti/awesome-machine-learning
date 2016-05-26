@@ -768,6 +768,7 @@ on MNIST digits[DEEP LEARNING]
 * [MXNet](https://github.com/dmlc/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
 * [milk](https://github.com/luispedro/milk) - Machine learning toolkit focused on supervised classification.
 * [TFLearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API for TensorFlow.
+* [REP](https://github.com/yandex/rep) - an IPython-based environment for conducting data-driven research in a consistent and reproducible way. REP is not trying to substitute scikit-learn, but extends it and provides better user experience.
 
 <a name="python-data-analysis" />
 #### Data Analysis / Data Visualization
