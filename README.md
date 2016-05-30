@@ -926,7 +926,7 @@ on MNIST digits[DEEP LEARNING]
 * [deeplearn-rs](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
 * [rustlearn](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
 * [rusty-machine](https://github.com/AtheMathmo/rusty-machine) - a pure-rust machine learning library.
-* [leaf](https://github.com/autumnai/leaf) - open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe.  Available under the MIT license.
+* [leaf](https://github.com/autumnai/leaf) - open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe.  Available under the MIT license. [**[Deprecated]**](https://medium.com/@mjhirn/tensorflow-wins-89b78b29aafb#.s0a3uy4cc)
 * [RustNN](https://github.com/jackm321/RustNN) - RustNN is a feedforward neural network library.
 
 
