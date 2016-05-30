@@ -3,7 +3,7 @@
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@josephmisiti](https://twitter.com/josephmisiti)
-Also, when you noticed that listed repository should be deprecated.
+Also, a listed repository should be deprecated if:
 
 * Repository's owner explicitly say that "this library is not maintained".
 * Not committed for long time (2~3 years).
