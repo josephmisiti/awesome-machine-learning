@@ -104,6 +104,8 @@ For a list of free machine learning books available for download, go [here](http
     - [General-Purpose Machine Learning](#scala-general-purpose)
 - [Swift](#swift)
     - [General-Purpose Machine Learning](#swift-general-purpose)
+- [TensorFlow](#tensor)
+    - [General-Purpose Machine Learning](#tensor-general-purpose)
 - [Credits](#credits)
 
 <!-- /MarkdownTOC -->
@@ -1120,6 +1122,13 @@ on MNIST digits[DEEP LEARNING]
 * [DeepLearningKit](http://deeplearningkit.org/) an Open Source Deep Learning Framework for Apple’s iOS, OS X and tvOS.
   It currently allows using deep convolutional neural network models trained in Caffe on Apple operating systems.
 * [AIToolbox](https://github.com/KevinCoble/AIToolbox) - A toolbox framework of AI modules written in Swift:  Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians.
+
+<a name="tensor" />
+## TensorFlow
+
+<a name="tensor-general-purpose" />
+#### General-Purpose Machine Learning
+* [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) - A list of all things related to TensorFlow
 
 <a name="credits" />
 ## Credits
