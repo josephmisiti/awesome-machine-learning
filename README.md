@@ -462,6 +462,9 @@ For a list of free machine learning books available for download, go [here](http
 * [ManifoldLearning](https://github.com/wildart/ManifoldLearning.jl) - A Julia package for manifold learning and nonlinear dimensionality reduction
 * [MXNet](https://github.com/dmlc/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
 * [Merlin](https://github.com/hshindo/Merlin.jl) - Flexible Deep Learning Framework in Julia
+* [ROCAnalysis](https://github.com/davidavdav/ROCAnalysis.jl) - Receiver Operating Characteristics and functions for evaluation probabilistic binary classifiers
+* [GaussianMixtures] (https://github.com/davidavdav/GaussianMixtures.jl) - Large scale Gaussian Mixture Models
+* [ScikitLearn] (https://github.com/cstjean/ScikitLearn.jl) - Julia implementation of the scikit-learn API
 
 <a name="julia-nlp" />
 #### Natural Language Processing
