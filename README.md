@@ -389,6 +389,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Z3d](https://github.com/NathanEpstein/Z3d) - Easily make interactive 3d plots built on Three.js
 * [Sigma.js](http://sigmajs.org/) - JavaScript library dedicated to graph drawing.
 * [C3.js](http://c3js.org/)- customizable library based on D3.js for easy chart drawing.
+* [Datamaps](http://datamaps.github.io/)- Customizable SVG map/geo visualizations using D3.js.
 * [ZingChart](http://www.zingchart.com/)- library written on Vanilla JS for big data visualization.
 * [cheminfo](http://www.cheminfo.org/) - Platform for data visualization and analysis, using the [visualizer](https://github.com/npellet/visualizer) project.
 
