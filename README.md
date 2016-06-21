@@ -254,6 +254,7 @@ For a list of free machine learning books available for download, go [here](http
 <a name="go-general-purpose" />
 #### General-Purpose Machine Learning
 
+* [gago](https://github.com/MaxHalford/gago) - Multi-population, flexible, parallel genetic algorithm.
 * [Go Learn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go
 * [go-pr](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang.
 * [go-ml](https://github.com/alonsovidales/go_ml) - Linear / Logistic regression, Neural Networks, Collaborative Filtering and Gaussian Multivariate Distribution
