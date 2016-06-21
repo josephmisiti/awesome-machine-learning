@@ -691,6 +691,7 @@ on MNIST digits[DEEP LEARNING]
 * [SimpleCV](http://simplecv.org/) - An open source computer vision framework that gives access to several high-powered computer vision libraries, such as OpenCV. Written on Python and runs on Mac, Windows, and Ubuntu Linux.
 * [Vigranumpy](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
 * [OpenFace](https://cmusatyalab.github.io/openface/) - Free and open source face recognition with deep neural networks.
+* [PCV](https://github.com/jesolem/PCV) - Open source Python module for computer vision
 
 <a name="python-nlp" />
 #### Natural Language Processing
@@ -716,6 +717,11 @@ on MNIST digits[DEEP LEARNING]
 * [colibri-core](https://github.com/proycon/colibri-core) - Python binding to C++ library for extracting and working with with basic linguistic constructions such as n-grams and skipgrams in a quick and memory-efficient way.
 * [spaCy](https://github.com/honnibal/spaCy/) - Industrial strength NLP with Python and Cython.
 * [PyStanfordDependencies](https://github.com/dmcc/PyStanfordDependencies) - Python interface for converting Penn Treebank trees to Stanford Dependencies.
+* [Distance](https://github.com/doukremt/distance) - Levenshtein and Hamming distance computation
+* [Fuzzy Wuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
+* [jellyfish](https://github.com/jamesturk/jellyfishå) - a python library for doing approximate and phonetic matching of strings.
+* [editdistance](https://pypi.python.org/pypi/editdistance) - fast implementation of edit distance
+* [textacy](https://github.com/chartbeat-labs/textacy) - higher-level NLP built on Spacy
 
 <a name="python-general-purpose" />
 #### General-Purpose Machine Learning
