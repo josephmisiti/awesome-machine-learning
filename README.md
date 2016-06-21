@@ -825,6 +825,8 @@ on MNIST digits[DEEP LEARNING]
 * [caravel](https://github.com/airbnb/caravel) - A data exploration platform designed to be visual, intuitive, and interactive.
 * [Dora](https://github.com/nathanepstein/dora) - Tools for exploratory data analysis in Python.
 * [Ruffus](http://www.ruffus.org.uk) - Computation Pipeline library for python.
+* [SOMPY](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
+* [HDBScan](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
 
 <a name="python-misc" />
 #### Misc Scripts / iPython Notebooks / Codebases
