@@ -339,6 +339,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) - Weka is a collection of machine learning algorithms for data mining tasks
 * [LBJava](https://github.com/IllinoisCogComp/lbjava/) - Learning Based Java is a modeling language for the rapid development of software systems, offers a convenient, declarative syntax for classifier and constraint definition directly in terms of the objects in the programmer's application. 
 
+
 #### Speech Recognition
 * [CMU Sphinx](http://cmusphinx.sourceforge.net/) - Open Source Toolkit For Speech Recognition purely based on Java speech recognition library.
 
@@ -1121,6 +1122,7 @@ on MNIST digits[DEEP LEARNING]
 * [H2O Sparkling Water](https://github.com/h2oai/sparkling-water) - H2O and Spark interoperability.
 * [FlinkML in Apache Flink](https://ci.apache.org/projects/flink/flink-docs-master/apis/batch/libs/ml/index.html) - Distributed machine learning library in Flink
 * [DynaML](https://github.com/mandar2812/DynaML) - Scala Library/REPL for Machine Learning Research
+* [Saul](https://github.com/IllinoisCogComp/saul/) - Flexible Declarative Learning-Based Programming. 
 
 <a name="swift" />
 ## Swift
