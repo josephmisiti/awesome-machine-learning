@@ -104,6 +104,8 @@ For a list of free machine learning books available for download, go [here](http
     - [General-Purpose Machine Learning](#scala-general-purpose)
 - [Swift](#swift)
     - [General-Purpose Machine Learning](#swift-general-purpose)
+- [TensorFlow](#tensor)
+    - [General-Purpose Machine Learning](#tensor-general-purpose)
 - [Credits](#credits)
 
 <!-- /MarkdownTOC -->
@@ -252,6 +254,7 @@ For a list of free machine learning books available for download, go [here](http
 <a name="go-general-purpose" />
 #### General-Purpose Machine Learning
 
+* [gago](https://github.com/MaxHalford/gago) - Multi-population, flexible, parallel genetic algorithm.
 * [Go Learn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go
 * [go-pr](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang.
 * [go-ml](https://github.com/alonsovidales/go_ml) - Linear / Logistic regression, Neural Networks, Collaborative Filtering and Gaussian Multivariate Distribution
@@ -387,6 +390,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Z3d](https://github.com/NathanEpstein/Z3d) - Easily make interactive 3d plots built on Three.js
 * [Sigma.js](http://sigmajs.org/) - JavaScript library dedicated to graph drawing.
 * [C3.js](http://c3js.org/)- customizable library based on D3.js for easy chart drawing.
+* [Datamaps](http://datamaps.github.io/)- Customizable SVG map/geo visualizations using D3.js.
 * [ZingChart](http://www.zingchart.com/)- library written on Vanilla JS for big data visualization.
 * [cheminfo](http://www.cheminfo.org/) - Platform for data visualization and analysis, using the [visualizer](https://github.com/npellet/visualizer) project.
 
@@ -460,6 +464,9 @@ For a list of free machine learning books available for download, go [here](http
 * [ManifoldLearning](https://github.com/wildart/ManifoldLearning.jl) - A Julia package for manifold learning and nonlinear dimensionality reduction
 * [MXNet](https://github.com/dmlc/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
 * [Merlin](https://github.com/hshindo/Merlin.jl) - Flexible Deep Learning Framework in Julia
+* [ROCAnalysis](https://github.com/davidavdav/ROCAnalysis.jl) - Receiver Operating Characteristics and functions for evaluation probabilistic binary classifiers
+* [GaussianMixtures] (https://github.com/davidavdav/GaussianMixtures.jl) - Large scale Gaussian Mixture Models
+* [ScikitLearn] (https://github.com/cstjean/ScikitLearn.jl) - Julia implementation of the scikit-learn API
 
 <a name="julia-nlp" />
 #### Natural Language Processing
@@ -685,6 +692,7 @@ on MNIST digits[DEEP LEARNING]
 * [SimpleCV](http://simplecv.org/) - An open source computer vision framework that gives access to several high-powered computer vision libraries, such as OpenCV. Written on Python and runs on Mac, Windows, and Ubuntu Linux.
 * [Vigranumpy](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
 * [OpenFace](https://cmusatyalab.github.io/openface/) - Free and open source face recognition with deep neural networks.
+* [PCV](https://github.com/jesolem/PCV) - Open source Python module for computer vision
 
 <a name="python-nlp" />
 #### Natural Language Processing
@@ -710,6 +718,11 @@ on MNIST digits[DEEP LEARNING]
 * [colibri-core](https://github.com/proycon/colibri-core) - Python binding to C++ library for extracting and working with with basic linguistic constructions such as n-grams and skipgrams in a quick and memory-efficient way.
 * [spaCy](https://github.com/honnibal/spaCy/) - Industrial strength NLP with Python and Cython.
 * [PyStanfordDependencies](https://github.com/dmcc/PyStanfordDependencies) - Python interface for converting Penn Treebank trees to Stanford Dependencies.
+* [Distance](https://github.com/doukremt/distance) - Levenshtein and Hamming distance computation
+* [Fuzzy Wuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
+* [jellyfish](https://github.com/jamesturk/jellyfish) - a python library for doing approximate and phonetic matching of strings.
+* [editdistance](https://pypi.python.org/pypi/editdistance) - fast implementation of edit distance
+* [textacy](https://github.com/chartbeat-labs/textacy) - higher-level NLP built on Spacy
 
 <a name="python-general-purpose" />
 #### General-Purpose Machine Learning
@@ -813,6 +826,8 @@ on MNIST digits[DEEP LEARNING]
 * [caravel](https://github.com/airbnb/caravel) - A data exploration platform designed to be visual, intuitive, and interactive.
 * [Dora](https://github.com/nathanepstein/dora) - Tools for exploratory data analysis in Python.
 * [Ruffus](http://www.ruffus.org.uk) - Computation Pipeline library for python.
+* [SOMPY](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
+* [HDBScan](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
 
 <a name="python-misc" />
 #### Misc Scripts / iPython Notebooks / Codebases
@@ -1120,6 +1135,13 @@ on MNIST digits[DEEP LEARNING]
 * [DeepLearningKit](http://deeplearningkit.org/) an Open Source Deep Learning Framework for Apple’s iOS, OS X and tvOS.
   It currently allows using deep convolutional neural network models trained in Caffe on Apple operating systems.
 * [AIToolbox](https://github.com/KevinCoble/AIToolbox) - A toolbox framework of AI modules written in Swift:  Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians.
+
+<a name="tensor" />
+## TensorFlow
+
+<a name="tensor-general-purpose" />
+#### General-Purpose Machine Learning
+* [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) - A list of all things related to TensorFlow
 
 <a name="credits" />
 ## Credits
