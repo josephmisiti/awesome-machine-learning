@@ -515,6 +515,7 @@ For a list of free machine learning books available for download, go [here](http
   * [randomkit](http://jucor.github.io/torch-randomkit/) - Numpy's randomkit, wrapped for Torch
   * [signal](http://soumith.ch/torch-signal/signal/) - A signal processing toolbox for Torch-7. FFT, DCT, Hilbert, cepstrums, stft
   * [nn](https://github.com/torch/nn) - Neural Network package for Torch
+  * [torchnet](https://github.com/torchnet/torchnet) - framework for torch which provides a set of abstractions aiming at encouraging code re-use as well as encouraging modular programming
   * [nngraph](https://github.com/torch/nngraph) - This package provides graphical computation for nn library in Torch7.
   * [nnx](https://github.com/clementfarabet/lua---nnx) - A completely unstable and experimental package that extends Torch's builtin nn library
   * [rnn](https://github.com/Element-Research/rnn) - A Recurrent Neural Network library that extends Torch's nn. RNNs, LSTMs, GRUs, BRNNs, BLSTMs, etc.
