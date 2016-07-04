@@ -865,6 +865,7 @@ on MNIST digits[DEEP LEARNING]
 * [Optunity examples](http://docs.optunity.net/notebooks/index.html) - Examples demonstrating how to use Optunity in synergy with machine learning libraries.
 * [Dive into Machine Learning  with Python Jupyter notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning) - "I learned Python by hacking first, and getting serious *later.* I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself."
 * [TDB](https://github.com/ericjang/tdb) - TensorDebugger (TDB) is a visual debugger for deep learning. It features interactive, node-by-node debugging and visualization for TensorFlow.
+* [Introduction to machine learning with scikit-learn](https://github.com/justmarkham/scikit-learn-videos) - IPython notebooks from Data School's video tutorials on scikit-learn.
 
 
 <a name="python-neural networks"/>
