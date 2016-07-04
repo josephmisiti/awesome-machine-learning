@@ -91,6 +91,8 @@ http://www.randalolson.com/blog/
 
 http://www.johndcook.com/blog/r_language_for_programmers/
 
+http://www.dataschool.io/
+
 Math
 ----
 
