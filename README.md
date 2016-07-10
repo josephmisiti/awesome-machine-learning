@@ -339,6 +339,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) - Weka is a collection of machine learning algorithms for data mining tasks
 * [LBJava](https://github.com/IllinoisCogComp/lbjava/) - Learning Based Java is a modeling language for the rapid development of software systems, offers a convenient, declarative syntax for classifier and constraint definition directly in terms of the objects in the programmer's application. 
 
+
 #### Speech Recognition
 * [CMU Sphinx](http://cmusphinx.sourceforge.net/) - Open Source Toolkit For Speech Recognition purely based on Java speech recognition library.
 
@@ -514,6 +515,7 @@ For a list of free machine learning books available for download, go [here](http
   * [randomkit](http://jucor.github.io/torch-randomkit/) - Numpy's randomkit, wrapped for Torch
   * [signal](http://soumith.ch/torch-signal/signal/) - A signal processing toolbox for Torch-7. FFT, DCT, Hilbert, cepstrums, stft
   * [nn](https://github.com/torch/nn) - Neural Network package for Torch
+  * [torchnet](https://github.com/torchnet/torchnet) - framework for torch which provides a set of abstractions aiming at encouraging code re-use as well as encouraging modular programming
   * [nngraph](https://github.com/torch/nngraph) - This package provides graphical computation for nn library in Torch7.
   * [nnx](https://github.com/clementfarabet/lua---nnx) - A completely unstable and experimental package that extends Torch's builtin nn library
   * [rnn](https://github.com/Element-Research/rnn) - A Recurrent Neural Network library that extends Torch's nn. RNNs, LSTMs, GRUs, BRNNs, BLSTMs, etc.
@@ -720,7 +722,7 @@ on MNIST digits[DEEP LEARNING]
 * [PyStanfordDependencies](https://github.com/dmcc/PyStanfordDependencies) - Python interface for converting Penn Treebank trees to Stanford Dependencies.
 * [Distance](https://github.com/doukremt/distance) - Levenshtein and Hamming distance computation
 * [Fuzzy Wuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
-* [jellyfish](https://github.com/jamesturk/jellyfishå) - a python library for doing approximate and phonetic matching of strings.
+* [jellyfish](https://github.com/jamesturk/jellyfish) - a python library for doing approximate and phonetic matching of strings.
 * [editdistance](https://pypi.python.org/pypi/editdistance) - fast implementation of edit distance
 * [textacy](https://github.com/chartbeat-labs/textacy) - higher-level NLP built on Spacy
 
@@ -741,6 +743,7 @@ on MNIST digits[DEEP LEARNING]
 * [NuPIC](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing.
 * [Pylearn2](https://github.com/lisa-lab/pylearn2) - A Machine Learning library based on [Theano](https://github.com/Theano/Theano).
 * [keras](https://github.com/fchollet/keras) - Modular neural network library based on [Theano](https://github.com/Theano/Theano).
+* [Lasagne](https://github.com/Lasagne/Lasagne) - Lightweight library to build and train neural networks in Theano.
 * [hebel](https://github.com/hannes-brt/hebel) - GPU-Accelerated Deep Learning Library in Python.
 * [Chainer](https://github.com/pfnet/chainer) - Flexible neural network framework
 * [gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans.
@@ -863,6 +866,7 @@ on MNIST digits[DEEP LEARNING]
 * [Optunity examples](http://docs.optunity.net/notebooks/index.html) - Examples demonstrating how to use Optunity in synergy with machine learning libraries.
 * [Dive into Machine Learning  with Python Jupyter notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning) - "I learned Python by hacking first, and getting serious *later.* I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself."
 * [TDB](https://github.com/ericjang/tdb) - TensorDebugger (TDB) is a visual debugger for deep learning. It features interactive, node-by-node debugging and visualization for TensorFlow.
+* [Introduction to machine learning with scikit-learn](https://github.com/justmarkham/scikit-learn-videos) - IPython notebooks from Data School's video tutorials on scikit-learn.
 
 
 <a name="python-neural networks"/>
@@ -1121,6 +1125,7 @@ on MNIST digits[DEEP LEARNING]
 * [H2O Sparkling Water](https://github.com/h2oai/sparkling-water) - H2O and Spark interoperability.
 * [FlinkML in Apache Flink](https://ci.apache.org/projects/flink/flink-docs-master/apis/batch/libs/ml/index.html) - Distributed machine learning library in Flink
 * [DynaML](https://github.com/mandar2812/DynaML) - Scala Library/REPL for Machine Learning Research
+* [Saul](https://github.com/IllinoisCogComp/saul/) - Flexible Declarative Learning-Based Programming. 
 
 <a name="swift" />
 ## Swift
