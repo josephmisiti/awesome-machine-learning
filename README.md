@@ -31,6 +31,9 @@ For a list of free machine learning books available for download, go [here](http
     - [Natural Language Processing](#clojure-nlp)
     - [General-Purpose Machine Learning](#clojure-general-purpose)
     - [Data Analysis / Data Visualization](#clojure-data-analysis)
+- [Elixir](#elixir)
+    - [General-Purpose Machine Learning](#elixir-general-purpose)
+    - [Natural Language Processing](#elixir-nlp)
 - [Erlang](#erlang)
     - [General-Purpose Machine Learning](#erlang-general-purpose)
 - [Go](#go)
@@ -92,7 +95,7 @@ For a list of free machine learning books available for download, go [here](http
 - [R](#r)
     - [General-Purpose Machine Learning](#r-general-purpose)
     - [Data Analysis / Data Visualization](#r-data-analysis)
-- [SAS] (#sas)
+- [SAS](#sas)
     - [General-Purpose Machine Learning] (#sas-general-purpose)
     - [Data Analysis / Data Visualization] (#sas-data-analysis)
     - [High Performance Machine Learning (MPP)] (#sas-mpp)
@@ -233,11 +236,25 @@ For a list of free machine learning books available for download, go [here](http
 * [PigPen](https://github.com/Netflix/PigPen) - Map-Reduce for Clojure.
 * [Envision](https://github.com/clojurewerkz/envision) - Clojure Data Visualisation library, based on Statistiker and D3
 
+<a name="elixir" />
+## Elixir
+
+<a name="elixir-general-purpose" />
+#### General-Purpose Machine Learning
+
+* [Simple Bayes](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
+
+<a name="elixir-nlp" />
+#### Natural Language Processing
+
+* [Stemmer](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
+
 <a name="erlang" />
 ## Erlang
 
 <a name="erlang-general-purpose" />
 #### General-Purpose Machine Learning
+
 * [Disco](https://github.com/discoproject/disco/) - Map Reduce in Erlang
 
 <a name="go" />
@@ -337,7 +354,7 @@ For a list of free machine learning books available for download, go [here](http
 * [SystemML](https://github.com/apache/incubator-systemml) - flexible, scalable machine learning (ML) language.
 * [WalnutiQ](https://github.com/WalnutiQ/WalnutiQ) - object oriented model of the human brain
 * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) - Weka is a collection of machine learning algorithms for data mining tasks
-* [LBJava](https://github.com/IllinoisCogComp/lbjava/) - Learning Based Java is a modeling language for the rapid development of software systems, offers a convenient, declarative syntax for classifier and constraint definition directly in terms of the objects in the programmer's application. 
+* [LBJava](https://github.com/IllinoisCogComp/lbjava/) - Learning Based Java is a modeling language for the rapid development of software systems, offers a convenient, declarative syntax for classifier and constraint definition directly in terms of the objects in the programmer's application.
 
 
 #### Speech Recognition
@@ -1129,7 +1146,7 @@ on MNIST digits[DEEP LEARNING]
 * [H2O Sparkling Water](https://github.com/h2oai/sparkling-water) - H2O and Spark interoperability.
 * [FlinkML in Apache Flink](https://ci.apache.org/projects/flink/flink-docs-master/apis/batch/libs/ml/index.html) - Distributed machine learning library in Flink
 * [DynaML](https://github.com/mandar2812/DynaML) - Scala Library/REPL for Machine Learning Research
-* [Saul](https://github.com/IllinoisCogComp/saul/) - Flexible Declarative Learning-Based Programming. 
+* [Saul](https://github.com/IllinoisCogComp/saul/) - Flexible Declarative Learning-Based Programming.
 
 <a name="swift" />
 ## Swift
@@ -1144,7 +1161,7 @@ on MNIST digits[DEEP LEARNING]
 * [DeepLearningKit](http://deeplearningkit.org/) an Open Source Deep Learning Framework for Apple’s iOS, OS X and tvOS.
   It currently allows using deep convolutional neural network models trained in Caffe on Apple operating systems.
 * [AIToolbox](https://github.com/KevinCoble/AIToolbox) - A toolbox framework of AI modules written in Swift:  Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians.
-* [MLKit](https://github.com/Somnibyte/MLKit) - A simple Machine Learning Framework written in Swift. Currently features Simple Linear Regression, Polynomial Regression, and Ridge Regression. 
+* [MLKit](https://github.com/Somnibyte/MLKit) - A simple Machine Learning Framework written in Swift. Currently features Simple Linear Regression, Polynomial Regression, and Ridge Regression.
 
 <a name="tensor" />
 ## TensorFlow
