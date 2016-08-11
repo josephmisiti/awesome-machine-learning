@@ -31,6 +31,9 @@ For a list of free machine learning books available for download, go [here](http
     - [Natural Language Processing](#clojure-nlp)
     - [General-Purpose Machine Learning](#clojure-general-purpose)
     - [Data Analysis / Data Visualization](#clojure-data-analysis)
+- [Elixir](#elixir)
+    - [General-Purpose Machine Learning](#elixir-general-purpose)
+    - [Natural Language Processing](#elixir-nlp)
 - [Erlang](#erlang)
     - [General-Purpose Machine Learning](#erlang-general-purpose)
 - [Go](#go)
@@ -92,7 +95,7 @@ For a list of free machine learning books available for download, go [here](http
 - [R](#r)
     - [General-Purpose Machine Learning](#r-general-purpose)
     - [Data Analysis / Data Visualization](#r-data-analysis)
-- [SAS] (#sas)
+- [SAS](#sas)
     - [General-Purpose Machine Learning] (#sas-general-purpose)
     - [Data Analysis / Data Visualization] (#sas-data-analysis)
     - [High Performance Machine Learning (MPP)] (#sas-mpp)
@@ -234,11 +237,25 @@ For a list of free machine learning books available for download, go [here](http
 * [PigPen](https://github.com/Netflix/PigPen) - Map-Reduce for Clojure.
 * [Envision](https://github.com/clojurewerkz/envision) - Clojure Data Visualisation library, based on Statistiker and D3
 
+<a name="elixir" />
+## Elixir
+
+<a name="elixir-general-purpose" />
+#### General-Purpose Machine Learning
+
+* [Simple Bayes](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
+
+<a name="elixir-nlp" />
+#### Natural Language Processing
+
+* [Stemmer](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
+
 <a name="erlang" />
 ## Erlang
 
 <a name="erlang-general-purpose" />
 #### General-Purpose Machine Learning
+
 * [Disco](https://github.com/discoproject/disco/) - Map Reduce in Erlang
 
 <a name="go" />
