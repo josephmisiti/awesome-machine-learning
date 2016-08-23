@@ -1149,6 +1149,7 @@ on MNIST digits[DEEP LEARNING]
 * [FlinkML in Apache Flink](https://ci.apache.org/projects/flink/flink-docs-master/apis/batch/libs/ml/index.html) - Distributed machine learning library in Flink
 * [DynaML](https://github.com/mandar2812/DynaML) - Scala Library/REPL for Machine Learning Research
 * [Saul](https://github.com/IllinoisCogComp/saul/) - Flexible Declarative Learning-Based Programming.
+* [SwiftLearner](https://github.com/valdanylchuk/swiftlearner/) - Simply written algorithms to help study ML or write your own implementations.
 
 <a name="swift" />
 ## Swift
