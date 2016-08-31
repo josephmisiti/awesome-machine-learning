@@ -23,9 +23,7 @@ The following is a list of free, open source books on machine learning, statisti
 * [Reinforcement Learning](http://www.intechopen.com/books/reinforcement_learning)
 * [Machine Learning](http://www.intechopen.com/books/machine_learning)
 * [A Quest for AI](http://ai.stanford.edu/~nilsson/QAI/qai.pdf)
-* [Introduction to Applied Bayesian
-Statistics and Estimation for
-Social Scientists](http://faculty.ksu.edu.sa/69424/us_BOOk/Introduction%20to%20Applied%20Bayesian%20Statistics.pdf)
+* [Introduction to Applied Bayesian Statistics and Estimation for Social Scientists](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.177.857&rep=rep1&type=pdf) - Scott M. Lynch
 * [Bayesian Modeling, Inference
 and Prediction](http://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf)
 * [A Course in Machine Learning](http://ciml.info/)
