@@ -893,6 +893,7 @@ on MNIST digits[DEEP LEARNING]
 <a name="python-neural networks"/>
 #### Neural networks
 * [Neural networks](https://github.com/karpathy/neuraltalk) - NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.
+* [Neuron](https://github.com/molcik/Neuron) - Neuron is simple class for time series predictions. It's utilize LNU (Linear Neural Unit), QNU (Quadratic Neural Unit), RBF (Radial Basis Function), MLP (Multi Layer Perceptron), MLP-ELM (Multi Layer Perceptron - Extreme Learning Machine) neural networks learned with Gradient descent or LeLevenberg–Marquardt algorithm.
 
 
 <a name="python-kaggle" />
