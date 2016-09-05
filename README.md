@@ -889,7 +889,7 @@ on MNIST digits[DEEP LEARNING]
 * [Dive into Machine Learning  with Python Jupyter notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning) - "I learned Python by hacking first, and getting serious *later.* I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself."
 * [TDB](https://github.com/ericjang/tdb) - TensorDebugger (TDB) is a visual debugger for deep learning. It features interactive, node-by-node debugging and visualization for TensorFlow.
 * [Introduction to machine learning with scikit-learn](https://github.com/justmarkham/scikit-learn-videos) - IPython notebooks from Data School's video tutorials on scikit-learn.
-
+* [Practical XGBoost in Python](http://education.parrotprediction.teachable.com/courses/practical-xgboost-in-python) - comprehensive online course about using XGBoost in Python
 
 <a name="python-neural networks"/>
 #### Neural networks
