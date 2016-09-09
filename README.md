@@ -488,6 +488,7 @@ For a list of free machine learning books available for download, go [here](http
 * [ROCAnalysis](https://github.com/davidavdav/ROCAnalysis.jl) - Receiver Operating Characteristics and functions for evaluation probabilistic binary classifiers
 * [GaussianMixtures] (https://github.com/davidavdav/GaussianMixtures.jl) - Large scale Gaussian Mixture Models
 * [ScikitLearn] (https://github.com/cstjean/ScikitLearn.jl) - Julia implementation of the scikit-learn API
+* [Knet](https://github.com/denizyuret/Knet.jl) - Koç University Deep Learning Framework
 
 <a name="julia-nlp" />
 #### Natural Language Processing
