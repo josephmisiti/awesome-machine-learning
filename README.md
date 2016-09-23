@@ -175,6 +175,7 @@ For a list of free machine learning books available for download, go [here](http
 * [DSSTNE](https://github.com/amznlabs/amazon-dsstne) - A software library created by Amazon for training and deploying deep neural networks using GPUs which emphasizes speed and scale over experimental flexibility.
 * [Intel(R) DAAL](https://github.com/01org/daal) - A high performance software library developed by Intel and optimized for Intel's architectures. Library provides algorithmic building blocks for all stages of data analytics and allows to process data in batch, online and distributed modes.
 * [MLDB](http://mldb.ai) - The Machine Learning Database is a database designed for machine learning. Send it commands over a RESTful API to store data, explore it using SQL, then train machine learning models and expose them as APIs.
+* [Regularized Greedy Forest](http://stat.rutgers.edu/home/tzhang/software/rgf/) - Regularized greedy forest (RGF) tree ensemble learning method.
 
 <a name="cpp-nlp" />
 #### Natural Language Processing
@@ -809,6 +810,7 @@ on MNIST digits[DEEP LEARNING]
 * [milk](https://github.com/luispedro/milk) - Machine learning toolkit focused on supervised classification.
 * [TFLearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API for TensorFlow.
 * [REP](https://github.com/yandex/rep) - an IPython-based environment for conducting data-driven research in a consistent and reproducible way. REP is not trying to substitute scikit-learn, but extends it and provides better user experience.
+* [rgf_python](https://github.com/fukatani/rgf_python) - Python bindings for Regularized Greedy Forest (Tree) Library.
 
 <a name="python-data-analysis" />
 #### Data Analysis / Data Visualization
