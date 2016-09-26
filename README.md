@@ -747,6 +747,7 @@ on MNIST digits[DEEP LEARNING]
 * [jellyfish](https://github.com/jamesturk/jellyfish) - a python library for doing approximate and phonetic matching of strings.
 * [editdistance](https://pypi.python.org/pypi/editdistance) - fast implementation of edit distance
 * [textacy](https://github.com/chartbeat-labs/textacy) - higher-level NLP built on Spacy
+* [stanford-corenlp-python](https://github.com/dasmith/stanford-corenlp-python) - Python wrapper for [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP)
 
 <a name="python-general-purpose" />
 #### General-Purpose Machine Learning
