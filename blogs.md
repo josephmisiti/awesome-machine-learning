@@ -25,6 +25,8 @@ Podcasts
 Data Science / Statistics
 -------------------------
 
+https://jeremykun.com/
+
 http://iamtrask.github.io/
 
 http://blog.explainmydata.com/
