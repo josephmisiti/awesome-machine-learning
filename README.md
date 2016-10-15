@@ -231,6 +231,7 @@ For a list of free machine learning books available for download, go [here](http
 * [Statistiker](https://github.com/clojurewerkz/statistiker) - Basic Machine Learning algorithms in Clojure.
 * [clortex](https://github.com/nupic-community/clortex) - General Machine Learning library using Numenta’s Cortical Learning Algorithm
 * [comportex](https://github.com/nupic-community/comportex) - Functionally composable Machine Learning library using Numenta’s Cortical Learning Algorithm
+* [cortex](https://github.com/thinktopic/cortex) - Neural networks, regression and feature learning in Clojure.
 
 <a name="clojure-data-analysis" />
 #### Data Analysis / Data Visualization
