@@ -158,7 +158,7 @@ For a list of free machine learning books available for download, go [here](http
 * [DeepDetect](https://github.com/beniz/deepdetect) - A machine learning API and server written in C++11. It makes state of the art machine learning easy to work with and integrate into existing applications.
 * [Fido](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics.
 * [LightGBM](https://github.com/Microsoft/LightGBM) - Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
-* [DyNet](https://github.com/clab/dynet) - A dynamic neural network library, written in C++ with bindings in Python, working well with networks that have dynamic structures that change for every training instance.
+* [DyNet](https://github.com/clab/dynet) - A dynamic neural network library working well with networks that have dynamic structures that change for every training instance. Written in C++ with bindings in Python.
 
 <a name="cpp-nlp" />
 #### Natural Language Processing
