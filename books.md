@@ -51,6 +51,7 @@ and Prediction](http://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf)
 ## Neural Networks
 
 * [A Brief Introduction to Neural Networks](http://www.dkriesel.com/_media/science/neuronalenetze-en-zeta2-2col-dkrieselcom.pdf)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
 ## Probability & Statistics
 
