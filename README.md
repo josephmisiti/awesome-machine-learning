@@ -152,6 +152,7 @@ For a list of free machine learning books available for download, go [here](http
 <a name="cpp-general-purpose" />
 #### General-Purpose Machine Learning
 
+* [ROOT](https://root.cern.ch) - A modular scientific software framework. It provides all the functionalities needed to deal with big data processing, statistical analysis, visualization and storage.
 * [mlpack](http://www.mlpack.org/) - A scalable C++ machine learning library
 * [DLib](http://dlib.net/ml.html) - A suite of ML tools designed to be easy to imbed in other applications
 * [encog-cpp](https://code.google.com/p/encog-cpp/)
