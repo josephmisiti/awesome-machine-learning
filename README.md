@@ -706,6 +706,7 @@ on MNIST digits[DEEP LEARNING]
 <a name="php-general-purpose">
 ### General-Purpose Machine Learning
 
+* [PHP-ML](https://github.com/php-ai/php-ml) - Machine Learning library for PHP. Algorithms, Cross Validation, Neural Network, Preprocessing, Feature Extraction and much more in one library.
 * [PredictionBuilder](https://github.com/denissimon/prediction-builder) - A library for machine learning that builds predictions using a linear regression.
 
 <a name="python" />
