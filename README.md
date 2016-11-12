@@ -818,7 +818,7 @@ on MNIST digits[DEEP LEARNING]
 * [REP](https://github.com/yandex/rep) - an IPython-based environment for conducting data-driven research in a consistent and reproducible way. REP is not trying to substitute scikit-learn, but extends it and provides better user experience.
 * [rgf_python](https://github.com/fukatani/rgf_python) - Python bindings for Regularized Greedy Forest (Tree) Library.
 * [gym](https://github.com/openai/gym) - OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms.
-* [skbayes](https://github.com/AmazaspShumik/sklearn-bayes) Python package for Bayesian Machine Learning with scikit-learn API
+* [skbayes](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API
 
 <a name="python-data-analysis" />
 #### Data Analysis / Data Visualization
