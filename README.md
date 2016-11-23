@@ -867,6 +867,7 @@ on MNIST digits[DEEP LEARNING]
 * [Dora](https://github.com/nathanepstein/dora) - Tools for exploratory data analysis in Python.
 * [Ruffus](http://www.ruffus.org.uk) - Computation Pipeline library for python.
 * [SOMPY](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
+* [somoclu](https://github.com/peterwittek/somoclu) Massively parallel self-organizing maps: accelerate training on multicore CPUs, GPUs, and clusters, has python API.
 * [HDBScan](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
 * [visualize_ML](https://github.com/ayush1997/visualize_ML) - A python package for data exploration and data analysis.
 
