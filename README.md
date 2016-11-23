@@ -10,6 +10,8 @@ Also, a listed repository should be deprecated if:
 
 For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md).
 
+For a list of free-to-attend meetups and local events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/meetups.md).
+
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
