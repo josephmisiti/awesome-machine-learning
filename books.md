@@ -13,7 +13,7 @@ The following is a list of free, open source books on machine learning, statisti
 * [Reinforcement Learning: - An Introduction](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
 * [Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
 * [A First Encounter with Machine Learning](https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf)
-* [Pattern Recognition and Machine Learning](http://www.rmki.kfki.hu/~banmi/elte/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
+* [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 * [Machine Learning & Bayesian Reasoning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf)
 * [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf) - Alex Smola and S.V.N. Vishwanathan
 * [A Probabilistic Theory of Pattern Recognition](http://www.szit.bme.hu/~gyorfi/pbook.pdf)
