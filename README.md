@@ -292,6 +292,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [gobrain](https://github.com/goml/gobrain) - Neural Networks written in go
 * [GoNN](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN
 * [MXNet](https://github.com/dmlc/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
+* [go-mxnet-predictor](https://github.com/songtianyi/go-mxnet-predictor) - Go binding for MXNet c_predict_api to do inference with pre-trained model
 
 <a name="go-data-analysis" />
 #### Data Analysis / Data Visualization
