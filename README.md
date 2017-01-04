@@ -276,7 +276,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 
 * [go-porterstemmer](https://github.com/reiver/go-porterstemmer) - A native Go clean room implementation of the Porter Stemming algorithm.
 * [paicehusk](https://github.com/Rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm.
-* [snowball](https://github.com/kljensen/snowball) - Snowball Stemmer for Go.
+* [snowball](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
 * [go-ngram](https://github.com/Lazin/go-ngram) - In-memory n-gram index with compression.
 
 <a name="go-general-purpose" />
