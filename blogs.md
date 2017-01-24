@@ -25,6 +25,8 @@ Podcasts
 Data Science / Statistics
 -------------------------
 
+https://jeremykun.com/
+
 http://iamtrask.github.io/
 
 http://blog.explainmydata.com/
@@ -90,6 +92,8 @@ http://hunch.net/
 http://www.randalolson.com/blog/
 
 http://www.johndcook.com/blog/r_language_for_programmers/
+
+http://www.dataschool.io/
 
 Math
 ----

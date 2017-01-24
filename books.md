@@ -2,6 +2,7 @@ The following is a list of free, open source books on machine learning, statisti
 
 ## Machine-Learning / Data Mining
 
+* [Real World Machine Learning](https://manning.com/books/real-world-machine-learning) [Free Chapters]
 * [An Introduction To Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) - Book + R Code
 * [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) - Book
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Book + IPython Notebooks
@@ -12,7 +13,7 @@ The following is a list of free, open source books on machine learning, statisti
 * [Reinforcement Learning: - An Introduction](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
 * [Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
 * [A First Encounter with Machine Learning](https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf)
-* [Pattern Recognition and Machine Learning](http://www.rmki.kfki.hu/~banmi/elte/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
+* [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 * [Machine Learning & Bayesian Reasoning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf)
 * [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf) - Alex Smola and S.V.N. Vishwanathan
 * [A Probabilistic Theory of Pattern Recognition](http://www.szit.bme.hu/~gyorfi/pbook.pdf)
@@ -23,9 +24,7 @@ The following is a list of free, open source books on machine learning, statisti
 * [Reinforcement Learning](http://www.intechopen.com/books/reinforcement_learning)
 * [Machine Learning](http://www.intechopen.com/books/machine_learning)
 * [A Quest for AI](http://ai.stanford.edu/~nilsson/QAI/qai.pdf)
-* [Introduction to Applied Bayesian
-Statistics and Estimation for
-Social Scientists](http://faculty.ksu.edu.sa/69424/us_BOOk/Introduction%20to%20Applied%20Bayesian%20Statistics.pdf)
+* [Introduction to Applied Bayesian Statistics and Estimation for Social Scientists](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.177.857&rep=rep1&type=pdf) - Scott M. Lynch
 * [Bayesian Modeling, Inference
 and Prediction](http://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf)
 * [A Course in Machine Learning](http://ciml.info/)
@@ -33,6 +32,10 @@ and Prediction](http://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf)
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage) Book+MatlabToolBox
 * [R Programming for Data Science](https://leanpub.com/rprogramming)
 * [Data Mining - Practical Machine Learning Tools and Techniques](http://www.cse.hcmut.edu.vn/~chauvtn/data_mining/Texts/%5B7%5D%20Data%20Mining%20-%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%20%283rd%20Ed%29.pdf) Book
+
+## Deep-Learning
+
+* [Deep Learning - An MIT Press book](http://www.deeplearningbook.org/)
 
 ## Natural Language Processing
 
@@ -48,6 +51,7 @@ and Prediction](http://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf)
 ## Neural Networks
 
 * [A Brief Introduction to Neural Networks](http://www.dkriesel.com/_media/science/neuronalenetze-en-zeta2-2col-dkrieselcom.pdf)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
 ## Probability & Statistics
 
@@ -62,7 +66,7 @@ and Prediction](http://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf)
 * [Probability & Statistics Cookbook](http://matthias.vallentin.net/probability-and-statistics-cookbook/)
 * [Advanced Data Analysis From An Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
 * [Introduction to Probability](http://athenasc.com/probbook.html) -  Book and course by MIT
-* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction.](http://statweb.stanford.edu/~tibs/ElemStatLearn/) -Book  
+* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction.](http://statweb.stanford.edu/~tibs/ElemStatLearn/) -Book
 * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) - Book
 * [Learning Statistics Using R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/)
 * [Introduction to Probability and Statistics Using R](https://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf) - Book
