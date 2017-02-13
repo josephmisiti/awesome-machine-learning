@@ -1,7 +1,7 @@
 The following is a list of free-to-attend meetups and local events on Machine Learning
 
 - [India](#india)
-	- 	[Bangalore](#bangalore)
+    -   [Bangalore](#bangalore)
 
 <a name="india" />
 ## India
