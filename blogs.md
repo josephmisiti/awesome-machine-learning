@@ -87,6 +87,8 @@ http://hunch.net/
 
 http://www.randalolson.com/blog/
 
+http://www.datasciencecentral.com/
+
 Math
 ----
 
