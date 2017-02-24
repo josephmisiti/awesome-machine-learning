@@ -762,7 +762,6 @@ on MNIST digits[DEEP LEARNING]
 
 <a name="python-general-purpose" />
 #### General-Purpose Machine Learning
-* [auto_ml](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning pipelines for analytics and production. Handles some standard feature engineering, feature selection, model selection, model tuning, ensembling, and advanced scoring, in addition to logging output for analysts trying to understand their datasets.
 * [machine learning](https://github.com/jeff1evesque/machine-learning) - automated build consisting of a [web-interface](https://github.com/jeff1evesque/machine-learning#web-interface), and set of [programmatic-interface](https://github.com/jeff1evesque/machine-learning#programmatic-interface) API, for support vector machines.  Corresponding dataset(s) are stored into a SQL database, then generated model(s) used for prediction(s), are stored into a NoSQL datastore.
 * [XGBoost](https://github.com/dmlc/xgboost) - Python bindings for eXtreme Gradient Boosting (Tree) Library
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Book/iPython notebooks on Probabilistic Programming in Python
