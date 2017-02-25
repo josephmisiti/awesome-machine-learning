@@ -231,6 +231,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [Clojush](https://github.com/lspector/Clojush) -  The Push programming language and the PushGP genetic programming system implemented in Clojure
 * [Infer](https://github.com/aria42/infer) - Inference and machine learning in clojure
 * [Clj-ML](https://github.com/antoniogarrote/clj-ml) - A machine learning library for Clojure built on top of Weka and friends
+* [DL4CLJ](https://github.com/engagor/dl4clj/) - Clojure wrapper for Deeplearning4j
 * [Encog](https://github.com/jimpil/enclog) - Clojure wrapper for Encog (v3) (Machine-Learning framework that specializes in neural-nets)
 * [Fungp](https://github.com/vollmerm/fungp) - A genetic programming library for Clojure
 * [Statistiker](https://github.com/clojurewerkz/statistiker) - Basic Machine Learning algorithms in Clojure.
