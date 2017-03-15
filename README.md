@@ -969,6 +969,7 @@ on MNIST digits[DEEP LEARNING]
 * [jRuby Mahout](https://github.com/vasinov/jruby_mahout) - JRuby Mahout is a gem that unleashes the power of Apache Mahout in the world of JRuby.
 * [CardMagic-Classifier](https://github.com/cardmagic/classifier) - A general classifier module to allow Bayesian and other types of classifications.
 * [rb-libsvm](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM which is a Library for Support Vector Machines
+* [Random Forester](https://github.com/asafschers/random_forester) - Creates Random Forest classifiers from PMML files
 
 <a name="ruby-data-analysis" />
 #### Data Analysis / Data Visualization
