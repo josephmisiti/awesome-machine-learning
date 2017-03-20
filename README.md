@@ -86,7 +86,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
     - [Data Analysis / Data Visualization](#python-data-analysis)
     - [Misc Scripts / iPython Notebooks / Codebases](#python-misc)
     - [Kaggle Competition Source Code](#python-kaggle)
-    - [Neural networks](#python-neural networks)
+    - [Neural networks](#python-neural-networks)
 - [Ruby](#ruby)
     - [Natural Language Processing](#ruby-nlp)
     - [General-Purpose Machine Learning](#ruby-general-purpose)
@@ -989,7 +989,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [Introduction to machine learning with scikit-learn](https://github.com/justmarkham/scikit-learn-videos) - IPython notebooks from Data School's video tutorials on scikit-learn.
 * [Practical XGBoost in Python](http://education.parrotprediction.teachable.com/p/practical-xgboost-in-python) - comprehensive online course about using XGBoost in Python
 
-<a name="python-neural networks"/>
+<a name="python-neural-networks"/>
 
 #### Neural networks
 
