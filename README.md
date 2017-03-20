@@ -237,7 +237,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [Statistiker](https://github.com/clojurewerkz/statistiker) - Basic Machine Learning algorithms in Clojure.
 * [clortex](https://github.com/htm-community/clortex) - General Machine Learning library using Numenta’s Cortical Learning Algorithm
 * [comportex](https://github.com/htm-community/comportex) - Functionally composable Machine Learning library using Numenta’s Cortical Learning Algorithm
-* [cortex](https://github.com/htm-community/comportex) - Neural networks, regression and feature learning in Clojure.
+* [cortex](https://github.com/thinktopic/cortex) - Neural networks, regression and feature learning in Clojure.
 * [lambda-ml](https://github.com/cloudkj/lambda-ml) - Simple, concise implementations of machine learning techniques and utilities in Clojure.
 
 <a name="clojure-data-analysis" />
