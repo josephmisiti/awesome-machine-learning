@@ -115,23 +115,30 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 
 <!-- /MarkdownTOC -->
 
-<a name="apl" />
+<a name="apl"/>
+
 ## APL
 
 <a name="apl-general-purpose" />
-#### General-Purpose Machine Learning
+
+### General-Purpose Machine Learning
+
 * [naive-apl](https://github.com/mattcunningham/naive-apl) - Naive Bayesian Classifier implementation in APL
 
 <a name="c" />
+
 ## C
 
 <a name="c-general-purpose" />
+
 #### General-Purpose Machine Learning
+
 * [Darknet](https://github.com/pjreddie/darknet) - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 * [Recommender](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
 * [Hybrid Recommender System](https://github.com/SeniorSA/hybrid-rs-trainner) - A hybrid recomender system based upon scikit-learn algorithms.
 
 <a name="c-cv" />
+
 #### Computer Vision
 
 * [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
@@ -141,9 +148,11 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [HTK](http://htk.eng.cam.ac.uk/) -The Hidden Markov Model Toolkit (HTK) is a portable toolkit for building and manipulating hidden Markov models.
 
 <a name="cpp" />
+
 ## C++
 
 <a name="cpp-cv" />
+
 #### Computer Vision
 
 * [DLib](http://dlib.net/imaging.html) - DLib has C++ and Python interfaces for face detection and training general object detectors.
@@ -152,6 +161,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [VIGRA](https://github.com/ukoethe/vigra) - VIGRA is a generic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
 
 <a name="cpp-general-purpose" />
+
 #### General-Purpose Machine Learning
 
 * [BanditLib](https://github.com/jkomiyama/banditlib) - A simple Multi-armed Bandit library.
@@ -182,6 +192,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [XGBoost](https://github.com/dmlc/xgboost) - A parallelized optimized general purpose gradient boosting library.
 
 <a name="cpp-nlp" />
+
 #### Natural Language Processing
 
 * [BLLIP Parser](https://github.com/BLLIP/bllip-parser) - BLLIP Natural Language Parser (also known as the Charniak-Johnson parser)
@@ -198,17 +209,21 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [Kaldi](https://github.com/kaldi-asr/kaldi) - Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
 
 <a name="cpp-sequence" />
+
 #### Sequence Analysis
 * [ToPS](https://github.com/ayoshiaki/tops) - This is an objected-oriented framework that facilitates the integration of probabilistic models for sequences over a user defined alphabet.
 
 <a name="cpp-gestures" />
+
 #### Gesture Detection
 * [grt](https://github.com/nickgillian/grt) - The Gesture Recognition Toolkit (GRT) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
 
 <a name="common-lisp" />
+
 ## Common Lisp
 
 <a name="common-lisp-general-purpose" />
+
 #### General-Purpose Machine Learning
 
 * [mgl](https://github.com/melisgl/mgl/) - Neural networks  (boltzmann machines, feed-forward and recurrent nets), Gaussian Processes
@@ -216,15 +231,18 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [cl-libsvm](https://github.com/melisgl/cl-libsvm/) - Wrapper for the libsvm support vector machine library
 
 <a name="clojure" />
+
 ## Clojure
 
 <a name="clojure-nlp" />
+
 #### Natural Language Processing
 
 * [Clojure-openNLP](https://github.com/dakrone/clojure-opennlp) - Natural Language Processing in Clojure (opennlp)
 * [Infections-clj](https://github.com/r0man/inflections-clj) - Rails-like inflection library for Clojure and ClojureScript
 
 <a name="clojure-general-purpose" />
+
 #### General-Purpose Machine Learning
 
 * [Touchstone](https://github.com/ptaoussanis/touchstone) - Clojure A/B testing library
@@ -241,6 +259,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [lambda-ml](https://github.com/cloudkj/lambda-ml) - Simple, concise implementations of machine learning techniques and utilities in Clojure.
 
 <a name="clojure-data-analysis" />
+
 #### Data Analysis / Data Visualization
 
 * [Incanter](http://incanter.org/) - Incanter is a Clojure-based, R-like platform for statistical computing and graphics.
@@ -248,30 +267,37 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [Envision](https://github.com/clojurewerkz/envision) - Clojure Data Visualisation library, based on Statistiker and D3
 
 <a name="elixir" />
+
 ## Elixir
 
 <a name="elixir-general-purpose" />
+
 #### General-Purpose Machine Learning
 
 * [Simple Bayes](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 
 <a name="elixir-nlp" />
+
 #### Natural Language Processing
 
 * [Stemmer](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
 
 <a name="erlang" />
+
 ## Erlang
 
 <a name="erlang-general-purpose" />
+
 #### General-Purpose Machine Learning
 
 * [Disco](https://github.com/discoproject/disco/) - Map Reduce in Erlang
 
 <a name="go" />
+
 ## Go
 
 <a name="go-nlp" />
+
 #### Natural Language Processing
 
 * [go-porterstemmer](https://github.com/reiver/go-porterstemmer) - A native Go clean room implementation of the Porter Stemming algorithm.
@@ -280,6 +306,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [go-ngram](https://github.com/Lazin/go-ngram) - In-memory n-gram index with compression.
 
 <a name="go-general-purpose" />
+
 #### General-Purpose Machine Learning
 
 * [gago](https://github.com/MaxHalford/gago) - Multi-population, flexible, parallel genetic algorithm.
@@ -295,6 +322,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [go-mxnet-predictor](https://github.com/songtianyi/go-mxnet-predictor) - Go binding for MXNet c_predict_api to do inference with pre-trained model
 
 <a name="go-data-analysis" />
+
 #### Data Analysis / Data Visualization
 
 * [go-graph](https://github.com/StepLg/go-graph) - Graph library for Go/golang language.
