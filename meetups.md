@@ -3,9 +3,9 @@ The following is a list of free-to-attend meetups and local events on Machine Le
 - [India](#india)
     -   [Bangalore](#bangalore)
 
-<a name="india" />
+<a name="india"></a>
 ## India
 
-<a name="bangalore" />
+<a name="bangalore"></a>
 ### Bangalore
 * [Bangalore Machine Learning Meetup (BangML)](https://www.meetup.com/BangML/)
