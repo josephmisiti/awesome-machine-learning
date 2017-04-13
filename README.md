@@ -701,9 +701,11 @@ on MNIST digits[DEEP LEARNING]
 
 <a name="ocaml-general-purpose">
 ### General-Purpose Machine Learning
+
 * [Oml](https://github.com/hammerlab/oml/) - A general statistics and machine learning library.
 * [GPR](http://mmottl.github.io/gpr/) - Efficient Gaussian Process Regression in OCaml.
 * [Libra-Tk](http://libra.cs.uoregon.edu) - Algorithms for learning and inference with discrete probabilistic models.
+* [TensorFlow](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
 
 <a name="php">
 ## PHP
