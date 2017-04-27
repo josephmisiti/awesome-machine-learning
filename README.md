@@ -882,6 +882,7 @@ on MNIST digits[DEEP LEARNING]
 * [HDBScan](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
 * [visualize_ML](https://github.com/ayush1997/visualize_ML) - A python package for data exploration and data analysis.
 * [scikit-plot](https://github.com/reiinakano/scikit-plot) - A visualization library for quick and easy generation of common plots in data analysis and machine learning.
+* [Bowtie](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
 
 <a name="python-misc"></a>
 #### Misc Scripts / iPython Notebooks / Codebases
