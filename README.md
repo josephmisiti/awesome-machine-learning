@@ -786,7 +786,7 @@ on MNIST digits[DEEP LEARNING]
 * [Lasagne](https://github.com/Lasagne/Lasagne) - Lightweight library to build and train neural networks in Theano.
 * [hebel](https://github.com/hannes-brt/hebel) - GPU-Accelerated Deep Learning Library in Python.
 * [Chainer](https://github.com/pfnet/chainer) - Flexible neural network framework
-* [prohpet](https://facebookincubator.github.io/prophet) - Fast and automated time series forecasting framework by Facebook.
+* [prophet](https://facebookincubator.github.io/prophet) - Fast and automated time series forecasting framework by Facebook.
 * [gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans.
 * [topik](https://github.com/ContinuumIO/topik) - Topic modelling toolkit
 * [PyBrain](https://github.com/pybrain/pybrain) - Another Python Machine Learning Library.
