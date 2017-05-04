@@ -763,6 +763,7 @@ on MNIST digits[DEEP LEARNING]
 * [editdistance](https://pypi.python.org/pypi/editdistance) - fast implementation of edit distance
 * [textacy](https://github.com/chartbeat-labs/textacy) - higher-level NLP built on Spacy
 * [stanford-corenlp-python](https://github.com/dasmith/stanford-corenlp-python) - Python wrapper for [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP)
+* [CLTK](https://github.com/cltk/cltk) - The Classical Language Toolkit
 
 <a name="python-general-purpose"></a>
 #### General-Purpose Machine Learning
