@@ -764,7 +764,7 @@ on MNIST digits[DEEP LEARNING]
 * [textacy](https://github.com/chartbeat-labs/textacy) - higher-level NLP built on Spacy
 * [stanford-corenlp-python](https://github.com/dasmith/stanford-corenlp-python) - Python wrapper for [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP)
 * [CLTK](https://github.com/cltk/cltk) - The Classical Language Toolkit
-* [rasa_nlu](https://github.com/golastmile/rasa_nlu) - turn natural language into structured data [rasa.ai](https://rasa.ai)
+* [rasa_nlu](https://github.com/golastmile/rasa_nlu) - turn natural language into structured data
 
 <a name="python-general-purpose"></a>
 #### General-Purpose Machine Learning
