@@ -513,6 +513,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 #### Data Analysis / Data Visualization
 
 * [Graph Layout](https://github.com/IainNZ/GraphLayout.jl) - Graph layout algorithms in pure Julia
+* [LightGraphs](https://gihub.com/JuliaGraphs/LightGraphs.jl) - Graph modeling and analysis
 * [Data Frames Meta](https://github.com/JuliaStats/DataFramesMeta.jl) - Metaprogramming tools for DataFrames
 * [Julia Data](https://github.com/nfoti/JuliaData) - library for working with tabular data in Julia
 * [Data Read](https://github.com/WizardMac/ReadStat.jl) - Read files from Stata, SAS, and SPSS
