@@ -765,6 +765,7 @@ on MNIST digits[DEEP LEARNING]
 * [stanford-corenlp-python](https://github.com/dasmith/stanford-corenlp-python) - Python wrapper for [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP)
 * [CLTK](https://github.com/cltk/cltk) - The Classical Language Toolkit
 * [rasa_nlu](https://github.com/golastmile/rasa_nlu) - turn natural language into structured data
+* [yase](https://github.com/PPACI/yase) - Transcode sentence (or other sequence) to list of word vector 
 
 <a name="python-general-purpose"></a>
 #### General-Purpose Machine Learning
