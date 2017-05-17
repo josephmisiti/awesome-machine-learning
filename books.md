@@ -19,7 +19,7 @@ The following is a list of free, open source books on machine learning, statisti
 * [A Probabilistic Theory of Pattern Recognition](http://www.szit.bme.hu/~gyorfi/pbook.pdf)
 * [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/pdf/irbookprint.pdf)
 * [Forecasting: principles and practice](https://www.otexts.org/fpp/)
-* [Practical Artificial Intelligence Programming in Java](http://www.markwatson.com/opencontent_data/JavaAI3rd.pdf)
+* [Practical Artificial Intelligence Programming in Java](https://www.saylor.org/site/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)
 * [Introduction to Machine Learning](https://arxiv.org/pdf/0904.3664v1.pdf) - Amnon Shashua
 * [Reinforcement Learning](http://www.intechopen.com/books/reinforcement_learning)
 * [Machine Learning](http://www.intechopen.com/books/machine_learning)
