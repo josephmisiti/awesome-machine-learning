@@ -79,6 +79,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 - [Perl](#perl)
     - [Data Analysis / Data Visualization](#perl-data)
 	- [General-Purpose Machine Learning](#perl-ml)
+- [Perl 6](#perl6)
 - [PHP](#php)
     - [Natural Language Processing](#php-nlp)
     - [General-Purpose Machine Learning](#php-general-purpose)
@@ -736,8 +737,12 @@ using AWS machine learning platform from Perl.
   namespace. For instance, you can
   find [Naïve Bayes](https://metacpan.org/pod/AI::NaiveBayes). 
 
-<a name="perl 6"></a>
+<a name="perl6"></a>
 ## Perl 6
+
+*
+  [Support Vector Machines](https://github.com/titsuki/p6-Algorithm-LibSVM)
+* [Naïve Bayes](https://github.com/titsuki/p6-Algorithm-NaiveBayes)
 
 ### Data Analysis / Data Visualization
 
