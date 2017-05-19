@@ -520,7 +520,6 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [Hypothesis Tests](https://github.com/JuliaStats/HypothesisTests.jl) - Hypothesis tests for Julia
 * [Gadfly](https://github.com/GiovineItalia/Gadfly.jl) - Crafty statistical graphics for Julia.
 * [Stats](https://github.com/JuliaStats/Stats.jl) - Statistical tests for Julia
-
 * [RDataSets](https://github.com/johnmyleswhite/RDatasets.jl) - Julia package for loading many of the data sets available in R
 * [DataFrames](https://github.com/JuliaStats/DataFrames.jl) - library for working with tabular data in Julia
 * [Distributions](https://github.com/JuliaStats/Distributions.jl) - A Julia package for probability distributions and associated functions.
@@ -682,10 +681,10 @@ on MNIST digits[DEEP LEARNING]
 * [Math.NET Numerics](http://www.nuget.org/packages/MathNet.Numerics/) - Numerical foundation of the Math.NET project, aiming to provide methods and algorithms for numerical computations in science, engineering and every day use. Supports .Net 4.0, .Net 3.5 and Mono on Windows, Linux and Mac; Silverlight 5, WindowsPhone/SL 8, WindowsPhone 8.1 and Windows 8 with PCL Portable Profiles 47 and 344; Android/iOS with Xamarin.
 * [Sho](https://www.microsoft.com/en-us/research/project/sho-the-net-playground-for-data/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fprojects%2Fsho%2F) - Sho is an interactive environment for data analysis and scientific computing that lets you seamlessly connect scripts (in IronPython) with compiled code (in .NET) to enable fast and flexible prototyping. The environment includes powerful and efficient libraries for linear algebra as well as data visualization that can be used from any .NET language, as well as a feature-rich interactive shell for rapid development.
 
-<a name="objectivec">
+<a name="objectivec"></a>
 ## Objective C
 
-<a name="objectivec-general-purpose">
+<a name="objectivec-general-purpose"></a>
 ### General-Purpose Machine Learning
 
 * [YCML](https://github.com/yconst/YCML) - A Machine Learning framework for Objective-C and Swift (OS X / iOS).
@@ -697,10 +696,10 @@ on MNIST digits[DEEP LEARNING]
 * [KRKmeans-Algorithm](https://github.com/Kalvar/ios-KRKmeans-Algorithm) - It implemented K-Means the clustering and classification algorithm. It could be used in data mining and image compression.
 * [KRFuzzyCMeans-Algorithm](https://github.com/Kalvar/ios-KRFuzzyCMeans-Algorithm) - It implemented Fuzzy C-Means (FCM) the fuzzy clustering / classification algorithm on Machine Learning. It could be used in data mining and image compression.
 
-<a name="ocaml">
+<a name="ocaml"></a>
 ## OCaml
 
-<a name="ocaml-general-purpose">
+<a name="ocaml-general-purpose"></a>
 ### General-Purpose Machine Learning
 
 * [Oml](https://github.com/hammerlab/oml/) - A general statistics and machine learning library.
@@ -708,15 +707,15 @@ on MNIST digits[DEEP LEARNING]
 * [Libra-Tk](http://libra.cs.uoregon.edu) - Algorithms for learning and inference with discrete probabilistic models.
 * [TensorFlow](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
 
-<a name="php">
+<a name="php"></a>
 ## PHP
 
-<a name="php-nlp">
+<a name="php-nlp"></a>
 ### Natural Language Processing
 
 * [jieba-php](https://github.com/fukuball/jieba-php) - Chinese Words Segmentation Utilities.
 
-<a name="php-general-purpose">
+<a name="php-general-purpose"></a>
 ### General-Purpose Machine Learning
 
 * [PHP-ML](https://github.com/php-ai/php-ml) - Machine Learning library for PHP. Algorithms, Cross Validation, Neural Network, Preprocessing, Feature Extraction and much more in one library.
