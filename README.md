@@ -76,6 +76,9 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
     - [General-Purpose Machine Learning](#objectivec-general-purpose)
 - [OCaml](#ocaml)
     - [General-Purpose Machine Learning](#ocaml-general-purpose)
+- [Perl](#perl)
+    - [Data Analysis / Data Visualization](#perl-data)
+	- [General-Purpose Machine Learning](#perl-ml)
 - [PHP](#php)
     - [Natural Language Processing](#php-nlp)
     - [General-Purpose Machine Learning](#php-general-purpose)
@@ -710,6 +713,7 @@ on MNIST digits[DEEP LEARNING]
 <a name="perl"></a>
 ## Perl
 
+<a name="perl-data"></a>
 ### Data Analysis / Data Visualization
 
 * [Perl Data Language](https://metacpan.org/pod/Paws::MachineLearning),
@@ -717,6 +721,7 @@ a pluggable architecture for data and image processing, which can
 be
 [used for machine learning](https://github.com/zenogantner/PDL-ML). 
 
+<a name="perl-ml"></a>
 ### General-Purpose Machine Learning
 
 * [MXnet for Deep Learning, in Perl](https://github.com/dmlc/mxnet/tree/master/perl-package),
@@ -731,6 +736,17 @@ using AWS machine learning platform from Perl.
   namespace. For instance, you can
   find [Naïve Bayes](https://metacpan.org/pod/AI::NaiveBayes). 
 
+<a name="perl 6"></a>
+## Perl 6
+
+### Data Analysis / Data Visualization
+
+* [Perl Data Language](https://metacpan.org/pod/Paws::MachineLearning),
+a pluggable architecture for data and image processing, which can
+be
+[used for machine learning](https://github.com/zenogantner/PDL-ML). 
+
+### General-Purpose Machine Learning
 
 <a name="php"></a>
 ## PHP
