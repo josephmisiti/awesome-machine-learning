@@ -707,6 +707,31 @@ on MNIST digits[DEEP LEARNING]
 * [Libra-Tk](http://libra.cs.uoregon.edu) - Algorithms for learning and inference with discrete probabilistic models.
 * [TensorFlow](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
 
+<a name="perl"></a>
+## Perl
+
+### Data Analysis / Data Visualization
+
+* [Perl Data Language](https://metacpan.org/pod/Paws::MachineLearning),
+a pluggable architecture for data and image processing, which can
+be
+[used for machine learning](https://github.com/zenogantner/PDL-ML). 
+
+### General-Purpose Machine Learning
+
+* [MXnet for Deep Learning, in Perl](https://github.com/dmlc/mxnet/tree/master/perl-package),
+also [released in CPAN](https://metacpan.org/pod/AI::MXNet).
+* [Paws::MachineLearning](https://metacpan.org/pod/Paws::MachineLearning),
+using AWS machine learning platform from Perl.
+* [Algorithm::SVMLight](https://metacpan.org/pod/Algorithm::SVMLight),
+  implementation of Support Vector Machines with SVMLight under it.
+  
+* Several machine learning and artificial intelligence models are
+  included in the [`AI`](https://metacpan.org/search?size=20&q=AI)
+  namespace. For instance, you can
+  find [Naïve Bayes](https://metacpan.org/pod/AI::NaiveBayes). 
+
+
 <a name="php"></a>
 ## PHP
 
