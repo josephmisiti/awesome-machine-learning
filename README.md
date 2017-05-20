@@ -76,6 +76,10 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
     - [General-Purpose Machine Learning](#objectivec-general-purpose)
 - [OCaml](#ocaml)
     - [General-Purpose Machine Learning](#ocaml-general-purpose)
+- [Perl](#perl)
+    - [Data Analysis / Data Visualization](#perl-data)
+	- [General-Purpose Machine Learning](#perl-ml)
+- [Perl 6](#perl6)
 - [PHP](#php)
     - [Natural Language Processing](#php-nlp)
     - [General-Purpose Machine Learning](#php-general-purpose)
@@ -520,7 +524,6 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [Hypothesis Tests](https://github.com/JuliaStats/HypothesisTests.jl) - Hypothesis tests for Julia
 * [Gadfly](https://github.com/GiovineItalia/Gadfly.jl) - Crafty statistical graphics for Julia.
 * [Stats](https://github.com/JuliaStats/Stats.jl) - Statistical tests for Julia
-
 * [RDataSets](https://github.com/johnmyleswhite/RDatasets.jl) - Julia package for loading many of the data sets available in R
 * [DataFrames](https://github.com/JuliaStats/DataFrames.jl) - library for working with tabular data in Julia
 * [Distributions](https://github.com/JuliaStats/Distributions.jl) - A Julia package for probability distributions and associated functions.
@@ -707,6 +710,48 @@ on MNIST digits[DEEP LEARNING]
 * [GPR](http://mmottl.github.io/gpr/) - Efficient Gaussian Process Regression in OCaml.
 * [Libra-Tk](http://libra.cs.uoregon.edu) - Algorithms for learning and inference with discrete probabilistic models.
 * [TensorFlow](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
+
+<a name="perl"></a>
+## Perl
+
+<a name="perl-data"></a>
+### Data Analysis / Data Visualization
+
+* [Perl Data Language](https://metacpan.org/pod/Paws::MachineLearning),
+a pluggable architecture for data and image processing, which can
+be
+[used for machine learning](https://github.com/zenogantner/PDL-ML). 
+
+<a name="perl-ml"></a>
+### General-Purpose Machine Learning
+
+* [MXnet for Deep Learning, in Perl](https://github.com/dmlc/mxnet/tree/master/perl-package),
+also [released in CPAN](https://metacpan.org/pod/AI::MXNet).
+* [Paws::MachineLearning](https://metacpan.org/pod/Paws::MachineLearning),
+using AWS machine learning platform from Perl.
+* [Algorithm::SVMLight](https://metacpan.org/pod/Algorithm::SVMLight),
+  implementation of Support Vector Machines with SVMLight under it.
+  
+* Several machine learning and artificial intelligence models are
+  included in the [`AI`](https://metacpan.org/search?size=20&q=AI)
+  namespace. For instance, you can
+  find [Naïve Bayes](https://metacpan.org/pod/AI::NaiveBayes). 
+
+<a name="perl6"></a>
+## Perl 6
+
+*
+  [Support Vector Machines](https://github.com/titsuki/p6-Algorithm-LibSVM)
+* [Naïve Bayes](https://github.com/titsuki/p6-Algorithm-NaiveBayes)
+
+### Data Analysis / Data Visualization
+
+* [Perl Data Language](https://metacpan.org/pod/Paws::MachineLearning),
+a pluggable architecture for data and image processing, which can
+be
+[used for machine learning](https://github.com/zenogantner/PDL-ML). 
+
+### General-Purpose Machine Learning
 
 <a name="php"></a>
 ## PHP
