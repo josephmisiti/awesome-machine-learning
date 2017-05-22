@@ -283,6 +283,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [paicehusk](https://github.com/Rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm.
 * [snowball](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
 * [go-ngram](https://github.com/Lazin/go-ngram) - In-memory n-gram index with compression.
+* [word-embedding](github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
 
 <a name="go-general-purpose"></a>
 #### General-Purpose Machine Learning
