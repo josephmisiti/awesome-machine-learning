@@ -413,7 +413,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 <a name="javascript-data-analysis"></a>
 #### Data Analysis / Data Visualization
 
-](https://d3js.org/)
+* [D3.js](https://d3js.org/)
 * [High Charts](http://www.highcharts.com/)
 * [NVD3.js](http://nvd3.org/)
 * [dc.js](http://dc-js.github.io/dc.js/)
