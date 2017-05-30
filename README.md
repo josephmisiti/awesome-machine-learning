@@ -430,6 +430,9 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [Datamaps](http://datamaps.github.io/)- Customizable SVG map/geo visualizations using D3.js.
 * [ZingChart](https://www.zingchart.com/)- library written on Vanilla JS for big data visualization.
 * [cheminfo](http://www.cheminfo.org/) - Platform for data visualization and analysis, using the [visualizer](https://github.com/npellet/visualizer) project.
+* [Learn JS Data](http://learnjsdata.com/)
+* [AnyChart](http://www.anychart.com/)
+* [FusionCharts](http://www.fusioncharts.com/)
 
 
 <a name="javascript-general-purpose"></a>
