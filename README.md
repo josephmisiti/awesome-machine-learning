@@ -413,7 +413,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 <a name="javascript-data-analysis"></a>
 #### Data Analysis / Data Visualization
 
-* [D3.js](https://d3js.org/)
+](https://d3js.org/)
 * [High Charts](http://www.highcharts.com/)
 * [NVD3.js](http://nvd3.org/)
 * [dc.js](http://dc-js.github.io/dc.js/)
@@ -430,6 +430,9 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [Datamaps](http://datamaps.github.io/)- Customizable SVG map/geo visualizations using D3.js.
 * [ZingChart](https://www.zingchart.com/)- library written on Vanilla JS for big data visualization.
 * [cheminfo](http://www.cheminfo.org/) - Platform for data visualization and analysis, using the [visualizer](https://github.com/npellet/visualizer) project.
+* [Learn JS Data](http://learnjsdata.com/)
+* [AnyChart](http://www.anychart.com/)
+* [FusionCharts](http://www.fusioncharts.com/)
 
 
 <a name="javascript-general-purpose"></a>
