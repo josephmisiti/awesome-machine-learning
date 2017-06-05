@@ -1255,7 +1255,7 @@ be
 <a name="swift-general-purpose"></a>
 #### General-Purpose Machine Learning
 
-* [Bender](https://github.com/xmartlabs/Bender) - Fast Neural Networks framework built on top of Metal. Supports importing TensorFlow models.
+* [Bender](https://github.com/xmartlabs/Bender) - Fast Neural Networks framework built on top of Metal. Supports TensorFlow models.
 * [Swift AI](https://github.com/collinhundley/Swift-AI) - Highly optimized artificial intelligence and machine learning library written in Swift.
 * [BrainCore](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework
 * [swix](https://github.com/stsievert/swix) - A bare bones library that
