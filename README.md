@@ -444,6 +444,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [Decision Trees](https://github.com/serendipious/nodejs-decision-tree-id3) - NodeJS Implementation of Decision Tree using ID3 Algorithm
 * [DN2A](https://github.com/dn2a/dn2a-javascript) - Digital Neural Networks Architecture
 * [figue](https://code.google.com/archive/p/figue) - K-means, fuzzy c-means and agglomerative clustering
+* [Gaussian Mixture Model](https://github.com/lukapopijac/gaussian-mixture-model) - Unsupervised machine learning with multivariate Gaussian mixture model
 * [Node-fann](https://github.com/rlidwka/node-fann) - FANN (Fast Artificial Neural Network Library) bindings for Node.js
 * [Kmeans.js](https://github.com/emilbayes/kMeans.js) - Simple Javascript implementation of the k-means algorithm, for node.js and the browser
 * [LDA.js](https://github.com/primaryobjects/lda) - LDA topic modeling for node.js
