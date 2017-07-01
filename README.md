@@ -1247,6 +1247,7 @@ be
 * [DynaML](https://github.com/transcendent-ai-labs/DynaML) - Scala Library/REPL for Machine Learning Research
 * [Saul](https://github.com/IllinoisCogComp/saul/) - Flexible Declarative Learning-Based Programming.
 * [SwiftLearner](https://github.com/valdanylchuk/swiftlearner/) - Simply written algorithms to help study ML or write your own implementations.
+* [Smile](http://haifengl.github.io/smile/) - Statistical Machine Intelligence and Learning Engine
 
 <a name="swift"></a>
 ## Swift
