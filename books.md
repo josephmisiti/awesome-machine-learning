@@ -4,7 +4,7 @@ The following is a list of free, open source books on machine learning, statisti
 
 * [Real World Machine Learning](https://www.manning.com/books/real-world-machine-learning) [Free Chapters]
 * [An Introduction To Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) - Book + R Code
-* [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) - Book
+* [Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/) - Book
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Book + IPython Notebooks
 * [Think Bayes](http://greenteapress.com/wp/think-bayes/) - Book + Python Code
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/mackay/itila/book.html)
