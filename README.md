@@ -818,6 +818,7 @@ be
 * [CLTK](https://github.com/cltk/cltk) - The Classical Language Toolkit
 * [rasa_nlu](https://github.com/golastmile/rasa_nlu) - turn natural language into structured data
 * [yase](https://github.com/PPACI/yase) - Transcode sentence (or other sequence) to list of word vector 
+* [Polyglot](https://github.com/aboSamoor/polyglot) - Multilingual text (NLP) processing toolkit
 
 <a name="python-general-purpose"></a>
 #### General-Purpose Machine Learning
