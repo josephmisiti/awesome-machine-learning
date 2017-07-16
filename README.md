@@ -134,7 +134,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 #### General-Purpose Machine Learning
 * [Darknet](https://github.com/pjreddie/darknet) - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 * [Recommender](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
-* [Hybrid Recommender System](https://github.com/SeniorSA/hybrid-rs-trainner) - A hybrid recomender system based upon scikit-learn algorithms.
+* [Hybrid Recommender System](https://github.com/SeniorSA/hybrid-rs-trainner) - A hybrid recommender system based upon scikit-learn algorithms.
 
 <a name="c-cv"></a>
 #### Computer Vision
@@ -165,7 +165,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [CUDA](https://code.google.com/p/cuda-convnet/) - This is a fast C++/CUDA implementation of convolutional [DEEP LEARNING]
 * [CXXNET](https://github.com/antinucleon/cxxnet) - Yet another deep learning framework with less than 1000 lines core code [DEEP LEARNING]
 * [DeepDetect](https://github.com/beniz/deepdetect) - A machine learning API and server written in C++11. It makes state of the art machine learning easy to work with and integrate into existing applications.
-* [Disrtibuted Machine learning Tool Kit (DMTK)](http://www.dmtk.io/) - A distributed machine learning (parameter server) framework by Microsoft. Enables training models on large data sets across multiple machines. Current tools bundled with it include: LightLDA and Distributed (Multisense) Word Embedding.
+* [Distributed Machine learning Tool Kit (DMTK)](http://www.dmtk.io/) - A distributed machine learning (parameter server) framework by Microsoft. Enables training models on large data sets across multiple machines. Current tools bundled with it include: LightLDA and Distributed (Multisense) Word Embedding.
 * [DLib](http://dlib.net/ml.html) - A suite of ML tools designed to be easy to imbed in other applications
 * [DSSTNE](https://github.com/amznlabs/amazon-dsstne) - A software library created by Amazon for training and deploying deep neural networks using GPUs which emphasizes speed and scale over experimental flexibility.
 * [DyNet](https://github.com/clab/dynet) - A dynamic neural network library working well with networks that have dynamic structures that change for every training instance. Written in C++ with bindings in Python.
@@ -234,7 +234,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 
 * [Touchstone](https://github.com/ptaoussanis/touchstone) - Clojure A/B testing library
 * [Clojush](https://github.com/lspector/Clojush) -  The Push programming language and the PushGP genetic programming system implemented in Clojure
-* [Infer](https://github.com/aria42/infer) - Inference and machine learning in clojure
+* [Infer](https://github.com/aria42/infer) - Inference and machine learning in Clojure
 * [Clj-ML](https://github.com/antoniogarrote/clj-ml) - A machine learning library for Clojure built on top of Weka and friends
 * [DL4CLJ](https://github.com/engagor/dl4clj/) - Clojure wrapper for Deeplearning4j
 * [Encog](https://github.com/jimpil/enclog) - Clojure wrapper for Encog (v3) (Machine-Learning framework that specializes in neural-nets)
@@ -293,8 +293,8 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [go-pr](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang.
 * [go-ml](https://github.com/alonsovidales/go_ml) - Linear / Logistic regression, Neural Networks, Collaborative Filtering and Gaussian Multivariate Distribution
 * [bayesian](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
-* [go-galib](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / golang
-* [Cloudforest](https://github.com/ryanbressler/CloudForest) - Ensembles of decision trees in go/golang.
+* [go-galib](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / Golang
+* [Cloudforest](https://github.com/ryanbressler/CloudForest) - Ensembles of decision trees in go/Golang.
 * [gobrain](https://github.com/goml/gobrain) - Neural Networks written in go
 * [GoNN](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN
 * [MXNet](https://github.com/dmlc/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
@@ -304,7 +304,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 <a name="go-data-analysis"></a>
 #### Data Analysis / Data Visualization
 
-* [go-graph](https://github.com/StepLg/go-graph) - Graph library for Go/golang language.
+* [go-graph](https://github.com/StepLg/go-graph) - Graph library for Go/Golang language.
 * [SVGo](http://www.svgopen.org/2011/papers/34-SVGo_a_Go_Library_for_SVG_generation/) - The Go Language library for SVG generation
 * [RF](https://github.com/fxsjy/RF.go) - Random forests implementation in Go
 
@@ -359,7 +359,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [FlinkML in Apache Flink](https://ci.apache.org/projects/flink/flink-docs-master/apis/batch/libs/ml/index.html) - Distributed machine learning library in Flink
 * [H2O](https://github.com/h2oai/h2o-3) - ML engine that supports distributed learning on Hadoop, Spark or your laptop via APIs in R, Python, Scala, REST/JSON.
 * [htm.java](https://github.com/numenta/htm.java) - General Machine Learning library using Numenta’s Cortical Learning Algorithm
-* [java-deeplearning](https://github.com/deeplearning4j/deeplearning4j) - Distributed Deep Learning Platform for Java, Clojure,Scala
+* [java-deeplearning](https://github.com/deeplearning4j/deeplearning4j) - Distributed Deep Learning Platform for Java, Clojure, Scala
 * [Mahout](https://github.com/apache/mahout) - Distributed machine learning
 * [Meka](http://meka.sourceforge.net/) - An open source implementation of methods for multi-label classification and evaluation (extension to Weka).
 * [MLlib in Apache Spark](http://spark.apache.org/docs/latest/mllib-guide.html) - Distributed machine learning library in Spark
@@ -447,19 +447,19 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [Gaussian Mixture Model](https://github.com/lukapopijac/gaussian-mixture-model) - Unsupervised machine learning with multivariate Gaussian mixture model
 * [Node-fann](https://github.com/rlidwka/node-fann) - FANN (Fast Artificial Neural Network Library) bindings for Node.js
 * [Kmeans.js](https://github.com/emilbayes/kMeans.js) - Simple Javascript implementation of the k-means algorithm, for node.js and the browser
-* [LDA.js](https://github.com/primaryobjects/lda) - LDA topic modeling for node.js
+* [LDA.js](https://github.com/primaryobjects/lda) - LDA topic modeling for Node.js
 * [Learning.js](https://github.com/yandongliu/learningjs) - Javascript implementation of logistic regression/c4.5 decision tree
 * [Machine Learning](http://joonku.com/project/machine_learning) - Machine learning library for Node.js
 * [machineJS](https://github.com/ClimbsRocks/machineJS) - Automated machine learning, data formatting, ensembling, and hyperparameter optimization for competitions and exploration- just give it a .csv file!
 * [mil-tokyo](https://github.com/mil-tokyo) - List of several machine learning libraries
-* [Node-SVM](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for nodejs
+* [Node-SVM](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for Node.js
 * [Brain](https://github.com/harthur/brain) - Neural networks in JavaScript **[Deprecated]**
 * [Bayesian-Bandit](https://github.com/omphalos/bayesian-bandit.js) - Bayesian bandit implementation for Node and the browser.
-* [Synaptic](https://github.com/cazala/synaptic) - Architecture-free neural network library for node.js and the browser
+* [Synaptic](https://github.com/cazala/synaptic) - Architecture-free neural network library for Node.js and the browser
 * [kNear](https://github.com/NathanEpstein/kNear) - JavaScript implementation of the k nearest neighbors algorithm for supervised learning
 * [NeuralN](https://github.com/totemstech/neuraln) - C++ Neural Network library for Node.js. It has advantage on large dataset and multi-threaded training.
 * [kalman](https://github.com/itamarwe/kalman) - Kalman filter for Javascript.
-* [shaman](https://github.com/luccastera/shaman) - node.js library with support for both simple and multiple linear regression.
+* [shaman](https://github.com/luccastera/shaman) - Node.js library with support for both simple and multiple linear regression.
 * [ml.js](https://github.com/mljs/ml) - Machine learning and numerical analysis tools for Node.js and the Browser!
 * [Pavlov.js](https://github.com/NathanEpstein/Pavlov.js) - Reinforcement learning using Markov Decision Processes
 * [MXNet](https://github.com/dmlc/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
@@ -468,7 +468,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 #### Misc
 
 * [sylvester](https://github.com/jcoglan/sylvester) - Vector and Matrix math for JavaScript.
-* [simple-statistics](https://github.com/simple-statistics/simple-statistics) - A JavaScript implementation of descriptive, regression, and inference statistics. Implemented in literate JavaScript with no dependencies, designed to work in all modern browsers (including IE) as well as in node.js.
+* [simple-statistics](https://github.com/simple-statistics/simple-statistics) - A JavaScript implementation of descriptive, regression, and inference statistics. Implemented in literate JavaScript with no dependencies, designed to work in all modern browsers (including IE) as well as in Node.js.
 * [regression-js](https://github.com/Tom-Alexander/regression-js) - A javascript library containing a collection of least squares fitting methods for finding a trend in a set of data.
 * [Lyric](https://github.com/flurry/Lyric) - Linear Regression library.
 * [GreatCircle](https://github.com/mwgg/GreatCircle) - Library for calculating great circle distance.
@@ -498,7 +498,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [GLMNet](https://github.com/simonster/GLMNet.jl) - Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet
 * [Clustering](https://github.com/JuliaStats/Clustering.jl) - Basic functions for clustering data: k-means, dp-means, etc.
 * [SVM](https://github.com/JuliaStats/SVM.jl) - SVM's for Julia
-* [Kernal Density](https://github.com/JuliaStats/KernelDensity.jl) - Kernel density estimators for julia
+* [Kernel Density](https://github.com/JuliaStats/KernelDensity.jl) - Kernel density estimators for julia
 * [Dimensionality Reduction](https://github.com/JuliaStats/DimensionalityReduction.jl) - Methods for dimensionality reduction
 * [NMF](https://github.com/JuliaStats/NMF.jl) - A Julia package for non-negative matrix factorization
 * [ANN](https://github.com/EricChiang/ANN.jl) - Julia artificial neural networks
@@ -645,7 +645,7 @@ on MNIST digits[DEEP LEARNING]
 * [Spider](http://people.kyb.tuebingen.mpg.de/spider/) - The spider is intended to be a complete object orientated environment for machine learning in Matlab.
 * [LibSVM](http://www.csie.ntu.edu.tw/~cjlin/libsvm/#matlab) - A Library for Support Vector Machines
 * [LibLinear](http://www.csie.ntu.edu.tw/~cjlin/liblinear/#download) - A Library for Large Linear Classification
-* [Machine Learning Module](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF,lectures,code
+* [Machine Learning Module](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
 * [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind.
 * [Pattern Recognition Toolbox](https://github.com/covartech/PRT)  - A complete object-oriented environment for machine learning in Matlab.
 * [Pattern Recognition and Machine Learning](https://github.com/PRML/PRMLT) - This package contains the matlab implementation of the algorithms described in the book Pattern Recognition and Machine Learning by C. Bishop.
@@ -847,7 +847,7 @@ be
 * [topik](https://github.com/ContinuumIO/topik) - Topic modelling toolkit
 * [PyBrain](https://github.com/pybrain/pybrain) - Another Python Machine Learning Library.
 * [Brainstorm](https://github.com/IDSIA/brainstorm) - Fast, flexible and fun neural networks. This is the successor of PyBrain.
-* [Crab](https://github.com/muricoca/crab) - A ﬂexible, fast recommender engine.
+* [Crab](https://github.com/muricoca/crab) - A flexible, fast recommender engine.
 * [python-recsys](https://github.com/ocelma/python-recsys) - A Python library for implementing a Recommender System.
 * [thinking bayes](https://github.com/AllenDowney/ThinkBayes) - Book on Bayesian Analysis
 * [Image-to-Image Translation with Conditional Adversarial Networks](https://github.com/williamFalcon/pix2pix-keras) - Implementation of image to image (pix2pix) translation from the paper by [isola et al](https://arxiv.org/pdf/1611.07004.pdf).[DEEP LEARNING]
