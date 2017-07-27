@@ -890,6 +890,7 @@ be
 * [rgf_python](https://github.com/fukatani/rgf_python) - Python bindings for Regularized Greedy Forest (Tree) Library.
 * [skbayes](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API
 * [fuku-ml](https://github.com/fukuball/fuku-ml) - Simple machine learning library, including Perceptron, Regression, Support Vector Machine, Decision Tree and more, it's easy to use and easy to learn for beginners.
+* [Xcessiv](https://github.com/reiinakano/xcessiv) - A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling
 
 <a name="python-data-analysis"></a>
 #### Data Analysis / Data Visualization
