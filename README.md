@@ -385,6 +385,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 
 * [Flink](http://flink.apache.org/) - Open source platform for distributed stream and batch data processing.
 * [Hadoop](https://github.com/apache/hadoop-mapreduce) - Hadoop/HDFS
+* [Onyx](https://github.com/onyx-platform/onyx) - Distributed, masterless, high performance, fault tolerant data processing. Written entirely in Clojure.
 * [Spark](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
 * [Storm](http://storm.apache.org/) - Storm is a distributed realtime computation system.
 * [Impala](https://github.com/cloudera/impala) - Real-time Query for Hadoop
