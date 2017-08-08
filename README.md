@@ -821,7 +821,7 @@ be
 * [rasa_nlu](https://github.com/golastmile/rasa_nlu) - turn natural language into structured data
 * [yase](https://github.com/PPACI/yase) - Transcode sentence (or other sequence) to list of word vector 
 * [Polyglot](https://github.com/aboSamoor/polyglot) - Multilingual text (NLP) processing toolkit
-* [DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to Answer Open-Domain Questions
+* [DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to answer open-domain questions
 
 <a name="python-general-purpose"></a>
 #### General-Purpose Machine Learning
