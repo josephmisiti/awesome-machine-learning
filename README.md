@@ -786,6 +786,7 @@ be
 * [Vigranumpy](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
 * [OpenFace](https://cmusatyalab.github.io/openface/) - Free and open source face recognition with deep neural networks.
 * [PCV](https://github.com/jesolem/PCV) - Open source Python module for computer vision
+* [face_recognition](https://github.com/ageitgey/face_recognition) - Face recognition library that recognize and manipulate faces from Python or from the command line
 
 <a name="python-nlp"></a>
 #### Natural Language Processing
