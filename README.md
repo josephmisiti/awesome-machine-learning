@@ -33,6 +33,8 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
     - [Natural Language Processing](#clojure-nlp)
     - [General-Purpose Machine Learning](#clojure-general-purpose)
     - [Data Analysis / Data Visualization](#clojure-data-analysis)
+- [Crystal](#crystal)
+    - [General-Purpose Machine Learning](#crystal-general-purpose)
 - [Elixir](#elixir)
     - [General-Purpose Machine Learning](#elixir-general-purpose)
     - [Natural Language Processing](#elixir-nlp)
@@ -251,6 +253,15 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [Incanter](http://incanter.org/) - Incanter is a Clojure-based, R-like platform for statistical computing and graphics.
 * [PigPen](https://github.com/Netflix/PigPen) - Map-Reduce for Clojure.
 * [Envision](https://github.com/clojurewerkz/envision) - Clojure Data Visualisation library, based on Statistiker and D3
+
+<a name="crystal"></a>
+## Crystal
+
+<a name="crystal-general-purpose"></a>
+#### General-Purpose Machine Learning
+
+* [machine](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
+* [crystal-fann](https://github.com/bararchy/crystal-fann) - FANN (Fast Artifical Neural Network) binding.
 
 <a name="elixir"></a>
 ## Elixir
