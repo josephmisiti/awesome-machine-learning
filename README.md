@@ -799,6 +799,7 @@ be
 * [OpenFace](https://cmusatyalab.github.io/openface/) - Free and open source face recognition with deep neural networks.
 * [PCV](https://github.com/jesolem/PCV) - Open source Python module for computer vision
 * [face_recognition](https://github.com/ageitgey/face_recognition) - Face recognition library that recognize and manipulate faces from Python or from the command line
+* [dockerface](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container.
 
 <a name="python-nlp"></a>
 #### Natural Language Processing
