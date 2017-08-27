@@ -10,3 +10,5 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Machine Learning Course (2014-15 session) (by Nando de Freitas, University of Oxford)](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) - Lecture slides and video recordings.
 * [Learning from Data (by Yaser S. Abu-Mostafa, Caltech)](http://www.work.caltech.edu/telecourse.html) - Lecture videos available
 * [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) - free
+* [Probabilistic Graphical Models (by Prof. Daphne Koller, Stanford)](https://www.coursera.org/specializations/probabilistic-graphical-models) Coursera Specialization or [this Youtube playlist](https://www.youtube.com/watch?v=WPSQfOkb1M8&list=PL50E6E80E8525B59C) if you can't afford the enrollment fee.
+* [Reinforcement Learning Course (by David Silver, DeepMind)](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-) - YouTube playlist and [lecture slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html).
