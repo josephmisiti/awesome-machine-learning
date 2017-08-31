@@ -466,6 +466,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [mil-tokyo](https://github.com/mil-tokyo) - List of several machine learning libraries
 * [Node-SVM](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for Node.js
 * [Brain](https://github.com/harthur/brain) - Neural networks in JavaScript **[Deprecated]**
+* [Brain.js](https://github.com/harthur-org/brain.js) - Neural networks in JavaScript - continued community fork of [Brain](https://github.com/harthur/brain)
 * [Bayesian-Bandit](https://github.com/omphalos/bayesian-bandit.js) - Bayesian bandit implementation for Node and the browser.
 * [Synaptic](https://github.com/cazala/synaptic) - Architecture-free neural network library for Node.js and the browser
 * [kNear](https://github.com/NathanEpstein/kNear) - JavaScript implementation of the k nearest neighbors algorithm for supervised learning
