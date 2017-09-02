@@ -881,6 +881,7 @@ be
 * [Bolt](https://github.com/pprett/bolt) - Bolt Online Learning Toolbox
 * [CoverTree](https://github.com/patvarilly/CoverTree) - Python implementation of cover trees, near-drop-in replacement for scipy.spatial.kdtree
 * [nilearn](https://github.com/nilearn/nilearn) - Machine learning for NeuroImaging in Python
+* [neuropredict](https://github.com/raamana/neuropredict) - Easy (no coding needed) and comprehensive machine learning (evaluation and full report of predictive performance WITHOUT requiring you to code) in Python for NeuroImaging and other types of features
 * [imbalanced-learn](http://contrib.scikit-learn.org/imbalanced-learn/) - Python module to perform under sampling and over sampling with various techniques.
 * [Shogun](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox
 * [Pyevolve](https://github.com/perone/Pyevolve) - Genetic algorithm framework.
