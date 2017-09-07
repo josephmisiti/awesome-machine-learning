@@ -182,8 +182,10 @@ Further resources:
 * [igraph](http://igraph.org/c/) - General purpose graph library
 * [Intel(R) DAAL](https://github.com/01org/daal) - A high performance software library developed by Intel and optimized for Intel's architectures. Library provides algorithmic building blocks for all stages of data analytics and allows to process data in batch, online and distributed modes.
 * [LightGBM](https://github.com/Microsoft/LightGBM) - Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+* [libfm](http://www.libfm.org/) - A generic approach that allows to mimic most factorization models by feature engineering.
 * [MLDB](https://mldb.ai) - The Machine Learning Database is a database designed for machine learning. Send it commands over a RESTful API to store data, explore it using SQL, then train machine learning models and expose them as APIs.
 * [mlpack](http://www.mlpack.org/) - A scalable C++ machine learning library
+* [proNet-core](https://github.com/chihming/proNet-core) - A general-purpose network embedding framework: pair-wise representations optimization Network Edit
 * [ROOT](https://root.cern.ch) - A modular scientific software framework. It provides all the functionalities needed to deal with big data processing, statistical analysis, visualization and storage.
 * [shark](http://image.diku.dk/shark/sphinx_pages/build/html/index.html) - A fast, modular, feature-rich open-source C++ machine learning library.
 * [Shogun](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox
