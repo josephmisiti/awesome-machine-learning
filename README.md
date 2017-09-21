@@ -31,6 +31,7 @@ Further resources:
     - [Computer Vision](#cpp-cv)
     - [General-Purpose Machine Learning](#cpp-general-purpose)
     - [Natural Language Processing](#cpp-nlp)
+    - [Speech Recognition](#speech-recognition-1)
     - [Sequence Analysis](#cpp-sequence)
     - [Gesture Recognition](#cpp-gestures)
 - [Common Lisp](#common-lisp)
