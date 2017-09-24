@@ -1011,6 +1011,7 @@ be
 * [Suiron](https://github.com/kendricktan/suiron/) - Machine Learning for RC Cars.
 * [Introduction to machine learning with scikit-learn](https://github.com/justmarkham/scikit-learn-videos) - IPython notebooks from Data School's video tutorials on scikit-learn.
 * [Practical XGBoost in Python](http://education.parrotprediction.teachable.com/p/practical-xgboost-in-python) - comprehensive online course about using XGBoost in Python
+* [Keras Messenger](https://github.com/InvidHead/Keras_FB) - Enable Keras to send real-time training info to your Messenger account
 
 <a name="python-neural-networks"></a>
 #### Neural Networks
