@@ -75,7 +75,7 @@ The following is a list of free, open source books on machine learning, statisti
 
 ## Linear Algebra
 
-* [Linear Algebra Done Wrong](http://www.math.brown.edu/~treil/papers/LADW/book.pdf)
+* [Linear Algebra Done Wrong](http://www.math.brown.edu/~treil/papers/LADW/LADW.html)
 * [Linear Algebra, Theory, and Applications](https://math.byu.edu/~klkuttle/Linearalgebra.pdf)
 * [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 * [Applied Numerical Computing](http://www.seas.ucla.edu/~vandenbe/103/reader.pdf)
