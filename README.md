@@ -430,7 +430,6 @@ Further resources:
 * [natural](https://github.com/NaturalNode/natural) - General natural language facilities for node
 * [Knwl.js](https://github.com/loadfive/Knwl.js) - A Natural Language Processor in JS
 * [Retext](https://github.com/wooorm/retext) - Extensible system for analyzing and manipulating natural language
-* [TextProcessing](https://market.mashape.com/japerk/text-processing/support) - Sentiment analysis, stemming and lemmatization, part-of-speech tagging and chunking, phrase extraction and named entity recognition.
 * [NLP Compromise](https://github.com/nlp-compromise/compromise) - Natural Language processing in the browser
 
 
