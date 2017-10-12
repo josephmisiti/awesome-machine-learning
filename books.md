@@ -31,10 +31,14 @@ The following is a list of free, open source books on machine learning, statisti
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage) Book+MatlabToolBox
 * [R Programming for Data Science](https://leanpub.com/rprogramming)
 * [Data Mining - Practical Machine Learning Tools and Techniques](http://cs.du.edu/~mitchell/mario_books/Data_Mining:_Practical_Machine_Learning_Tools_and_Techniques_-_2e_-_Witten_&_Frank.pdf) Book
+* [Machine Learning with TensorFlow](https://www.manning.com/books/machine-learning-with-tensorflow) Early access book
+* [Reactive Machine Learning Systems](https://www.manning.com/books/reactive-machine-learning-systems) Early access book
 
 ## Deep-Learning
 
 * [Deep Learning - An MIT Press book](http://www.deeplearningbook.org/)
+* [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) Early access book
+* [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) Early access book
 
 ## Natural Language Processing
 
@@ -42,6 +46,7 @@ The following is a list of free, open source books on machine learning, statisti
 * [NLTK](http://www.nltk.org/book/)
 * [NLP w/ Python](http://victoria.lviv.ua/html/fl5/NaturalLanguageProcessingWithPython.pdf)
 * [Foundations of Statistical Natural Language Processing](http://nlp.stanford.edu/fsnlp/promo/)
+* [Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action) Early access book
 
 ## Information Retrieval
 
