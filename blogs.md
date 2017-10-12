@@ -95,6 +95,8 @@ http://www.dataschool.io/
 
 http://www.datasciencecentral.com
 
+https://mubaris.com
+
 Math
 ----
 
