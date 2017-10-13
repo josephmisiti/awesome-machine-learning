@@ -10,7 +10,7 @@ The following is a list of free, open source books on machine learning, statisti
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/mackay/itila/book.html)
 * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/chapters/)
 * [Data Intensive Text Processing w/ MapReduce](http://lintool.github.io/MapReduceAlgorithms/)
-* [Reinforcement Learning: - An Introduction](http://incompleteideas.net/sutton/book/the-book-2nd.html)
+* [Reinforcement Learning: - An Introduction](http://incompleteideas.net/sutton/book/the-book-2nd.html) ([Permalink to June 2017 Draft](https://perma.cc/6ZMM-YM47))
 * [Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
 * [A First Encounter with Machine Learning](https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf)
 * [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
