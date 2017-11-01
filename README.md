@@ -329,8 +329,8 @@ Further resources:
 #### Data Analysis / Data Visualization
 
 * [go-graph](https://github.com/StepLg/go-graph) - Graph library for Go/Golang language.
-* [SVGo](http://www.svgopen.org/2011/papers/34-SVGo_a_Go_Library_for_SVG_generation/) - The Go Language library for SVG generation
-* [RF](https://github.com/fxsjy/RF.go) - Random forests implementation in Go
+* [SVGo](http://www.svgopen.org/2011/papers/34-SVGo_a_Go_Library_for_SVG_generation/) - The Go Language library for SVG generation.
+* [RF](https://github.com/fxsjy/RF.go) - Random forests implementation in Go.
 * [Glot](https://github.com/arafatk/glot) - Glot is a plotting library for Golang built on top of gnuplot. 
 
 <a name="haskell"></a>
@@ -342,8 +342,8 @@ Further resources:
 * [HLearn](https://github.com/mikeizbicki/HLearn) - a suite of libraries for interpreting machine learning models according to their algebraic structure.
 * [hnn](https://wiki.haskell.org/HNN) - Haskell Neural Network library.
 * [hopfield-networks](https://github.com/ajtulloch/hopfield-networks) - Hopfield Networks for unsupervised learning in Haskell.
-* [caffegraph](https://github.com/ajtulloch/dnngraph) - A DSL for deep neural networks
-* [LambdaNet](https://github.com/jbarrow/LambdaNet) - Configurable Neural Networks in Haskell
+* [caffegraph](https://github.com/ajtulloch/dnngraph) - A DSL for deep neural networks.
+* [LambdaNet](https://github.com/jbarrow/LambdaNet) - Configurable Neural Networks in Haskell.
 
 <a name="java"></a>
 ## Java
@@ -351,10 +351,10 @@ Further resources:
 <a name="java-nlp"></a>
 #### Natural Language Processing
 * [Cortical.io](http://www.cortical.io/) - Retina: an API performing complex NLP operations (disambiguation, classification, streaming text filtering, etc...) as quickly and intuitively as the brain.
-* [IRIS](https://github.com/cortical-io/Public/tree/master/iris) - [Cortical.io's](http://cortical.io) FREE NLP, Retina API Analysis Tool (written in JavaFX!) - [See the Tutorial Video](https://www.youtube.com/watch?v=CsF4pd7fGF0)
-* [CoreNLP](http://nlp.stanford.edu/software/corenlp.shtml) - Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words
-* [Stanford Parser](http://nlp.stanford.edu/software/lex-parser.shtml) - A natural language parser is a program that works out the grammatical structure of sentences
-* [Stanford POS Tagger](http://nlp.stanford.edu/software/tagger.shtml) - A Part-Of-Speech Tagger (POS Tagger
+* [IRIS](https://github.com/cortical-io/Public/tree/master/iris) - [Cortical.io's](http://cortical.io) FREE NLP, Retina API Analysis Tool (written in JavaFX!) - [See the Tutorial Video](https://www.youtube.com/watch?v=CsF4pd7fGF0).
+* [CoreNLP](http://nlp.stanford.edu/software/corenlp.shtml) - Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words.
+* [Stanford Parser](http://nlp.stanford.edu/software/lex-parser.shtml) - A natural language parser is a program that works out the grammatical structure of sentences.
+* [Stanford POS Tagger](http://nlp.stanford.edu/software/tagger.shtml) - A Part-Of-Speech Tagger (POS Tagger).
 * [Stanford Name Entity Recognizer](http://nlp.stanford.edu/software/CRF-NER.shtml) - Stanford NER is a Java implementation of a Named Entity Recognizer.
 * [Stanford Word Segmenter](http://nlp.stanford.edu/software/segmenter.shtml) - Tokenization of raw text is a standard pre-processing step for many NLP tasks.
 * [Tregex, Tsurgeon and Semgrex](http://nlp.stanford.edu/software/tregex.shtml) - Tregex is a utility for matching patterns in trees, based on tree relationships and regular expression matches on nodes (the name is short for "tree regular expressions").
@@ -992,19 +992,19 @@ be
 * [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines.
 * [decision-weights](https://github.com/CamDavidsonPilon/decision-weights)
 * [Sarah Palin LDA](https://github.com/Wavelets/sarah-palin-lda) - Topic Modeling the Sarah Palin emails.
-* [Diffusion Segmentation](https://github.com/Wavelets/diffusion-segmentation) - A collection of image segmentation algorithms based on diffusion methods
-* [Scipy Tutorials](https://github.com/Wavelets/scipy-tutorials) - SciPy tutorials. This is outdated, check out scipy-lecture-notes
-* [Crab](https://github.com/marcelcaraciolo/crab) - A recommendation engine library for Python
-* [BayesPy](https://github.com/maxsklar/BayesPy) - Bayesian Inference Tools in Python
-* [scikit-learn tutorials](https://github.com/GaelVaroquaux/scikit-learn-tutorial) - Series of notebooks for learning scikit-learn
+* [Diffusion Segmentation](https://github.com/Wavelets/diffusion-segmentation) - A collection of image segmentation algorithms based on diffusion methods.
+* [Scipy Tutorials](https://github.com/Wavelets/scipy-tutorials) - SciPy tutorials. This is outdated, check out scipy-lecture-notes.
+* [Crab](https://github.com/marcelcaraciolo/crab) - A recommendation engine library for Python.
+* [BayesPy](https://github.com/maxsklar/BayesPy) - Bayesian Inference Tools in Python.
+* [scikit-learn tutorials](https://github.com/GaelVaroquaux/scikit-learn-tutorial) - Series of notebooks for learning scikit-learn.
 * [sentiment-analyzer](https://github.com/madhusudancs/sentiment-analyzer) - Tweets Sentiment Analyzer
 * [sentiment_classifier](https://github.com/kevincobain2000/sentiment_classifier) - Sentiment classifier using word sense disambiguation.
-* [group-lasso](https://github.com/fabianp/group_lasso) - Some experiments with the coordinate descent algorithm used in the (Sparse) Group Lasso model
+* [group-lasso](https://github.com/fabianp/group_lasso) - Some experiments with the coordinate descent algorithm used in the (Sparse) Group Lasso model.
 * [jProcessing](https://github.com/kevincobain2000/jProcessing) - Kanji / Hiragana / Katakana to Romaji Converter. Edict Dictionary & parallel sentences Search. Sentence Similarity between two JP Sentences. Sentiment Analysis of Japanese Text. Run Cabocha(ISO--8859-1 configured) in Python.
-* [mne-python-notebooks](https://github.com/mne-tools/mne-python-notebooks) - IPython notebooks for EEG/MEG data processing using mne-python
-* [Neon Course](https://github.com/NervanaSystems/neon_course) - IPython notebooks for a complete course around understanding Nervana's Neon
-* [pandas cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
-* [climin](https://github.com/BRML/climin) - Optimization library focused on machine learning, pythonic implementations of gradient descent, LBFGS, rmsprop, adadelta and others
+* [mne-python-notebooks](https://github.com/mne-tools/mne-python-notebooks) - IPython notebooks for EEG/MEG data processing using mne-python.
+* [Neon Course](https://github.com/NervanaSystems/neon_course) - IPython notebooks for a complete course around understanding Nervana's Neon.
+* [pandas cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library.
+* [climin](https://github.com/BRML/climin) - Optimization library focused on machine learning, pythonic implementations of gradient descent, LBFGS, rmsprop, adadelta and others.
 * [Allen Downey’s Data Science Course](https://github.com/AllenDowney/DataScience) - Code for Data Science at Olin College, Spring 2014.
 * [Allen Downey’s Think Bayes Code](https://github.com/AllenDowney/ThinkBayes) - Code repository for Think Bayes.
 * [Allen Downey’s Think Complexity Code](https://github.com/AllenDowney/ThinkComplexity) - Code for Allen Downey's book Think Complexity.
@@ -1016,7 +1016,7 @@ be
 * [TDB](https://github.com/ericjang/tdb) - TensorDebugger (TDB) is a visual debugger for deep learning. It features interactive, node-by-node debugging and visualization for TensorFlow.
 * [Suiron](https://github.com/kendricktan/suiron/) - Machine Learning for RC Cars.
 * [Introduction to machine learning with scikit-learn](https://github.com/justmarkham/scikit-learn-videos) - IPython notebooks from Data School's video tutorials on scikit-learn.
-* [Practical XGBoost in Python](http://education.parrotprediction.teachable.com/p/practical-xgboost-in-python) - comprehensive online course about using XGBoost in Python
+* [Practical XGBoost in Python](http://education.parrotprediction.teachable.com/p/practical-xgboost-in-python) - comprehensive online course about using XGBoost in Python.
 
 <a name="python-neural-networks"></a>
 #### Neural Networks
@@ -1026,23 +1026,23 @@ be
 
 <a name="python-kaggle"></a>
 #### Kaggle Competition Source Code
-* [wiki challenge](https://github.com/hammer/wikichallenge) - An implementation of Dell Zhang's solution to Wikipedia's Participation Challenge on Kaggle
-* [kaggle insults](https://github.com/amueller/kaggle_insults) - Kaggle Submission for "Detecting Insults in Social Commentary"
-* [kaggle_acquire-valued-shoppers-challenge](https://github.com/MLWave/kaggle_acquire-valued-shoppers-challenge) - Code for the Kaggle acquire valued shoppers challenge
-* [kaggle-cifar](https://github.com/zygmuntz/kaggle-cifar) - Code for the CIFAR-10 competition at Kaggle, uses cuda-convnet
-* [kaggle-blackbox](https://github.com/zygmuntz/kaggle-blackbox) - Deep learning made easy
-* [kaggle-accelerometer](https://github.com/zygmuntz/kaggle-accelerometer) - Code for Accelerometer Biometric Competition at Kaggle
-* [kaggle-advertised-salaries](https://github.com/zygmuntz/kaggle-advertised-salaries) - Predicting job salaries from ads - a Kaggle competition
-* [kaggle amazon](https://github.com/zygmuntz/kaggle-amazon) - Amazon access control challenge
-* [kaggle-bestbuy_big](https://github.com/zygmuntz/kaggle-bestbuy_big) - Code for the Best Buy competition at Kaggle
+* [wiki challenge](https://github.com/hammer/wikichallenge) - An implementation of Dell Zhang's solution to Wikipedia's Participation Challenge on Kaggle.
+* [kaggle insults](https://github.com/amueller/kaggle_insults) - Kaggle Submission for "Detecting Insults in Social Commentary".
+* [kaggle_acquire-valued-shoppers-challenge](https://github.com/MLWave/kaggle_acquire-valued-shoppers-challenge) - Code for the Kaggle acquire valued shoppers challenge.
+* [kaggle-cifar](https://github.com/zygmuntz/kaggle-cifar) - Code for the CIFAR-10 competition at Kaggle, uses cuda-convnet.
+* [kaggle-blackbox](https://github.com/zygmuntz/kaggle-blackbox) - Deep learning made easy.
+* [kaggle-accelerometer](https://github.com/zygmuntz/kaggle-accelerometer) - Code for Accelerometer Biometric Competition at Kaggle.
+* [kaggle-advertised-salaries](https://github.com/zygmuntz/kaggle-advertised-salaries) - Predicting job salaries from ads - a Kaggle competition.
+* [kaggle amazon](https://github.com/zygmuntz/kaggle-amazon) - Amazon access control challenge.
+* [kaggle-bestbuy_big](https://github.com/zygmuntz/kaggle-bestbuy_big) - Code for the Best Buy competition at Kaggle.
 * [kaggle-bestbuy_small](https://github.com/zygmuntz/kaggle-bestbuy_small)
-* [Kaggle Dogs vs. Cats](https://github.com/kastnerkyle/kaggle-dogs-vs-cats) - Code for Kaggle Dogs vs. Cats competition
-* [Kaggle Galaxy Challenge](https://github.com/benanne/kaggle-galaxies) - Winning solution for the Galaxy Challenge on Kaggle
-* [Kaggle Gender](https://github.com/zygmuntz/kaggle-gender) - A Kaggle competition: discriminate gender based on handwriting
-* [Kaggle Merck](https://github.com/zygmuntz/kaggle-merck) - Merck challenge at Kaggle
-* [Kaggle Stackoverflow](https://github.com/zygmuntz/kaggle-stackoverflow) - Predicting closed questions on Stack Overflow
-* [kaggle_acquire-valued-shoppers-challenge](https://github.com/MLWave/kaggle_acquire-valued-shoppers-challenge) - Code for the Kaggle acquire valued shoppers challenge
-* [wine-quality](https://github.com/zygmuntz/wine-quality) - Predicting wine quality
+* [Kaggle Dogs vs. Cats](https://github.com/kastnerkyle/kaggle-dogs-vs-cats) - Code for Kaggle Dogs vs. Cats competition.
+* [Kaggle Galaxy Challenge](https://github.com/benanne/kaggle-galaxies) - Winning solution for the Galaxy Challenge on Kaggle.
+* [Kaggle Gender](https://github.com/zygmuntz/kaggle-gender) - A Kaggle competition: discriminate gender based on handwriting.
+* [Kaggle Merck](https://github.com/zygmuntz/kaggle-merck) - Merck challenge at Kaggle.
+* [Kaggle Stackoverflow](https://github.com/zygmuntz/kaggle-stackoverflow) - Predicting closed questions on Stack Overflow.
+* [kaggle_acquire-valued-shoppers-challenge](https://github.com/MLWave/kaggle_acquire-valued-shoppers-challenge) - Code for the Kaggle acquire valued shoppers challenge.
+* [wine-quality](https://github.com/zygmuntz/wine-quality) - Predicting wine quality.
 
 <a name="python-reinforcement-learning"></a>
 #### Reinforcement Learning
@@ -1059,35 +1059,35 @@ be
 #### Natural Language Processing
 
 * [Awesome NLP with Ruby](https://github.com/arbox/nlp-with-ruby) - Curated link list for practical natural language processing in Ruby.
-* [Treat](https://github.com/louismullie/treat) -  Text REtrieval and Annotation Toolkit, definitely the most comprehensive toolkit I’ve encountered so far for Ruby
+* [Treat](https://github.com/louismullie/treat) -  Text REtrieval and Annotation Toolkit, definitely the most comprehensive toolkit I’ve encountered so far for Ruby.
 * [Ruby Linguistics](https://deveiate.org/projects/Linguistics) -  Linguistics is a framework for building linguistic utilities for Ruby objects in any language. It includes a generic language-independent front end, a module for mapping language codes into language names, and a module which contains various English-language utilities.
-* [Stemmer](https://github.com/aurelian/ruby-stemmer) - Expose libstemmer_c to Ruby
-* [Ruby Wordnet](https://deveiate.org/projects/Ruby-WordNet/) - This library is a Ruby interface to WordNet
-* [Raspel](https://sourceforge.net/projects/raspell/) - raspell is an interface binding for ruby
-* [UEA Stemmer](https://github.com/ealdent/uea-stemmer) - Ruby port of UEALite Stemmer - a conservative stemmer for search and indexing
-* [Twitter-text-rb](https://github.com/twitter/twitter-text-rb) - A library that does auto linking and extraction of usernames, lists and hashtags in tweets
+* [Stemmer](https://github.com/aurelian/ruby-stemmer) - Expose libstemmer_c to Ruby.
+* [Ruby Wordnet](https://deveiate.org/projects/Ruby-WordNet/) - This library is a Ruby interface to WordNet.
+* [Raspel](https://sourceforge.net/projects/raspell/) - raspell is an interface binding for ruby.
+* [UEA Stemmer](https://github.com/ealdent/uea-stemmer) - Ruby port of UEALite Stemmer - a conservative stemmer for search and indexing.
+* [Twitter-text-rb](https://github.com/twitter/twitter-text-rb) - A library that does auto linking and extraction of usernames, lists and hashtags in tweets.
 
 <a name="ruby-general-purpose"></a>
 #### General-Purpose Machine Learning
 
-* [Awesome Machine Learning with Ruby](https://github.com/arbox/machine-learning-with-ruby) - Curated list of ML related resources for Ruby
-* [Ruby Machine Learning](https://github.com/tsycho/ruby-machine-learning) - Some Machine Learning algorithms, implemented in Ruby
+* [Awesome Machine Learning with Ruby](https://github.com/arbox/machine-learning-with-ruby) - Curated list of ML related resources for Ruby.
+* [Ruby Machine Learning](https://github.com/tsycho/ruby-machine-learning) - Some Machine Learning algorithms, implemented in Ruby.
 * [Machine Learning Ruby](https://github.com/mizoR/machine-learning-ruby)
 * [jRuby Mahout](https://github.com/vasinov/jruby_mahout) - JRuby Mahout is a gem that unleashes the power of Apache Mahout in the world of JRuby.
 * [CardMagic-Classifier](https://github.com/cardmagic/classifier) - A general classifier module to allow Bayesian and other types of classifications.
-* [rb-libsvm](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM which is a Library for Support Vector Machines
-* [Random Forester](https://github.com/asafschers/random_forester) - Creates Random Forest classifiers from PMML files
+* [rb-libsvm](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM which is a Library for Support Vector Machines.
+* [Random Forester](https://github.com/asafschers/random_forester) - Creates Random Forest classifiers from PMML files.
 
 <a name="ruby-data-analysis"></a>
 #### Data Analysis / Data Visualization
 
-* [rsruby](https://github.com/alexgutteridge/rsruby) - Ruby - R bridge
-* [data-visualization-ruby](https://github.com/chrislo/data_visualisation_ruby) - Source code and supporting content for my Ruby Manor presentation on Data Visualisation with Ruby
-* [ruby-plot](https://www.ruby-toolbox.com/projects/ruby-plot) - gnuplot wrapper for ruby, especially for plotting roc curves into svg files
+* [rsruby](https://github.com/alexgutteridge/rsruby) - Ruby - R bridge.
+* [data-visualization-ruby](https://github.com/chrislo/data_visualisation_ruby) - Source code and supporting content for my Ruby Manor presentation on Data Visualisation with Ruby.
+* [ruby-plot](https://www.ruby-toolbox.com/projects/ruby-plot) - gnuplot wrapper for Ruby, especially for plotting ROC curves into SVG files.
 * [plot-rb](https://github.com/zuhao/plotrb) - A plotting library in Ruby built on top of Vega and D3.
-* [scruffy](http://www.rubyinside.com/scruffy-a-beautiful-graphing-toolkit-for-ruby-194.html) - A beautiful graphing toolkit for Ruby
+* [scruffy](http://www.rubyinside.com/scruffy-a-beautiful-graphing-toolkit-for-ruby-194.html) - A beautiful graphing toolkit for Ruby.
 * [SciRuby](http://sciruby.com/)
-* [Glean](https://github.com/glean/glean) - A data management tool for humans
+* [Glean](https://github.com/glean/glean) - A data management tool for humans.
 * [Bioruby](https://github.com/bioruby/bioruby)
 * [Arel](https://github.com/nkallen/arel)
 
@@ -1116,92 +1116,92 @@ be
 <a name="r-general-purpose"></a>
 #### General-Purpose Machine Learning
 
-* [ahaz](http://cran.r-project.org/web/packages/ahaz/index.html) - ahaz: Regularization for semiparametric additive hazards regression
+* [ahaz](http://cran.r-project.org/web/packages/ahaz/index.html) - ahaz: Regularization for semiparametric additive hazards regression.
 * [arules](http://cran.r-project.org/web/packages/arules/index.html) - arules: Mining Association Rules and Frequent Itemsets
-* [biglasso](https://cran.r-project.org/web/packages/biglasso/index.html) - biglasso: Extending Lasso Model Fitting to Big Data in R
-* [bigrf](http://cran.r-project.org/web/packages/bigrf/index.html) - bigrf: Big Random Forests: Classification and Regression Forests for Large Data Sets
-* [bigRR](http://cran.r-project.org/web/packages/bigRR/index.html) - bigRR: Generalized Ridge Regression (with special advantage for p >> n cases)
-* [bmrm](http://cran.r-project.org/web/packages/bmrm/index.html) - bmrm: Bundle Methods for Regularized Risk Minimization Package
-* [Boruta](http://cran.r-project.org/web/packages/Boruta/index.html) - Boruta: A wrapper algorithm for all-relevant feature selection
-* [bst](http://cran.r-project.org/web/packages/bst/index.html) - bst: Gradient Boosting
-* [C50](http://cran.r-project.org/web/packages/C50/index.html) - C50: C5.0 Decision Trees and Rule-Based Models
+* [biglasso](https://cran.r-project.org/web/packages/biglasso/index.html) - biglasso: Extending Lasso Model Fitting to Big Data in R.
+* [bigrf](http://cran.r-project.org/web/packages/bigrf/index.html) - bigrf: Big Random Forests: Classification and Regression Forests for Large Data Sets.
+* [bigRR](http://cran.r-project.org/web/packages/bigRR/index.html) - bigRR: Generalized Ridge Regression (with special advantage for p >> n cases).
+* [bmrm](http://cran.r-project.org/web/packages/bmrm/index.html) - bmrm: Bundle Methods for Regularized Risk Minimization Package.
+* [Boruta](http://cran.r-project.org/web/packages/Boruta/index.html) - Boruta: A wrapper algorithm for all-relevant feature selection.
+* [bst](http://cran.r-project.org/web/packages/bst/index.html) - bst: Gradient Boosting.
+* [C50](http://cran.r-project.org/web/packages/C50/index.html) - C50: C5.0 Decision Trees and Rule-Based Models.
 * [caret](http://caret.r-forge.r-project.org/) - Classification and Regression Training: Unified interface to ~150 ML algorithms in R.
 * [caretEnsemble](http://cran.r-project.org/web/packages/caretEnsemble/index.html) - caretEnsemble: Framework for fitting multiple caret models as well as creating ensembles of such models.
 * [Clever Algorithms For Machine Learning](https://github.com/jbrownlee/CleverAlgorithmsMachineLearning)
-* [CORElearn](http://cran.r-project.org/web/packages/CORElearn/index.html) - CORElearn: Classification, regression, feature evaluation and ordinal evaluation
+* [CORElearn](http://cran.r-project.org/web/packages/CORElearn/index.html) - CORElearn: Classification, regression, feature evaluation and ordinal evaluation.
 * [CoxBoost](http://cran.r-project.org/web/packages/CoxBoost/index.html) - CoxBoost: Cox models by likelihood based boosting for a single survival endpoint or competing risks
-* [Cubist](http://cran.r-project.org/web/packages/Cubist/index.html) - Cubist: Rule- and Instance-Based Regression Modeling
+* [Cubist](http://cran.r-project.org/web/packages/Cubist/index.html) - Cubist: Rule- and Instance-Based Regression Modeling.
 * [e1071](http://cran.r-project.org/web/packages/e1071/index.html) - e1071: Misc Functions of the Department of Statistics (e1071), TU Wien
 * [earth](http://cran.r-project.org/web/packages/earth/index.html) - earth: Multivariate Adaptive Regression Spline Models
-* [elasticnet](http://cran.r-project.org/web/packages/elasticnet/index.html) - elasticnet: Elastic-Net for Sparse Estimation and Sparse PCA
-* [ElemStatLearn](http://cran.r-project.org/web/packages/ElemStatLearn/index.html) - ElemStatLearn: Data sets, functions and examples from the book: "The Elements of Statistical Learning, Data Mining, Inference, and Prediction" by Trevor Hastie, Robert Tibshirani and Jerome Friedman Prediction" by Trevor Hastie, Robert Tibshirani and Jerome Friedman
-* [evtree](http://cran.r-project.org/web/packages/evtree/index.html) - evtree: Evolutionary Learning of Globally Optimal Trees
-* [forecast](http://cran.r-project.org/web/packages/forecast/index.html) - forecast: Timeseries forecasting using ARIMA, ETS, STLM, TBATS, and neural network models
-* [forecastHybrid](http://cran.r-project.org/web/packages/forecastHybrid/index.html) - forecastHybrid: Automatic ensemble and cross validation of ARIMA, ETS, STLM, TBATS, and neural network models from the "forecast" package
-* [fpc](http://cran.r-project.org/web/packages/fpc/index.html) - fpc: Flexible procedures for clustering
-* [frbs](http://cran.r-project.org/web/packages/frbs/index.html) - frbs: Fuzzy Rule-based Systems for Classification and Regression Tasks
-* [GAMBoost](http://cran.r-project.org/web/packages/GAMBoost/index.html) - GAMBoost: Generalized linear and additive models by likelihood based boosting
-* [gamboostLSS](http://cran.r-project.org/web/packages/gamboostLSS/index.html) - gamboostLSS: Boosting Methods for GAMLSS
-* [gbm](http://cran.r-project.org/web/packages/gbm/index.html) - gbm: Generalized Boosted Regression Models
-* [glmnet](http://cran.r-project.org/web/packages/glmnet/index.html) - glmnet: Lasso and elastic-net regularized generalized linear models
-* [glmpath](http://cran.r-project.org/web/packages/glmpath/index.html) - glmpath: L1 Regularization Path for Generalized Linear Models and Cox Proportional Hazards Model
-* [GMMBoost](http://cran.r-project.org/web/packages/GMMBoost/index.html) - GMMBoost: Likelihood-based Boosting for Generalized mixed models
-* [grplasso](http://cran.r-project.org/web/packages/grplasso/index.html) - grplasso: Fitting user specified models with Group Lasso penalty
-* [grpreg](http://cran.r-project.org/web/packages/grpreg/index.html) - grpreg: Regularization paths for regression models with grouped covariates
-* [h2o](http://cran.r-project.org/web/packages/h2o/index.html) - A framework for fast, parallel, and distributed machine learning algorithms at scale -- Deeplearning, Random forests, GBM, KMeans, PCA, GLM
-* [hda](http://cran.r-project.org/web/packages/hda/index.html) - hda: Heteroscedastic Discriminant Analysis
+* [elasticnet](http://cran.r-project.org/web/packages/elasticnet/index.html) - elasticnet: Elastic-Net for Sparse Estimation and Sparse PCA.
+* [ElemStatLearn](http://cran.r-project.org/web/packages/ElemStatLearn/index.html) - ElemStatLearn: Data sets, functions and examples from the book: "The Elements of Statistical Learning, Data Mining, Inference, and Prediction" by Trevor Hastie, Robert Tibshirani and Jerome Friedman Prediction" by Trevor Hastie, Robert Tibshirani and Jerome Friedman.
+* [evtree](http://cran.r-project.org/web/packages/evtree/index.html) - evtree: Evolutionary Learning of Globally Optimal Trees.
+* [forecast](http://cran.r-project.org/web/packages/forecast/index.html) - forecast: Timeseries forecasting using ARIMA, ETS, STLM, TBATS, and neural network models.
+* [forecastHybrid](http://cran.r-project.org/web/packages/forecastHybrid/index.html) - forecastHybrid: Automatic ensemble and cross validation of ARIMA, ETS, STLM, TBATS, and neural network models from the "forecast" package.
+* [fpc](http://cran.r-project.org/web/packages/fpc/index.html) - fpc: Flexible procedures for clustering.
+* [frbs](http://cran.r-project.org/web/packages/frbs/index.html) - frbs: Fuzzy Rule-based Systems for Classification and Regression Tasks.
+* [GAMBoost](http://cran.r-project.org/web/packages/GAMBoost/index.html) - GAMBoost: Generalized linear and additive models by likelihood based boosting.
+* [gamboostLSS](http://cran.r-project.org/web/packages/gamboostLSS/index.html) - gamboostLSS: Boosting Methods for GAMLSS.
+* [gbm](http://cran.r-project.org/web/packages/gbm/index.html) - gbm: Generalized Boosted Regression Models.
+* [glmnet](http://cran.r-project.org/web/packages/glmnet/index.html) - glmnet: Lasso and elastic-net regularized generalized linear models.
+* [glmpath](http://cran.r-project.org/web/packages/glmpath/index.html) - glmpath: L1 Regularization Path for Generalized Linear Models and Cox Proportional Hazards Model.
+* [GMMBoost](http://cran.r-project.org/web/packages/GMMBoost/index.html) - GMMBoost: Likelihood-based Boosting for Generalized mixed models.
+* [grplasso](http://cran.r-project.org/web/packages/grplasso/index.html) - grplasso: Fitting user specified models with Group Lasso penalty.
+* [grpreg](http://cran.r-project.org/web/packages/grpreg/index.html) - grpreg: Regularization paths for regression models with grouped covariates.
+* [h2o](http://cran.r-project.org/web/packages/h2o/index.html) - A framework for fast, parallel, and distributed machine learning algorithms at scale -- Deeplearning, Random forests, GBM, KMeans, PCA, GLM.
+* [hda](http://cran.r-project.org/web/packages/hda/index.html) - hda: Heteroscedastic Discriminant Analysis.
 * [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
-* [ipred](http://cran.r-project.org/web/packages/ipred/index.html) - ipred: Improved Predictors
-* [kernlab](http://cran.r-project.org/web/packages/kernlab/index.html) - kernlab: Kernel-based Machine Learning Lab
-* [klaR](http://cran.r-project.org/web/packages/klaR/index.html) - klaR: Classification and visualization
-* [lars](http://cran.r-project.org/web/packages/lars/index.html) - lars: Least Angle Regression, Lasso and Forward Stagewise
-* [lasso2](http://cran.r-project.org/web/packages/lasso2/index.html) - lasso2: L1 constrained estimation aka ‘lasso’
-* [LiblineaR](http://cran.r-project.org/web/packages/LiblineaR/index.html) - LiblineaR: Linear Predictive Models Based On The Liblinear C/C++ Library
-* [LogicReg](http://cran.r-project.org/web/packages/LogicReg/index.html) - LogicReg: Logic Regression
+* [ipred](http://cran.r-project.org/web/packages/ipred/index.html) - ipred: Improved Predictors.
+* [kernlab](http://cran.r-project.org/web/packages/kernlab/index.html) - kernlab: Kernel-based Machine Learning Lab.
+* [klaR](http://cran.r-project.org/web/packages/klaR/index.html) - klaR: Classification and visualization.
+* [lars](http://cran.r-project.org/web/packages/lars/index.html) - lars: Least Angle Regression, Lasso and Forward Stagewise.
+* [lasso2](http://cran.r-project.org/web/packages/lasso2/index.html) - lasso2: L1 constrained estimation aka ‘lasso’.
+* [LiblineaR](http://cran.r-project.org/web/packages/LiblineaR/index.html) - LiblineaR: Linear Predictive Models Based On The Liblinear C/C++ Library.
+* [LogicReg](http://cran.r-project.org/web/packages/LogicReg/index.html) - LogicReg: Logic Regression.
 * [Machine Learning For Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)
-* [maptree](http://cran.r-project.org/web/packages/maptree/index.html) - maptree: Mapping, pruning, and graphing tree models
-* [mboost](http://cran.r-project.org/web/packages/mboost/index.html) - mboost: Model-Based Boosting
-* [medley](https://www.kaggle.com/forums/f/15/kaggle-forum/t/3661/medley-a-new-r-package-for-blending-regression-models?forumMessageId=21278) - medley: Blending regression models, using a greedy stepwise approach
-* [mlr](http://cran.r-project.org/web/packages/mlr/index.html) - mlr: Machine Learning in R
-* [mvpart](http://cran.r-project.org/web/packages/mvpart/index.html) - mvpart: Multivariate partitioning
-* [ncvreg](http://cran.r-project.org/web/packages/ncvreg/index.html) - ncvreg: Regularization paths for SCAD- and MCP-penalized regression models
-* [nnet](http://cran.r-project.org/web/packages/nnet/index.html) - nnet: Feed-forward Neural Networks and Multinomial Log-Linear Models
-* [oblique.tree](http://cran.r-project.org/web/packages/oblique.tree/index.html) - oblique.tree: Oblique Trees for Classification Data
-* [pamr](http://cran.r-project.org/web/packages/pamr/index.html) - pamr: Pam: prediction analysis for microarrays
-* [party](http://cran.r-project.org/web/packages/party/index.html) - party: A Laboratory for Recursive Partytioning
-* [partykit](http://cran.r-project.org/web/packages/partykit/index.html) - partykit: A Toolkit for Recursive Partytioning
-* [penalized](http://cran.r-project.org/web/packages/penalized/index.html) - penalized: L1 (lasso and fused lasso) and L2 (ridge) penalized estimation in GLMs and in the Cox model
-* [penalizedLDA](http://cran.r-project.org/web/packages/penalizedLDA/index.html) - penalizedLDA: Penalized classification using Fisher's linear discriminant
-* [penalizedSVM](http://cran.r-project.org/web/packages/penalizedSVM/index.html) - penalizedSVM: Feature Selection SVM using penalty functions
-* [quantregForest](http://cran.r-project.org/web/packages/quantregForest/index.html) - quantregForest: Quantile Regression Forests
-* [randomForest](http://cran.r-project.org/web/packages/randomForest/index.html) - randomForest: Breiman and Cutler's random forests for classification and regression
-* [randomForestSRC](http://cran.r-project.org/web/packages/randomForestSRC/index.html) - randomForestSRC: Random Forests for Survival, Regression and Classification (RF-SRC)
-* [rattle](http://cran.r-project.org/web/packages/rattle/index.html) - rattle: Graphical user interface for data mining in R
-* [rda](http://cran.r-project.org/web/packages/rda/index.html) - rda: Shrunken Centroids Regularized Discriminant Analysis
-* [rdetools](http://cran.r-project.org/web/packages/rdetools/index.html) - rdetools: Relevant Dimension Estimation (RDE) in Feature Spaces
-* [REEMtree](http://cran.r-project.org/web/packages/REEMtree/index.html) - REEMtree: Regression Trees with Random Effects for Longitudinal (Panel) Data
-* [relaxo](http://cran.r-project.org/web/packages/relaxo/index.html) - relaxo: Relaxed Lasso
+* [maptree](http://cran.r-project.org/web/packages/maptree/index.html) - maptree: Mapping, pruning, and graphing tree models.
+* [mboost](http://cran.r-project.org/web/packages/mboost/index.html) - mboost: Model-Based Boosting.
+* [medley](https://www.kaggle.com/forums/f/15/kaggle-forum/t/3661/medley-a-new-r-package-for-blending-regression-models?forumMessageId=21278) - medley: Blending regression models, using a greedy stepwise approach.
+* [mlr](http://cran.r-project.org/web/packages/mlr/index.html) - mlr: Machine Learning in R.
+* [mvpart](http://cran.r-project.org/web/packages/mvpart/index.html) - mvpart: Multivariate partitioning.
+* [ncvreg](http://cran.r-project.org/web/packages/ncvreg/index.html) - ncvreg: Regularization paths for SCAD- and MCP-penalized regression models.
+* [nnet](http://cran.r-project.org/web/packages/nnet/index.html) - nnet: Feed-forward Neural Networks and Multinomial Log-Linear Models.
+* [oblique.tree](http://cran.r-project.org/web/packages/oblique.tree/index.html) - oblique.tree: Oblique Trees for Classification Data.
+* [pamr](http://cran.r-project.org/web/packages/pamr/index.html) - pamr: Pam: prediction analysis for microarrays.
+* [party](http://cran.r-project.org/web/packages/party/index.html) - party: A Laboratory for Recursive Partytioning.
+* [partykit](http://cran.r-project.org/web/packages/partykit/index.html) - partykit: A Toolkit for Recursive Partytioning.
+* [penalized](http://cran.r-project.org/web/packages/penalized/index.html) - penalized: L1 (lasso and fused lasso) and L2 (ridge) penalized estimation in GLMs and in the Cox model.
+* [penalizedLDA](http://cran.r-project.org/web/packages/penalizedLDA/index.html) - penalizedLDA: Penalized classification using Fisher's linear discriminant.
+* [penalizedSVM](http://cran.r-project.org/web/packages/penalizedSVM/index.html) - penalizedSVM: Feature Selection SVM using penalty functions.
+* [quantregForest](http://cran.r-project.org/web/packages/quantregForest/index.html) - quantregForest: Quantile Regression Forests.
+* [randomForest](http://cran.r-project.org/web/packages/randomForest/index.html) - randomForest: Breiman and Cutler's random forests for classification and regression.
+* [randomForestSRC](http://cran.r-project.org/web/packages/randomForestSRC/index.html) - randomForestSRC: Random Forests for Survival, Regression and Classification (RF-SRC).
+* [rattle](http://cran.r-project.org/web/packages/rattle/index.html) - rattle: Graphical user interface for data mining in R.
+* [rda](http://cran.r-project.org/web/packages/rda/index.html) - rda: Shrunken Centroids Regularized Discriminant Analysis.
+* [rdetools](http://cran.r-project.org/web/packages/rdetools/index.html) - rdetools: Relevant Dimension Estimation (RDE) in Feature Spaces.
+* [REEMtree](http://cran.r-project.org/web/packages/REEMtree/index.html) - REEMtree: Regression Trees with Random Effects for Longitudinal (Panel) Data.
+* [relaxo](http://cran.r-project.org/web/packages/relaxo/index.html) - relaxo: Relaxed Lasso.
 * [rgenoud](http://cran.r-project.org/web/packages/rgenoud/index.html) - rgenoud: R version of GENetic Optimization Using Derivatives
-* [rgp](http://cran.r-project.org/web/packages/rgp/index.html) - rgp: R genetic programming framework
-* [Rmalschains](http://cran.r-project.org/web/packages/Rmalschains/index.html) - Rmalschains: Continuous Optimization using Memetic Algorithms with Local Search Chains (MA-LS-Chains) in R
-* [rminer](http://cran.r-project.org/web/packages/rminer/index.html) - rminer: Simpler use of data mining methods (e.g. NN and SVM) in classification and regression
-* [ROCR](http://cran.r-project.org/web/packages/ROCR/index.html) - ROCR: Visualizing the performance of scoring classifiers
-* [RoughSets](http://cran.r-project.org/web/packages/RoughSets/index.html) - RoughSets: Data Analysis Using Rough Set and Fuzzy Rough Set Theories
-* [rpart](http://cran.r-project.org/web/packages/rpart/index.html) - rpart: Recursive Partitioning and Regression Trees
-* [RPMM](http://cran.r-project.org/web/packages/RPMM/index.html) - RPMM: Recursively Partitioned Mixture Model
-* [RSNNS](http://cran.r-project.org/web/packages/RSNNS/index.html) - RSNNS: Neural Networks in R using the Stuttgart Neural Network Simulator (SNNS)
-* [RWeka](http://cran.r-project.org/web/packages/RWeka/index.html) - RWeka: R/Weka interface
-* [RXshrink](http://cran.r-project.org/web/packages/RXshrink/index.html) - RXshrink: Maximum Likelihood Shrinkage via Generalized Ridge or Least Angle Regression
-* [sda](http://cran.r-project.org/web/packages/sda/index.html) - sda: Shrinkage Discriminant Analysis and CAT Score Variable Selection
-* [SDDA](http://cran.r-project.org/web/packages/SDDA/index.html) - SDDA: Stepwise Diagonal Discriminant Analysis
+* [rgp](http://cran.r-project.org/web/packages/rgp/index.html) - rgp: R genetic programming framework.
+* [Rmalschains](http://cran.r-project.org/web/packages/Rmalschains/index.html) - Rmalschains: Continuous Optimization using Memetic Algorithms with Local Search Chains (MA-LS-Chains) in R.
+* [rminer](http://cran.r-project.org/web/packages/rminer/index.html) - rminer: Simpler use of data mining methods (e.g. NN and SVM) in classification and regression.
+* [ROCR](http://cran.r-project.org/web/packages/ROCR/index.html) - ROCR: Visualizing the performance of scoring classifiers.
+* [RoughSets](http://cran.r-project.org/web/packages/RoughSets/index.html) - RoughSets: Data Analysis Using Rough Set and Fuzzy Rough Set Theories.
+* [rpart](http://cran.r-project.org/web/packages/rpart/index.html) - rpart: Recursive Partitioning and Regression Trees.
+* [RPMM](http://cran.r-project.org/web/packages/RPMM/index.html) - RPMM: Recursively Partitioned Mixture Model.
+* [RSNNS](http://cran.r-project.org/web/packages/RSNNS/index.html) - RSNNS: Neural Networks in R using the Stuttgart Neural Network Simulator (SNNS).
+* [RWeka](http://cran.r-project.org/web/packages/RWeka/index.html) - RWeka: R/Weka interface.
+* [RXshrink](http://cran.r-project.org/web/packages/RXshrink/index.html) - RXshrink: Maximum Likelihood Shrinkage via Generalized Ridge or Least Angle Regression.
+* [sda](http://cran.r-project.org/web/packages/sda/index.html) - sda: Shrinkage Discriminant Analysis and CAT Score Variable Selection.
+* [SDDA](http://cran.r-project.org/web/packages/SDDA/index.html) - SDDA: Stepwise Diagonal Discriminant Analysis.
 * [SuperLearner](https://github.com/ecpolley/SuperLearner) and [subsemble](http://cran.r-project.org/web/packages/subsemble/index.html) - Multi-algorithm ensemble learning packages.
-* [svmpath](http://cran.r-project.org/web/packages/svmpath/index.html) - svmpath: svmpath: the SVM Path algorithm
-* [tgp](http://cran.r-project.org/web/packages/tgp/index.html) - tgp: Bayesian treed Gaussian process models
-* [tree](http://cran.r-project.org/web/packages/tree/index.html) - tree: Classification and regression trees
-* [varSelRF](http://cran.r-project.org/web/packages/varSelRF/index.html) - varSelRF: Variable selection using random forests
-* [XGBoost.R](https://github.com/tqchen/xgboost/tree/master/R-package) - R binding for eXtreme Gradient Boosting (Tree) Library
+* [svmpath](http://cran.r-project.org/web/packages/svmpath/index.html) - svmpath: svmpath: the SVM Path algorithm.
+* [tgp](http://cran.r-project.org/web/packages/tgp/index.html) - tgp: Bayesian treed Gaussian process models.
+* [tree](http://cran.r-project.org/web/packages/tree/index.html) - tree: Classification and regression trees.
+* [varSelRF](http://cran.r-project.org/web/packages/varSelRF/index.html) - varSelRF: Variable selection using random forests.
+* [XGBoost.R](https://github.com/tqchen/xgboost/tree/master/R-package) - R binding for eXtreme Gradient Boosting (Tree) Library.
 * [Optunity](http://optunity.readthedocs.io/en/latest/) - A library dedicated to automated hyperparameter optimization with a simple, lightweight API to facilitate drop-in replacement of grid search. Optunity is written in Python but interfaces seamlessly to R.
-* [igraph](http://igraph.org/r/) - binding to igraph library - General purpose graph library
+* [igraph](http://igraph.org/r/) - binding to igraph library - General purpose graph library.
 * [MXNet](https://github.com/dmlc/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
 * [TDSP-Utilities](https://github.com/Azure/Azure-TDSP-Utilities) - Two data science utilities in R from Microsoft: 1) Interactive Data Exploration, Analysis, and Reporting (IDEAR) ; 2) Automated Modeling and Reporting (AMR).
 
@@ -1265,10 +1265,10 @@ be
 
 * [MLlib in Apache Spark](http://spark.apache.org/docs/latest/mllib-guide.html) - Distributed machine learning library in Spark
 * [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) - a service for deployment Apache Spark MLLib machine learning models as realtime, batch or reactive web services.
-* [Scalding](https://github.com/twitter/scalding) - A Scala API for Cascading
-* [Summing Bird](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm
-* [Algebird](https://github.com/twitter/algebird) - Abstract Algebra for Scala
-* [xerial](https://github.com/xerial/xerial) - Data management utilities for Scala
+* [Scalding](https://github.com/twitter/scalding) - A Scala API for Cascading.
+* [Summing Bird](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm.
+* [Algebird](https://github.com/twitter/algebird) - Abstract Algebra for Scala.
+* [xerial](https://github.com/xerial/xerial) - Data management utilities for Scala.
 * [PredictionIO](https://github.com/apache/incubator-predictionio) - PredictionIO, a machine learning server for software developers and data engineers.
 * [BIDMat](https://github.com/BIDData/BIDMat) - CPU and GPU-accelerated matrix library intended to support large-scale exploratory data analysis.
 * [Flink](http://flink.apache.org/) - Open source platform for distributed stream and batch data processing.
@@ -1278,19 +1278,19 @@ be
 #### General-Purpose Machine Learning
 
 * [DeepLearning.scala](http://deeplearning.thoughtworks.school/) - Creating statically typed dynamic neural networks from object-oriented & functional programming constructs.
-* [Conjecture](https://github.com/etsy/Conjecture) - Scalable Machine Learning in Scalding
-* [brushfire](https://github.com/stripe/brushfire) - Distributed decision tree ensemble learning in Scala
-* [ganitha](https://github.com/tresata/ganitha) - scalding powered machine learning
+* [Conjecture](https://github.com/etsy/Conjecture) - Scalable Machine Learning in Scalding.
+* [brushfire](https://github.com/stripe/brushfire) - Distributed decision tree ensemble learning in Scala.
+* [ganitha](https://github.com/tresata/ganitha) - Scalding powered machine learning.
 * [adam](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
 * [bioscala](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
 * [BIDMach](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
 * [Figaro](https://github.com/p2t2/figaro) - a Scala library for constructing probabilistic models.
 * [H2O Sparkling Water](https://github.com/h2oai/sparkling-water) - H2O and Spark interoperability.
-* [FlinkML in Apache Flink](https://ci.apache.org/projects/flink/flink-docs-master/apis/batch/libs/ml/index.html) - Distributed machine learning library in Flink
-* [DynaML](https://github.com/transcendent-ai-labs/DynaML) - Scala Library/REPL for Machine Learning Research
+* [FlinkML in Apache Flink](https://ci.apache.org/projects/flink/flink-docs-master/apis/batch/libs/ml/index.html) - Distributed machine learning library in Flink.
+* [DynaML](https://github.com/transcendent-ai-labs/DynaML) - Scala Library/REPL for Machine Learning Research.
 * [Saul](https://github.com/IllinoisCogComp/saul/) - Flexible Declarative Learning-Based Programming.
 * [SwiftLearner](https://github.com/valdanylchuk/swiftlearner/) - Simply written algorithms to help study ML or write your own implementations.
-* [Smile](http://haifengl.github.io/smile/) - Statistical Machine Intelligence and Learning Engine
+* [Smile](http://haifengl.github.io/smile/) - Statistical Machine Intelligence and Learning Engine.
 
 <a name="swift"></a>
 ## Swift
@@ -1300,16 +1300,16 @@ be
 
 * [Bender](https://github.com/xmartlabs/Bender) - Fast Neural Networks framework built on top of Metal. Supports TensorFlow models.
 * [Swift AI](https://github.com/collinhundley/Swift-AI) - Highly optimized artificial intelligence and machine learning library written in Swift.
-* [BrainCore](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework
+* [BrainCore](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework.
 * [swix](https://github.com/stsievert/swix) - A bare bones library that
   includes a general matrix language and wraps some OpenCV for iOS development.
 * [DeepLearningKit](http://deeplearningkit.org/) an Open Source Deep Learning Framework for Apple’s iOS, OS X and tvOS.
   It currently allows using deep convolutional neural network models trained in Caffe on Apple operating systems.
 * [AIToolbox](https://github.com/KevinCoble/AIToolbox) - A toolbox framework of AI modules written in Swift:  Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians.
 * [MLKit](https://github.com/Somnibyte/MLKit) - A simple Machine Learning Framework written in Swift. Currently features Simple Linear Regression, Polynomial Regression, and Ridge Regression.
-* [Swift Brain](https://github.com/vlall/Swift-Brain) - The first neural network / machine learning library written in Swift. This is a project for AI algorithms in Swift for iOS and OS X development. This project includes algorithms focused on Bayes theorem, neural networks, SVMs, Matrices, etc..
+* [Swift Brain](https://github.com/vlall/Swift-Brain) - The first neural network / machine learning library written in Swift. This is a project for AI algorithms in Swift for iOS and OS X development. This project includes algorithms focused on Bayes theorem, neural networks, SVMs, Matrices, etc...
 * [Perfect TensorFlow](https://github.com/PerfectlySoft/Perfect-TensorFlow) - Swift Language Bindings of TensorFlow. Using native TensorFlow models on both macOS / Linux.
-* [Awesome CoreML](https://github.com/NilStack/awesome-CoreML-models) - A curated list of pretrained CoreML models
+* [Awesome CoreML](https://github.com/NilStack/awesome-CoreML-models) - A curated list of pretrained CoreML models.
 * [Awesome Core ML Models](https://github.com/likedan/Awesome-CoreML-Models) - A curated list of machine learning models in CoreML format.
 
 <a name="tensor"></a>
@@ -1317,7 +1317,7 @@ be
 
 <a name="tensor-general-purpose"></a>
 #### General-Purpose Machine Learning
-* [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) - A list of all things related to TensorFlow
+* [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) - A list of all things related to TensorFlow.
 
 <a name="credits"></a>
 ## Credits
