@@ -14,3 +14,6 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Probabilistic Graphical Models (by Prof. Daphne Koller, Stanford)](https://www.coursera.org/specializations/probabilistic-graphical-models) Coursera Specialization or [this Youtube playlist](https://www.youtube.com/watch?v=WPSQfOkb1M8&list=PL50E6E80E8525B59C) if you can't afford the enrollment fee.
 * [Reinforcement Learning Course (by David Silver, DeepMind)](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-) - YouTube playlist and [lecture slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html).
 * [Keras in Motion](https://www.manning.com/livevideo/keras-in-motion) $
+* [Machine Learning](https://www.udacity.com/course/machine-learning--ud262) - free
+* [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600) - free
+* [Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501) - free
