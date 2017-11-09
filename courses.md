@@ -16,3 +16,6 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Keras in Motion](https://www.manning.com/livevideo/keras-in-motion) $
 * [Stanford's CS231n: CNNs for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&index=1&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) - Spring 2017 iteration, instructors (Fei-Fei Li, Justin Johnson, Serena Yeung) , or [Winter 2016 edition](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) instructors (Fei-Fei Li, Andrej Karpathy, Justin Johnson). [Course website](http://cs231n.github.io/) has supporting material.
 * [University of California, Berkeley's CS294: Deep Reinforcement Learning](https://www.youtube.com/watch?v=8jQIKgTzQd4&list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX) - Fall 2017 edition. [Course website](http://rll.berkeley.edu/deeprlcourse/) has lecture slides and other related material.
+* [Machine Learning](https://www.udacity.com/course/machine-learning--ud262) - free
+* [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600) - free
+* [Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501) - free
