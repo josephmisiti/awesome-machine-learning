@@ -79,7 +79,7 @@ http://www.sumsar.net/
 
 https://www.countbayesie.com
 
-http://karpathy.github.io/
+http://karpathy.github.io/  https://medium.com/@karpathy
 
 http://blog.kaggle.com/
 
@@ -97,6 +97,8 @@ http://www.datasciencecentral.com
 
 https://mubaris.com
 
+https://distill.pub
+
 Math
 ----
 
@@ -110,6 +112,9 @@ https://petewarden.com/
 
 http://mrtz.org/blog/
 
+https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos
+
+https://www.youtube.com/channel/UCr22xikWUK2yUW4YxOKXclQ/videos
 
 Security Related
 ----------------
