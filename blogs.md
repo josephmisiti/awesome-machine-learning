@@ -27,6 +27,8 @@ Podcasts
 Data Science / Statistics
 -------------------------
 
+https://ahmedbesbes.com/
+
 https://jeremykun.com/
 
 http://iamtrask.github.io/
