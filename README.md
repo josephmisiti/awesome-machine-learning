@@ -931,6 +931,7 @@ be
 * [Edward](http://edwardlib.org/) - A library for probabilistic modeling, inference, and criticism. Built on top of TensorFlow.
 * [xRBM](https://github.com/omimo/xRBM) - A library for Restricted Boltzmann Machine (RBM) and its conditional variants in Tensorflow.
 * [CatBoost](https://github.com/catboost/catboost) - Gradient boosting on decision trees library with categorical features support out of the box for Python, R.
+* [stacked_generalization](https://github.com/fukatani/stacked_generalization) - Implementation of machine learning stacking technic as handy library in Python.
 
 <a name="python-data-analysis"></a>
 #### Data Analysis / Data Visualization
