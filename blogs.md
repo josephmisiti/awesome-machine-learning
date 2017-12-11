@@ -8,13 +8,13 @@ Podcasts
 
 [The O'Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast)
 
-[Partially Derivative](http://www.partiallyderivative.com/)
+[Partially Derivative](http://partiallyderivative.com/)
 
 [The Talking Machines](http://www.thetalkingmachines.com/)
 
-[The Data Skeptic](http://dataskeptic.com/)
+[The Data Skeptic](https://dataskeptic.com/)
 
-[Linear Digressions](https://www.udacity.com/podcasts/linear-digressions)
+[Linear Digressions](http://benjaffe.github.io/linear-digressions-site/)
 
 [Data Stories](http://datastori.es/)
 
@@ -22,8 +22,12 @@ Podcasts
 
 [Not So Standard Deviations](http://simplystatistics.org/2015/09/17/not-so-standard-deviations-the-podcast/)
 
+[TWIMLAI](https://twimlai.com/shows/)
+
 Data Science / Statistics
 -------------------------
+
+https://ahmedbesbes.com/
 
 https://jeremykun.com/
 
@@ -39,9 +43,9 @@ http://www.evanmiller.org/
 
 http://jakevdp.github.io/
 
-http://blog.yhathq.com/
+http://blog.yhat.com/
 
-http://blog.wesmckinney.com/
+http://wesmckinney.com
 
 http://www.overkillanalytics.net/
 
@@ -49,19 +53,17 @@ http://newton.cx/~peter/
 
 http://mbakker7.github.io/exploratory_computing_with_python/
 
-http://sebastianraschka.com/articles.html
+https://sebastianraschka.com/blog/index.html
 
 http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 
 http://colah.github.io/
 
-http://snippyhollow.github.io/
-
 http://www.thomasdimson.com/
 
 http://blog.smellthedata.com/
 
-http://sebastianraschka.com/
+https://sebastianraschka.com/
 
 http://dogdogfish.com/
 
@@ -73,15 +75,13 @@ http://bugra.github.io/
 
 http://opendata.cern.ch/
 
-http://alexanderetz.com/
+https://alexanderetz.com/
 
 http://www.sumsar.net/
 
-http://countbayesie.com
+https://www.countbayesie.com
 
-http://karpathy.github.io/
-
-http://blog.dato.com/
+http://karpathy.github.io/  https://medium.com/@karpathy
 
 http://blog.kaggle.com/
 
@@ -91,9 +91,15 @@ http://hunch.net/
 
 http://www.randalolson.com/blog/
 
-http://www.johndcook.com/blog/r_language_for_programmers/
+https://www.johndcook.com/blog/r_language_for_programmers/
 
 http://www.dataschool.io/
+
+http://www.datasciencecentral.com
+
+https://mubaris.com
+
+https://distill.pub
 
 Math
 ----
@@ -102,14 +108,17 @@ http://www.sumsar.net/
 
 http://allendowney.blogspot.ca/
 
-http://healthyalgorithms.com/
+https://healthyalgorithms.com/
 
-http://petewarden.com/
+https://petewarden.com/
 
 http://mrtz.org/blog/
 
+https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos
+
+https://www.youtube.com/channel/UCr22xikWUK2yUW4YxOKXclQ/videos
 
 Security Related
 ----------------
 
-http://jordan-wright.github.io/blog/
+http://jordan-wright.com/blog/
