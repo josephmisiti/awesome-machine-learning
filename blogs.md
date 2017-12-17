@@ -24,6 +24,8 @@ Podcasts
 
 [TWIMLAI](https://twimlai.com/shows/)
 
+[Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
+
 Data Science / Statistics
 -------------------------
 
