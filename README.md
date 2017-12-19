@@ -308,6 +308,7 @@ Further resources:
 * [snowball](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
 * [go-ngram](https://github.com/Lazin/go-ngram) - In-memory n-gram index with compression.
 * [word-embedding](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
+* [sentences](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
 
 <a name="go-general-purpose"></a>
 #### General-Purpose Machine Learning
