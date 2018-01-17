@@ -935,6 +935,7 @@ be
 * [xRBM](https://github.com/omimo/xRBM) - A library for Restricted Boltzmann Machine (RBM) and its conditional variants in Tensorflow.
 * [CatBoost](https://github.com/catboost/catboost) - Gradient boosting on decision trees library with categorical features support out of the box for Python, R.
 * [stacked_generalization](https://github.com/fukatani/stacked_generalization) - Implementation of machine learning stacking technic as handy library in Python.
+* [modAL](https://cosmic-cortex.github.io/modAL) - A modular active learning framework for Python, built on top of scikit-learn.
 
 <a name="python-data-analysis"></a>
 #### Data Analysis / Data Visualization
