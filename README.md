@@ -51,6 +51,8 @@ Further resources:
     - [Natural Language Processing](#go-nlp)
     - [General-Purpose Machine Learning](#go-general-purpose)
     - [Data Analysis / Data Visualization](#go-data-analysis)
+    - [Facial Detection and Recognition](#go-facial-recognition)
+    - [Image Classification](#go-image-classification)
 - [Haskell](#haskell)
     - [General-Purpose Machine Learning](#haskell-general-purpose)
 - [Java](#java)
@@ -306,6 +308,7 @@ Further resources:
 * [go-porterstemmer](https://github.com/reiver/go-porterstemmer) - A native Go clean room implementation of the Porter Stemming algorithm.
 * [paicehusk](https://github.com/Rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm.
 * [snowball](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
+* [Textbox](https://godoc.org/github.com/machinebox/sdk-go/textbox) - Natural langauge processing SDK from Machine Box
 * [go-ngram](https://github.com/Lazin/go-ngram) - In-memory n-gram index with compression.
 * [word-embedding](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
 * [sentences](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
@@ -333,6 +336,17 @@ Further resources:
 * [SVGo](http://www.svgopen.org/2011/papers/34-SVGo_a_Go_Library_for_SVG_generation/) - The Go Language library for SVG generation.
 * [RF](https://github.com/fxsjy/RF.go) - Random forests implementation in Go.
 * [Glot](https://github.com/arafatk/glot) - Glot is a plotting library for Golang built on top of gnuplot. 
+
+<a name="go-facial-recognition"></a>
+#### Facial Detection and Recognition
+
+* [Facebox](https://godoc.org/github.com/machinebox/sdk-go/facebox) - Facial detection and recognition SDK with one-shot teaching from Machine Box
+
+<a name="go-image-classification"></a>
+#### Image Classification
+
+* [Tagbox](https://godoc.org/github.com/machinebox/sdk-go/tagbox) - Image classification SDK with one-shot teaching from Machine Box
+* [Nudebox](https://godoc.org/github.com/machinebox/sdk-go/nudebox) - Nudity detection from Machine Box
 
 <a name="haskell"></a>
 ## Haskell
