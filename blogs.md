@@ -103,6 +103,10 @@ https://mubaris.com
 
 https://distill.pub
 
+http://blog.shakirm.com/
+
+http://www.cs.ox.ac.uk/people/yarin.gal/website/blog.html
+
 Math
 ----
 

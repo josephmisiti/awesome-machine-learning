@@ -19,3 +19,4 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Machine Learning](https://www.udacity.com/course/machine-learning--ud262) - free
 * [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600) - free
 * [Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501) - free
+* [Mining of Massive Datasets](https://www.youtube.com/watch?v=xoA5v9AO7S0&list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV) (YouTube playlist)- Course [website](http://mmds.org/) has info about accompanying book, free chapters, and Stanford's [MOOC](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about)
