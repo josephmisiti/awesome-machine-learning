@@ -833,6 +833,7 @@ be
 * [PCV](https://github.com/jesolem/PCV) - Open source Python module for computer vision.
 * [face_recognition](https://github.com/ageitgey/face_recognition) - Face recognition library that recognize and manipulate faces from Python or from the command line.
 * [dockerface](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container.
+* [Detectron](https://github.com/facebookresearch/Detectron) - FAIR's software system that implements state-of-the-art object detection algorithms, including Mask R-CNN. It is written in Python and powered by the Caffe2 deep learning framework.
 
 <a name="python-nlp"></a>
 #### Natural Language Processing
