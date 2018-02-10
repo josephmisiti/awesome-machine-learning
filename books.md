@@ -70,7 +70,7 @@ The following is a list of free, open source books on machine learning, statisti
 * [Introduction to probability](https://math.dartmouth.edu/~prob/prob/prob.pdf) - By Dartmouth College
 * [Principle of Uncertainty](http://uncertainty.stat.cmu.edu/wp-content/uploads/2011/05/principles-of-uncertainty.pdf)
 * [Probability & Statistics Cookbook](http://statistics.zone/)
-* [Advanced Data Analysis From An Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
+* [Advanced Data Analysis From An Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf) - Book
 * [Introduction to Probability](http://athenasc.com/probbook.html) -  Book and course by MIT
 * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction.](http://statweb.stanford.edu/~tibs/ElemStatLearn/) - Book
 * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) - Book
