@@ -22,3 +22,4 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Mining of Massive Datasets](https://www.youtube.com/watch?v=xoA5v9AO7S0&list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV) (YouTube playlist)- Course [website](http://mmds.org/) has info about accompanying book, free chapters, and Stanford's [MOOC](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about)
 * [Machine Learning Crash Course (Google)](https://developers.google.com/machine-learning/crash-course/) - free
 * [Machine Learning Mini Bootcamp Course (LambdaSchool)](https://lambdaschool.com/free-course-machine-learning/) - free and $
+* [Microsoft Professional Program for Artificial Intelligence](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/) - free 
