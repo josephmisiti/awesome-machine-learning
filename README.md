@@ -475,6 +475,7 @@ Further resources:
 * [Learn JS Data](http://learnjsdata.com/)
 * [AnyChart](http://www.anychart.com/)
 * [FusionCharts](http://www.fusioncharts.com/)
+* [Nivo](http://nivo.rocks) - built on top of the awesome d3 and Reactjs libraries
 
 
 <a name="javascript-general-purpose"></a>
