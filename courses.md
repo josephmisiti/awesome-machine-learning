@@ -23,3 +23,4 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Machine Learning Crash Course (Google)](https://developers.google.com/machine-learning/crash-course/) - free
 * [Machine Learning Mini Bootcamp Course (LambdaSchool)](https://lambdaschool.com/free-course-machine-learning/) - free and $
 * [Microsoft Professional Program for Artificial Intelligence](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/) - free 
+* [Open Machine Learning Course](https://github.com/Yorko/mlcourse_open) with [articles](https://medium.com/open-machine-learning-course) on Medium 
