@@ -65,6 +65,7 @@ Further resources:
     - [Data Analysis / Data Visualization](#javascript-data-analysis)
     - [General-Purpose Machine Learning](#javascript-general-purpose)
     - [Misc](#javascript-misc)
+    - [Demos and Scripts](#javascript-demos)
 - [Julia](#julia)
     - [General-Purpose Machine Learning](#julia-general-purpose)
     - [Natural Language Processing](#julia-nlp)
@@ -524,6 +525,11 @@ Further resources:
 * [Lyric](https://github.com/flurry/Lyric) - Linear Regression library.
 * [GreatCircle](https://github.com/mwgg/GreatCircle) - Library for calculating great circle distance.
 * [MLPleaseHelp](https://github.com/jgreenemi/MLPleaseHelp) - MLPleaseHelp is a simple ML resource search engine. You can use this search engine right now at [https://jgreenemi.github.io/MLPleaseHelp/](https://jgreenemi.github.io/MLPleaseHelp/), provided via Github Pages.
+
+<a name="javascript-demos"></a>
+#### Demos and Scripts
+* [The Bot](https://github.com/sta-ger/TheBot) - Example of how the neural network learns to predict the angle between two points created with [Synaptic](https://github.com/cazala/synaptic).
+* [Half Beer](https://github.com/sta-ger/HalfBeer) - Beer glass classifier created with [Synaptic](https://github.com/cazala/synaptic).
 
 <a name="julia"></a>
 ## Julia
