@@ -2,6 +2,7 @@ Blogs/Podcasts
 ===============
 
 [Hacker News for Data Science](http://www.datatau.com/news)
+[LightTag's Labeled Data Blog](https://lighttag.io/blog)
 
 Podcasts
 --------
