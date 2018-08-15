@@ -497,6 +497,7 @@ Further resources:
 * [Kmeans.js](https://github.com/emilbayes/kMeans.js) - Simple Javascript implementation of the k-means algorithm, for node.js and the browser.
 * [LDA.js](https://github.com/primaryobjects/lda) - LDA topic modeling for Node.js
 * [Learning.js](https://github.com/yandongliu/learningjs) - Javascript implementation of logistic regression/c4.5 decision tree
+* [Kalimdor.js](https://github.com/jasonshin/kalimdorjs) - Machine Learning library for the web, Node.js and developers
 * [Machine Learning](http://joonku.com/project/machine_learning) - Machine learning library for Node.js
 * [machineJS](https://github.com/ClimbsRocks/machineJS) - Automated machine learning, data formatting, ensembling, and hyperparameter optimization for competitions and exploration- just give it a .csv file!
 * [mil-tokyo](https://github.com/mil-tokyo) - List of several machine learning libraries.
