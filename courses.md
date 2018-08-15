@@ -27,3 +27,4 @@ fast.ai - deep learning MOOC (http://www.fast.ai/)
 * [Machine Learning Mini Bootcamp Course (LambdaSchool)](https://lambdaschool.com/free-course-machine-learning/) - free and $
 * [Microsoft Professional Program for Artificial Intelligence](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/) - free 
 * [Open Machine Learning Course](https://github.com/Yorko/mlcourse_open) with [articles](https://medium.com/open-machine-learning-course) on Medium 
+* [Machine Learning A-Z (Udemy)](https://www.udemy.com/machinelearning/) - Hands-On Python & R In Data Science
