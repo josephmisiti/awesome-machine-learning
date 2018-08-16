@@ -322,7 +322,7 @@ Further resources:
 <a name="go-general-purpose"></a>
 #### General-Purpose Machine Learning
 
-* [gago](https://github.com/MaxHalford/gago) - Multi-population, flexible, parallel genetic algorithm.
+* [eaopt](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
 * [Go Learn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go.
 * [go-pr](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang.
 * [go-ml](https://github.com/alonsovidales/go_ml) - Linear / Logistic regression, Neural Networks, Collaborative Filtering and Gaussian Multivariate Distribution.
