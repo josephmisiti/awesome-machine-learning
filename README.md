@@ -893,6 +893,7 @@ be
 * [Polyglot](https://github.com/aboSamoor/polyglot) - Multilingual text (NLP) processing toolkit.
 * [DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to answer open-domain questions.
 * [Dedupe](https://github.com/dedupeio/dedupe) - A python library for accurate and scaleable fuzzy matching, record deduplication and entity-resolution.
+* [Snips NLU](https://github.com/snipsco/snips-nlu) - Natural Language Understanding library for intent classification and entity extraction
 
 <a name="python-general-purpose"></a>
 #### General-Purpose Machine Learning
