@@ -30,6 +30,8 @@ Podcasts
 Data Science / Statistics
 -------------------------
 
+https://blog.dominodatalab.com
+
 https://ahmedbesbes.com/
 
 https://jeremykun.com/
@@ -45,8 +47,6 @@ http://simplystatistics.org/
 http://www.evanmiller.org/
 
 http://jakevdp.github.io/
-
-http://blog.yhat.com/
 
 http://wesmckinney.com
 
