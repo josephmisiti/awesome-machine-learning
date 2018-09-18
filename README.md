@@ -454,6 +454,8 @@ Further resources:
 * [Knwl.js](https://github.com/loadfive/Knwl.js) - A Natural Language Processor in JS.
 * [Retext](https://github.com/wooorm/retext) - Extensible system for analyzing and manipulating natural language.
 * [NLP Compromise](https://github.com/nlp-compromise/compromise) - Natural Language processing in the browser.
+* [nlp.js](https://github.com/axa-group/nlp.js) - An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more
+
 
 
 <a name="javascript-data-analysis"></a>
