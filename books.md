@@ -34,6 +34,7 @@ The following is a list of free, open source books on machine learning, statisti
 * [Data Mining - Practical Machine Learning Tools and Techniques](http://cs.du.edu/~mitchell/mario_books/Data_Mining:_Practical_Machine_Learning_Tools_and_Techniques_-_2e_-_Witten_&_Frank.pdf) Book
 * [Machine Learning with TensorFlow](https://www.manning.com/books/machine-learning-with-tensorflow) Early access book
 * [Reactive Machine Learning Systems](https://www.manning.com/books/reactive-machine-learning-systems) Early access book
+* [Hands‑On Machine Learning with Scikit‑Learn and TensorFlow](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf) - Aurélien Géron
 
 ## Deep-Learning
 
@@ -80,9 +81,12 @@ The following is a list of free, open source books on machine learning, statisti
 * [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - Book
 * [R practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) - Book
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Book
+* [Probability Theory: The Logic of Science](https://bayes.wustl.edu/etj/prob/book.pdf) - By Jaynes
 
 ## Linear Algebra
 
+* [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+* [Linear Algebra by Shilov](https://cosmathclub.files.wordpress.com/2014/10/georgi-shilov-linear-algebra4.pdf)
 * [Linear Algebra Done Wrong](http://www.math.brown.edu/~treil/papers/LADW/LADW.html)
 * [Linear Algebra, Theory, and Applications](https://math.byu.edu/~klkuttle/Linearalgebra.pdf)
 * [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
