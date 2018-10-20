@@ -1287,6 +1287,9 @@ be
 #### Data Analysis / Data Visualization
 
 * [ggplot2](http://ggplot2.org/) - A data visualization package based on the grammar of graphics.
+* [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html) for visualizing geospatial data with static maps and [leaflet](https://rstudio.github.io/leaflet/) for interactive maps
+* [tm](https://www.rdocumentation.org/packages/tm/) and [quanteda](https://quanteda.io/) are the main packages for managing,  analyzing, and visualizing textual data.
+* [shiny](https://shiny.rstudio.com/) is the basis for truly interactive  displays and dashboards in R. However, some measure of interactivity can be achieved with [htmlwidgets](https://www.htmlwidgets.org/) bringing javascript libraries to R. These include, [plotly](https://plot.ly/r/), [dygraphs](http://rstudio.github.io/dygraphs),  [highcharter](http://jkunst.com/highcharter/), and several others.
 
 <a name="sas"></a>
 ## SAS
