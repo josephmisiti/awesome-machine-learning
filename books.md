@@ -35,6 +35,9 @@ The following is a list of free, open source books on machine learning, statisti
 * [Machine Learning with TensorFlow](https://www.manning.com/books/machine-learning-with-tensorflow) Early access book
 * [Reactive Machine Learning Systems](https://www.manning.com/books/reactive-machine-learning-systems) Early access book
 * [Hands‑On Machine Learning with Scikit‑Learn and TensorFlow](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf) - Aurélien Géron
+* [R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](http://r4ds.had.co.nz/) - Wickham and Grolemund. Great as introduction on how to use R. 
+* [Advanced R](http://adv-r.had.co.nz/) - Hadley Wickham. More advanced usage of R for programming.
+
 
 ## Deep-Learning
 
