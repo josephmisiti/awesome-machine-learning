@@ -113,7 +113,7 @@ Math
 
 http://www.sumsar.net/
 
-http://allendowney.blogspot.ca/
+https://www.allendowney.com/blog/
 
 https://healthyalgorithms.com/
 
