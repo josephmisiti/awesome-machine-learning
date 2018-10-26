@@ -424,7 +424,7 @@ Further resources:
 * [WalnutiQ](https://github.com/WalnutiQ/wAlnut) - object oriented model of the human brain.
 * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) - Weka is a collection of machine learning algorithms for data mining tasks.
 * [LBJava](https://github.com/IllinoisCogComp/lbjava/) - Learning Based Java is a modeling language for the rapid development of software systems, offers a convenient, declarative syntax for classifier and constraint definition directly in terms of the objects in the programmer's application.
-* [WebDNN](https://github.com/mil-tokyo/webdnn) - Fast Deep Neural Network Javascript Framework. WebDNN uses next generation JavaScript API, WebGPU for GPU execution, and WebAssembly for CPU execution.  
+
 
 <a name="java-speech-recognition"></a>
 #### Speech Recognition
@@ -524,6 +524,7 @@ Further resources:
 * [JSMLT](https://github.com/jsmlt/jsmlt) - Machine learning toolkit with classification and clustering for Node.js; supports visualization (see [visualml.io](https://visualml.io)).
 * [xgboost-node](https://github.com/nuanio/xgboost-node) - Run XGBoost model and make predictions in Node.js.
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for machine learning models.
+* [WebDNN](https://github.com/mil-tokyo/webdnn) - Fast Deep Neural Network Javascript Framework. WebDNN uses next generation JavaScript API, WebGPU for GPU execution, and WebAssembly for CPU execution.  
 
 <a name="javascript-misc"></a>
 #### Misc
