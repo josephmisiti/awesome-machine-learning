@@ -20,6 +20,7 @@ Further resources:
 
 ## Table of Contents
 
+### Frameworks and Libraries
 <!-- MarkdownTOC depth=4 -->
 
 - [APL](#apl)
@@ -129,7 +130,13 @@ Further resources:
     - [General-Purpose Machine Learning](#swift-general-purpose)
 - [TensorFlow](#tensor)
     - [General-Purpose Machine Learning](#tensor-general-purpose)
-- [Credits](#credits)
+
+### Tools
+
+- [Misc](#tools-misc)
+
+
+[Credits](#credits)
 
 <!-- /MarkdownTOC -->
 
@@ -1408,6 +1415,13 @@ be
 #### General-Purpose Machine Learning
 * [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) - A list of all things related to TensorFlow.
 * [Golden TensorFlow](https://golden.com/wiki/TensorFlow) - A page of content on TensorFlow, including academic papers and links to related topics.
+
+<a name="tools"></a>
+## Tools
+
+<a name="tools-misc"></a>
+#### Misc
+* [DVC](https://github.com/iterative/dvc) - Data Science Version Control is an Open-source Version Control System for Machine Learning Projects
 
 <a name="credits"></a>
 ## Credits
