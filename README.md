@@ -1421,7 +1421,7 @@ be
 
 <a name="tools-misc"></a>
 #### Misc
-* [DVC](https://github.com/iterative/dvc) - Data Science Version Control is an Open-source Version Control System for Machine Learning Projects
+* [DVC](https://github.com/iterative/dvc) - Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
 
 <a name="credits"></a>
 ## Credits
