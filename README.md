@@ -996,6 +996,7 @@ be
 * [xLearn](https://github.com/aksnzhy/xlearn) - A high performance, easy-to-use, and scalable machine learning package, which can be used to solve large-scale machine learning problems. xLearn is especially useful for solving machine learning problems on large-scale sparse data, which is very common in Internet services such as online advertisement and recommender systems.
 * [mlens](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for machine learning models.
+* [Thampi](https://github.com/scoremedia/thampi) - Machine Learning Prediction System on AWS Lambda
 
 <a name="python-data-analysis"></a>
 #### Data Analysis / Data Visualization
