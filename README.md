@@ -298,6 +298,7 @@ Further resources:
 #### General-Purpose Machine Learning
 
 * [Simple Bayes](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
+* [emel](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in Elixir.
 
 <a name="elixir-nlp"></a>
 #### Natural Language Processing
