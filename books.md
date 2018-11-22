@@ -2,6 +2,7 @@ The following is a list of free, open source books on machine learning, statisti
 
 ## Machine-Learning / Data Mining
 
+* [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
 * [Real World Machine Learning](https://www.manning.com/books/real-world-machine-learning) [Free Chapters]
 * [An Introduction To Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) - Book + R Code
 * [Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/) - Book
