@@ -213,6 +213,7 @@ Further resources:
 * [LKYDeepNN](https://github.com/mosdeo/LKYDeepNN) -  A header-only C++11 Neural Network library. Low dependency, native traditional chinese document.
 * [xLearn](https://github.com/aksnzhy/xlearn) - A high performance, easy-to-use, and scalable machine learning package, which can be used to solve large-scale machine learning problems. xLearn is especially useful for solving machine learning problems on large-scale sparse data, which is very common in Internet services such as online advertisement and recommender systems.
 * [Featuretools](https://github.com/featuretools/featuretools) - A library for automated feature engineering. It excels at transforming transactional and relational datasets into feature matrices for machine learning using reusable feature engineering "primitives". 
+* [skynet](https://github.com/Tyill/skynet) - A library for learning neural network, has Json interface. Written in C++ with bindings in Python, C++, C#. 
 
 <a name="cpp-nlp"></a>
 #### Natural Language Processing
