@@ -1,4 +1,4 @@
-The following is a list of free or paid online courses on machine learning, statistics, data-mining, etc.
+https://www.manning.com/livevideo/deep-learning-crash-courseThe following is a list of free or paid online courses on machine learning, statistics, data-mining, etc.
 
 ## Machine-Learning / Data Mining
 
@@ -29,3 +29,4 @@ fast.ai - deep learning MOOC (http://www.fast.ai/)
 * [Microsoft Professional Program for Artificial Intelligence](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/) - free 
 * [Open Machine Learning Course](https://github.com/Yorko/mlcourse_open) with [articles](https://medium.com/open-machine-learning-course) on Medium 
 * [Machine Learning A-Z (Udemy)](https://www.udemy.com/machinelearning/) - Hands-On Python & R In Data Science
+* [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course) - $
