@@ -264,7 +264,7 @@ Further resources:
 
 * [Touchstone](https://github.com/ptaoussanis/touchstone) - Clojure A/B testing library.
 * [Clojush](https://github.com/lspector/Clojush) -  The Push programming language and the PushGP genetic programming system implemented in Clojure.
-* [Infer](https://github.com/aria42/infer) - Inference and machine learning in Clojure.
+* [Infer](https://github.com/aria42/infer) - Inference and machine learning in Clojure. **[Deprecated]**
 * [Clj-ML](https://github.com/antoniogarrote/clj-ml) - A machine learning library for Clojure built on top of Weka and friends.
 * [DL4CLJ](https://github.com/engagor/dl4clj/) - Clojure wrapper for Deeplearning4j.
 * [Encog](https://github.com/jimpil/enclog) - Clojure wrapper for Encog (v3) (Machine-Learning framework that specializes in neural-nets).
