@@ -39,6 +39,8 @@ The following is a list of free, open source books on machine learning, statisti
 * [R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](http://r4ds.had.co.nz/) - Wickham and Grolemund. Great as introduction on how to use R. 
 * [Advanced R](http://adv-r.had.co.nz/) - Hadley Wickham. More advanced usage of R for programming.
 * [Graph-Powered Machine Learning](https://www.manning.com/books/graph-powered-machine-learning) - Alessandro Negro. Combining graph theory and models to improve machine learning projects
+* [Machine Learning for Dummies](https://mscdss.ds.unipi.gr/wp-content/uploads/2018/02/Untitled-attachment-00056-2-1.pdf)
+
 
 
 ## Deep-Learning
