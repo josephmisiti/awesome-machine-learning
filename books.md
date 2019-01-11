@@ -99,3 +99,9 @@ The following is a list of free, open source books on machine learning, statisti
 * [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 * [Applied Numerical Computing](http://www.seas.ucla.edu/~vandenbe/ee133a.html)
 * [Applied Numerical Linear Algebra](http://egrcc.github.io/docs/math/applied-numerical-linear-algebra.pdf)
+
+## Calculus
+* [Calculus Made Easy](https://github.com/lahorekid/Calculus/blob/master/Calculus%20Made%20Easy.pdf)
+
+
+
