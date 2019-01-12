@@ -1020,6 +1020,7 @@ be
 * [SciPy](http://www.scipy.org/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering.
 * [NumPy](http://www.numpy.org/) - A fundamental package for scientific computing with Python.
 * [Numba](http://numba.pydata.org/) - Python JIT (just in time) compiler to LLVM aimed at scientific Python by the developers of Cython and NumPy.
+* [Mars](https://github.com/mars-project/mars) - A tensor-based framework for large-scale data computation which often regarded as a parallel and distributed version of NumPy. 
 * [NetworkX](https://networkx.github.io/) - A high-productivity software for complex networks.
 * [igraph](http://igraph.org/python/) - binding to igraph library - General purpose graph library.
 * [Pandas](http://pandas.pydata.org/) - A library providing high-performance, easy-to-use data structures and data analysis tools.
