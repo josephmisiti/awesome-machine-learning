@@ -126,6 +126,8 @@ Further resources:
     - [Natural Language Processing](#scala-nlp)
     - [Data Analysis / Data Visualization](#scala-data-analysis)
     - [General-Purpose Machine Learning](#scala-general-purpose)
+- [Scheme](#scheme)
+    - [Neural Networks](#scheme-neural-networks)
 - [Swift](#swift)
     - [General-Purpose Machine Learning](#swift-general-purpose)
 - [TensorFlow](#tensor)
@@ -133,6 +135,7 @@ Further resources:
 
 ### Tools
 
+- [Neural Networks](#tools-neural-networks)
 - [Misc](#tools-misc)
 
 
@@ -1406,6 +1409,14 @@ be
 * [Smile](http://haifengl.github.io/smile/) - Statistical Machine Intelligence and Learning Engine.
 * [doddle-model](https://github.com/picnicml/doddle-model) - An in-memory machine learning library built on top of Breeze. It provides immutable objects and exposes its functionality through a scikit-learn-like API.
 
+<a name="scheme"></a>
+## Scheme
+
+<a name="scheme-neural-networks"></a>
+#### Neural Networks
+
+* [layer](https://github.com/cloudkj/layer) - Neural network inference from the command line, implemented in [CHICKEN Scheme](https://www.call-cc.org/).
+
 <a name="swift"></a>
 ## Swift
 
@@ -1437,6 +1448,10 @@ be
 
 <a name="tools"></a>
 ## Tools
+
+<a name="tools-neural-networks"></a>
+#### Neural Networks
+* [layer](https://github.com/cloudkj/layer) - Neural network inference from the command line
 
 <a name="tools-misc"></a>
 #### Misc
