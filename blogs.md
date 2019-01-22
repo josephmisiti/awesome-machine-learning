@@ -1,7 +1,7 @@
 Blogs/Podcasts
 ===============
 
-[Hacker News for Data Science](http://www.datatau.com/news)
+[Hacker News for Data Science](https://www.datatau.com/news)
 [LightTag's Labeled Data Blog](https://lighttag.io/blog)
 
 Podcasts
@@ -11,17 +11,17 @@ Podcasts
 
 [Partially Derivative](http://partiallyderivative.com/)
 
-[The Talking Machines](http://www.thetalkingmachines.com/)
+[The Talking Machines](https://www.thetalkingmachines.com/)
 
 [The Data Skeptic](https://dataskeptic.com/)
 
-[Linear Digressions](http://benjaffe.github.io/linear-digressions-site/)
+[Linear Digressions](https://lineardigressions.com)
 
 [Data Stories](http://datastori.es/)
 
-[Learning Machines 101](http://www.learningmachines101.com/)
+[Learning Machines 101](https://www.learningmachines101.com/)
 
-[Not So Standard Deviations](http://simplystatistics.org/2015/09/17/not-so-standard-deviations-the-podcast/)
+[Not So Standard Deviations](https://simplystatistics.org/2015/09/17/not-so-standard-deviations-the-podcast/)
 
 [TWIMLAI](https://twimlai.com/shows/)
 
@@ -36,45 +36,39 @@ https://ahmedbesbes.com/
 
 https://jeremykun.com/
 
-http://iamtrask.github.io/
+https://iamtrask.github.io/
 
-http://blog.explainmydata.com/
+https://blog.explainmydata.com/
 
-http://andrewgelman.com/
+https://statmodeling.stat.columbia.edu
 
-http://simplystatistics.org/
+https://simplystatistics.org/
 
-http://www.evanmiller.org/
+https://www.evanmiller.org/
 
-http://jakevdp.github.io/
+https://jakevdp.github.io/
 
 http://wesmckinney.com
 
-http://www.overkillanalytics.net/
+https://www.overkillanalytics.net/
 
-http://newton.cx/~peter/
+https://newton.cx/~peter/
 
-http://mbakker7.github.io/exploratory_computing_with_python/
+https://mbakker7.github.io/exploratory_computing_with_python/
 
-https://sebastianraschka.com/blog/index.html
+https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 
-http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
-
-http://colah.github.io/
-
-http://www.thomasdimson.com/
-
-http://blog.smellthedata.com/
+https://colah.github.io/
 
 https://sebastianraschka.com/
 
 http://dogdogfish.com/
 
-http://www.johnmyleswhite.com/
+https://www.johnmyleswhite.com/
 
 http://drewconway.com/zia/
 
-http://bugra.github.io/
+https://bugra.github.io/
 
 http://opendata.cern.ch/
 
@@ -84,11 +78,11 @@ http://www.sumsar.net/
 
 https://www.countbayesie.com
 
-http://karpathy.github.io/  https://medium.com/@karpathy
+https://karpathy.github.io/  https://medium.com/@karpathy
 
 http://blog.kaggle.com/
 
-http://www.danvk.org/
+https://www.danvk.org/
 
 http://hunch.net/
 
@@ -96,9 +90,9 @@ http://www.randalolson.com/blog/
 
 https://www.johndcook.com/blog/r_language_for_programmers/
 
-http://www.dataschool.io/
+https://www.dataschool.io/
 
-http://www.datasciencecentral.com
+https://www.datasciencecentral.com
 
 https://mubaris.com
 
@@ -106,12 +100,10 @@ https://distill.pub
 
 http://blog.shakirm.com/
 
-http://www.cs.ox.ac.uk/people/yarin.gal/website/blog.html
+https://www.cs.ox.ac.uk/people/yarin.gal/website/blog.html
 
 Math
 ----
-
-http://www.sumsar.net/
 
 https://www.allendowney.com/blog/
 
@@ -119,7 +111,7 @@ https://healthyalgorithms.com/
 
 https://petewarden.com/
 
-http://mrtz.org/blog/
+https://blog.mrtz.org
 
 https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos
 
@@ -128,4 +120,4 @@ https://www.youtube.com/channel/UCr22xikWUK2yUW4YxOKXclQ/videos
 Security Related
 ----------------
 
-http://jordan-wright.com/blog/
+https://jordan-wright.com/blog/
