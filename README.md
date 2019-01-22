@@ -119,7 +119,6 @@ Further resources:
 - [SAS](#sas)
     - [General-Purpose Machine Learning](#sas-general-purpose)
     - [Data Analysis / Data Visualization](#sas-data-analysis)
-    - [High Performance Machine Learning (MPP)](#sas-mpp)
     - [Natural Language Processing](#sas-nlp)
 写个脚本把它们爬下来 - [Demos and Scripts](#sas-demos)
 - [Scala](#scala)
