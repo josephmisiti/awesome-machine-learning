@@ -102,6 +102,8 @@ http://blog.shakirm.com/
 
 https://www.cs.ox.ac.uk/people/yarin.gal/website/blog.html
 
+[LightTag NLP Blog](https://www.lighttag.io/blog)
+
 Math
 ----
 
