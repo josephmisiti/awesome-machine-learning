@@ -875,6 +875,7 @@ be
 <a name="python-nlp"></a>
 #### Natural Language Processing
 
+* [pkuseg-python](https://github.com/lancopku/pkuseg-python) - A better version of Jieba, developed by Peking University. 
 * [NLTK](https://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
 * [Pattern](http://www.clips.ua.ac.be/pattern) - A web mining module for the Python programming language. It has tools for natural language processing, machine learning, among others.
 * [Quepy](https://github.com/machinalis/quepy) - A python framework to transform natural language questions to queries in a database query language.
