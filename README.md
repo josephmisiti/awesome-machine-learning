@@ -1005,6 +1005,7 @@ be
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for machine learning models.
 * [Thampi](https://github.com/scoremedia/thampi) - Machine Learning Prediction System on AWS Lambda
 * [MindsDB](https://github.com/mindsdb/mindsdb) - Open Source framework to streamline use of neural networks.
+* [Gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Golang.
 
 <a name="python-data-analysis"></a>
 #### Data Analysis / Data Visualization
