@@ -346,6 +346,7 @@ Further resources:
 * [go-mxnet-predictor](https://github.com/songtianyi/go-mxnet-predictor) - Go binding for MXNet c_predict_api to do inference with pre-trained model.
 * [neat](https://github.com/jinyeom/neat) - Plug-and-play, parallel Go framework for NeuroEvolution of Augmenting Topologies (NEAT). **[Deprecated]**
 * [go-ml-transpiler](https://github.com/znly/go-ml-transpiler) - An open source Go transpiler for machine learning models.
+* [therfoo](https://github.com/therfoo/therfoo) - An embedded deep learning library for Go.
 
 <a name="go-data-analysis"></a>
 #### Data Analysis / Data Visualization
