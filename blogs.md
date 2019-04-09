@@ -27,6 +27,11 @@ Podcasts
 
 [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
 
+Newsletters
+-----------
+
+[AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
+
 Data Science / Statistics
 -------------------------
 
