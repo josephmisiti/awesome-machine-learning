@@ -101,3 +101,4 @@ The following is a list of free, open source books on machine learning, statisti
 
 ## Calculus
 * [Calculus Made Easy](https://github.com/lahorekid/Calculus/blob/master/Calculus%20Made%20Easy.pdf)
+* [calculus by ron larson](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/860/%20CalculusTextbook.pdf)
