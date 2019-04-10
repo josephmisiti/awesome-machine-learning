@@ -32,7 +32,7 @@ Further resources:
     - [Computer Vision](#cpp-cv)
     - [General-Purpose Machine Learning](#cpp-general-purpose)
     - [Natural Language Processing](#cpp-nlp)
-    - [Speech Recognition](#speech-recognition-1)
+    - [Speech Recognition](#cpp-speech-recognition)
     - [Sequence Analysis](#cpp-sequence)
     - [Gesture Recognition](#cpp-gestures)
 - [Common Lisp](#common-lisp)
@@ -230,6 +230,7 @@ Further resources:
 * [MIT Information Extraction Toolkit](https://github.com/mit-nlp/MITIE) - C, C++, and Python tools for named entity recognition and relation extraction
 * [ucto](https://github.com/LanguageMachines/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
 
+<a name="cpp-speech-recognition"></a>
 #### Speech Recognition
 * [Kaldi](https://github.com/kaldi-asr/kaldi) - Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
 
