@@ -1379,6 +1379,7 @@ be
 * [SwiftLearner](https://github.com/valdanylchuk/swiftlearner/) - Simply written algorithms to help study ML or write your own implementations.
 * [Smile](https://haifengl.github.io/smile/) - Statistical Machine Intelligence and Learning Engine.
 * [doddle-model](https://github.com/picnicml/doddle-model) - An in-memory machine learning library built on top of Breeze. It provides immutable objects and exposes its functionality through a scikit-learn-like API.
+* [TensorFlow Scala](https://github.com/eaplatanios/tensorflow_scala) -   Strongly-typed Scala API for TensorFlow.
 
 <a name="scheme"></a>
 ## Scheme
