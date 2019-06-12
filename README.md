@@ -591,13 +591,18 @@ Further resources:
 * [GaussianMixtures](https://github.com/davidavdav/GaussianMixtures.jl) - Large scale Gaussian Mixture Models.
 * [ScikitLearn](https://github.com/cstjean/ScikitLearn.jl) - Julia implementation of the scikit-learn API.
 * [Knet](https://github.com/denizyuret/Knet.jl) - Koç University Deep Learning Framework.
+* [Flux](https://fluxml.ai/) - Relax! Flux is the ML library that doesn't make you tensor
 
 <a name="julia-nlp"></a>
 #### Natural Language Processing
 
 * [Topic Models](https://github.com/slycoder/TopicModels.jl) - TopicModels for Julia. **[Deprecated]**
 * [Text Analysis](https://github.com/JuliaText/TextAnalysis.jl) - Julia package for text analysis.
-
+* [Word Tokenizers](https://github.com/JuliaText/WordTokenizers.jl) - Tokenizers for Natural Language Processing in Julia
+* [Corpus Loaders](https://github.com/JuliaText/CorpusLoaders.jl) - A julia package providing a variety of loaders for various NLP corpora.
+* [Embeddings](https://github.com/JuliaText/Embeddings.jl) - Functions and data dependencies for loading various word embeddings
+* [Languages](https://github.com/JuliaText/Languages.jl) - Julia package for working with various human languages
+* [WordNet](https://github.com/JuliaText/WordNet.jl) - A Julia package for Princeton's WordNet
 
 <a name="julia-data-analysis"></a>
 #### Data Analysis / Data Visualization
@@ -624,6 +629,7 @@ Further resources:
 * [JuliaCon Presentations](https://github.com/JuliaCon/presentations) - Presentations for JuliaCon.
 * [SignalProcessing](https://github.com/JuliaDSP/DSP.jl) - Signal Processing tools for Julia.
 * [Images](https://github.com/JuliaImages/Images.jl) - An image library for Julia.
+* [DataDeps](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
 
 <a name="lua"></a>
 ## Lua
