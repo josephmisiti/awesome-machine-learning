@@ -41,7 +41,7 @@ The following is a list of free, open source books on machine learning, statisti
 * [Graph-Powered Machine Learning](https://www.manning.com/books/graph-powered-machine-learning) - Alessandro Negro. Combining graph theory and models to improve machine learning projects
 * [Machine Learning for Dummies](https://mscdss.ds.unipi.gr/wp-content/uploads/2018/02/Untitled-attachment-00056-2-1.pdf)
 * [Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - Early access book that provides basics of machine learning and using R programming language.
-
+* [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - Early access book that introduces the most valuable machine learning techniques.
 
 
 ## Deep-Learning
