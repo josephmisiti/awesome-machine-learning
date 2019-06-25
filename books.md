@@ -53,6 +53,7 @@ The following is a list of free, open source books on machine learning, statisti
 * [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search) Early access book
 * [Deep Learning and the Game of Go](https://www.manning.com/books/deep-learning-and-the-game-of-go) Early access book
 * [Machine Learning for Business](https://www.manning.com/books/machine-learning-for-business) Early access book
+* [Probabilistic Deep Learning with Python](https://www.manning.com/books/probabilistic-deep-learning-with-python) Early access book
 
 ## Natural Language Processing
 
