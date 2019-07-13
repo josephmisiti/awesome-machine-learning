@@ -1,6 +1,6 @@
-The following is a list of free, open source books on machine learning, statistics, data-mining, etc.
-## List is Aweosome
-## Machine-Learning / Data Mining
+The following is a list of free and/or open source books on machine learning, statistics, data mining, etc.
+
+## Machine Learning / Data Mining
 
 * [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
 * [Real World Machine Learning](https://www.manning.com/books/real-world-machine-learning) [Free Chapters]
@@ -42,9 +42,10 @@ The following is a list of free, open source books on machine learning, statisti
 * [Machine Learning for Dummies](https://mscdss.ds.unipi.gr/wp-content/uploads/2018/02/Untitled-attachment-00056-2-1.pdf)
 * [Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - Early access book that provides basics of machine learning and using R programming language.
 * [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - Early access book that introduces the most valuable machine learning techniques.
+- [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) - Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar
+- [Understanding Machine Learning](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) - Shai Shalev-Shwartz and Shai Ben-David
 
-
-## Deep-Learning
+## Deep Learning
 
 * [Deep Learning - An MIT Press book](https://www.deeplearningbook.org/)
 * [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
@@ -101,5 +102,6 @@ The following is a list of free, open source books on machine learning, statisti
 * [Applied Numerical Computing](https://www.seas.ucla.edu/~vandenbe/ee133a.html)
 
 ## Calculus
+
 * [Calculus Made Easy](https://github.com/lahorekid/Calculus/blob/master/Calculus%20Made%20Easy.pdf)
 * [calculus by ron larson](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/860/%20CalculusTextbook.pdf)
