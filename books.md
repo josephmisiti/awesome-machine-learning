@@ -62,6 +62,7 @@ The following is a list of free and/or open source books on machine learning, st
 * [NLTK](https://www.nltk.org/book/)
 * [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/promo/)
 * [Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action) Early access book
+* [Real-World Natural Language Processing](https://www.manning.com/books/real-world-natural-language-processing) Early access book
 
 ## Information Retrieval
 
