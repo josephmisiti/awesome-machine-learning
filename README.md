@@ -922,6 +922,8 @@ be
 * [Dedupe](https://github.com/dedupeio/dedupe) - A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
 * [Snips NLU](https://github.com/snipsco/snips-nlu) - Natural Language Understanding library for intent classification and entity extraction
 * [NeuroNER](https://github.com/Franck-Dernoncourt/NeuroNER) - Named-entity recognition using neural networks providing state-of-the-art-results
+* [DeepPavlov](https://github.com/deepmipt/DeepPavlov/) - conversational AI library with many pretrained Russian NLP models.
+* [BigARTM](https://github.com/bigartm/bigartm) - topic modelling platform.
 
 <a name="python-general-purpose"></a>
 #### General-Purpose Machine Learning
