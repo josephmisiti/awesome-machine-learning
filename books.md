@@ -44,7 +44,7 @@ The following is a list of free and/or open source books on machine learning, st
 * [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - Early access book that introduces the most valuable machine learning techniques.
 - [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) - Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar
 - [Understanding Machine Learning](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) - Shai Shalev-Shwartz and Shai Ben-David
-- [How Machine Learning Works](https://www.manning.com/books/how-machine-learning-works) - Early access book that intorduces machine learning from both practical and theoretical aspects in a non-threating way. 
+- [How Machine Learning Works](https://www.manning.com/books/how-machine-learning-works) - Mostafa Samir. Early access book that intorduces machine learning from both practical and theoretical aspects in a non-threating way. 
 
 ## Deep Learning
 
