@@ -1026,7 +1026,6 @@ be
 * [creme](https://github.com/creme-ml/creme): A framework for online machine learning.
 * [Neuraxle](https://github.com/Neuraxio/Neuraxle): A framework providing the right abstractions to ease research, development, and deployment of your ML pipelines.
 
-
 <a name="python-data-analysis"></a>
 #### Data Analysis / Data Visualization
 
