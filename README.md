@@ -1024,6 +1024,8 @@ be
 * [MiraiML](https://github.com/arthurpaulino/miraiml): An asynchronous engine for continuous & autonomous machine learning, built for real-time usage.
 * [numpy-ML](https://github.com/ddbourgin/numpy-ml): Reference implementations of ML models written in numpy
 * [creme](https://github.com/creme-ml/creme): A framework for online machine learning.
+* [Neuraxle](https://github.com/Neuraxio/Neuraxle): A framework providing the right abstractions to ease research, development, and deployment of your ML pipelines.
+
 
 <a name="python-data-analysis"></a>
 #### Data Analysis / Data Visualization
