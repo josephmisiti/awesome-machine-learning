@@ -348,6 +348,7 @@ Further resources:
 * [neat](https://github.com/jinyeom/neat) - Plug-and-play, parallel Go framework for NeuroEvolution of Augmenting Topologies (NEAT). **[Deprecated]**
 * [go-ml-transpiler](https://github.com/znly/go-ml-transpiler) - An open source Go transpiler for machine learning models.
 * [therfoo](https://github.com/therfoo/therfoo) - An embedded deep learning library for Go.
+* [go-dnn](https://github.com/sudachen/go-dnn) - Deep Neural Networks for Golang (powered by MXNet)
 
 <a name="go-data-analysis"></a>
 #### Data Analysis / Data Visualization
