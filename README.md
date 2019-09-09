@@ -82,6 +82,7 @@ Further resources:
     - [General-Purpose Machine Learning](#matlab-general-purpose)
     - [Data Analysis / Data Visualization](#matlab-data-analysis)
 - [.NET](#net)
+    - [Microsoft ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet)
     - [Computer Vision](#net-cv)
     - [Natural Language Processing](#net-nlp)
     - [General-Purpose Machine Learning](#net-general-purpose)
