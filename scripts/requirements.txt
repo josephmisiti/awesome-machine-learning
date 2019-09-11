@@ -1,3 +1,15 @@
 pyquery
 urllib3
 codecs
+
+
+#  pyquery : a jquery-like library for python
+## pyquery allows you to make jquery queries on xml documents. The API is as much as possible the similar to jquery.
+
+
+#  urllib3 is a powerful, sanity-friendly HTTP client for Python.
+## urllib3 brings many critical features that are missing from the Python standard libraries: ... Helpers for retrying requests and dealing with HTTP redirects.
+
+
+#  codecs
+## A codec is a device or computer program for encoding or decoding a digital data stream or signal. Codec is a portmanteau of coder-decoder. A coder encodes a data stream or a signal for transmission or storage, possibly in encrypted form, and the decoder function reverses the encoding for playback or editing.
