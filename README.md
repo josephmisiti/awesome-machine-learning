@@ -52,8 +52,8 @@ Further resources:
     - [Natural Language Processing](#go-nlp)
     - [General-Purpose Machine Learning](#go-general-purpose)
     - [Data Analysis / Data Visualization](#go-data-analysis)
-    - [Facial Detection and Recognition](#go-facial-recognition)
-    - [Image Classification](#go-image-classification)
+    - [Geometry / Spatial Analysis](#go-spatial-analysis)
+    - [Computer Vision](#go-computer-vision)
 - [Haskell](#haskell)
     - [General-Purpose Machine Learning](#haskell-general-purpose)
 - [Java](#java)
@@ -82,6 +82,7 @@ Further resources:
     - [General-Purpose Machine Learning](#matlab-general-purpose)
     - [Data Analysis / Data Visualization](#matlab-data-analysis)
 - [.NET](#net)
+    - [Microsoft ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet)
     - [Computer Vision](#net-cv)
     - [Natural Language Processing](#net-nlp)
     - [General-Purpose Machine Learning](#net-general-purpose)
@@ -324,50 +325,60 @@ Further resources:
 <a name="go-nlp"></a>
 #### Natural Language Processing
 
-* [go-porterstemmer](https://github.com/reiver/go-porterstemmer) - A native Go clean room implementation of the Porter Stemming algorithm. **[Deprecated]**
-* [paicehusk](https://github.com/Rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm.
 * [snowball](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
-* [Textbox](https://godoc.org/github.com/machinebox/sdk-go/textbox) - Natural language processing SDK from Machine Box
-* [go-ngram](https://github.com/Lazin/go-ngram) - In-memory n-gram index with compression.
 * [word-embedding](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
 * [sentences](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
+* [go-ngram](https://github.com/Lazin/go-ngram) - In-memory n-gram index with compression. *[Deprecated]*
+* [paicehusk](https://github.com/Rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm. *[Deprecated]*
+* [go-porterstemmer](https://github.com/reiver/go-porterstemmer) - A native Go clean room implementation of the Porter Stemming algorithm. **[Deprecated]**
 
 <a name="go-general-purpose"></a>
 #### General-Purpose Machine Learning
 
+* [birdland](https://github.com/rlouf/birdland) - A recommendation library in Go.
 * [eaopt](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
-* [Go Learn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go. **[Deprecated]**
+* [leaves](https://github.com/dmitryikh/leaves) - A pure Go implementation of the prediction part of GBRTs, including XGBoost and LightGBM.
+* [gobrain](https://github.com/goml/gobrain) - Neural Networks written in Go.
+* [go-mxnet-predictor](https://github.com/songtianyi/go-mxnet-predictor) - Go binding for MXNet c_predict_api to do inference with pre-trained model.
+* [go-ml-transpiler](https://github.com/znly/go-ml-transpiler) - An open source Go transpiler for machine learning models.
+* [golearn](https://github.com/sjwhitworth/golearn) - Machine learning for Go.
+* [goml](https://github.com/cdipaolo/goml) - Machine learning library written in pure Go.
+* [gorgonia](https://github.com/gorgonia/gorgonia) - Deep learning in Go.
+* [therfoo](https://github.com/therfoo/therfoo) - An embedded deep learning library for Go.
+* [neat](https://github.com/jinyeom/neat) - Plug-and-play, parallel Go framework for NeuroEvolution of Augmenting Topologies (NEAT). **[Deprecated]**
 * [go-pr](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang. **[Deprecated]**
 * [go-ml](https://github.com/alonsovidales/go_ml) - Linear / Logistic regression, Neural Networks, Collaborative Filtering and Gaussian Multivariate Distribution. **[Deprecated]**
+* [GoNN](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN. **[Deprecated]**
 * [bayesian](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang. **[Deprecated]**
 * [go-galib](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / Golang. **[Deprecated]**
 * [Cloudforest](https://github.com/ryanbressler/CloudForest) - Ensembles of decision trees in Go/Golang. **[Deprecated]**
-* [gobrain](https://github.com/goml/gobrain) - Neural Networks written in Go.
-* [GoNN](https://github.com/fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN. **[Deprecated]**
-* [go-mxnet-predictor](https://github.com/songtianyi/go-mxnet-predictor) - Go binding for MXNet c_predict_api to do inference with pre-trained model.
-* [neat](https://github.com/jinyeom/neat) - Plug-and-play, parallel Go framework for NeuroEvolution of Augmenting Topologies (NEAT). **[Deprecated]**
-* [go-ml-transpiler](https://github.com/znly/go-ml-transpiler) - An open source Go transpiler for machine learning models.
-* [therfoo](https://github.com/therfoo/therfoo) - An embedded deep learning library for Go.
 * [go-dnn](https://github.com/sudachen/go-dnn) - Deep Neural Networks for Golang (powered by MXNet)
+
+<a name="go-spatial-analysis"></a>
+#### Spatial analysis and geometry
+
+* [go-geom](https://github.com/twpayne/go-geom) - Go library to handle geometries.
+* [gogeo](https://github.com/golang/geo) - Spherical geometry in Go.
 
 <a name="go-data-analysis"></a>
 #### Data Analysis / Data Visualization
 
-* [go-graph](https://github.com/StepLg/go-graph) - Graph library for Go/Golang language. **[Deprecated]**
+* [gota](https://github.com/go-gota/gota) - Dataframes.
+* [gonum/mat](https://godoc.org/gonum.org/v1/gonum/mat) - A linear algebra package for Go.
+* [gonum/optimize](https://godoc.org/gonum.org/v1/gonum/optimize) - Implementations of optimization algorithms.
+* [gonum/plot](https://godoc.org/gonum.org/v1/plot) - A plotting library.
+* [gonum/stat](https://godoc.org/gonum.org/v1/gonum/stat) - A statistics library.
 * [SVGo](https://github.com/ajstarks/svgo) - The Go Language library for SVG generation.
+* [glot](https://github.com/arafatk/glot) - Glot is a plotting library for Golang built on top of gnuplot.
+* [globe](https://github.com/mmcloughlin/globe) - Globe wireframe visualization.
+* [gonum/graph](https://godoc.org/gonum.org/v1/gonum/graph) - General-purpose graph library.
+* [go-graph](https://github.com/StepLg/go-graph) - Graph library for Go/Golang language. **[Deprecated]**
 * [RF](https://github.com/fxsjy/RF.go) - Random forests implementation in Go. **[Deprecated]**
-* [Glot](https://github.com/arafatk/glot) - Glot is a plotting library for Golang built on top of gnuplot. 
 
-<a name="go-facial-recognition"></a>
-#### Facial Detection and Recognition
+<a name="go-computer-vision"></a>
+#### Computer vision 
 
-* [Facebox](https://godoc.org/github.com/machinebox/sdk-go/facebox) - Facial detection and recognition SDK with one-shot teaching from Machine Box
-
-<a name="go-image-classification"></a>
-#### Image Classification
-
-* [Tagbox](https://godoc.org/github.com/machinebox/sdk-go/tagbox) - Image classification SDK with one-shot teaching from Machine Box
-* [Nudebox](https://godoc.org/github.com/machinebox/sdk-go/nudebox) - Nudity detection from Machine Box
+* [GoCV](https://github.com/hybridgroup/gocv) - Package for computer vision using OpenCV 4 and beyond. 
 
 <a name="haskell"></a>
 ## Haskell
@@ -1018,7 +1029,6 @@ be
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for machine learning models.
 * [Thampi](https://github.com/scoremedia/thampi) - Machine Learning Prediction System on AWS Lambda
 * [MindsDB](https://github.com/mindsdb/mindsdb) - Open Source framework to streamline use of neural networks.
-* [Gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Golang.
 * [Microsoft Recommenders](https://github.com/Microsoft/Recommenders): Examples and best practices for building recommendation systems, provided as Jupyter notebooks. The repo contains some of the latest state of the art algorithms from Microsoft Research as well as from other companies and institutions.
 * [StellarGraph](https://github.com/stellargraph/stellargraph): Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
 * [BentoML](https://github.com/bentoml/bentoml): Toolkit for package and deploy machine learning models for serving in production
@@ -1130,6 +1140,11 @@ be
 
 <a name="python-neural-networks"></a>
 #### Neural Networks
+
+* [nn_builder](https://github.com/p-christ/nn_builder) - nn_builder is a python package that lets you build neural networks in 1 line
+* [NeuralTalk](https://github.com/karpathy/neuraltalk) - NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.
+* [Neuron](https://github.com/molcik/python-neuron) - Neuron is simple class for time series predictions. It's utilize LNU (Linear Neural Unit), QNU (Quadratic Neural Unit), RBF (Radial Basis Function), MLP (Multi Layer Perceptron), MLP-ELM (Multi Layer Perceptron - Extreme Learning Machine) neural networks learned with Gradient descent or LeLevenberg–Marquardt algorithm.
+=======
 * [NeuralTalk](https://github.com/karpathy/neuraltalk2) - NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences. **[Deprecated]**
 * [Neuron](https://github.com/molcik/python-neuron) - Neuron is simple class for time series predictions. It's utilize LNU (Linear Neural Unit), QNU (Quadratic Neural Unit), RBF (Radial Basis Function), MLP (Multi Layer Perceptron), MLP-ELM (Multi Layer Perceptron - Extreme Learning Machine) neural networks learned with Gradient descent or LeLevenberg–Marquardt algorithm. **[Deprecated]**
 * [Data Driven Code](https://github.com/atmb4u/data-driven-code) - Very simple implementation of neural networks for dummies in python without using any libraries, with detailed comments.
@@ -1452,6 +1467,7 @@ be
 
 <a name="tools-misc"></a>
 #### Misc
+* [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) and dev tools (e.g., Jupyter, VS Code).
 * [Notebooks](https://github.com/rlan/notebooks) - A starter kit for Jupyter notebooks and machine learning. Companion docker images consist of all combinations of python versions, machine learning frameworks (Keras, PyTorch and Tensorflow) and CPU/CUDA versions.
 * [DVC](https://github.com/iterative/dvc) - Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
 
@@ -1459,4 +1475,4 @@ be
 ## Credits
 
 * Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
-* The few go reference I found where pulled from [this page](https://github.com/golang/go/wiki/Projects)
+* References for Go were mostly cut-and-pasted from [gopherdata](https://github.com/gopherdata/resources/tree/master/tooling)
