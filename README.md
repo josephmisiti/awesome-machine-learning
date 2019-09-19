@@ -565,6 +565,8 @@ Further resources:
 #### Demos and Scripts
 * [The Bot](https://github.com/sta-ger/TheBot) - Example of how the neural network learns to predict the angle between two points created with [Synaptic](https://github.com/cazala/synaptic).
 * [Half Beer](https://github.com/sta-ger/HalfBeer) - Beer glass classifier created with [Synaptic](https://github.com/cazala/synaptic).
+* [NSFWJS](http://nsfwjs.com) - Indecent content checker with TensorFlow.js
+* [Rock Paper Scissors](https://rps-tfjs.netlify.com/) - Rock Paper Scissors trained in the browser with TensorFlow.js
 
 <a name="julia"></a>
 ## Julia
