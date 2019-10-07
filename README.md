@@ -110,7 +110,6 @@ Further resources:
       - [Data Analysis / Data Visualization](#data-analysis--data-visualization-9)
       - [Misc Scripts / iPython Notebooks / Codebases](#misc-scripts--ipython-notebooks--codebases)
       - [Neural Networks](#neural-networks)
-- [* Neuron - Neuron is simple class for time series predictions. It's utilize LNU (Linear Neural Unit), QNU (Quadratic Neural Unit), RBF (Radial Basis Function), MLP (Multi Layer Perceptron), MLP-ELM (Multi Layer Perceptron - Extreme Learning Machine) neural networks learned with Gradient descent or LeLevenberg–Marquardt algorithm.](#neuron---neuron-is-simple-class-for-time-series-predictions-its-utilize-lnu-linear-neural-unit-qnu-quadratic-neural-unit-rbf-radial-basis-function-mlp-multi-layer-perceptron-mlp-elm-multi-layer-perceptron---extreme-learning-machine-neural-networks-learned-with-gradient-descent-or-lelevenberg%e2%80%93marquardt-algorithm)
       - [Kaggle Competition Source Code](#kaggle-competition-source-code)
       - [Reinforcement Learning](#reinforcement-learning)
   - [Ruby](#ruby)
