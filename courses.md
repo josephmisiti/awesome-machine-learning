@@ -31,3 +31,5 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Machine Learning A-Z (Udemy)](https://www.udemy.com/machinelearning/) - Hands-On Python & R In Data Science
 * [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course) - $
 * [Reinforcement Learning in Motion](https://www.manning.com/livevideo/reinforcement-learning-in-motion) - $
+* [Udemy A-Z Machine learning course](https://www.udemy.com/course/machinelearning/) - $
+* [Statistics and Probability-Khan Academy](https://www.khanacademy.org/math/statistics-probability) - $
