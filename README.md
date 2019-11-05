@@ -365,6 +365,7 @@ Further resources:
 * [golearn](https://github.com/sjwhitworth/golearn) - Machine learning for Go.
 * [goml](https://github.com/cdipaolo/goml) - Machine learning library written in pure Go.
 * [gorgonia](https://github.com/gorgonia/gorgonia) - Deep learning in Go.
+* [gorse](https://github.com/zhenghaoz/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
 * [therfoo](https://github.com/therfoo/therfoo) - An embedded deep learning library for Go.
 * [neat](https://github.com/jinyeom/neat) - Plug-and-play, parallel Go framework for NeuroEvolution of Augmenting Topologies (NEAT). **[Deprecated]**
 * [go-pr](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang. **[Deprecated]**
