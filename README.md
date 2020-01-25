@@ -965,6 +965,7 @@ be
 
 <a name="python-general-purpose"></a>
 #### General-Purpose Machine Learning
+ * [Karate Club](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning extension library for NetworkX with a Scikit-Learn like API.
 * [PyOD](https://github.com/yzhao062/pyod) -> Python Outlier Detection, comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. Featured for Advanced models, including Neural Networks/Deep Learning and Outlier Ensembles.
 * [steppy](https://github.com/neptune-ml/steppy) -> Lightweight, Python library for fast and reproducible machine learning experimentation. Introduces very simple interface that enables clean machine learning pipeline design.
 * [steppy-toolkit](https://github.com/neptune-ml/steppy-toolkit) -> Curated collection of the neural networks, transformers and models that make your machine learning work faster and more effective.
