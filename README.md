@@ -1068,6 +1068,7 @@ be
 * [fast.ai](https://github.com/fastai/fastaihttps://github.com/fastai/fastai) - A library simplifies training fast and accurate neural nets using modern best practices and already supports  vision, text, tabular, and collab (collaborative filtering) models "out of the box"
 * [Catalyst](https://github.com/catalyst-team/catalyst) - High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing. Being able to research/develop something new, rather than write another regular train loop.
 * [Fastai](https://github.com/fastai/fastai) - High-level wrapper built on the top of Pytorch which supports vision, text, tabular data and collaborative filtering.
+* [scikit-multiflow](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
 
 <a name="python-data-analysis"></a>
 #### Data Analysis / Data Visualization
