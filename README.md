@@ -1524,6 +1524,7 @@ be
 * [MLFlow](https://mlflow.org/) - platform to manage the ML lifecycle, including experimentation, reproducibility and deployment. Framework anf language agnostic, take a look at all the built-in integrations.
 * More tools to improve the ML lifecycle: [Catalyst](https://github.com/catalyst-team/catalyst), [PachydermIO](https://www.pachyderm.io/). The following are Github-alike and targetting teams [Weights & Biases](https://www.wandb.com/), [Neptune.Ml](https://neptune.ml/), [Comet.ml](https://www.comet.ml/), [Valohai.ai](https://valohai.com/).
 * [MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) - a book on general purpose machine learning techniques regression, classification, unsupervised clustering, reinforcement learning, auto encoders, convolutional neural networks, RNNs, LSTMs, using TensorFlow 1.14.1.
+* [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A tool that allows the conversion of ML models into native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart) with zero dependencies.
 
 <a name="credits"></a>
 ## Credits
