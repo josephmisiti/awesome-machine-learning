@@ -584,6 +584,7 @@ Further resources:
 * [Lyric](https://github.com/flurry/Lyric) - Linear Regression library. **[Deprecated]**
 * [GreatCircle](https://github.com/mwgg/GreatCircle) - Library for calculating great circle distance.
 * [MLPleaseHelp](https://github.com/jgreenemi/MLPleaseHelp) - MLPleaseHelp is a simple ML resource search engine. You can use this search engine right now at [https://jgreenemi.github.io/MLPleaseHelp/](https://jgreenemi.github.io/MLPleaseHelp/), provided via Github Pages.
+* [Pipcook](https://github.com/alibaba/pipcook) - A JavaScript application framework for machine learning and its engineering.
 
 <a name="javascript-demos"></a>
 #### Demos and Scripts
