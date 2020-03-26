@@ -3,7 +3,7 @@ urllib3
 codecs
 
 
-#  pyquery : a jquery-like library for python
+#  HELLO
 ## pyquery allows you to make jquery queries on xml documents. The API is as much as possible the similar to jquery.
 
 
