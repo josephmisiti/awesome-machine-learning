@@ -1265,6 +1265,7 @@ be
 * [CardMagic-Classifier](https://github.com/cardmagic/classifier) - A general classifier module to allow Bayesian and other types of classifications.
 * [rb-libsvm](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM which is a Library for Support Vector Machines.
 * [Scoruby](https://github.com/asafschers/scoruby) - Creates Random Forest classifiers from PMML files.
+* [rumale](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
 
 <a name="ruby-data-analysis"></a>
 #### Data Analysis / Data Visualization
