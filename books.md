@@ -47,6 +47,7 @@ The following is a list of free and/or open source books on machine learning, st
 - [How Machine Learning Works](https://www.manning.com/books/how-machine-learning-works) - Mostafa Samir. Early access book that intorduces machine learning from both practical and theoretical aspects in a non-threating way. 
 - [Fighting Churn With Data](https://www.manning.com/books/fighting-churn-with-data)  [Free Chapter] Carl Gold - Hands on course in applied data science in Python and SQL, taught through the use case of customer churn.
 - [Machine Learning Bookcamp](https://www.manning.com/books/machine-learning-bookcamp) - Alexey Grigorev - a project-based approach on learning machine learning (early access).
+- [AI Summer](https://theaisummer.com/) A blog to help you learn Deep Learning an Artificial Intelligence
 
 ## Deep Learning
 
