@@ -390,6 +390,7 @@ Further resources:
 <a name="go-data-analysis"></a>
 #### Data Analysis / Data Visualization
 
+* [dataframe-go](https://github.com/rocketlaunchr/dataframe-go) - Dataframes for machine-learning and statistics (similar to pandas).
 * [gota](https://github.com/go-gota/gota) - Dataframes.
 * [gonum/mat](https://godoc.org/gonum.org/v1/gonum/mat) - A linear algebra package for Go.
 * [gonum/optimize](https://godoc.org/gonum.org/v1/gonum/optimize) - Implementations of optimization algorithms.
