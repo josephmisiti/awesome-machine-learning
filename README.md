@@ -1017,6 +1017,8 @@ be
 * [PyBrain](https://github.com/pybrain/pybrain) - Another Python Machine Learning Library.
 * [Brainstorm](https://github.com/IDSIA/brainstorm) - Fast, flexible and fun neural networks. This is the successor of PyBrain.
 * [Surprise](https://surpriselib.com) - A scikit for building and analyzing recommender systems.
+* [implicit](https://implicit.readthedocs.io/en/latest/quickstart.html) - Fast Python Collaborative Filtering for Implicit Datasets.
+* [LightFM](https://making.lyst.com/lightfm/docs/home.html) -  A Python implementation of a number of popular recommendation algorithms for both implicit and explicit feedback.
 * [Crab](https://github.com/muricoca/crab) - A flexible, fast recommender engine. **[Deprecated]**
 * [python-recsys](https://github.com/ocelma/python-recsys) - A Python library for implementing a Recommender System.
 * [thinking bayes](https://github.com/AllenDowney/ThinkBayes) - Book on Bayesian Analysis.
