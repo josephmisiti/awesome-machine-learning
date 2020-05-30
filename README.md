@@ -643,6 +643,7 @@ Further resources:
 * [ScikitLearn](https://github.com/cstjean/ScikitLearn.jl) - Julia implementation of the scikit-learn API.
 * [Knet](https://github.com/denizyuret/Knet.jl) - Koç University Deep Learning Framework.
 * [Flux](https://fluxml.ai/) - Relax! Flux is the ML library that doesn't make you tensor
+* [MLJ](https://github.com/alan-turing-institute/MLJ.jl) - A Julia machine learning framework
 
 <a name="julia-nlp"></a>
 #### Natural Language Processing
