@@ -938,6 +938,7 @@ be
 * [Detecto](https://github.com/alankbi/detecto) - Train and run a computer vision model with 5-10 lines of code.
 * [neural-dream](https://github.com/ProGamerGov/neural-dream) - A PyTorch implementation of DeepDream.
 * [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - A real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+* [Deep High-Resolution-Net](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) - A Pytorch implementation of CVPR2019 paper "Deep High-Resolution Representation Learning for Human Pose Estimation"
 
 <a name="python-nlp"></a>
 #### Natural Language Processing
