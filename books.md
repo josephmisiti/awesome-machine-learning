@@ -45,6 +45,9 @@ The following is a list of free and/or open source books on machine learning, st
 - [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) - Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar
 - [Understanding Machine Learning](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) - Shai Shalev-Shwartz and Shai Ben-David
 - [How Machine Learning Works](https://www.manning.com/books/how-machine-learning-works) - Mostafa Samir. Early access book that intorduces machine learning from both practical and theoretical aspects in a non-threating way. 
+- [Fighting Churn With Data](https://www.manning.com/books/fighting-churn-with-data)  [Free Chapter] Carl Gold - Hands on course in applied data science in Python and SQL, taught through the use case of customer churn.
+- [Machine Learning Bookcamp](https://www.manning.com/books/machine-learning-bookcamp) - Alexey Grigorev - a project-based approach on learning machine learning (early access).
+- [AI Summer](https://theaisummer.com/) A blog to help you learn Deep Learning an Artificial Intelligence
 
 ## Deep Learning
 
@@ -56,6 +59,7 @@ The following is a list of free and/or open source books on machine learning, st
 * [Deep Learning and the Game of Go](https://www.manning.com/books/deep-learning-and-the-game-of-go) Early access book
 * [Machine Learning for Business](https://www.manning.com/books/machine-learning-for-business) Early access book
 * [Probabilistic Deep Learning with Python](https://www.manning.com/books/probabilistic-deep-learning-with-python) Early access book
+* [Deep Learning with Structured Data](https://www.manning.com/books/deep-learning-with-structured-data) Early access book
 
 ## Natural Language Processing
 
@@ -64,6 +68,7 @@ The following is a list of free and/or open source books on machine learning, st
 * [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/promo/)
 * [Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action) Early access book
 * [Real-World Natural Language Processing](https://www.manning.com/books/real-world-natural-language-processing) Early access book
+* [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) Early access book
 
 ## Information Retrieval
 
