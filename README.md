@@ -1259,6 +1259,7 @@ be
 * [garage](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research
 * [metaworld](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
 * [acme](https://deepmind.com/research/publications/Acme) - An Open Source Distributed Framework for Reinforcement Learning that makes build and train your agents easily.
+* [Spinning Up](https://spinningup.openai.com) - An educational resource designed to let anyone learn to become a skilled practitioner in deep reinforcement learning
 
 <a name="ruby"></a>
 ## Ruby
