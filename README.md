@@ -1108,6 +1108,7 @@ be
 * [bayeso](https://github.com/jungtaekkim/bayeso) - A simple, but essential Bayesian optimization package, written in Python.
 * [mljar-supervised](https://github.com/mljar/mljar-supervised) - An Automated Machine Learning (AutoML) python package for tabular data. It can handle: Binary Classification, MultiClass Classification and Regression. It provides explanations and markdown reports.
 * [evostra](https://github.com/alirezamika/evostra) - A fast Evolution Strategy implementation in Python.
+* [Determined](https://github.com/determined-ai/determined) - Scalable deep learning training platform, including integrated support for distributed training, hyperparameter tuning, experiment tracking, and model management.
 
 <a name="python-data-analysis"></a>
 #### Data Analysis / Data Visualization
