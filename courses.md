@@ -37,3 +37,4 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition) - $
 * [Transfer Learning for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing) - $
 * [Grokking Artificial Intelligence Algorithms](https://www.manning.com/books/grokking-artificial-intelligence-algorithms) - $
+* [Machine Learning for Business](https://www.manning.com/books/machine-learning-for-business) - $
