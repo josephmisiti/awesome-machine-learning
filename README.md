@@ -54,6 +54,9 @@ Further resources:
       - [Natural Language Processing](#natural-language-processing-2)
   - [Erlang](#erlang)
       - [General-Purpose Machine Learning](#general-purpose-machine-learning-7)
+  - [Fortran](#fortran)
+      - [General-Purpose Machine Learning](#fortran-general-purpose-machine-learning)
+      - [Data Analysis / Data Visualization](#fortran-data-analysis-visualization)
   - [Go](#go)
       - [Natural Language Processing](#natural-language-processing-3)
       - [General-Purpose Machine Learning](#general-purpose-machine-learning-8)
@@ -223,6 +226,7 @@ Further resources:
 * [MLDB](https://mldb.ai) - The Machine Learning Database is a database designed for machine learning. Send it commands over a RESTful API to store data, explore it using SQL, then train machine learning models and expose them as APIs.
 * [mlpack](https://www.mlpack.org/) - A scalable C++ machine learning library.
 * [MXNet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
+* [ParaMonte](https://github.com/cdslaborg/paramonte) - A general-purpose library with C/C++ interface for Bayesian data analysis and visualization via serial/parallel Monte Carlo and MCMC simulations. Documentation can be found [here](https://www.cdslab.org/paramonte/).
 * [proNet-core](https://github.com/cnclabs/proNet-core) - A general-purpose network embedding framework: pair-wise representations optimization Network Edit.
 * [PyCUDA](https://mathema.tician.de/software/pycuda/) - Python interface to CUDA
 * [ROOT](https://root.cern.ch) - A modular scientific software framework. It provides all the functionalities needed to deal with big data processing, statistical analysis, visualization and storage.
@@ -345,6 +349,20 @@ Further resources:
 
 * [Disco](https://github.com/discoproject/disco/) - Map Reduce in Erlang. **[Deprecated]**
 * [Yanni](https://bitbucket.org/nato/yanni/overview) - ANN neural networks using Erlangs leightweight processes.
+
+<a name="fortran"></a>
+## Fortran
+
+<a name="fortran-general-purpose-machine-learning"></a>
+#### General-Purpose Machine Learning
+
+* [neural-fortran](https://github.com/modern-fortran/neural-fortran) - A parallel neural net microframework. 
+Read the paper [here](https://arxiv.org/abs/1902.06714).
+
+<a name="fortran-data-analysis-visualization"></a>
+#### Data Analysis / Data Visualization
+
+* [ParaMonte](https://github.com/cdslaborg/paramonte) - A general-purpose Fortran library for Bayesian data analysis and visualization via serial/parallel Monte Carlo and MCMC simulations. Documentation can be found [here](https://www.cdslab.org/paramonte/).
 
 <a name="go"></a>
 ## Go
@@ -796,6 +814,7 @@ on MNIST digits[DEEP LEARNING].
 <a name="matlab-data-analysis"></a>
 #### Data Analysis / Data Visualization
 
+* [ParaMonte](https://github.com/cdslaborg/paramonte) - A general-purpose MATLAB library for Bayesian data analysis and visualization via serial/parallel Monte Carlo and MCMC simulations. Documentation can be found [here](https://www.cdslab.org/paramonte/).
 * [matlab_bgl](https://www.cs.purdue.edu/homes/dgleich/packages/matlab_bgl/) - MatlabBGL is a Matlab package for working with graphs.
 * [gaimc](https://www.mathworks.com/matlabcentral/fileexchange/24134-gaimc---graph-algorithms-in-matlab-code) - Efficient pure-Matlab implementations of graph algorithms to complement MatlabBGL's mex functions.
 
@@ -1123,6 +1142,7 @@ be
 * [NetworkX](https://networkx.github.io/) - A high-productivity software for complex networks.
 * [igraph](https://igraph.org/python/) - binding to igraph library - General purpose graph library.
 * [Pandas](https://pandas.pydata.org/) - A library providing high-performance, easy-to-use data structures and data analysis tools.
+* [ParaMonte](https://github.com/cdslaborg/paramonte) - A general-purpose Python library for Bayesian data analysis and visualization via serial/parallel Monte Carlo and MCMC simulations. Documentation can be found [here](https://www.cdslab.org/paramonte/).
 * [Open Mining](https://github.com/mining/mining) - Business Intelligence (BI) in Python (Pandas web interface) **[Deprecated]**
 * [PyMC](https://github.com/pymc-devs/pymc) - Markov Chain Monte Carlo sampling toolkit.
 * [zipline](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
