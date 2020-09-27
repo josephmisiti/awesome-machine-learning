@@ -462,7 +462,6 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [Stanford Tokens Regex](https://nlp.stanford.edu/software/tokensregex.shtml) - A tokenizer divides text into a sequence of tokens, which roughly correspond to "words".
 * [Stanford Temporal Tagger](https://nlp.stanford.edu/software/sutime.shtml) - SUTime is a library for recognizing and normalizing time expressions.
 * [Stanford SPIED](https://nlp.stanford.edu/software/patternslearning.shtml) - Learning entities from unlabeled text starting with seed sets using patterns in an iterative fashion.
-* [Stanford Topic Modeling Toolbox](https://nlp.stanford.edu/software/tmt) - Topic modeling tools to social scientists and others who wish to perform analysis on datasets.
 * [Twitter Text Java](https://github.com/twitter/twitter-text/tree/master/java) - A Java implementation of Twitter's text processing library.
 * [MALLET](http://mallet.cs.umass.edu/) - A Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.
 * [OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text.
@@ -1064,7 +1063,6 @@ be
 * [breze](https://github.com/breze-no-salt/breze) - Theano based library for deep and recurrent neural networks. 
 * [Cortex](https://github.com/cortexlabs/cortex) - Open source platform for deploying machine learning models in production.
 * [pyhsmm](https://github.com/mattjj/pyhsmm) - library for approximate unsupervised inference in Bayesian Hidden Markov Models (HMMs) and explicit-duration Hidden semi-Markov Models (HSMMs), focusing on the Bayesian Nonparametric extensions, the HDP-HMM and HDP-HSMM, mostly with weak-limit approximations.
-* [mrjob](https://pythonhosted.org/mrjob/) - A library to let Python program run on Hadoop.
 * [SKLL](https://github.com/EducationalTestingService/skll) - A wrapper around scikit-learn that makes it simpler to conduct experiments.
 * [neurolab](https://github.com/zueve/neurolab)
 * [Spearmint](https://github.com/HIPS/Spearmint) - Spearmint is a package to perform Bayesian optimization according to the algorithms outlined in the paper: Practical Bayesian Optimization of Machine Learning Algorithms. Jasper Snoek, Hugo Larochelle and Ryan P. Adams. Advances in Neural Information Processing Systems, 2012. **[Deprecated]**
