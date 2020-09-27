@@ -348,7 +348,6 @@ Further resources:
 #### General-Purpose Machine Learning
 
 * [Disco](https://github.com/discoproject/disco/) - Map Reduce in Erlang. **[Deprecated]**
-* [Yanni](https://bitbucket.org/nato/yanni/overview) - ANN neural networks using Erlangs leightweight processes.
 
 <a name="fortran"></a>
 ## Fortran
