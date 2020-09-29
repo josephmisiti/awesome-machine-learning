@@ -38,3 +38,4 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Transfer Learning for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing) - $
 * [Grokking Artificial Intelligence Algorithms](https://www.manning.com/books/grokking-artificial-intelligence-algorithms) - $
 * [Machine Learning for Business](https://www.manning.com/books/machine-learning-for-business) - $
+* [Transfer Learning for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing?utm_source=github&utm_medium=organic&utm_campaign=book_azunre_transfer_3_10_20) - $
