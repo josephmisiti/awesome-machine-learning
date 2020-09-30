@@ -41,3 +41,4 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Kaggle courses on ML,AI and DS(certificate)](https://www.kaggle.com/learn/overview) - free
 * [Ml with python(Cognitive classes)](https://cognitiveclass.ai/courses/machine-learning-with-python) - free
 * [Intro to Data science(Cognitive classes)](https://cognitiveclass.ai/courses/data-science-101) - free
+* [Machine Learning for Business](https://www.manning.com/books/machine-learning-for-business) - $
