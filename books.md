@@ -48,7 +48,7 @@ The following is a list of free and/or open source books on machine learning, st
 - [Fighting Churn With Data](https://www.manning.com/books/fighting-churn-with-data)  [Free Chapter] Carl Gold - Hands on course in applied data science in Python and SQL, taught through the use case of customer churn.
 - [Machine Learning Bookcamp](https://www.manning.com/books/machine-learning-bookcamp) - Alexey Grigorev - a project-based approach on learning machine learning (early access).
 - [AI Summer](https://theaisummer.com/) A blog to help you learn Deep Learning an Artificial Intelligence
-- Python Data Science Handbook- Oriely (https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
+- [Python Data Science Handbook- Oriely](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
 ## Deep Learning
 
 * [Deep Learning - An MIT Press book](https://www.deeplearningbook.org/)
@@ -60,6 +60,8 @@ The following is a list of free and/or open source books on machine learning, st
 * [Machine Learning for Business](https://www.manning.com/books/machine-learning-for-business) Early access book
 * [Probabilistic Deep Learning with Python](https://www.manning.com/books/probabilistic-deep-learning-with-python) Early access book
 * [Deep Learning with Structured Data](https://www.manning.com/books/deep-learning-with-structured-data) Early access book
+* [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
+* [Deep Learning](https://www.deeplearningbook.org/)[Ian Goodfellow, Yoshua Bengio and Aaron Courville]
 
 ## Natural Language Processing
 
