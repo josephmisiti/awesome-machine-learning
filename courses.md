@@ -44,4 +44,5 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Machine Learning for Business](https://www.manning.com/books/machine-learning-for-business) - $
 * [Transfer Learning for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing) - $
 * [In-depth introduction to machine learning in 15 hours of expert videos (by Prof. Trevor Hastie, Prof. Rob Tibshirani, Stanford)](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/) - free
+* [Data Scientist in Python (Dataquest)](https://www.dataquest.io/path/data-scientist/) - free and $
 
