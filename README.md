@@ -1128,6 +1128,7 @@ be
 * [evostra](https://github.com/alirezamika/evostra) - A fast Evolution Strategy implementation in Python.
 * [Determined](https://github.com/determined-ai/determined) - Scalable deep learning training platform, including integrated support for distributed training, hyperparameter tuning, experiment tracking, and model management.
 * [PySyft](https://github.com/OpenMined/PySyft) - A Python library for secure and private Deep Learning built on PyTorch and TensorFlow.
+* [PyGrid](https://github.com/OpenMined/PyGrid/) - Peer-to-peer network of data owners and data scientists who can collectively train AI models using PySyft
 
 <a name="python-data-analysis"></a>
 #### Data Analysis / Data Visualization
