@@ -3,6 +3,7 @@
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by `awesome-php`.
 
 _If you want to contribute to this list (please do), send me a pull request or contact me [@josephmisiti](https://twitter.com/josephmisiti)._
+All COntributers are welcomed.
 Also, a listed repository should be deprecated if:
 
 * Repository's owner explicitly say that "this library is not maintained".
@@ -180,7 +181,7 @@ Future
 ## C
 
 <a name="c-general-purpose"></a>
-#### General-Purpose Machine Learning
+#### General-Purpose Machine Learning Tool
 * [Darknet](https://github.com/pjreddie/darknet) - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 * [Recommender](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
 * [Hybrid Recommender System](https://github.com/SeniorSA/hybrid-rs-trainner) - A hybrid recommender system based upon scikit-learn algorithms. **[Deprecated]**
@@ -188,7 +189,7 @@ Future
 * [cONNXr](https://github.com/alrevuelta/cONNXr) - An `ONNX` runtime written in pure C (99) with zero dependencies focused on small embedded devices. Run inference on your machine learning models no matter which framework you train it with. Easy to install and compiles everywhere, even in very old devices.
 
 <a name="c-cv"></a>
-#### Computer Vision
+#### Computer Vision 
 
 * [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library.
 * [VLFeat](http://www.vlfeat.org/) - VLFeat is an open and portable library of computer vision algorithms, which has a Matlab toolbox.
@@ -197,7 +198,7 @@ Future
 ## C++
 
 <a name="cpp-cv"></a>
-#### Computer Vision
+#### Computer Vision 
 
 * [DLib](http://dlib.net/imaging.html) - DLib has C++ and Python interfaces for face detection and training general object detectors.
 * [EBLearn](http://eblearn.sourceforge.net/) - Eblearn is an object-oriented C++ library that implements various machine learning models **[Deprecated]**
@@ -318,7 +319,7 @@ Future
 * [Envision](https://github.com/clojurewerkz/envision) - Clojure Data Visualisation library, based on Statistiker and D3.
 
 <a name="crystal"></a>
-## Crystal
+## Crystal general purpose 
 
 <a name="crystal-general-purpose"></a>
 #### General-Purpose Machine Learning
@@ -526,7 +527,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 ## Javascript
 
 <a name="javascript-nlp"></a>
-#### Natural Language Processing
+#### Natural Language Processing 
 
 * [Twitter-text](https://github.com/twitter/twitter-text) - A JavaScript implementation of Twitter's text processing library.
 * [natural](https://github.com/NaturalNode/natural) - General natural language facilities for node.
@@ -1445,7 +1446,7 @@ be
 * [TDSP-Utilities](https://github.com/Azure/Azure-TDSP-Utilities) - Two data science utilities in R from Microsoft: 1) Interactive Data Exploration, Analysis, and Reporting (IDEAR) ; 2) Automated Modeling and Reporting (AMR).
 
 <a name="r-data-analysis"></a>
-#### Data Manipulation | Data Analysis | Data Visualization
+#### Data Manipulation | Data Analysis | Data Visualization 
 
 * [dplyr](https://www.rdocumentation.org/packages/dplyr/versions/0.7.8) - A data manipulation package that helps to solve the most common data manipulation problems.
 * [ggplot2](https://ggplot2.tidyverse.org/) - A data visualization package based on the grammar of graphics.
@@ -1600,3 +1601,5 @@ be
 Machine learning (ML) is the study of computer algorithms that improve automatically through experience.[1][2] It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to do so.[3] Machine learning algorithms are used in a wide variety of applications, such as email filtering and computer vision, where it is difficult or infeasible to develop conventional algorithms to perform the needed tasks.
 
 Machine learning is closely related to computational statistics, which focuses on making predictions using computers. The study of mathematical optimization delivers methods, theory and application domains to the field of machine learning. Data mining is a related field of study, focusing on exploratory data analysis through unsupervised learning.[5][6] In its application across business problems, machine learning is also referred to as predictive analytics.
+ 
+ This is very useful
