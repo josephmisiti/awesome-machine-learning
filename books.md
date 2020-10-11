@@ -102,7 +102,6 @@ The following is a list of free and/or open source books on machine learning, st
 
 ## Linear Algebra
 
-* [Linear Algebra and its applications by Gilbert strang](http://www.math.hcmus.edu.vn/~bxthang/Linear%20algebra%20and%20its%20applications.pdf)
 * [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 * [Linear Algebra by Shilov](https://cosmathclub.files.wordpress.com/2014/10/georgi-shilov-linear-algebra4.pdf)
 * [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW.html)
