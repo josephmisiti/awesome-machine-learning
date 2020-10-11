@@ -1251,7 +1251,7 @@ be
 * [Data Driven Code](https://github.com/atmb4u/data-driven-code) - Very simple implementation of neural networks for dummies in python without using any libraries, with detailed comments.
 * [Machine Learning, Data Science and Deep Learning with Python](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python) - LiveVideo course that covers machine learning, Tensorflow, artificial intelligence, and neural networks.
 * [TResNet: High Performance GPU-Dedicated Architecture](https://github.com/mrT23/TResNet) - TResNet models were designed and optimized to give the best speed-accuracy tradeoff out there on GPUs. 
-* [TResNet: Simple and powerfull neural network library for python](https://github.com/zueve/neurolab) - Variety of supported types of Artificial Neural Network and learning algorithms.
+* [TResNet: Simple and powerful neural network library for python](https://github.com/zueve/neurolab) - Variety of supported types of Artificial Neural Network and learning algorithms.
 
 
 <a name="python-kaggle"></a>
@@ -1305,7 +1305,7 @@ be
 * [Awesome NLP with Ruby](https://github.com/arbox/nlp-with-ruby) - Curated link list for practical natural language processing in Ruby.
 * [Treat](https://github.com/louismullie/treat) - Text REtrieval and Annotation Toolkit, definitely the most comprehensive toolkit I’ve encountered so far for Ruby.
 * [Stemmer](https://github.com/aurelian/ruby-stemmer) - Expose libstemmer_c to Ruby. **[Deprecated]**
-* [Raspel](https://sourceforge.net/projects/raspell/) - raspell is an interface binding for ruby. **[Deprecated]**
+* [Raspell](https://sourceforge.net/projects/raspell/) - raspell is an interface binding for ruby. **[Deprecated]**
 * [UEA Stemmer](https://github.com/ealdent/uea-stemmer) - Ruby port of UEALite Stemmer - a conservative stemmer for search and indexing.
 * [Twitter-text-rb](https://github.com/twitter/twitter-text/tree/master/rb) - A library that does auto linking and extraction of usernames, lists and hashtags in tweets.
 
