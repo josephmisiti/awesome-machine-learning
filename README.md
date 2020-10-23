@@ -44,9 +44,14 @@ Further resources:
   - [Common Lisp](#common-lisp)
       - [General-Purpose Machine Learning](#general-purpose-machine-learning-3)
   - [Clojure](#clojure)
-      - [Natural Language Processing](#natural-language-processing-1)
-      - [General-Purpose Machine Learning](#general-purpose-machine-learning-4)
-      - [Data Analysis / Data Visualization](#data-analysis--data-visualization)
+      - [Natural Language Processing](#clojure-nlp)
+      - [General-Purpose Machine Learning](#clojure-general-purpose)
+      - [Deep Learning](#clojure-deep-learning)
+      - [Data Analysis](#clojure-data-analysis)
+      - [Data Visualization](#clojure-data-visualization)
+      - [Interop](#clojure-interop)
+      - [Misc](#clojure-misc)
+      - [Extra](#clojure-extra)
   - [Crystal](#crystal)
       - [General-Purpose Machine Learning](#general-purpose-machine-learning-5)
   - [Elixir](#elixir)
@@ -297,25 +302,65 @@ Further resources:
 <a name="clojure-general-purpose"></a>
 #### General-Purpose Machine Learning
 
-* [Touchstone](https://github.com/ptaoussanis/touchstone) - Clojure A/B testing library. **[Deprecated]**
+* [tech.ml](https://github.com/techascent/tech.ml) - A machine learning platform based on tech.ml.dataset, supporting not just ml algorithms, but also relevant ETL processing; wraps multiple machine learning libraries
+* [clj-ml](https://github.com/joshuaeckroth/clj-ml/) - A machine learning library for Clojure built on top of Weka and friends. 
+* [clj-boost](https://gitlab.com/alanmarazzi/clj-boost) - Wrapper for XGBoost
+* [Touchstone](https://github.com/ptaoussanis/touchstone) - Clojure A/B testing library. 
 * [Clojush](https://github.com/lspector/Clojush) - The Push programming language and the PushGP genetic programming system implemented in Clojure.
+* [lambda-ml](https://github.com/cloudkj/lambda-ml) - Simple, concise implementations of machine learning techniques and utilities in Clojure.
 * [Infer](https://github.com/aria42/infer) - Inference and machine learning in Clojure. **[Deprecated]**
-* [Clj-ML](https://github.com/antoniogarrote/clj-ml) - A machine learning library for Clojure built on top of Weka and friends. **[Deprecated]**
-* [DL4CLJ](https://github.com/yetanalytics/dl4clj) - Clojure wrapper for Deeplearning4j.
 * [Encog](https://github.com/jimpil/enclog) - Clojure wrapper for Encog (v3) (Machine-Learning framework that specializes in neural-nets). **[Deprecated]**
 * [Fungp](https://github.com/vollmerm/fungp) - A genetic programming library for Clojure. **[Deprecated]**
 * [Statistiker](https://github.com/clojurewerkz/statistiker) - Basic Machine Learning algorithms in Clojure. **[Deprecated]**
 * [clortex](https://github.com/htm-community/clortex) - General Machine Learning library using Numenta’s Cortical Learning Algorithm. **[Deprecated]**
 * [comportex](https://github.com/htm-community/comportex) - Functionally composable Machine Learning library using Numenta’s Cortical Learning Algorithm. **[Deprecated]**
+
+<a name="clojure-deep-learning"></a>
+#### Deep Learning
+* [MXNet](https://mxnet.apache.org/versions/1.7.0/api/clojure) - Bindings to Apache MXNet - part of the MXNet project
+* [Deep Diamond](https://github.com/uncomplicate/deep-diamond) - A fast Clojure Tensor & Deep Learning library
+* [jutsu.ai](https://github.com/hswick/jutsu.ai) - Clojure wrapper for deeplearning4j with some added syntactic sugar.
 * [cortex](https://github.com/originrose/cortex) - Neural networks, regression and feature learning in Clojure.
-* [lambda-ml](https://github.com/cloudkj/lambda-ml) - Simple, concise implementations of machine learning techniques and utilities in Clojure.
+* [Flare](https://github.com/aria42/flare) - Dynamic Tensor Graph library in Clojure (think PyTorch, DynNet, etc.) 
+* [dl4clj](https://github.com/yetanalytics/dl4clj) - Clojure wrapper for Deeplearning4j.
 
 <a name="clojure-data-analysis"></a>
-#### Data Analysis / Data Visualization
-
+#### Data Analysis 
+* [tech.ml.dataset](https://github.com/techascent/tech.ml.dataset) - Clojure dataframe library and pipeline for data processing and machine learning  
+* [Tablecloth](https://github.com/scicloj/tablecloth) - A dataframe grammar wrapping tech.ml.dataset, inspired by several R libraries
+* [Panthera](https://github.com/alanmarazzi/panthera) - Clojure API wrapping Python's Pandas library
 * [Incanter](http://incanter.org/) - Incanter is a Clojure-based, R-like platform for statistical computing and graphics.
 * [PigPen](https://github.com/Netflix/PigPen) - Map-Reduce for Clojure.
+* [Geni](https://github.com/zero-one-group/geni) - a Clojure dataframe library that runs on Apache Spark
+
+<a name="clojure-data-visualization"></a>
+#### Data Visualization
+* [Hanami](https://github.com/jsa-aerial/hanami) : Clojure(Script) library and framework for creating interactive visualization applications based in Vega-Lite (VGL) and/or Vega (VG) specifications. Automatic framing and layouts along with a powerful templating system for abstracting visualization specs
+* [Saite](https://github.com/jsa-aerial/saite) -  Clojure(Script) client/server application for dynamic interactive explorations and the creation of live shareable documents capturing them using Vega/Vega-Lite, CodeMirror, markdown, and LaTeX
+* [Oz](https://github.com/metasoarous/oz) - Data visualisation using Vega/Vega-Lite and Hiccup, and a live-reload platform for literate-programming
 * [Envision](https://github.com/clojurewerkz/envision) - Clojure Data Visualisation library, based on Statistiker and D3.
+* [Pink Gorilla Notebook](https://github.com/pink-gorilla/gorilla-notebook) - A Clojure/Clojurescript notebook application/-library based on Gorilla-REPL 
+* [clojupyter](https://github.com/clojupyter/clojupyter) -  A Jupyter kernel for Clojure - run Clojure code in Jupyter Lab, Notebook and Console.
+* [notespace](https://github.com/scicloj/notespace) - Notebook experience in your Clojure namespace
+
+<a name="clojure-interop"></a>
+#### Interop
+
+* [Java Interop](https://clojure.org/reference/java_interop) - Clojure has Native Java Interop from which Java's ML ecosystem can be accessed
+* [JavaScript Interop](https://clojurescript.org/reference/javascript-api) - ClojureScript has Native JavaScript Interop from which JavaScript's ML ecosystem can be accessed
+* [Libpython-clj](https://github.com/clj-python/libpython-clj) - Interop with Python
+* [ClojisR](https://github.com/scicloj/clojisr) - Interop with R and Renjin (R on the JVM)
+
+<a name="clojure-misc"></a>
+#### Misc
+* [Neanderthal](https://neanderthal.uncomplicate.org/) - Fast Clojure Matrix Library (native CPU, GPU, OpenCL, CUDA)
+* [kixistats](https://github.com/MastodonC/kixi.stats) - A library of statistical distribution sampling and transducing functions 
+* [fastmath](https://github.com/generateme/fastmath) - A collection of functions for mathematical and statistical computing, macine learning, etc., wrapping several JVM libraries
+* [matlib](https://github.com/atisharma/matlib) - a Clojure library of optimisation and control theory tools and convenience functions based on Neanderthal.
+
+<a name="clojure-extra"></a>
+#### Extra
+* [Scicloj](https://scicloj.github.io/pages/libraries/) - Curated list of ML related resources for Clojure.
 
 <a name="crystal"></a>
 ## Crystal
