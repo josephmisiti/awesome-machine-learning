@@ -326,7 +326,8 @@ Further resources:
 * [Envision](https://github.com/clojurewerkz/envision) - Clojure Data Visualisation library, based on Statistiker and D3.
 * [Pink Gorilla Notebook](https://github.com/pink-gorilla/gorilla-notebook) - A Clojure/Clojurescript notebook application/-library based on Gorilla-REPL 
 * [clojupyter](https://github.com/clojupyter/clojupyter) -  A Jupyter kernel for Clojure - run Clojure code in Jupyter Lab, Notebook and Console.
-* [notespace](https://github.com/scicloj/notespace) - Notebook experience in your Clojure namespace
+* [notespace](https://github.com/scicloj/notespace) - Notebook experience in your Clojure namespace 
+* [Delight](https://github.com/datamechanics/delight) - A listener that streams your spark events logs to delight, a free and improved spark UI 
 
 <a name="clojure-interop"></a>
 #### Interop
