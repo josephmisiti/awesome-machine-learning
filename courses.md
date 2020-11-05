@@ -46,3 +46,4 @@ The following is a list of free or paid online courses on machine learning, stat
 * [In-depth introduction to machine learning in 15 hours of expert videos (by Prof. Trevor Hastie, Prof. Rob Tibshirani, Stanford)](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/) - free
 * [Data Scientist in Python (Dataquest)](https://www.dataquest.io/path/data-scientist/) - free and $
 * [AI Expert Roadmap - Roadmap to becoming an Artificial Intelligence Expert](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - free
+* [Semi-Supervised Deep Learning with GANs for Melanoma Detection](https://www.manning.com/liveproject/semi-supervised-deep-learning-with-gans-for-melanoma-detection) - $
