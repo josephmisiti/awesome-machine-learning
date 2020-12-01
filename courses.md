@@ -48,3 +48,4 @@ The following is a list of free or paid online courses on machine learning, stat
 * [AI Expert Roadmap - Roadmap to becoming an Artificial Intelligence Expert](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - free
 * [Semi-Supervised Deep Learning with GANs for Melanoma Detection](https://www.manning.com/liveproject/semi-supervised-deep-learning-with-gans-for-melanoma-detection) - $
 * [Interpretable AI](https://www.manning.com/books/interpretable-ai) - $
+* [Deploying a Deep Learning Model on Web and Mobile Applications Using TensorFlow](https://www.manning.com/liveproject/deploying-a-deep-learning-model-on-web-and-mobile-applications-using-tensorflow) - $ Hands-on project
