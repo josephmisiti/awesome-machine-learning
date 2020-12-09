@@ -49,6 +49,8 @@ The following is a list of free and/or open source books on machine learning, st
 - [Machine Learning Bookcamp](https://www.manning.com/books/machine-learning-bookcamp) - Alexey Grigorev - a project-based approach on learning machine learning (early access).
 - [AI Summer](https://theaisummer.com/) A blog to help you learn Deep Learning an Artificial Intelligence
 - [Python Data Science Handbook- Oriely](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
+
 ## Deep Learning
 
 * [Deep Learning - An MIT Press book](https://www.deeplearningbook.org/)
