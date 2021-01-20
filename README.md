@@ -1031,7 +1031,7 @@ be
 * [textacy](https://github.com/chartbeat-labs/textacy) - higher-level NLP built on Spacy.
 * [stanford-corenlp-python](https://github.com/dasmith/stanford-corenlp-python) - Python wrapper for [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP) **[Deprecated]**
 * [CLTK](https://github.com/cltk/cltk) - The Classical Language Toolkit.
-* [rasa_nlu](https://github.com/RasaHQ/rasa_nlu) - turn natural language into structured data.
+* [Rasa](https://github.com/RasaHQ/rasa) - A "machine learning framework to automate text-and voice-based conversations."
 * [yase](https://github.com/PPACI/yase) - Transcode sentence (or other sequence) to list of word vector .
 * [Polyglot](https://github.com/aboSamoor/polyglot) - Multilingual text (NLP) processing toolkit.
 * [DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to answer open-domain questions.
