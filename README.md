@@ -1172,6 +1172,7 @@ be
 * [OPFython](https://github.com/gugarosa/opfython) - A Python-inspired implementation of the Optimum-Path Forest classifier.
 * [Opytimizer](https://github.com/gugarosa/opytimizer) - Python-based meta-heuristic optimization techniques. 
 * [Gradio](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
+* [Synthia](https://github.com/dmey/synthia) - Multidimensional synthetic data generation in Python.
 
 <a name="python-data-analysis"></a>
 #### Data Analysis / Data Visualization
