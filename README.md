@@ -151,8 +151,9 @@ Further resources:
 
 ### [Tools](#tools-1)
 
-  - [Neural Networks](#neural-networks-2)
-  - [Misc](#misc-3)
+- [Neural Networks](#tools-neural-networks)
+- [Misc](#tools-misc)
+
 
 [Credits](#credits)
 
