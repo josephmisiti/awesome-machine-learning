@@ -25,7 +25,7 @@ Further resources:
 ### Frameworks and Libraries
 <!-- MarkdownTOC depth=4 -->
 
-- [Awesome Machine Learning ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#awesome-machine-learning-awesomehttpsgithubcomsindresorhusawesome)
+- [Awesome Machine Learning ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#awesome-machine-learning-)
   - [Table of Contents](#table-of-contents)
     - [Frameworks and Libraries](#frameworks-and-libraries)
     - [Tools](#tools)
@@ -60,8 +60,8 @@ Further resources:
   - [Erlang](#erlang)
       - [General-Purpose Machine Learning](#erlang-general-purpose-machine-learning)
   - [Fortran](#fortran)
-      - [General-Purpose Machine Learning](#fortran-general-purpose-machine-learning)
-      - [Data Analysis / Data Visualization](#fortran-data-analysis-visualization)
+      - [General-Purpose Machine Learning](#general-purpose-machine-learning-8)
+      - [Data Analysis / Data Visualization](#data-analysis--data-visualization)
   - [Go](#go)
       - [Natural Language Processing](#go-natural-language-processing)
       - [General-Purpose Machine Learning](#go-general-purpose-machine-learning)
@@ -1033,7 +1033,7 @@ be
 * [textacy](https://github.com/chartbeat-labs/textacy) - higher-level NLP built on Spacy.
 * [stanford-corenlp-python](https://github.com/dasmith/stanford-corenlp-python) - Python wrapper for [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP) **[Deprecated]**
 * [CLTK](https://github.com/cltk/cltk) - The Classical Language Toolkit.
-* [rasa_nlu](https://github.com/RasaHQ/rasa_nlu) - turn natural language into structured data.
+* [Rasa](https://github.com/RasaHQ/rasa) - A "machine learning framework to automate text-and voice-based conversations."
 * [yase](https://github.com/PPACI/yase) - Transcode sentence (or other sequence) to list of word vector .
 * [Polyglot](https://github.com/aboSamoor/polyglot) - Multilingual text (NLP) processing toolkit.
 * [DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to answer open-domain questions.
@@ -1174,6 +1174,8 @@ be
 * [OPFython](https://github.com/gugarosa/opfython) - A Python-inspired implementation of the Optimum-Path Forest classifier.
 * [Opytimizer](https://github.com/gugarosa/opytimizer) - Python-based meta-heuristic optimization techniques. 
 * [Gradio](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
+* [Synthia](https://github.com/dmey/synthia) - Multidimensional synthetic data generation in Python.
+
 
 <a name="python-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization
@@ -1297,7 +1299,7 @@ be
 * [TResNet: High Performance GPU-Dedicated Architecture](https://github.com/mrT23/TResNet) - TResNet models were designed and optimized to give the best speed-accuracy tradeoff out there on GPUs. 
 * [TResNet: Simple and powerful neural network library for python](https://github.com/zueve/neurolab) - Variety of supported types of Artificial Neural Network and learning algorithms.
 * [Jina AI](https://jina.ai/) An easier way to build neural search in the cloud. Compatible with Jupyter Notebooks. 
-
+* [sequitur](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
 
 <a name="python-kaggle-competition-source-code"></a>
 #### Kaggle Competition Source Code
@@ -1624,6 +1626,8 @@ be
 
 <a name="tools-misc"></a>
 #### Misc
+
+* [Pinecone](https://www.pinecone.io/) - Vector database for applications that require real-time, scalable vector embedding and similarity search.
 * [CatalyzeX](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) - Browser extension ([Chrome](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/code-finder-catalyzex/)) that automatically finds and shows code implementations for machine learning papers anywhere: Google, Twitter, Arxiv, Scholar, etc.
 * [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) and dev tools (e.g., Jupyter, VS Code).
 * [Notebooks](https://github.com/rlan/notebooks) - A starter kit for Jupyter notebooks and machine learning. Companion docker images consist of all combinations of python versions, machine learning frameworks (Keras, PyTorch and Tensorflow) and CPU/CUDA versions.
