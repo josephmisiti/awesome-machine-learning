@@ -66,7 +66,7 @@ Data Science / Statistics
 * https://www.cs.ox.ac.uk/people/yarin.gal/website/blog.html
 * [LightTag NLP Blog](https://www.lighttag.io/blog)
 * https://datatalks.club/articles.html
-
+* https://www.nbshare.io/notebooks/data-science/
 
 Math
 ----
