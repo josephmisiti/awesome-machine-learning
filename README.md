@@ -1044,6 +1044,7 @@ be
 * [DeepPavlov](https://github.com/deepmipt/DeepPavlov/) - conversational AI library with many pre-trained Russian NLP models.
 * [BigARTM](https://github.com/bigartm/bigartm) - topic modelling platform.
 * [NALP](https://github.com/gugarosa/nalp) - A Natural Adversarial Language Processing framework built over Tensorflow.
+* [DL Translate](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library between 50 languages, built with `transformers`.
 
 <a name="python-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
