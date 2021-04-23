@@ -533,7 +533,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [SystemML](https://github.com/apache/systemml) - flexible, scalable machine learning (ML) language.
 * [Weka](https://www.cs.waikato.ac.nz/ml/weka/) - Weka is a collection of machine learning algorithms for data mining tasks.
 * [LBJava](https://github.com/CogComp/lbjava) - Learning Based Java is a modeling language for the rapid development of software systems, offers a convenient, declarative syntax for classifier and constraint definition directly in terms of the objects in the programmer's application.
-
+* [knn-java-library](https://github.com/felipexw/knn-java-library) - Just a simple implementation of K-Nearest Neighbors algorithm using with a bunch of similarity measures.
 
 <a name="java-speech-recognition"></a>
 #### Speech Recognition
