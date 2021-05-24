@@ -3,6 +3,7 @@ Blogs/Podcasts
 
 * [Hacker News for Data Science](https://www.datatau.com/news)
 * [LightTag's Labeled Data Blog](https://lighttag.io/blog)
+* [Freecodecamp articles](https://www.freecodecamp.org/news/tag/machine-learning/)
 
 Podcasts
 --------
