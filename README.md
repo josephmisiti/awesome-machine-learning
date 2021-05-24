@@ -1002,6 +1002,7 @@ be
 * [Lucent](https://github.com/greentfrapp/lucent) - Tensorflow and OpenAI Clarity's Lucid adapted for PyTorch.
 * [lightly](https://github.com/lightly-ai/lightly) - Lightly is a computer vision framework for self-supervised learning.
 * [Learnergy](https://github.com/gugarosa/learnergy) - Energy-based machine learning models built upon PyTorch.
+* [OpenVisionAPI](https://github.com/openvisionapi) - Open source computer vision API based on open source models.
 
 <a name="python-natural-language-processing"></a>
 #### Natural Language Processing
