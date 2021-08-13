@@ -1004,6 +1004,7 @@ be
 * [lightly](https://github.com/lightly-ai/lightly) - Lightly is a computer vision framework for self-supervised learning.
 * [Learnergy](https://github.com/gugarosa/learnergy) - Energy-based machine learning models built upon PyTorch.
 * [OpenVisionAPI](https://github.com/openvisionapi) - Open source computer vision API based on open source models.
+* [IoT Owl](https://github.com/Ret2Me/IoT-Owl) - Light face detection and recognition system with huge possibilities, based on Microsoft Face API and TensorFlow made for small IoT devices like raspberry pi.
 
 <a name="python-natural-language-processing"></a>
 #### Natural Language Processing
