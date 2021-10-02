@@ -1664,6 +1664,9 @@ be
 * [Pythonizr](https://pythonizr.com) - An online tool to generate boilerplate machine learning code that uses scikit-learn.
 * [Flyte](https://flyte.org/) - Flyte makes it easy to create concurrent, scalable, and maintainable workflows for machine learning and data processing. 
 <a name="credits"></a>
+* [Netron](https://netron.app/) - An opensource viewer for neural network, deep learning and machine learning models
+* [Teachable Machine](https://teachablemachine.withgoogle.com/) - Train Machine Learning models on the fly to recognize your own images, sounds, & poses.
+* [Model Zoo](https://modelzoo.co/) - Discover open source deep learning code and pretrained models.
 
 ## Credits
 
