@@ -51,6 +51,7 @@ The following is a list of free and/or open source books on machine learning, st
 - [Python Data Science Handbook- Oriely](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [Approaching Almost any Machine learning problem Abhishek Thakur](https://github.com/abhishekkrthakur/approachingalmost)
+- [MLOps Engineering at Scale](https://www.manning.com/books/mlops-engineering-at-scale)
 
 ## Deep Learning
 
