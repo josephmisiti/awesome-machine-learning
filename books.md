@@ -51,14 +51,15 @@ The following is a list of free and/or open source books on machine learning, st
 - [Python Data Science Handbook- Oriely](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [Approaching Almost any Machine learning problem Abhishek Thakur](https://github.com/abhishekkrthakur/approachingalmost)
-- [MLOps Engineering at Scale](https://www.manning.com/books/mlops-engineering-at-scale)
-- [AI-Powered Search](https://www.manning.com/books/ai-powered-search)
+- [MLOps Engineering at Scale](https://www.manning.com/books/mlops-engineering-at-scale) - Carl Osipov. Early access book that bridges the gap from experimental models to production machine learning systems.
+- [AI-Powered Search](https://www.manning.com/books/ai-powered-search) - Trey Grainger, Doug Turnbull, Max Irwin. Early access book that teaches you the latest machine learning techniques to create search engines that continuously learn from your users and your content
 
 
 ## Deep Learning
 
 * [Deep Learning - An MIT Press book](https://www.deeplearningbook.org/)
 * [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
+* [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition) Early access book
 * [Deep Learning with JavaScript](https://www.manning.com/books/deep-learning-with-javascript) Early access book
 * [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) Early access book
 * [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search) Early access book
@@ -75,6 +76,7 @@ The following is a list of free and/or open source books on machine learning, st
 * [NLTK](https://www.nltk.org/book/)
 * [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/promo/)
 * [Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action) Early access book
+* [Natural Language Processing in Action, Second Edition](https://www.manning.com/books/natural-language-processing-in-action-second-edition) Early access book
 * [Real-World Natural Language Processing](https://www.manning.com/books/real-world-natural-language-processing) Early access book
 * [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) Early access book
 
