@@ -51,8 +51,9 @@ The following is a list of free and/or open source books on machine learning, st
 - [Python Data Science Handbook- Oriely](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [Approaching Almost any Machine learning problem Abhishek Thakur](https://github.com/abhishekkrthakur/approachingalmost)
-- [MLOps Engineering at Scale](https://www.manning.com/books/mlops-engineering-at-scale)
-- [AI-Powered Search](https://www.manning.com/books/ai-powered-search)
+- [MLOps Engineering at Scale](https://www.manning.com/books/mlops-engineering-at-scale) - Carl Osipov - A a guide to bringing your experimental machine learning code to production using serverless capabilities from major cloud providers.
+- [AI-Powered Search](https://www.manning.com/books/ai-powered-search) - Trey Grainger, Doug Turnbull, Max Irwin - A guide to applying leading-edge data science techniques to search.
+- [Human-in-the-Loop Machine Learning: Active learning and annotation for human-centered AI](https://www.manning.com/books/human-in-the-loop-machine-learning) - Robert (Munro) Monarch - a practical guide to optimizing the entire machine learning process, including techniques for annotation, active learning, transfer learning, and using machine learning to optimize every step of the process.
 
 
 ## Deep Learning
