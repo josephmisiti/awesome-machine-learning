@@ -51,8 +51,13 @@ The following is a list of free and/or open source books on machine learning, st
 - [Python Data Science Handbook- Oriely](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [Approaching Almost any Machine learning problem Abhishek Thakur](https://github.com/abhishekkrthakur/approachingalmost)
-- [MLOps Engineering at Scale](https://www.manning.com/books/mlops-engineering-at-scale) - Carl Osipov - A a guide to bringing your experimental machine learning code to production using serverless capabilities from major cloud providers.
-- [AI-Powered Search](https://www.manning.com/books/ai-powered-search) - Trey Grainger, Doug Turnbull, Max Irwin - A guide to applying leading-edge data science techniques to search.
+- [MLOps Engineering at Scale](https://www.manning.com/books/mlops-engineering-at-scale) - Carl Osipov - Guide to bringing your experimental machine learning code to production using serverless capabilities from major cloud providers.
+- [AI-Powered Search](https://www.manning.com/books/ai-powered-search) - Trey Grainger, Doug Turnbull, Max Irwin - Early access book that teaches you how to build search engines that automatically understand the intention of a query in order to deliver significantly better results.
+- [Ensemble Methods for Machine Learning](https://www.manning.com/books/ensemble-methods-for-machine-learning) - Gautam Kunapuli - Early access book that teaches you to implement the most important ensemble machine learning methods from scratch.
+- [Machine Learning Engineering in Action](https://www.manning.com/books/machine-learning-engineering-in-action) - Ben Wilson - Field-tested tips, tricks, and design patterns for building Machine Learning projects that are deployable, maintainable, and secure from concept to production.
+- [Privacy-Preserving Machine Learning](https://www.manning.com/books/privacy-preserving-machine-learning) - J. Morris Chang, Di Zhuang, G. Dumindu Samaraweera - Keep sensitive user data safe and secure, without sacrificing the accuracy of your machine learning models.
+- [Automated Machine Learning in Action](https://www.manning.com/books/automated-machine-learning-in-action) - Qingquan Song, Haifeng Jin, and Xia Hu - Optimize every stage of your machine learning pipelines with powerful automation components and cutting-edge tools like AutoKeras and Keras Tuner.
+- [Distributed Machine Learning Patterns](https://www.manning.com/books/distributed-machine-learning-patterns) - Yuan Tang - Practical patterns for scaling machine learning from your laptop to a distributed cluster.
 - [Human-in-the-Loop Machine Learning: Active learning and annotation for human-centered AI](https://www.manning.com/books/human-in-the-loop-machine-learning) - Robert (Munro) Monarch - a practical guide to optimizing the entire machine learning process, including techniques for annotation, active learning, transfer learning, and using machine learning to optimize every step of the process.
 
 
@@ -69,15 +74,22 @@ The following is a list of free and/or open source books on machine learning, st
 * [Deep Learning with Structured Data](https://www.manning.com/books/deep-learning-with-structured-data) Early access book
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
 * [Deep Learning](https://www.deeplearningbook.org/)[Ian Goodfellow, Yoshua Bengio and Aaron Courville]
+* [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition) 
+* [Inside Deep Learning](https://www.manning.com/books/inside-deep-learning) Early access book
+* [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) Early access book
+* [Deep Learning for Natural Lanuage Processing](https://www.manning.com/books/deep-learning-for-natural-language-processing) Early access book
 
 ## Natural Language Processing
 
 * [Coursera Course Book on NLP](http://www.cs.columbia.edu/~mcollins/notes-spring2013.html)
 * [NLTK](https://www.nltk.org/book/)
 * [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/promo/)
-* [Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action) Early access book
+* [Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action) 
 * [Real-World Natural Language Processing](https://www.manning.com/books/real-world-natural-language-processing) Early access book
 * [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) Early access book
+* [Deep Learning for Natural Lanuage Processing](https://www.manning.com/books/deep-learning-for-natural-language-processing) Early access book
+* [Natural Language Processing in Action, Second Edition](https://www.manning.com/books/natural-language-processing-in-action-second-edition) Early access book
+* [Getting Started with Natural Language Processing in Action](https://www.manning.com/books/getting-started-with-natural-language-processing) Early access book
 
 ## Information Retrieval
 
@@ -87,6 +99,7 @@ The following is a list of free and/or open source books on machine learning, st
 
 * [A Brief Introduction to Neural Networks](http://www.dkriesel.com/_media/science/neuronalenetze-en-zeta2-2col-dkrieselcom.pdf)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+* [Graph Neural Networks in Action](https://www.manning.com/books/graph-neural-networks-in-action)
 
 ## Probability & Statistics
 
