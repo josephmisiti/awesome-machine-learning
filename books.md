@@ -65,6 +65,7 @@ The following is a list of free and/or open source books on machine learning, st
 
 * [Deep Learning - An MIT Press book](https://www.deeplearningbook.org/)
 * [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
+* [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition) Early access book
 * [Deep Learning with JavaScript](https://www.manning.com/books/deep-learning-with-javascript) Early access book
 * [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) Early access book
 * [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search) Early access book
@@ -84,7 +85,8 @@ The following is a list of free and/or open source books on machine learning, st
 * [Coursera Course Book on NLP](http://www.cs.columbia.edu/~mcollins/notes-spring2013.html)
 * [NLTK](https://www.nltk.org/book/)
 * [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/promo/)
-* [Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action) 
+* [Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action) Early access book
+* [Natural Language Processing in Action, Second Edition](https://www.manning.com/books/natural-language-processing-in-action-second-edition) Early access book
 * [Real-World Natural Language Processing](https://www.manning.com/books/real-world-natural-language-processing) Early access book
 * [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) Early access book
 * [Deep Learning for Natural Lanuage Processing](https://www.manning.com/books/deep-learning-for-natural-language-processing) Early access book
