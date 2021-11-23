@@ -25,6 +25,7 @@ Newsletters
 
 * [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
 * [DataTalks.Club](https://datatalks.club). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa)
+* [The Batch](https://read.deeplearning.ai/the-batch/) Andrew Ng's weekly AI newsletter for engineers, executives, and enthusiasts including updates on recent AI research developments.
 
 Data Science / Statistics
 -------------------------
