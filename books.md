@@ -2,6 +2,7 @@ The following is a list of free and/or open source books on machine learning, st
 
 ## Machine Learning / Data Mining
 
+* [Distributed Machine Learning Patterns](https://github.com/terrytangyuan/distributed-ml-patterns)  - Book (free to read online) + Code
 * [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
 * [Real World Machine Learning](https://www.manning.com/books/real-world-machine-learning) [Free Chapters]
 * [An Introduction To Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/) - Book + R Code
