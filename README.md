@@ -88,6 +88,8 @@ Further resources:
       - [Natural Language Processing](#julia-natural-language-processing)
       - [Data Analysis / Data Visualization](#julia-data-analysis--data-visualization)
       - [Misc Stuff / Presentations](#julia-misc-stuff--presentations)
+  - [Kotlin](#kotlin)
+      - [Deep Learning](#kotlin-deep-learning)
   - [Lua](#lua)
       - [General-Purpose Machine Learning](#lua-general-purpose-machine-learning)
       - [Demos and Scripts](#lua-demos-and-scripts)
@@ -735,6 +737,13 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [SignalProcessing](https://github.com/JuliaDSP/DSP.jl) - Signal Processing tools for Julia.
 * [Images](https://github.com/JuliaImages/Images.jl) - An image library for Julia.
 * [DataDeps](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
+
+<a name="kotlin"></a>
+## Kotlin
+
+<a name="kotlin-deep-learning"></a>
+#### Deep Learning
+* [KotlinDL](https://github.com/JetBrains/KotlinDL) - Deep learning framework written in Kotlin.
 
 <a name="lua"></a>
 ## Lua
