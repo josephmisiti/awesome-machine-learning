@@ -123,6 +123,7 @@ Further resources:
       - [Data Analysis / Data Visualization](#python-data-analysis--data-visualization)
       - [Misc Scripts / iPython Notebooks / Codebases](#python-misc-scripts--ipython-notebooks--codebases)
       - [Neural Networks](#python-neural-networks)
+      - [Federated Learning](#federated-learning)
       - [Kaggle Competition Source Code](#python-kaggle-competition-source-code)
       - [Reinforcement Learning](#python-reinforcement-learning)
   - [Ruby](#ruby)
@@ -1338,6 +1339,12 @@ be
 * [TResNet: Simple and powerful neural network library for python](https://github.com/zueve/neurolab) - Variety of supported types of Artificial Neural Network and learning algorithms.
 * [Jina AI](https://jina.ai/) An easier way to build neural search in the cloud. Compatible with Jupyter Notebooks.
 * [sequitur](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
+
+<a name="federated-learning"></a>
+#### Federated Learning
+* [Flower](https://flower.dev/) - A unified approach to federated learning, analytics, and evaluation. Federate any workload, any ML framework, and any programming language.
+* [PySyft](https://github.com/OpenMined/PySyft) - A Python library for secure and private Deep Learning.
+* [Tensorflow-Federated](https://www.tensorflow.org/federated) A federated learning framework for machine learning and other computations on decentralized data.
 
 <a name="python-kaggle-competition-source-code"></a>
 #### Kaggle Competition Source Code
