@@ -123,6 +123,7 @@ Further resources:
       - [Data Analysis / Data Visualization](#python-data-analysis--data-visualization)
       - [Misc Scripts / iPython Notebooks / Codebases](#python-misc-scripts--ipython-notebooks--codebases)
       - [Neural Networks](#python-neural-networks)
+      - [Survival Analysis](#python-survival-analysis)
       - [Federated Learning](#federated-learning)
       - [Kaggle Competition Source Code](#python-kaggle-competition-source-code)
       - [Reinforcement Learning](#python-reinforcement-learning)
@@ -1346,6 +1347,11 @@ be
 * [Jina AI](https://jina.ai/) An easier way to build neural search in the cloud. Compatible with Jupyter Notebooks.
 * [sequitur](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
 
+<a name="python-survival-analysis"></a>
+#### Python Survival Analysis
+* [lifelines](https://github.com/CamDavidsonPilon/lifelines) - lifelines is a complete survival analysis library, written in pure Python
+* [Scikit-Survival](https://github.com/sebp/scikit-survival) - scikit-survival is a Python module for survival analysis built on top of scikit-learn. It allows doing survival analysis while utilizing the power of scikit-learn, e.g., for pre-processing or doing cross-validation.
+
 <a name="federated-learning"></a>
 #### Federated Learning
 * [Flower](https://flower.dev/) - A unified approach to federated learning, analytics, and evaluation. Federate any workload, any ML framework, and any programming language.
@@ -1474,7 +1480,6 @@ be
 * [CatBoost](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
 * [Clever Algorithms For Machine Learning](https://machinelearningmastery.com/)
 * [CORElearn](https://cran.r-project.org/web/packages/CORElearn/index.html) - CORElearn: Classification, regression, feature evaluation and ordinal evaluation.
-* [CoxBoost](https://cran.r-project.org/web/packages/CoxBoost/index.html) - CoxBoost: Cox models by likelihood based boosting for a single survival endpoint or competing risks **[Deprecated]**
 * [Cubist](https://cran.r-project.org/web/packages/Cubist/index.html) - Cubist: Rule- and Instance-Based Regression Modeling.
 * [e1071](https://cran.r-project.org/web/packages/e1071/index.html) - e1071: Misc Functions of the Department of Statistics (e1071), TU Wien
 * [earth](https://cran.r-project.org/web/packages/earth/index.html) - earth: Multivariate Adaptive Regression Spline Models
