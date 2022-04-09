@@ -1724,3 +1724,4 @@ be
 * Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
 * References for Go were mostly cut-and-pasted from [gopherdata](https://github.com/gopherdata/resources/tree/master/tooling)
 - Bhargav Sunkara this machine learning project is awesome
+- This is amazing and lots of pull requests .
