@@ -62,6 +62,7 @@ The following is a list of free and/or open source books on machine learning, st
 - [Human-in-the-Loop Machine Learning: Active learning and annotation for human-centered AI](https://www.manning.com/books/human-in-the-loop-machine-learning) - Robert (Munro) Monarch - a practical guide to optimizing the entire machine learning process, including techniques for annotation, active learning, transfer learning, and using machine learning to optimize every step of the process.
 - [Feature Engineering Bookcamp](https://www.manning.com/books/feature-engineering-bookcamp) - Maurucio Aniche - This book’s practical case-studies reveal feature engineering techniques that upgrade your data wrangling—and your ML results.
 - [Metalearning: Applications to Automated Machine Learning and Data Mining](https://link.springer.com/content/pdf/10.1007/978-3-030-67024-5.pdf) - Pavel Brazdil, Jan N. van Rijn, Carlos Soares, Joaquin Vanschoren
+- [Managing Machine Learning Projects: From design to deployment](https://www.manning.com/books/managing-machine-learning-projects) - Simon Thompson
 
 
 ## Deep Learning
