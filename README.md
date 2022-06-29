@@ -203,7 +203,8 @@ Further resources:
 <a name="cpp-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
-* [Nebullvm](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost AI inference leveraging multiple deep learning compilers. [DEEP LEARNING]
+* [Nebulgym](https://github.com/nebuly-ai/nebulgym) - Easy-to-use library to accelerate AI training. [DEEP LEARNING]
+* [Nebullvm](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost AI inference. [DEEP LEARNING]
 * [BanditLib](https://github.com/jkomiyama/banditlib) - A simple Multi-armed Bandit library. **[Deprecated]**
 * [Caffe](https://github.com/BVLC/caffe) - A deep learning framework developed with cleanliness, readability, and speed in mind. [DEEP LEARNING]
 * [CatBoost](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, contains fast inference implementation and supports CPU and GPU (even multi-GPU) computation.
@@ -297,7 +298,7 @@ Further resources:
 <a name="clojure-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
-* [tech.ml](https://github.com/techascent/tech.ml) - A machine learning platform based on tech.ml.dataset, supporting not just ml algorithms, but also relevant ETL processing; wraps multiple machine learning libraries
+* [scicloj.ml](https://github.com/scicloj/scicloj.ml) -  A idiomatic Clojure machine learning library based on tech.ml.dataset with a unique approach for immutable data processing pipelines.
 * [clj-ml](https://github.com/joshuaeckroth/clj-ml/) - A machine learning library for Clojure built on top of Weka and friends.
 * [clj-boost](https://gitlab.com/alanmarazzi/clj-boost) - Wrapper for XGBoost
 * [Touchstone](https://github.com/ptaoussanis/touchstone) - Clojure A/B testing library.
@@ -1221,6 +1222,7 @@ be
 * [Eurybia](https://github.com/MAIF/eurybia): Eurybia monitors data and model drift over time and securizes model deployment with data validation.
 * [Colossal-AI](https://github.com/hpcaitech/ColossalAI): An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
 * dirty_cat](https://github.com/dirty-cat/dirty_cat) - facilitates machine-learning on dirty, non-curated categories. It provides transformers and encoders robust to morphological variants, such as typos.
+* [Upgini](https://github.com/upgini/river): Free automated data & feature enrichment library for machine learning - automatically searches through thousands of ready-to-use features from public and community shared data sources and enriches your training dataset with only the accuracy improving features.
 
 <a name="python-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization
