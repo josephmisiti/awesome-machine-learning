@@ -60,8 +60,8 @@ Further resources:
   - [Erlang](#erlang)
       - [General-Purpose Machine Learning](#erlang-general-purpose-machine-learning)
   - [Fortran](#fortran)
-      - [General-Purpose Machine Learning](#general-purpose-machine-learning-8)
-      - [Data Analysis / Data Visualization](#data-analysis--data-visualization)
+      - [General-Purpose Machine Learning](#fortran-general-purpose-machine-learning)
+      - [Data Analysis / Data Visualization](#fortran-data-analysis--data-visualization)
   - [Go](#go)
       - [Natural Language Processing](#go-natural-language-processing)
       - [General-Purpose Machine Learning](#go-general-purpose-machine-learning)
@@ -124,7 +124,7 @@ Further resources:
       - [Misc Scripts / iPython Notebooks / Codebases](#python-misc-scripts--ipython-notebooks--codebases)
       - [Neural Networks](#python-neural-networks)
       - [Survival Analysis](#python-survival-analysis)
-      - [Federated Learning](#federated-learning)
+      - [Federated Learning](#python-federated-learning)
       - [Kaggle Competition Source Code](#python-kaggle-competition-source-code)
       - [Reinforcement Learning](#python-reinforcement-learning)
   - [Ruby](#ruby)
@@ -133,7 +133,7 @@ Further resources:
       - [Data Analysis / Data Visualization](#ruby-data-analysis--data-visualization)
       - [Misc](#ruby-misc)
   - [Rust](#rust)
-      - [General-Purpose Machine Learning](#general-purpose-machine-learning)
+      - [General-Purpose Machine Learning](#rust-general-purpose-machine-learning)
   - [R](#r)
       - [General-Purpose Machine Learning](#r-general-purpose-machine-learning)
       - [Data Analysis / Data Visualization](#r-data-analysis--data-visualization)
@@ -400,7 +400,7 @@ Further resources:
 * [neural-fortran](https://github.com/modern-fortran/neural-fortran) - A parallel neural net microframework.
 Read the paper [here](https://arxiv.org/abs/1902.06714).
 
-<a name="fortran-data-analysis-visualization"></a>
+<a name="fortran-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization
 
 * [ParaMonte](https://github.com/cdslaborg/paramonte) - A general-purpose Fortran library for Bayesian data analysis and visualization via serial/parallel Monte Carlo and MCMC simulations. Documentation can be found [here](https://www.cdslab.org/paramonte/).
@@ -1361,7 +1361,7 @@ be
 * [lifelines](https://github.com/CamDavidsonPilon/lifelines) - lifelines is a complete survival analysis library, written in pure Python
 * [Scikit-Survival](https://github.com/sebp/scikit-survival) - scikit-survival is a Python module for survival analysis built on top of scikit-learn. It allows doing survival analysis while utilizing the power of scikit-learn, e.g., for pre-processing or doing cross-validation.
 
-<a name="federated-learning"></a>
+<a name="python-federated-learning"></a>
 #### Federated Learning
 * [Flower](https://flower.dev/) - A unified approach to federated learning, analytics, and evaluation. Federate any workload, any ML framework, and any programming language.
 * [PySyft](https://github.com/OpenMined/PySyft) - A Python library for secure and private Deep Learning.
