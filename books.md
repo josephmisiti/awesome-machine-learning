@@ -34,12 +34,12 @@ The following is a list of free and/or open source books on machine learning, st
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage) Book+MatlabToolBox
 * [R Programming for Data Science](https://leanpub.com/rprogramming)
 * [Data Mining - Practical Machine Learning Tools and Techniques](https://cdn.preterhuman.net/texts/science_and_technology/artificial_intelligence/Data%20Mining%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%202d%20ed%20-%20Morgan%20Kaufmann.pdf) Book
-* [Machine Learning with TensorFlow](https://www.manning.com/books/machine-learning-with-tensorflow) Early access book
-* [Machine Learning Systems](https://www.manning.com/books/machine-learning-systems) Early access book
+* [Machine Learning with TensorFlow](https://www.manning.com/books/machine-learning-with-tensorflow) Early book access
+* [Machine Learning Systems](https://www.manning.com/books/machine-learning-systems) Early book access
 * [Hands‑On Machine Learning with Scikit‑Learn and TensorFlow](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf) - Aurélien Géron
-* [R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](https://r4ds.had.co.nz/) - Wickham and Grolemund. Great as introduction on how to use R. 
+* [R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](https://r4ds.had.co.nz/) - Wickham and Grolemund. Great introduction on how to use R language. 
 * [Advanced R](http://adv-r.had.co.nz/) - Hadley Wickham. More advanced usage of R for programming.
-* [Graph-Powered Machine Learning](https://www.manning.com/books/graph-powered-machine-learning) - Alessandro Negro. Combining graph theory and models to improve machine learning projects
+* [Graph-Powered Machine Learning](https://www.manning.com/books/graph-powered-machine-learning) - Alessandro Negro. Combining graph theory and models to improve machine learning projects.
 * [Machine Learning for Dummies](https://mscdss.ds.unipi.gr/wp-content/uploads/2018/02/Untitled-attachment-00056-2-1.pdf)
 * [Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - Early access book that provides basics of machine learning and using R programming language.
 * [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - Early access book that introduces the most valuable machine learning techniques.
@@ -64,6 +64,7 @@ The following is a list of free and/or open source books on machine learning, st
 - [Metalearning: Applications to Automated Machine Learning and Data Mining](https://link.springer.com/content/pdf/10.1007/978-3-030-67024-5.pdf) - Pavel Brazdil, Jan N. van Rijn, Carlos Soares, Joaquin Vanschoren
 - [Managing Machine Learning Projects: From design to deployment](https://www.manning.com/books/managing-machine-learning-projects) - Simon Thompson
 - [Causal Machine Learning](https://www.manning.com/books/causal-machine-learning) - Robert Ness - Practical introduction to building AI models that can reason about causality.
+- [Bayesian Optimization in Action](https://www.manning.com/books/bayesian-optimization-in-action) - Quan Nguyen - Book about building Bayesian optimization systems from the ground up.
 
 
 ## Deep Learning
