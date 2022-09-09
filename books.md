@@ -63,6 +63,7 @@ The following is a list of free and/or open source books on machine learning, st
 - [Feature Engineering Bookcamp](https://www.manning.com/books/feature-engineering-bookcamp) - Maurucio Aniche - This book’s practical case-studies reveal feature engineering techniques that upgrade your data wrangling—and your ML results.
 - [Metalearning: Applications to Automated Machine Learning and Data Mining](https://link.springer.com/content/pdf/10.1007/978-3-030-67024-5.pdf) - Pavel Brazdil, Jan N. van Rijn, Carlos Soares, Joaquin Vanschoren
 - [Managing Machine Learning Projects: From design to deployment](https://www.manning.com/books/managing-machine-learning-projects) - Simon Thompson
+- [Causal Machine Learning](https://www.manning.com/books/causal-machine-learning) - Robert Ness - Practical introduction to building AI models that can reason about causality.
 - [Bayesian Optimization in Action](https://www.manning.com/books/bayesian-optimization-in-action) - Quan Nguyen - Book about building Bayesian optimization systems from the ground up.
 
 
