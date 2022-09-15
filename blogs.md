@@ -27,6 +27,11 @@ Newsletters
 * [DataTalks.Club](https://datatalks.club). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa)
 * [The Batch](https://read.deeplearning.ai/the-batch/) Andrew Ng's weekly AI newsletter for engineers, executives, and enthusiasts including updates on recent AI research developments.
 
+Practice Questions
+-----------
+
+* [bnomial](https://today.bnomial.com/). Solve one Machine Learning questions daily and win exciting prizes.
+
 Data Science / Statistics
 -------------------------
 
