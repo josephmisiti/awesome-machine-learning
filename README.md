@@ -109,6 +109,7 @@ Further resources:
     - [General-Purpose Machine Learning](#ocaml-general-purpose-machine-learning)
   - [OpenCV](#opencv)
     - [Computer Vision](#opencv-Computer-Vision)
+    - [Text-Detection](#Text-Character-Number-Detection)
   - [Perl](#perl)
     - [Data Analysis / Data Visualization](#perl-data-analysis--data-visualization)
     - [General-Purpose Machine Learning](#perl-general-purpose-machine-learning)
