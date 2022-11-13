@@ -107,6 +107,8 @@ Further resources:
     - [General-Purpose Machine Learning](#objective-c-general-purpose-machine-learning)
   - [OCaml](#ocaml)
     - [General-Purpose Machine Learning](#ocaml-general-purpose-machine-learning)
+  - [OpenCV](#opencv)
+    - [Computer Vision](#opencv-Computer-Vision)
   - [Perl](#perl)
     - [Data Analysis / Data Visualization](#perl-data-analysis--data-visualization)
     - [General-Purpose Machine Learning](#perl-general-purpose-machine-learning)
