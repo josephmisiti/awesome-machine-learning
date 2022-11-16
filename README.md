@@ -541,6 +541,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [Stanford Classifier](https://nlp.stanford.edu/software/classifier.shtml) - A classifier is a machine learning tool that will take data items and place them into one of k classes.
 * [Smile](https://haifengl.github.io/) - Statistical Machine Intelligence & Learning Engine.
 * [SystemML](https://github.com/apache/systemml) - flexible, scalable machine learning (ML) language.
+* [Tribou](https://tribuo.org) - a machine learning library written in Java by Oracle.
 * [Weka](https://www.cs.waikato.ac.nz/ml/weka/) - Weka is a collection of machine learning algorithms for data mining tasks.
 * [LBJava](https://github.com/CogComp/lbjava) - Learning Based Java is a modelling language for the rapid development of software systems, offers a convenient, declarative syntax for classifier and constraint definition directly in terms of the objects in the programmer's application.
 * [knn-java-library](https://github.com/felipexw/knn-java-library) - Just a simple implementation of K-Nearest Neighbors algorithm using with a bunch of similarity measures.
