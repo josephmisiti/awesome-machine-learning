@@ -937,6 +937,14 @@ on MNIST digits[DEEP LEARNING].
 * [Libra-Tk](https://libra.cs.uoregon.edu) - Algorithms for learning and inference with discrete probabilistic models.
 * [TensorFlow](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
 
+<a name="opencv"></a>
+## OpenCV
+
+<a name="opencv-ComputerVision and Text Detection"></a>
+### OpenSource-Computer-Vision
+
+* [OpenCV](https://github.com/opencv/opencv) - A OpenSource Computer Vision Library
+
 <a name="perl"></a>
 ## Perl
 
