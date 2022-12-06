@@ -51,3 +51,4 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Interpretable AI](https://www.manning.com/books/interpretable-ai) - $
 * [Deploying a Deep Learning Model on Web and Mobile Applications Using TensorFlow](https://www.manning.com/liveproject/deploying-a-deep-learning-model-on-web-and-mobile-applications-using-tensorflow) - $ Hands-on project
 * [Complete Data Science and ML Course](https://www.scaler.com/data-science-course/) - $
+* [ML Observability Fundamentals](https://arize.com/ml-observability-fundamentals/) - free
