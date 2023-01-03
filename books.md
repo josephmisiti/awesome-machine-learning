@@ -65,6 +65,7 @@ The following is a list of free and/or open source books on machine learning, st
 - [Managing Machine Learning Projects: From design to deployment](https://www.manning.com/books/managing-machine-learning-projects) - Simon Thompson
 - [Causal Machine Learning](https://www.manning.com/books/causal-machine-learning) - Robert Ness - Practical introduction to building AI models that can reason about causality.
 - [Bayesian Optimization in Action](https://www.manning.com/books/bayesian-optimization-in-action) - Quan Nguyen - Book about building Bayesian optimization systems from the ground up.
+- - [Machine Learning Algorithms in Depth](https://www.manning.com/books/machine-learning-algorithms-in-depth)) - Vadim Smolyakov - Book about practical implementations of dozens of ML algorithms.
 
 
 ## Deep Learning
