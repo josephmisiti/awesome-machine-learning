@@ -1245,7 +1245,6 @@ be
 * [AutoGluon](https://github.com/awslabs/autogluon): AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
 
 
-
 <a name="python-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization
 * [DataVisualization](https://github.com/Shanky-21/Data_visualization) - A GitHub Repository Where you can Learn Datavisualizatoin Basics to Intermediate level.
