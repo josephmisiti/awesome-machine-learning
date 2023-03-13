@@ -1,10 +1,3 @@
-Harika makine öğrenimi çerçevelerinin, kitaplıklarının ve yazılımlarının (dile göre) derlenmiş bir listesi. `awesome-php`den esinlenilmiştir.
-
-_Bu listeye katkıda bulunmak istiyorsanız (lütfen yapın), bana bir çekme isteği gönderin veya benimle iletişime geçin [@josephmisiti](https://twitter.com/josephmisiti)._
-Ayrıca, listelenen bir depo şu durumlarda kullanımdan kaldırılmalıdır:
-
-* Deponun sahibi açıkça "bu kitaplığın bakımı yapılmadığını" söylüyor.
-* Uzun süredir (2~3 yıl) taahhüt edilmemiştir.
 
 Diğer kaynaklar:
 
