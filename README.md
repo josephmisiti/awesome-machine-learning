@@ -1083,6 +1083,7 @@ be
 * [BigARTM](https://github.com/bigartm/bigartm) - topic modelling platform.
 * [NALP](https://github.com/gugarosa/nalp) - A Natural Adversarial Language Processing framework built over Tensorflow.
 * [DL Translate](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library between 50 languages, built with `transformers`.
+* [Haystack](https://github.com/deepset-ai/haystack) - A framework for building industrial-strength applications with Transformer models and LLMs.
 
 <a name="python-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
