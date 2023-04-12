@@ -101,6 +101,8 @@ The following is a list of free and/or open source books on machine learning, st
 * [Natural Language Processing in Action, Second Edition](https://www.manning.com/books/natural-language-processing-in-action-second-edition) Early access book
 * [Getting Started with Natural Language Processing in Action](https://www.manning.com/books/getting-started-with-natural-language-processing) Early access book
 * [Transfer Learnin for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing) by Paul Azunre
+* [Practical Gradient Boosting](https://www.amazon.com/dp/B0BL1HRD6Z) by Guillaume Saupin
+
 
 ## Information Retrieval
 
