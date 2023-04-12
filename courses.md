@@ -62,3 +62,4 @@ The following is a list of free or paid online courses on machine learning, stat
 * [DATA SCIENCE 360 TRAINING COURSE](https://brainalyst.in/data-science-360-training-course/)
 * [BIG DATA & CLOUD COMPUTING COURSE](https://brainalyst.in/big-data-cloud-computing-courses/)
 * [FULL STACK DATA SCIENCE PROGRAM](https://brainalyst.in/full-stack-data-science-course-program/)
+* [Mathematics for Machine Learning Specialization (Imperial College London via Coursera)](https://www.coursera.org/specializations/mathematics-machine-learning?action=enroll) - $ but financial aid available
