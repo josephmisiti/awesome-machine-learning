@@ -20,6 +20,7 @@ Podcasts
 * [TWIMLAI](https://twimlai.com/shows/)
 * [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
 * [DataTalks.Club](https://anchor.fm/datatalksclub)
+* [Super Data Science Podcast with Jon Krohn](https://www.youtube.com/@SuperDataScienceWithJonKrohn)
 
 Newsletters
 -----------
