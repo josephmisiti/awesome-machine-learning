@@ -146,4 +146,4 @@ The following is a list of free and/or open source books on machine learning, st
 
 * [Calculus Made Easy](https://github.com/lahorekid/Calculus/blob/master/Calculus%20Made%20Easy.pdf)
 * [calculus by ron larson](https://www.pdfdrive.com/calculus-e183995561.html)
-* ["Active Calculus" by Matt Boelkins](https://scholarworks.gvsu.edu/books/20/)
+* [Active Calculus by Matt Boelkins](https://scholarworks.gvsu.edu/books/20/)
