@@ -23,6 +23,5 @@ While you work on your individual projects, I would maybe deepen your (statistic
 
 When you are through all of that and still hungry to learn more, I recommend
 
-- [The Deep Learning book](https://www.iro.umontreal.ca/~bengioy/dlbook/) by Yoshua Bengio, Ian Goodfellow, and Aaron Courville. The release date is set around 2016, but the 613-page manuscript is already available as as of today (online and for free).
 
 - And in-between, if you are looking for a less technical yet very inspirational free-time read, I highly recommend [Pedro Domingo's The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World](https://homes.cs.washington.edu/~pedrod/)

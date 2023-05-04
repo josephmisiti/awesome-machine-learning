@@ -5,7 +5,6 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Artificial Intelligence (Columbia University)](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-0) - free
 * [Machine Learning (Columbia University)](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-0) - free
 * [Machine Learning (Stanford University)](https://www.coursera.org/learn/machine-learning) - free
-* [Neural Networks for Machine Learning (University of Toronto)](https://www.coursera.org/learn/neural-networks) - free. Also [available on YouTube](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLYvFQm7QY5Fy28dST8-qqzJjXr83NKWAr) as a playlist. #This course is no longer available on Coursera.
 * [Deep Learning Specialization (by Andrew Ng, deeplearning.ai)](https://www.coursera.org/specializations/deep-learning) - Courses: I Neural Networks and Deep Learning; II Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; III Structuring Machine Learning Projects; IV Convolutional Neural Networks; V Sequence Models; Paid for grading/certification, financial aid available, free to audit
 * [Deep Learning Nano Degree on Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101) - $
 * [Intro to Deep Learning (MIT)](http://introtodeeplearning.com/)
