@@ -1763,6 +1763,7 @@ be
 * [Chaos Genius](https://github.com/chaos-genius/chaos_genius/) - ML powered analytics engine for outlier/anomaly detection and root cause analysis.
 * [MLEM](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles
 * [DockerDL](https://github.com/matifali/dockerdl) - Ready to use deeplearning docker images.
+* [Aqueduct](https://github.com/aqueducthq/aqueduct) - Aqueduct enables you to easily define, run, and manage AI & ML tasks on any cloud infrastructure.
 
 <a name="books"></a>
 ## Books
