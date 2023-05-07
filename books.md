@@ -67,7 +67,7 @@ The following is a list of free and/or open source books on machine learning, st
 - [Bayesian Optimization in Action](https://www.manning.com/books/bayesian-optimization-in-action) - Quan Nguyen - Book about building Bayesian optimization systems from the ground up.
 - [Machine Learning Algorithms in Depth](https://www.manning.com/books/machine-learning-algorithms-in-depth)) - Vadim Smolyakov - Book about practical implementations of dozens of ML algorithms.
 - [Optimization Algorithms](https://www.manning.com/books/optimization-algorithms) - Alaa Khamis - Book about how to solve design, planning, and control problems using modern machine learning and AI techniques.
-
+- [Practical Gradient Boosting](https://www.amazon.com/dp/B0BL1HRD6Z) by Guillaume Saupin
 
 ## Deep Learning
 
@@ -101,7 +101,6 @@ The following is a list of free and/or open source books on machine learning, st
 * [Natural Language Processing in Action, Second Edition](https://www.manning.com/books/natural-language-processing-in-action-second-edition) Early access book
 * [Getting Started with Natural Language Processing in Action](https://www.manning.com/books/getting-started-with-natural-language-processing) Early access book
 * [Transfer Learnin for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing) by Paul Azunre
-* [Practical Gradient Boosting](https://www.amazon.com/dp/B0BL1HRD6Z) by Guillaume Saupin
 
 
 ## Information Retrieval
