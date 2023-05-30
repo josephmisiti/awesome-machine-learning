@@ -801,6 +801,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [SciLua](http://scilua.org/)
 * [Lua - Numerical Algorithms](https://bitbucket.org/lucashnegri/lna) **[Deprecated]**
 * [Lunum](https://github.com/jzrake/lunum) **[Deprecated]**
+* [Keras GPT Copilot](https://github.com/fabprezja/keras-gpt-copilot) - A python package that integrates an LLM copilot inside the keras model development workflow.
 
 <a name="lua-demos-and-scripts"></a>
 #### Demos and Scripts
