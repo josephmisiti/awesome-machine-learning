@@ -250,6 +250,7 @@ Further resources:
 * [Hopsworks](https://github.com/logicalclocks/hopsworks) - A data-intensive platform for AI with the industry's first open-source feature store. The Hopsworks Feature Store provides both a feature warehouse for training and batch based on Apache Hive and a feature serving database, based on MySQL Cluster, for online applications.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning.
 * [QuestDB](https://questdb.io/) A relational column-oriented database designed for real-time analytics on time series and event data.
+* [Phoenix](https://phoenix.arize.com) Uncover insights, surface problems, monitor and fine tune your generative LLM, CV and tabular models.
 
 <a name="cpp-natural-language-processing"></a>
 #### Natural Language Processing
