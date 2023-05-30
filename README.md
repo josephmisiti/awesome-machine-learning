@@ -1764,6 +1764,7 @@ be
 * [MLEM](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles
 * [DockerDL](https://github.com/matifali/dockerdl) - Ready to use deeplearning docker images.
 * [Aqueduct](https://github.com/aqueducthq/aqueduct) - Aqueduct enables you to easily define, run, and manage AI & ML tasks on any cloud infrastructure.
+* [Ambrosia](https://github.com/reactorsh/ambrosia) - Ambrosia helps you clean up your LLM datasets using _other_ LLMs.
 
 <a name="books"></a>
 ## Books
