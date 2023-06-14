@@ -66,7 +66,9 @@ The following is a list of free and/or open source books on machine learning, st
 - [Machine Learning Algorithms in Depth](https://www.manning.com/books/machine-learning-algorithms-in-depth) - Vadim Smolyakov - Book about practical implementations of dozens of ML algorithms.
 - [Optimization Algorithms](https://www.manning.com/books/optimization-algorithms) - Alaa Khamis - Book about how to solve design, planning, and control problems using modern machine learning and AI techniques.
 - [Practical Gradient Boosting](https://www.amazon.com/dp/B0BL1HRD6Z) by Guillaume Saupin
-- [Machine Learning System Design](https://www.manning.com/books/machine-learning-system-design) - Valerii Babushkin and Arseny Kravchenko - A book about planning and designing successful ML applications. 
+- [Machine Learning System Design](https://www.manning.com/books/machine-learning-system-design) - Valerii Babushkin and Arseny Kravchenko - A book about planning and designing successful ML applications.
+- [Fight Fraud with Machine Learning](https://www.manning.com/books/fight-fraud-with-machine-learning) - by Ashish Ranjan Jha - A book about developing scalable and tunable models that can spot and stop fraudulent activity.
+
 ## Deep Learning
 
 * [Deep Learning - An MIT Press book](https://www.deeplearningbook.org/)
