@@ -1090,6 +1090,7 @@ be
 <a name="python-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
+ * [Aim](https://github.com/aimhubio/aim) -> An easy-to-use & supercharged open-source AI metadata tracker.
  * [RexMex](https://github.com/AstraZeneca/rexmex) -> A general purpose recommender metrics library for fair evaluation.
  * [ChemicalX](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
  * [Microsoft ML for Apache Spark](https://github.com/Azure/mmlspark) -> A distributed machine learning framework Apache Spark
