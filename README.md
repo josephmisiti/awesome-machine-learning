@@ -414,6 +414,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 <a name="go-natural-language-processing"></a>
 #### Natural Language Processing
 
+* [Cybertron](https://github.com/nlpodyssey/cybertron) - Cybertron: the home planet of the Transformers in Go.
 * [snowball](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
 * [word-embedding](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
 * [sentences](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
@@ -424,6 +425,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 <a name="go-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
+* [Spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go.
 * [birdland](https://github.com/rlouf/birdland) - A recommendation library in Go.
 * [eaopt](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
 * [leaves](https://github.com/dmitryikh/leaves) - A pure Go implementation of the prediction part of GBRTs, including XGBoost and LightGBM.
