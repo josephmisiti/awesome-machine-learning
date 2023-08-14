@@ -1072,6 +1072,7 @@ be
 * [PyStanfordDependencies](https://github.com/dmcc/PyStanfordDependencies) - Python interface for converting Penn Treebank trees to Stanford Dependencies.
 * [Distance](https://github.com/doukremt/distance) - Levenshtein and Hamming distance computation. **[Deprecated]**
 * [Fuzzy Wuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python.
+* [Neofuzz](https://github.com/x-tabdeveloping/neofuzz) - Blazing fast, lightweight and customizable fuzzy and semantic text search in Python with fuzzywuzzy/thefuzz compatible API.
 * [jellyfish](https://github.com/jamesturk/jellyfish) - a python library for doing approximate and phonetic matching of strings.
 * [editdistance](https://pypi.org/project/editdistance/) - fast implementation of edit distance.
 * [textacy](https://github.com/chartbeat-labs/textacy) - higher-level NLP built on Spacy.
@@ -1139,6 +1140,8 @@ be
 * [Chainer](https://github.com/chainer/chainer) - Flexible neural network framework.
 * [prophet](https://facebook.github.io/prophet/) - Fast and automated time series forecasting framework by Facebook.
 * [gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans.
+* [tweetopic](https://centre-for-humanities-computing.github.io/tweetopic/) - Blazing fast short-text-topic-modelling for Python.
+* [topicwizard](https://github.com/x-tabdeveloping/topic-wizard) - Interactive topic model visualization/interpretation framework.
 * [topik](https://github.com/ContinuumIO/topik) - Topic modelling toolkit. **[Deprecated]**
 * [PyBrain](https://github.com/pybrain/pybrain) - Another Python Machine Learning Library.
 * [Brainstorm](https://github.com/IDSIA/brainstorm) - Fast, flexible and fun neural networks. This is the successor of PyBrain.
