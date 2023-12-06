@@ -1,5 +1,5 @@
 The following is a list of free and/or open source books on machine learning, statistics, data mining, etc.
-
+## Very good repo with lot of resources
 ## Machine Learning / Data Mining
 
 * [Distributed Machine Learning Patterns](https://github.com/terrytangyuan/distributed-ml-patterns)  - Book (free to read online) + Code
