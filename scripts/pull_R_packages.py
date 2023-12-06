@@ -4,6 +4,8 @@
     This script will scrape the r-project.org machine learning selection and
     format the packages in github markdown style for this
     awesome-machine-learning repo.
+
+    Adding or Making changes
 """
 
 from pyquery import PyQuery as pq
