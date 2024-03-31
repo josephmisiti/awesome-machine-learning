@@ -1270,6 +1270,7 @@ be
 
 <a name="python-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization
+* [DataComPy](https://github.com/capitalone/datacompy) - A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
 * [DataVisualization](https://github.com/Shanky-21/Data_visualization) - A GitHub Repository Where you can Learn Datavisualizatoin Basics to Intermediate level.
 * [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) - Cartopy is a Python package designed for geospatial data processing in order to produce maps and other geospatial data analyses.
 * [SciPy](https://www.scipy.org/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering.
