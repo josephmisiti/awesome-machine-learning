@@ -484,6 +484,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 #### Reinforcement learning
 
 * [gold](https://github.com/aunum/gold) - A reinforcement learning library.
+* [stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch implementations of Stable Baselines (deep) reinforcement learning algorithms.
 
 <a name="haskell"></a>
 ## Haskell
