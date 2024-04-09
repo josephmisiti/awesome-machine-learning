@@ -1114,6 +1114,8 @@ be
  * [igel](https://github.com/nidhaloff/igel) -> A delightful machine learning tool that allows you to train/fit, test and use models **without writing code**
  * [ML Model building](https://github.com/Shanky-21/Machine_learning) -> A Repository Containing Classification, Clustering, Regression, Recommender Notebooks with illustration to make them.
  * [ML/DL project template](https://github.com/PyTorchLightning/deep-learning-project-template)
+ * [PyTorch Frame](https://github.com/pyg-team/pytorch-frame) -> A Modular Framework for Multi-Modal Tabular Learning.
+ * [PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric) -> Graph Neural Network Library for PyTorch.
  * [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) -> A temporal extension of PyTorch Geometric for dynamic graph representation learning.
  * [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) -> A graph sampling extension library for NetworkX with a Scikit-Learn like API.
  * [Karate Club](https://github.com/benedekrozemberczki/karateclub) -> An unsupervised machine learning extension library for NetworkX with a Scikit-Learn like API.
