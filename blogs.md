@@ -28,6 +28,7 @@ Newsletters
 * [DataTalks.Club](https://datatalks.club). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa)
 * [The Batch](https://read.deeplearning.ai/the-batch/) Andrew Ng's weekly AI newsletter for engineers, executives, and enthusiasts including updates on recent AI research developments.
 * [BuzzRobot AI Newsletter](https://buzzrobot.substack.com/). Exclusive talks by top researchers on cutting-edge artificial intelligence papers.
+* [Air Around AI](https://airaroundai.substack.com/). Air Around AI is a weekly newsletter of the top news, best tutorials, product launches and super tips on AI, for leaders and changemakers.
 
 Practice Questions
 -----------
