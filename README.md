@@ -284,7 +284,7 @@ Further resources:
 
 <a name="cpp-reinforcement-learning"></a>
 #### Reinforcement Learning
-* [RLtools](https://github.com/rl-tools/rl-tools) - The fastest deep reinforcement learning library for continuous control, implemented in pure, dependency-free C++ (Python bindings available as well).
+* [RLtools](https://github.com/rl-tools/rl-tools) - The fastest deep reinforcement learning library for continuous control, implemented header-only in pure, dependency-free C++ (Python bindings available as well).
 
 <a name="common-lisp"></a>
 ## Common Lisp
