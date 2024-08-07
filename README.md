@@ -41,6 +41,7 @@ Further resources:
       - [Speech Recognition](#cpp-speech-recognition)
       - [Sequence Analysis](#cpp-sequence-analysis)
       - [Gesture Detection](#cpp-gesture-detection)
+      - [Reinforcement Learning](#cpp-reinforcement-learning)
   - [Common Lisp](#common-lisp)
       - [General-Purpose Machine Learning](#common-lisp-general-purpose-machine-learning)
   - [Clojure](#clojure)
@@ -280,6 +281,10 @@ Further resources:
 <a name="cpp-gesture-detection"></a>
 #### Gesture Detection
 * [grt](https://github.com/nickgillian/grt) - The Gesture Recognition Toolkit (GRT) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
+
+<a name="cpp-reinforcement-learning"></a>
+#### Reinforcement Learning
+* [RLtools](https://github.com/rl-tools/rl-tools) - The fastest deep reinforcement learning library for continuous control, implemented header-only in pure, dependency-free C++ (Python bindings available as well).
 
 <a name="common-lisp"></a>
 ## Common Lisp
