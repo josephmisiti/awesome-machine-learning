@@ -65,3 +65,4 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Machine Learning Engineering for Production (MLOps) Specialization (DeepLearning.ai)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) - $ but financial aid available
 * [LLMOps: Building Real-World Applications With Large Language Models](https://www.comet.com/site/llm-course/) - free
 * [Prompt Engineering for Vision Models on DeepLearningAI](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/) - free
+* [Data Science Machine Learning Course on Scaler](https://www.scaler.com/courses/data-science-machine-learning-course/) - $
