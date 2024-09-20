@@ -1277,6 +1277,7 @@ be
 * [Frouros](https://github.com/IFCA/frouros): Frouros is an open source Python library for drift detection in machine learning systems.
 * [CometML](https://github.com/comet-ml/comet-examples): The best-in-class MLOps platform with experiment tracking, model production monitoring, a model registry, and data lineage from training straight through to production.
 * [Okrolearn](https://github.com/Okerew/okrolearn): A python machine learning library created to combine powefull data analasys feautures with tensors and machine learning components, while mantaining support for other libraries.
+* [Opik](https://github.com/comet-ml/opik): Evaluate, trace, test, and ship LLM applications across your dev and production lifecycles.
 
 <a name="python-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization
