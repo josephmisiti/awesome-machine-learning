@@ -1477,7 +1477,7 @@ be
 
 <a name="python-speech-recognition"></a>
 #### Speech Recognition
-* [EspNet](https://github.com/espnet/espnet) - ESPnet is an end-to-end speech processing toolkit covering end-to-end speech recognition, text-to-speech, speech translation, speech enhancement, speaker diarization, spoken language understanding, and so on. ESPnet uses pytorch as a deep learning engine and also follows Kaldi style data processing, feature extraction/format, and recipes to provide a complete setup for various speech processing experiments.
+* [EspNet](https://github.com/espnet/espnet) - ESPnet is an end-to-end speech processing toolkit for tasks like speech recognition, translation, and enhancement, using PyTorch and Kaldi-style data processing.
 
 <a name="ruby"></a>
 ## Ruby
