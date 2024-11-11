@@ -2,11 +2,10 @@ The following is a list of free-to-attend meetups and local events on Machine Le
 
 - [India](#india)
     -   [Bangalore](#bangalore)
-- [Brazil](#india)
-    -   [São Paulo](#saopaulo)
 - [United States](#unitedstates)
     -   [New York City](#newyorkcity)
     -   [San Francisco](#sanfrancisco)
+
  
       
 <a name="india"></a>
@@ -16,12 +15,6 @@ The following is a list of free-to-attend meetups and local events on Machine Le
 ### Bangalore
 * [Bangalore Machine Learning Meetup (BangML)](https://www.meetup.com/BangML/)
 
-<a name="brazil"></a>
-## Brazil
-
-<a name="saopaulo"></a>
-### São Paulo
-* [AI Brasil](https://www.meetup.com/pt-BR/ai-brasil/)
 
 <a name="unitedstates"></a>
 ## United States
