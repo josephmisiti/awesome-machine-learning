@@ -76,6 +76,7 @@ The following is a list of free and/or open source books on machine learning, st
 * [Deep Learning - An MIT Press book](https://www.deeplearningbook.org/)
 * [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
 * [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition) Early access book
+* [Deep Learning with Python, Third Edition](https://www.manning.com/books/deep-learning-with-python-third-edition) Early access book
 * [Deep Learning with JavaScript](https://www.manning.com/books/deep-learning-with-javascript) Early access book
 * [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) Early access book
 * [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search) Early access book
