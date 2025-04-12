@@ -1827,6 +1827,7 @@ be
 * [DockerDL](https://github.com/matifali/dockerdl) - Ready to use deeplearning docker images.
 * [Aqueduct](https://github.com/aqueducthq/aqueduct) - Aqueduct enables you to easily define, run, and manage AI & ML tasks on any cloud infrastructure.
 * [Ambrosia](https://github.com/reactorsh/ambrosia) - Ambrosia helps you clean up your LLM datasets using _other_ LLMs.
+* [Fiddler AI](https://www.fiddler.ai) - The all-in-one AI Observability and Security platform for responsible AI. It provides monitoring, analytics, and centralized controls to operationalize ML, GenAI, and LLM applications with trust. Fiddler helps enterprises scale LLM and ML deployments to deliver high performance AI, reduce costs, and be responsible in governance.
 
 <a name="books"></a>
 ## Books
