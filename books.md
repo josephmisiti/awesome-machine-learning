@@ -70,7 +70,8 @@ The following is a list of free and/or open source books on machine learning, st
 - [Machine Learning System Design](https://www.manning.com/books/machine-learning-system-design) - Valerii Babushkin and Arseny Kravchenko - A book about planning and designing successful ML applications.
 - [Fight Fraud with Machine Learning](https://www.manning.com/books/fight-fraud-with-machine-learning) - by Ashish Ranjan Jha - A book about developing scalable and tunable models that can spot and stop fraudulent activity.
 - [Machine Learning for Drug Discovery](https://www.manning.com/books/machine-learning-for-drug-discovery) - by Noah Flynn - A book that introduces the machine learning and deep learning techniques that drive modern medical research.
-
+- [Probabilistic Machine Learning](https://probml.github.io/pml-book/book1.html) - 2022 edition By Kevin P. Murphy - A must have for PhD students and ML researchers. An exceptional book that covers the basic foundational ML concepts like optimization decision theory information theory and ML maths(linear algebra & probability theory) before delving into traditional but important models Linear Models , then modern supervised and unsupervised Deep learning models.
+- [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) - 2023 edition By Kevin P. Murphy Sequel to the first book for those seeking to learn about more niche but important topics. Also includes technical coverage on latest models like diffusion and generative modeling.
 ## Deep Learning
 
 * [Deep Learning - An MIT Press book](https://www.deeplearningbook.org/)
