@@ -68,3 +68,12 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Data Science Machine Learning Course on Scaler](https://www.scaler.com/courses/data-science-machine-learning-course/) - $
 * [LabEx Machine Learning Skill Tree](https://labex.io/skilltrees/ml) - free and $ Hands-on labs
 * [LLM Evaluation with Opik](https://www.comet.com/site/llm-course/) - free Hands-on labs
+* [LLMOps: Building Real-World Applications With Large Language Models](https://www.comet.com/site/llm-course/) - free Hands-on labs
+* [Prompt Engineering for Vision Models on DeepLearningAI](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/) - free Hands-on exercises
+* [Data Science Machine Learning Course on Scaler](https://www.scaler.com/courses/data-science-machine-learning-course/) - $ Comprehensive projects
+* [LabEx Machine Learning Skill Tree](https://labex.io/skilltrees/ml) - free and $ Hands-on labs
+* [LLM Evaluation with Opik](https://www.comet.com/site/llm-course/) - free Hands-on labs
+* [CS50’s Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python) - free Hands-on projects
+* [Hugging Face Transformers Course](https://huggingface.co/course) - free Hands-on coding exercises
+* [Practical Data Science on AWS](https://www.coursera.org/learn/practical-data-science) - free to audit, $ for certificate Hands-on cloud projects
+* [Deep Learning Specialization by DeepLearningAI](https://www.coursera.org/specializations/deep-learning) - free to audit, $ for certificate Hands-on assignments
