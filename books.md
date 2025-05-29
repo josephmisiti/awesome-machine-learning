@@ -89,7 +89,7 @@ The following is a list of free and/or open source books on machine learning, st
 * [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition) 
 * [Inside Deep Learning](https://www.manning.com/books/inside-deep-learning) Early access book
 * [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) Early access book
-* [Deep Learning for Natural Lanuage Processing](https://www.manning.com/books/deep-learning-for-natural-language-processing) Early access book
+* [Deep Learning for Natural Language Processing](https://www.manning.com/books/deep-learning-for-natural-language-processing) Early access book
 
 ## Natural Language Processing
 
