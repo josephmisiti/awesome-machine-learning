@@ -100,7 +100,7 @@ The following is a list of free and/or open source books on machine learning, st
 * [Natural Language Processing in Action, Second Edition](https://www.manning.com/books/natural-language-processing-in-action-second-edition) Early access book
 * [Real-World Natural Language Processing](https://www.manning.com/books/real-world-natural-language-processing) Early access book
 * [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) Early access book
-* [Deep Learning for Natural Lanuage Processing](https://www.manning.com/books/deep-learning-for-natural-language-processing) Early access book
+* [Deep Learning for Natural Language Processing](https://www.manning.com/books/deep-learning-for-natural-language-processing) Early access book
 * [Natural Language Processing in Action, Second Edition](https://www.manning.com/books/natural-language-processing-in-action-second-edition) Early access book
 * [Getting Started with Natural Language Processing in Action](https://www.manning.com/books/getting-started-with-natural-language-processing) Early access book
 * [Transfer Learnin for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing) by Paul Azunre
