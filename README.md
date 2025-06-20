@@ -1167,6 +1167,7 @@ be
 * [Chainer](https://github.com/chainer/chainer) - Flexible neural network framework.
 * [prophet](https://facebook.github.io/prophet/) - Fast and automated time series forecasting framework by Facebook.
 * [skforecast](https://github.com/skforecast/skforecast) - Python library for time series forecasting using machine learning models. It works with any regressor compatible with the scikit-learn API, including popular options like LightGBM, XGBoost, CatBoost, Keras, and many others.
+* [Feature-engine](https://github.com/feature-engine/feature_engine) - Open source library with an exhaustive battery of feature engineering and selection methods based on pandas and scikit-learn.
 * [gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans.
 * [tweetopic](https://centre-for-humanities-computing.github.io/tweetopic/) - Blazing fast short-text-topic-modelling for Python.
 * [topicwizard](https://github.com/x-tabdeveloping/topic-wizard) - Interactive topic model visualization/interpretation framework.
