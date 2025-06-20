@@ -20,6 +20,7 @@ Podcasts
 * [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
 * [DataTalks.Club](https://anchor.fm/datatalksclub)
 * [Super Data Science Podcast with Jon Krohn](https://www.youtube.com/@SuperDataScienceWithJonKrohn)
+* [AI Stories Podcast](https://www.youtube.com/@aistoriespodcast)
 
 Newsletters
 -----------
@@ -77,6 +78,7 @@ Data Science / Statistics
 * [LightTag NLP Blog](https://www.lighttag.io/blog)
 * https://datatalks.club/articles.html
 * https://www.nbshare.io/notebooks/data-science/
+* https://www.blog.trainindata.com/
 
 Math
 ----
