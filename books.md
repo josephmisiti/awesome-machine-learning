@@ -72,6 +72,8 @@ The following is a list of free and/or open source books on machine learning, st
 - [Machine Learning for Drug Discovery](https://www.manning.com/books/machine-learning-for-drug-discovery) - by Noah Flynn - A book that introduces the machine learning and deep learning techniques that drive modern medical research.
 - [Probabilistic Machine Learning](https://probml.github.io/pml-book/book1.html) - 2022 edition By Kevin P. Murphy - A must have for PhD students and ML researchers. An exceptional book that covers the basic foundational ML concepts like optimization decision theory information theory and ML maths(linear algebra & probability theory) before delving into traditional but important models Linear Models , then modern supervised and unsupervised Deep learning models.
 - [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) - 2023 edition By Kevin P. Murphy Sequel to the first book for those seeking to learn about more niche but important topics. Also includes technical coverage on latest models like diffusion and generative modeling.
+- [Python Feature Engineering Cookbook](https://www.amazon.com/Python-Feature-Engineering-Cookbook-complete/dp/B0DBQDG7SG) - A hands-on guide to streamline data preprocessing and feature engineering in your machine learning projects.
+  
 ## Deep Learning
 
 * [Deep Learning - An MIT Press book](https://www.deeplearningbook.org/)
