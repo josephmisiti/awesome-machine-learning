@@ -10,6 +10,11 @@ from pyquery import PyQuery as pq
 import urllib
 import codecs
 import random
+import numpy as np
+
+var = np.array[[1,2,3],[1,2,3],[2,6,3]]
+
+print(var)
 
 text_file = codecs.open("Packages.txt", encoding='utf-8', mode="w")
 d = pq(url='http://cran.r-project.org/web/views/MachineLearning.html',
