@@ -1858,3 +1858,6 @@ be
 
 * Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
 * References for Go were mostly cut-and-pasted from [gopherdata](https://github.com/gopherdata/resources/tree/master/tooling)
+* 
+* - [HumanizeAI](https://www.humanizeaiwork.com) – Free AI text humanizer that instantly bypasses GPTZero, Turnitin, Originality.ai while keeping meaning intact.  
+- [Mzu Video Downloader](https://video-downloader.top/) – Free online tool to fast download videos from YouTube, TikTok, Instagram, Rednote, Twitter in MP4/MP3 with no registration.
