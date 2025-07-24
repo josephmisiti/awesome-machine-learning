@@ -1,0 +1,20 @@
+[nnet](https://cran.r-project.org/web/packages/nnet/index.html) - nnet: Feed-Forward Neural Networks and Multinomial Log-Linear Models
+[rpart](https://cran.r-project.org/web/packages/rpart/index.html) - rpart: Recursive Partitioning and Regression Trees
+[randomForest](https://cran.r-project.org/web/packages/randomForest/index.html) - randomForest: Breiman and Cutlers Random Forests for Classification and
+Regression
+[lars](https://cran.r-project.org/web/packages/lars/index.html) - lars: Least Angle Regression, Lasso and Forward Stagewise
+[gbm](https://cran.r-project.org/web/packages/gbm/index.html) - gbm: Generalized Boosted Regression Models
+[e1071](https://cran.r-project.org/web/packages/e1071/index.html) - e1071: Misc Functions of the Department of Statistics, Probability
+Theory Group (Formerly: E1071), TU Wien
+[BayesTree](https://cran.r-project.org/web/packages/BayesTree/index.html) - BayesTree: Bayesian Additive Regression Trees
+[rgenoud](https://cran.r-project.org/web/packages/rgenoud/index.html) - rgenoud: R Version of GENetic Optimization Using Derivatives
+[arules](https://cran.r-project.org/web/packages/arules/index.html) - arules: Mining Association Rules and Frequent Itemsets
+[frbs](https://cran.r-project.org/web/packages/frbs/index.html) - frbs: Fuzzy Rule-Based Systems for Classification and Regression Tasks
+[e1071](https://cran.r-project.org/web/packages/e1071/index.html) - e1071: Misc Functions of the Department of Statistics, Probability
+Theory Group (Formerly: E1071), TU Wien
+[DoubleML](https://cran.r-project.org/web/packages/DoubleML/index.html) - DoubleML: Double Machine Learning in R
+[evclass](https://cran.r-project.org/web/packages/evclass/index.html) - evclass: Evidential Distance-Based Classification
+[tidymodels](https://cran.r-project.org/web/packages/tidymodels/index.html) - tidymodels: Easily Install and Load the 'Tidymodels' Packages
+[effects](https://cran.r-project.org/web/packages/effects/index.html) - effects: Effect Displays for Linear, Generalized Linear, and Other Models
+[DALEX](https://cran.r-project.org/web/packages/DALEX/index.html) - DALEX: moDel Agnostic Language for Exploration and eXplanation
+[mlr3measures](https://cran.r-project.org/web/packages/mlr3measures/index.html) - mlr3measures: Performance Measures for 'mlr3'

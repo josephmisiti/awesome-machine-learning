@@ -6,25 +6,29 @@
     awesome-machine-learning repo.
 """
 
-from pyquery import PyQuery as pq
-import urllib
-import codecs
-import random
+import requests
+from bs4 import BeautifulSoup
 
-text_file = codecs.open("Packages.txt", encoding='utf-8', mode="w")
-d = pq(url='http://cran.r-project.org/web/views/MachineLearning.html',
-       opener=lambda url, **kw: urllib.urlopen(url).read())
+with open("Packages.txt", "w", encoding="utf-8") as text_file:
+    base_url = "https://cran.r-project.org/web/views/MachineLearning.html"
+    res = requests.get(base_url)
+    soup = BeautifulSoup(res.text, "html.parser")
 
-for e in d("li").items():
-    package_name = e("a").html()
-    package_link = e("a")[0].attrib['href']
-    if '..' in package_link:
-        package_link = package_link.replace("..",
-                                            'http://cran.r-project.org/web')
-        dd = pq(url=package_link, opener=lambda url,
-                **kw: urllib.urlopen(url).read())
-        package_description = dd("h2").html()
-        text_file.write(" [%s](%s) - %s \n" % (package_name, package_link,
-                                               package_description))
-        # print("* [%s](%s) - %s" % (package_name,package_link,
-        #                            package_description))
+    for li in soup.select("li"):
+        a = li.find("a")
+        if not a:
+            continue
+        package_name = a.text
+        package_link = a.get("href")
+
+        if ".." in package_link:
+            package_link = package_link.replace("..", "https://cran.r-project.org/web")
+            try:
+                package_res = requests.get(package_link)
+                package_soup = BeautifulSoup(package_res.text, "html.parser")
+                description_tag = package_soup.find("h2")
+                package_description = description_tag.text if description_tag else "No description"
+            except Exception as e:
+                package_description = "Error fetching description"
+
+            text_file.write(f"[{package_name}]({package_link}) - {package_description}\n")
