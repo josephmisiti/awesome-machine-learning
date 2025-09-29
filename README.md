@@ -261,6 +261,7 @@ Further resources:
 * [Phoenix](https://phoenix.arize.com) - Uncover insights, surface problems, monitor and fine tune your generative LLM, CV and tabular models.
 * [XAD](https://github.com/auto-differentiation/XAD) - Comprehensive backpropagation tool for C++.
 * [Truss](https://truss.baseten.co) - An open source framework for packaging and serving ML models.
+* [mlcore](https://github.com/overvac/mlcore) - Modern, high-performance C++ machine learning framework with Python-like API.
 
 <a name="cpp-natural-language-processing"></a>
 #### Natural Language Processing
