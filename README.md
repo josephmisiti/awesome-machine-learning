@@ -1118,6 +1118,7 @@ be
 * [CometLLM](https://github.com/comet-ml/comet-llm) - Track, log, visualize and evaluate your LLM prompts and prompt chains.
 * [Transformers](https://github.com/huggingface/transformers) - A deep learning library containing thousands of pre-trained models on different tasks. The goto place for anything related to Large Language Models.
 * [TextCL](https://github.com/alinapetukhova/textcl) - Text preprocessing package for use in NLP tasks.
+* [NanoGPTForge](https://github.com/SergiuDeveloper/NanoGPTForge) - A simplified, type-safe, plug-and-play version of NanoGPT built on PyTorch. Focuses on clean code, standard PyTorch primitives, and minimal setup for fast experimentation.
 
 <a name="python-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
