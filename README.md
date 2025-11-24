@@ -55,6 +55,8 @@ Further resources:
       - [Extra](#clojure-extra)
   - [Crystal](#crystal)
       - [General-Purpose Machine Learning](#crystal-general-purpose-machine-learning)
+  - [CUDA PTX](#cuda-ptx)
+      - [Neurosymbolic AI](#cuda-ptx-neurosymbolic-ai)
   - [Elixir](#elixir)
       - [General-Purpose Machine Learning](#elixir-general-purpose-machine-learning)
       - [Natural Language Processing](#elixir-natural-language-processing)
@@ -386,6 +388,14 @@ Further resources:
 
 * [machine](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
 * [crystal-fann](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artificial Neural Network) binding.
+
+<a name="cuda-ptx"></a>
+## CUDA PTX
+
+<a name="cuda-ptx-neurosymbolic-ai"></a>
+#### Neurosymbolic AI
+
+* [Knowledge3D (K3D)](https://github.com/danielcamposramos/Knowledge3D) - Sovereign GPU-native spatial AI architecture with PTX-first cognitive engine (RPN/TRM reasoning), tri-modal fusion (text/visual/audio), and 3D persistent memory ("Houses"). Features sub-100µs inference, procedural knowledge compression (69:1 ratio), and multi-agent swarm architecture. Zero external dependencies for core inference paths.
 
 <a name="elixir"></a>
 ## Elixir
