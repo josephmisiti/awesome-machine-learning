@@ -2,6 +2,8 @@ The following is a list of free or paid online courses on machine learning, stat
 
 ## Machine-Learning / Data Mining
 
+* [System Designer - ML Systems](https://systemdesigner.net/ml-systems) - Interactive learning platform for ML systems and MLOps with 28 lessons on training pipelines, model serving, feature stores, and monitoring. Includes AI tutor, whiteboards, quizzes, and hands-on projects - free
+* [System Designer - GenAI](https://systemdesigner.net/genai) - Interactive learning platform for GenAI and LLMs with 32 lessons on RAG systems, vector databases, agentic AI, and deployment. Includes AI tutor, whiteboards, quizzes, and projects - free
 * [Artificial Intelligence (Columbia University)](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-0) - free
 * [Machine Learning (Columbia University)](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-0) - free
 * [Machine Learning (Stanford University)](https://www.coursera.org/learn/machine-learning) - free
