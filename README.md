@@ -1550,6 +1550,7 @@ be
 
 <a name="rust-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
+* [adk-rust](https://github.com/zavora-ai/adk-rust) - Production-ready AI agent development kit for Rust. Model-agnostic (Gemini, OpenAI, Anthropic, DeepSeek), multiple agent types (LLM, Graph, Workflow), MCP support, and built-in telemetry.
 * [smartcore](https://github.com/smartcorelib/smartcore) - "The Most Advanced Machine Learning Library In Rust."
 * [linfa](https://github.com/rust-ml/linfa) - a comprehensive toolkit to build Machine Learning applications with Rust
 * [deeplearn-rs](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
