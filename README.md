@@ -1500,6 +1500,10 @@ be
 #### Speech Recognition
 * [EspNet](https://github.com/espnet/espnet) - ESPnet is an end-to-end speech processing toolkit for tasks like speech recognition, translation, and enhancement, using PyTorch and Kaldi-style data processing.
 
+<a name="python-development tools"></a>
+#### Development Tools 
+* [CodeFlash.AI](https://www.codeflash.ai/) – CodeFlash.AI – Ship Blazing-Fast Python Code, Every Time.
+
 <a name="ruby"></a>
 ## Ruby
 
