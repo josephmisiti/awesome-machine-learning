@@ -148,6 +148,7 @@ The following is a list of free and/or open source books on machine learning, st
 * [Linear Algebra, Theory, and Applications](https://math.byu.edu/~klkuttle/Linearalgebra.pdf)
 * [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 * [Applied Numerical Computing](https://www.seas.ucla.edu/~vandenbe/ee133a.html)
+* [The Math Behind Artificial Intelligence](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book)
 
 ## Calculus
 
