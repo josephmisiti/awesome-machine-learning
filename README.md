@@ -685,6 +685,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [tensor-js](https://github.com/Hoff97/tensorjs) - A deep learning library for the browser, accelerated by WebGL and WebAssembly.
 * [WebDNN](https://github.com/mil-tokyo/webdnn) - Fast Deep Neural Network JavaScript Framework. WebDNN uses next generation JavaScript API, WebGPU for GPU execution, and WebAssembly for CPU execution.
 * [WebNN](https://webnn.dev) - A new web standard that allows web apps and frameworks to accelerate deep neural networks with on-device hardware such as GPUs, CPUs, or purpose-built AI accelerators.
+* [Kandle](https://github.com/final-kk/kandle) - A JavaScript Native PyTorch-aligned Machine Learning Framework, built from scratch on WebGPU.
 
 <a name="javascript-misc"></a>
 #### Misc
