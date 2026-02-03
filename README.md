@@ -1517,6 +1517,8 @@ be
 * [RLlib](https://github.com/ray-project/ray) - RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
 * [DI-engine](https://github.com/opendilab/DI-engine) - DI-engine is a generalized Decision Intelligence engine. It supports most basic deep reinforcement learning (DRL) algorithms, such as DQN, PPO, SAC, and domain-specific algorithms like QMIX in multi-agent RL, GAIL in inverse RL, and RND in exploration problems.
 * [Gym4ReaL](https://github.com/Daveonwave/gym4ReaL) - Gym4ReaL is a comprehensive suite of realistic environments designed to support the development and evaluation of RL algorithms that can operate in real-world scenarios. The suite includes a diverse set of tasks exposing RL algorithms to a variety of practical challenges.
+* [ML-PPO](https://github.com/KeepALifeUS/ml-ppo) - Clean PyTorch implementation of Proximal Policy Optimization (PPO) with Generalized Advantage Estimation (GAE), parallel environments, and support for both continuous and discrete action spaces. Tested on standard benchmarks.
+* [ML-DQN](https://github.com/KeepALifeUS/ml-dqn) - Rainbow DQN implementation from scratch in PyTorch featuring Double DQN, Dueling architecture, Prioritized Experience Replay, and Noisy Networks for exploration.
 
 <a name="python-speech-recognition"></a>
 #### Speech Recognition
