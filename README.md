@@ -1833,6 +1833,7 @@ be
 <a name="tools-misc"></a>
 #### Misc
 
+* [BGPT](https://bgpt.pro/mcp) - Search scientific papers with structured experimental data (methods, results, sample sizes, quality scores) extracted from full-text studies. Available as an [MCP server](https://github.com/connerlambden/bgpt-mcp) for AI-assisted research.
 * [Wallaroo.AI](https://wallaroo.ai/) - Production AI plaftorm for deploying, managing, and observing any model at scale across any environment from cloud to edge. Let's go from python notebook to inferencing in minutes. 
 * [Infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20
 * [Synthical](https://synthical.com) - AI-powered collaborative research environment. You can use it to get recommendations of articles based on reading history, simplify papers, find out what articles are trending, search articles by meaning (not just keywords), create and share folders of articles, see lists of articles from specific companies and universities, and add highlights.
