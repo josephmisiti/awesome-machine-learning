@@ -1316,6 +1316,7 @@ be
 * [Opik](https://github.com/comet-ml/opik): Evaluate, trace, test, and ship LLM applications across your dev and production lifecycles.
 * [pyclugen](https://github.com/clugen/pyclugen) - Multidimensional cluster generation in Python.
 * [mlforgex](https://github.com/dhgefergfefruiwefhjhcduc/ML_Forgex) - Lightweight ML utility for automated training, evaluation, and prediction with CLI and Python API support.
+* [vLLM](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
 
 <a name="python-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization
