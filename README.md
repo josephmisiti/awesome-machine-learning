@@ -437,6 +437,8 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [ParaMonte](https://github.com/cdslaborg/paramonte) - A general-purpose Fortran library for Bayesian data analysis and visualization via serial/parallel Monte Carlo and MCMC simulations. Documentation can be found [here](https://www.cdslab.org/paramonte/).
 
 <a name="go"></a>
+* [AI Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker) - Structured dataset tracking 94 AI-attributed workforce displacement events affecting 453K+ workers across 12 countries. CSV/JSON format with source-linked attribution.
+
 ## Go
 
 <a name="go-natural-language-processing"></a>
