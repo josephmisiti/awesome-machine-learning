@@ -19,5 +19,3 @@ Further resources:
 * For a list of blogs and newsletters on data science and machine learning, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md).
 
 * For a list of free-to-attend meetups and local events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/meetups.md).
-
-THIS IS A TEST - CHECKING IF PUSH WORKS
