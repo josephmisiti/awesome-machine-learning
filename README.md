@@ -1882,6 +1882,7 @@ be
 * [Awesome Hugging Face Models](https://github.com/JehoshuaM/awesome-huggingface-models) - Curated list of top Hugging Face models for NLP, vision, and audio tasks with demos and benchmarks.
 * [PraisonAI](https://github.com/MervinPraison/PraisonAI) - Production-ready Multi-AI Agents framework with self-reflection. Fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, MCP integration, agentic workflows (route/parallel/loop/repeat), built-in memory, Python & JS SDKs.
 
+* [AI Infrastructure Index](https://github.com/alpha-one-index/ai-infra-index) - Open-source AI hardware specifications, cloud GPU pricing (12 providers, hourly auto-updates), training cost analysis, model-GPU sizing guides, and inference benchmarks. Machine-readable JSON data and comprehensive Markdown documentation.
 <a name="books"></a>
 ## Books
 
