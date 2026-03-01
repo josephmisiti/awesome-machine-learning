@@ -1,0 +1,39 @@
+name: Fix feature branch README
+on:
+  push:
+    branches: [master]
+    paths: ['.github/workflows/fix-feature-readme.yml']
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: add-ai-infra-index
+          fetch-depth: 0
+      - name: Download upstream README and add entry
+        run: |
+          curl -sL "https://raw.githubusercontent.com/josephmisiti/awesome-machine-learning/master/README.md" -o README.md
+          python3 -c "
+import sys
+with open('README.md') as f:
+    c = f.read()
+entry = '* [AI Infrastructure Index](https://github.com/alpha-one-index/ai-infra-index) - Open-source AI hardware specifications, cloud GPU pricing (12 providers, hourly auto-updates), training cost analysis, model-GPU sizing guides, and inference benchmarks. Machine-readable JSON data and comprehensive Markdown documentation.\n'
+marker = '<a name=\"books\"></a>'
+if 'AI Infrastructure Index' not in c:
+    c = c.replace(marker, entry + marker)
+    with open('README.md', 'w') as f:
+        f.write(c)
+    print('Entry added successfully')
+else:
+    print('Entry already exists')
+"
+      - name: Commit and push
+        run: |
+          git config user.name "alpha-one-index"
+          git config user.email "alpha.one.hq@proton.me"
+          git add README.md
+          git diff --staged --quiet || git commit -m "Add AI Infrastructure Index to Tools > Misc section"
+          git push origin add-ai-infra-index
