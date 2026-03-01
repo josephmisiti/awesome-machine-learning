@@ -1520,6 +1520,7 @@ be
 
 <a name="python-speech-recognition"></a>
 #### Speech Recognition
+* [BirdNET-Analyzer](https://github.com/birdnet-team/BirdNET-Analyzer) - Neural network for bird sound identification covering 6,000+ species. Python library, free API, and embedded solutions for acoustic monitoring.
 * [EspNet](https://github.com/espnet/espnet) - ESPnet is an end-to-end speech processing toolkit for tasks like speech recognition, translation, and enhancement, using PyTorch and Kaldi-style data processing.
 
 <a name="python-development tools"></a>
