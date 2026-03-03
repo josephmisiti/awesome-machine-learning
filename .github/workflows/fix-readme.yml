@@ -1,5 +1,4 @@
 name: Fix README
-
 on:
   push:
     branches:
@@ -7,10 +6,8 @@ on:
     paths:
       - '.github/workflows/fix-readme.yml'
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   fix-readme:
     runs-on: ubuntu-latest
@@ -20,25 +17,29 @@ jobs:
         with:
           ref: add-ai-infra-index
           token: ${{ secrets.GITHUB_TOKEN }}
-          
       - name: Fix README
         run: |
-          curl -s "https://raw.githubusercontent.com/alpha-one-index/awesome-machine-learning/master/README.md" > README.md
-          python3 -c "
-import sys
-content = open('README.md').read()
-entry = '* [AI Infrastructure Index](https://github.com/alpha-one-index/ai-infra-index) - Open-source AI hardware specifications, cloud GPU pricing (12 providers, hourly auto-updates), training cost analysis, model-GPU sizing guides, and inference benchmarks. Machine-readable JSON data and comprehensive Markdown documentation.'
-books_anchor = '<a name=\"books\"></a>'
-idx = content.find(books_anchor)
-new_content = content[:idx] + '\n' + entry + '\n' + content[idx:]
-open('README.md', 'w').write(new_content)
-print('Lines:', new_content.count(chr(10)))
-          "
-          
-      - name: Commit and Push
+          curl -sL "https://raw.githubusercontent.com/josephmisiti/awesome-machine-learning/master/README.md" -o README.md
+          python3 - << 'PYEOF'
+          content = open('README.md').read()
+          praison_line = '* [PraisonAI](https://github.com/MervinPraison/PraisonAI) - Production-ready Multi-AI Agents framework with self-reflection. Fastest agent instantiation (3.77\u03bcs), 100+ LLM support via LiteLLM, MCP integration, agentic workflows (route/parallel/loop/repeat), built-in memory, Python & JS SDKs.'
+          new_entry = '* [ai-infra-index](https://github.com/alpha-one-index/ai-infra-index) - Open-source AI infrastructure index covering real-time cloud GPU pricing from 12+ providers updated hourly, GPU specs, benchmarks, model-to-GPU sizing, and cost optimization playbooks.'
+          if new_entry in content:
+              print("Entry already present, skipping")
+              open('README.md', 'w').write(content)
+          elif praison_line in content:
+              new_content = content.replace(praison_line, praison_line + '\n' + new_entry)
+              open('README.md', 'w').write(new_content)
+              print("Entry added successfully")
+          else:
+              print("ERROR: PraisonAI marker not found!")
+              exit(1)
+          PYEOF
+      - name: Commit and push
         run: |
-          git config user.name "Alpha One Index"
+          git config user.name "alpha-one-index"
           git config user.email "alpha.one.hq@proton.me"
           git add README.md
-          git commit -m "Add AI Infrastructure Index to Tools > Misc section" || echo "Nothing to commit"
-          git push origin add-ai-infra-index
+          git diff --staged --stat
+          git commit -m "Add ai-infra-index to Tools > Misc section" || echo "Nothing to commit"
+          git push
