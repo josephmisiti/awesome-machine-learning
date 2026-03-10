@@ -569,6 +569,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) - a service for deployment Apache Spark MLLib machine learning models as realtime, batch or reactive web services.
 * [Neuroph](http://neuroph.sourceforge.net/) - Neuroph is lightweight Java neural network framework.
 * [ORYX](https://github.com/oryxproject/oryx) - Lambda Architecture Framework using Apache Spark and Apache Kafka with a specialization for real-time large-scale machine learning.
+* - [OpenSymbolicAI](https://github.com/devi-collab/OpenSymbolicAI) — Framework for symbolic and interpretable machine learning; combines symbolic reasoning with differentiable models.
 * [Samoa](https://samoa.incubator.apache.org/) SAMOA is a framework that includes distributed machine learning for data streams with an interface to plug-in different stream processing platforms.
 * [RankLib](https://sourceforge.net/p/lemur/wiki/RankLib/) - RankLib is a library of learning to rank algorithms. **[Deprecated]**
 * [rapaio](https://github.com/padreati/rapaio) - statistics, data mining and machine learning toolbox in Java.
