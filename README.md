@@ -1881,6 +1881,7 @@ be
 * [Local LLM NPC](https://github.com/code-forge-temple/local-llm-npc) - Godot 4.x asset that enables NPCs to interact with players using local LLMs for structured, offline-first learning conversations in games.
 * [Awesome Hugging Face Models](https://github.com/JehoshuaM/awesome-huggingface-models) - Curated list of top Hugging Face models for NLP, vision, and audio tasks with demos and benchmarks.
 * [PraisonAI](https://github.com/MervinPraison/PraisonAI) - Production-ready Multi-AI Agents framework with self-reflection. Fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, MCP integration, agentic workflows (route/parallel/loop/repeat), built-in memory, Python & JS SDKs.
+* [GPU Ark](https://gpuark.com/en/) - GPU specs database with a VRAM calculator for estimating memory requirements of LLMs, a performance index for comparing GPUs, and side-by-side GPU comparison tools for ML hardware planning.
 
 <a name="books"></a>
 ## Books
