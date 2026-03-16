@@ -2,6 +2,8 @@ The following is a list of free and/or open source books on machine learning, st
 
 ## Machine Learning / Data Mining
 
+* [System Design & Machine Learning Playbook](https://github.com/Ali-Meh619/System_Design_ML_Principles) - An interactive reference guide for software engineers cracking System Design & ML interviews. Covers 43 topics from foundational distributed systems to modern LLM architectures.
+
 * [Distributed Machine Learning Patterns](https://github.com/terrytangyuan/distributed-ml-patterns)  - Book (free to read online) + Code
 * [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
 * [Real World Machine Learning](https://www.manning.com/books/real-world-machine-learning) [Free Chapters]
