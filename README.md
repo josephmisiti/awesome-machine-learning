@@ -1895,6 +1895,8 @@ be
 <a name="books"></a>
 ## Books
 
+* [System Design & Machine Learning Playbook](https://github.com/Ali-Meh619/System_Design_ML_Principles) - An interactive reference guide for software engineers cracking System Design & ML interviews. Covers 43 topics from foundational distributed systems to modern LLM architectures.
+
 * [Distributed Machine Learning Patterns](https://github.com/terrytangyuan/distributed-ml-patterns)  - This book teaches you how to take machine learning models from your personal laptop to large distributed clusters. You’ll explore key concepts and patterns behind successful distributed machine learning systems, and learn technologies like TensorFlow, Kubernetes, Kubeflow, and Argo Workflows directly from a key maintainer and contributor, with real-world scenarios and hands-on projects.
 * [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - Grokking Machine Learning teaches you how to apply ML to your projects using only standard Python code and high school-level math.
 * [Machine Learning Bookcamp](https://www.manning.com/books/machine-learning-bookcamp) - Learn the essentials of machine learning by completing a carefully designed set of real-world projects.
