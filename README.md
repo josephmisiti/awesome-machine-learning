@@ -1837,6 +1837,7 @@ be
 <a name="tools-misc"></a>
 #### Misc
 
+* [Arch Tools](https://archtools.dev) — 61 production-ready AI tools accessible via REST API and MCP protocol. Includes code analysis, web scraping, image generation, NLP, crypto pricing, and search. Native x402 USDC micropayments. Free tier: 100 credits/month.
 * [Wallaroo.AI](https://wallaroo.ai/) - Production AI plaftorm for deploying, managing, and observing any model at scale across any environment from cloud to edge. Let's go from python notebook to inferencing in minutes. 
 * [Infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20
 * [Synthical](https://synthical.com) - AI-powered collaborative research environment. You can use it to get recommendations of articles based on reading history, simplify papers, find out what articles are trending, search articles by meaning (not just keywords), create and share folders of articles, see lists of articles from specific companies and universities, and add highlights.
