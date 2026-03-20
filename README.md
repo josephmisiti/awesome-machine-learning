@@ -1892,6 +1892,7 @@ be
 * [Bread Dataset Viewer](https://github.com/Bread-Technologies/mle_vscode_extension) - A VS Code extension for viewing and exploring large machine learning datasets (CSV, JSON, Parquet, etc.) directly within the editor without VS Code crashing in a clean UI.
 * [Bread WandB Viewer](https://github.com/Bread-Technologies/bread_wandb_viewer_extension) - A VS Code extension to view Weights & Biases experiments, logs, and artifacts within the IDE, eliminating the need to switch to the web UI and keeping data private.
 
+* [AI Infrastructure Index](https://github.com/alpha-one-index/ai-infra-index) - Open-source AI hardware specifications, cloud GPU pricing (12 providers, hourly auto-updates), training cost analysis, model-GPU sizing guides, and inference benchmarks. Machine-readable JSON data and comprehensive Markdown documentation.
 <a name="books"></a>
 ## Books
 
