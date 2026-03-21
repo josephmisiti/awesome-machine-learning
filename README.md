@@ -752,6 +752,10 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [Flux](https://fluxml.ai/) - Relax! Flux is the ML library that doesn't make you tensor
 * [MLJ](https://github.com/alan-turing-institute/MLJ.jl) - A Julia machine learning framework.
 * [CluGen](https://github.com/clugen/CluGen.jl/) - Multidimensional cluster generation in Julia.
+* [TopoDrift](https://github.com/FranzuBaren/topodrift) - Open benchmark 
+  evaluating persistent homology vs KS/MMD/PSI for detecting regime changes 
+  in tabular data. Includes 7 synthetic regimes invisible to classical 
+  statistics.
 
 <a name="julia-natural-language-processing"></a>
 #### Natural Language Processing
