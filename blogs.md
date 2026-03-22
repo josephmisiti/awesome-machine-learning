@@ -21,6 +21,7 @@ Podcasts
 * [DataTalks.Club](https://anchor.fm/datatalksclub)
 * [Super Data Science Podcast with Jon Krohn](https://www.youtube.com/@SuperDataScienceWithJonKrohn)
 * [AI Stories Podcast](https://www.youtube.com/@aistoriespodcast)
+* [Chain of Thought](https://chainofthought.show/)
 
 Newsletters
 -----------
