@@ -1802,6 +1802,8 @@ be
 <a name="swift"></a>
 ## Swift
 
+* [Espresso](https://github.com/christopherkarani/Espresso) - Compile transformers directly to Apple Neural Engine. 4.76x faster than CoreML. Pure Swift inference on Apple Silicon.
+
 <a name="swift-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
