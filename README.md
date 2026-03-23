@@ -20,6 +20,8 @@ Further resources:
 
 * For a list of free-to-attend meetups and local events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/meetups.md).
 
+* For a curated catalog of AI tools, models, papers, frameworks, and resources, go [here](https://github.com/alpha-one-index/awesome-ai-index).
+
 ## Table of Contents
 
 ### Frameworks and Libraries
