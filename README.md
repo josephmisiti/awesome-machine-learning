@@ -1142,6 +1142,7 @@ be
 
 <a name="python-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
+ * [ph-training](https://github.com/need-singularity/ph-training) -> Automatic model training with Persistent Homology. Predicts difficulty from 1 epoch, finds optimal LR, detects overfitting in real-time (r=0.998).
 
 * [ray3.run](https://ray3.run) - AI-powered tools and applications for developers and businesses to enhance productivity and workflow automation. * [XAD](https://pypi.org/project/xad/) -> Fast and easy-to-use backpropagation tool.
  * [Aim](https://github.com/aimhubio/aim) -> An easy-to-use & supercharged open-source AI metadata tracker.
