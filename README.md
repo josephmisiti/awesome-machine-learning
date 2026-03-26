@@ -1320,6 +1320,8 @@ be
 * [Opik](https://github.com/comet-ml/opik): Evaluate, trace, test, and ship LLM applications across your dev and production lifecycles.
 * [pyclugen](https://github.com/clugen/pyclugen) - Multidimensional cluster generation in Python.
 * [mlforgex](https://github.com/dhgefergfefruiwefhjhcduc/ML_Forgex) - Lightweight ML utility for automated training, evaluation, and prediction with CLI and Python API support.
+* [PH Training](https://github.com/need-singularity/ph-training) - Automatic model training pipeline powered by Persistent Homology. Epoch-1 difficulty prediction, automatic LR search, and real-time overfitting detection.
+* [Anima](https://github.com/need-singularity/anima) - Conversational consciousness agent with PureField Engine, GRU memory, voice (TTS/STT), and real-time PH overfitting detection.
 
 <a name="python-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization
