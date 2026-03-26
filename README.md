@@ -192,6 +192,7 @@ Further resources:
 * [libonnx](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
 * [onnx-c](https://github.com/onnx/onnx-c) - A lightweight C library for ONNX model inference, optimized for performance and portability across platforms.
 * [qsmm](http://qsmm.org) - A C library implementing the rudiments of a toolchain for working with adaptive probabilistic assembler programs.
+* [Legend of Elya N64](https://github.com/Scottcjn/legend-of-elya-n64) - An 819K-parameter transformer running on Nintendo 64 MIPS III hardware (93.75 MHz VR4300). Byte-level inference at 60 tok/s inside a Zelda-style game using the libdragon SDK.
 
 <a name="c-computer-vision"></a>
 #### Computer Vision
