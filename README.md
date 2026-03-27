@@ -1404,6 +1404,7 @@ be
 * [decision-weights](https://github.com/CamDavidsonPilon/decision-weights)
 * [Sarah Palin LDA](https://github.com/Wavelets/sarah-palin-lda) - Topic Modelling the Sarah Palin emails.
 * [Diffusion Segmentation](https://github.com/Wavelets/diffusion-segmentation) - A collection of image segmentation algorithms based on diffusion methods.
+* [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) - Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories (health risks, ancestry, pharmacogenomics, nutrition, psychology, etc.) and generating a terminal-style single-page HTML visualization.
 * [Scipy Tutorials](https://github.com/Wavelets/scipy-tutorials) - SciPy tutorials. This is outdated, check out scipy-lecture-notes.
 * [Crab](https://github.com/marcelcaraciolo/crab) - A recommendation engine library for Python.
 * [BayesPy](https://github.com/maxsklar/BayesPy) - Bayesian Inference Tools in Python.
