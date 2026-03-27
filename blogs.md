@@ -30,6 +30,7 @@ Newsletters
 * [The Batch](https://read.deeplearning.ai/the-batch/) Andrew Ng's weekly AI newsletter for engineers, executives, and enthusiasts including updates on recent AI research developments.
 * [BuzzRobot AI Newsletter](https://buzzrobot.substack.com/). Exclusive talks by top researchers on cutting-edge artificial intelligence papers.
 * [Air Around AI](https://airaroundai.substack.com/). Air Around AI is a weekly newsletter of the top news, best tutorials, product launches and super tips on AI, for leaders and changemakers.
+* [AIMiracle MAG](https://aimiracle.ai). Daily AI news, tool discoveries & tutorials for AI enthusiasts and professionals.
 
 Practice Questions
 -----------
