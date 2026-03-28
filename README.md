@@ -177,14 +177,16 @@ Further resources:
 
 <a name="apl-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
-* [naive-apl](https://github.com/mattcunningham/naive-apl) - Naive Bayesian Classifier implementation in APL. **[Deprecated]**
+
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.* [naive-apl](https://github.com/mattcunningham/naive-apl) - Naive Bayesian Classifier implementation in APL. **[Deprecated]**
 
 <a name="c"></a>
 ## C
 
 <a name="c-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
-* [Darknet](https://github.com/pjreddie/darknet) - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
+
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.* [Darknet](https://github.com/pjreddie/darknet) - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 * [Recommender](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
 * [Hybrid Recommender System](https://github.com/SeniorSA/hybrid-rs-trainner) - A hybrid recommender system based upon scikit-learn algorithms. **[Deprecated]**
 * [neonrvm](https://github.com/siavashserver/neonrvm) - neonrvm is an open source machine learning library based on RVM technique. It's written in C programming language and comes with Python programming language bindings.
@@ -216,6 +218,7 @@ Further resources:
 <a name="cpp-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.
 * * [Agentic Context Engine](https://github.com/kayba-ai/agentic-context-engine) -In-context learning framework that allows agents to learn from execution feedback.
 * [Speedster](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) -Automatically apply SOTA optimization techniques to achieve the maximum inference speed-up on your hardware. [DEEP LEARNING]
 * [BanditLib](https://github.com/jkomiyama/banditlib) - A simple Multi-armed Bandit library. **[Deprecated]**
@@ -306,6 +309,7 @@ Further resources:
 <a name="common-lisp-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.
 * [mgl](https://github.com/melisgl/mgl/) - Neural networks (boltzmann machines, feed-forward and recurrent nets), Gaussian Processes.
 * [mgl-gpr](https://github.com/melisgl/mgl-gpr/) - Evolutionary algorithms. **[Deprecated]**
 * [cl-libsvm](https://github.com/melisgl/cl-libsvm/) - Wrapper for the libsvm support vector machine library. **[Deprecated]**
@@ -324,6 +328,7 @@ Further resources:
 <a name="clojure-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.
 * [scicloj.ml](https://github.com/scicloj/scicloj.ml) -  A idiomatic Clojure machine learning library based on tech.ml.dataset with a unique approach for immutable data processing pipelines.
 * [clj-ml](https://github.com/joshuaeckroth/clj-ml/) - A machine learning library for Clojure built on top of Weka and friends.
 * [clj-boost](https://gitlab.com/alanmarazzi/clj-boost) - Wrapper for XGBoost
@@ -391,6 +396,7 @@ Further resources:
 <a name="crystal-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.
 * [machine](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
 * [crystal-fann](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artificial Neural Network) binding.
 
@@ -408,6 +414,7 @@ Further resources:
 <a name="elixir-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.
 * [Simple Bayes](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 * [emel](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in Elixir.
 * [Tensorflex](https://github.com/anshuman23/tensorflex) - Tensorflow bindings for the Elixir programming language.
@@ -423,6 +430,7 @@ Further resources:
 <a name="erlang-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.
 * [Disco](https://github.com/discoproject/disco/) - Map Reduce in Erlang. **[Deprecated]**
 
 <a name="fortran"></a>
@@ -431,6 +439,7 @@ Further resources:
 <a name="fortran-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.
 * [neural-fortran](https://github.com/modern-fortran/neural-fortran) - A parallel neural net microframework.
 Read the paper [here](https://arxiv.org/abs/1902.06714).
 
@@ -456,6 +465,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 <a name="go-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.
 * [Spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go.
 * [birdland](https://github.com/rlouf/birdland) - A recommendation library in Go.
 * [eaopt](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
@@ -518,7 +528,8 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 
 <a name="haskell-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
-* [haskell-ml](https://github.com/ajtulloch/haskell-ml) - Haskell implementations of various ML algorithms. **[Deprecated]**
+
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.* [haskell-ml](https://github.com/ajtulloch/haskell-ml) - Haskell implementations of various ML algorithms. **[Deprecated]**
 * [HLearn](https://github.com/mikeizbicki/HLearn) - a suite of libraries for interpreting machine learning models according to their algebraic structure. **[Deprecated]**
 * [hnn](https://github.com/alpmestan/HNN) - Haskell Neural Network library.
 * [hopfield-networks](https://github.com/ajtulloch/hopfield-networks) - Hopfield Networks for unsupervised learning in Haskell. **[Deprecated]**
@@ -555,6 +566,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 <a name="java-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.
 * [aerosolve](https://github.com/airbnb/aerosolve) - A machine learning library by Airbnb designed from the ground up to be human friendly.
 * [AMIDST Toolbox](http://www.amidsttoolbox.com/) - A Java Toolbox for Scalable Probabilistic Machine Learning.
 * [Chips-n-Salsa](https://github.com/cicirello/Chips-n-Salsa) - A Java library for genetic algorithms, evolutionary computation, and stochastic local search, with a focus on self-adaptation / self-tuning, as well as parallel execution.
@@ -651,6 +663,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 <a name="javascript-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.
 * [Auto ML](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning, data formatting, ensembling, and hyperparameter optimization for competitions and exploration- just give it a .csv file! **[Deprecated]**
 * [Catniff](https://github.com/nguyenphuminh/catniff) - Torch-like deep learning framework for Javascript with support for tensors, autograd, optimizers, and other neural net constructs.
 * [Convnet.js](https://cs.stanford.edu/people/karpathy/convnetjs/) - ConvNetJS is a JavaScript library for training Deep Learning models[DEEP LEARNING] **[Deprecated]**
@@ -716,6 +729,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 <a name="julia-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.
 * [MachineLearning](https://github.com/benhamner/MachineLearning.jl) - Julia Machine Learning library. **[Deprecated]**
 * [MLBase](https://github.com/JuliaStats/MLBase.jl) - A set of functions to support the development of machine learning algorithms.
 * [PGM](https://github.com/JuliaStats/PGM.jl) - A Julia framework for probabilistic graphical models.
@@ -804,6 +818,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 <a name="lua-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.
 * [Torch7](http://torch.ch/)
   * [cephes](https://github.com/deepmind/torch-cephes) - Cephes mathematical functions library, wrapped for Torch. Provides and wraps the 180+ special mathematical functions from the Cephes mathematical library, developed by Stephen L. Moshier. It is used, among many other places, at the heart of SciPy. **[Deprecated]**
   * [autograd](https://github.com/twitter/torch-autograd) - Autograd automatically differentiates native Torch code. Inspired by the original Python version.
@@ -891,6 +906,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 <a name="matlab-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.
 * [Training a deep autoencoder or a classifier
 on MNIST digits](https://www.cs.toronto.edu/~hinton/MatlabForSciencePaper.html) - Training a deep autoencoder or a classifier
 on MNIST digits[DEEP LEARNING].
@@ -934,6 +950,7 @@ on MNIST digits[DEEP LEARNING].
 <a name="net-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.
 * [Accord-Framework](http://accord-framework.net/) -The Accord.NET Framework is a complete framework for building machine learning, computer vision, computer audition, signal processing and statistical applications.
 * [Accord.MachineLearning](https://www.nuget.org/packages/Accord.MachineLearning/) - Support Vector Machines, Decision Trees, Naive Bayesian models, K-means, Gaussian Mixture models and general algorithms such as Ransac, Cross-validation and Grid-Search for machine-learning applications. This package is part of the Accord.NET Framework.
 * [DiffSharp](https://diffsharp.github.io/DiffSharp/) - An automatic differentiation (AD) library providing exact and efficient derivatives (gradients, Hessians, Jacobians, directional derivatives, and matrix-free Hessian- and Jacobian-vector products) for machine learning and optimization applications. Operations can be nested to any level, meaning that you can compute exact higher-order derivatives and differentiate functions that are internally making use of differentiation, for applications such as hyperparameter optimization.
@@ -1143,6 +1160,7 @@ be
 <a name="python-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.
 * [ray3.run](https://ray3.run) - AI-powered tools and applications for developers and businesses to enhance productivity and workflow automation. * [XAD](https://pypi.org/project/xad/) -> Fast and easy-to-use backpropagation tool.
  * [Aim](https://github.com/aimhubio/aim) -> An easy-to-use & supercharged open-source AI metadata tracker.
  * [RexMex](https://github.com/AstraZeneca/rexmex) -> A general purpose recommender metrics library for fair evaluation.
@@ -1546,6 +1564,7 @@ be
 <a name="ruby-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.
 * [Awesome Machine Learning with Ruby](https://github.com/arbox/machine-learning-with-ruby) - Curated list of ML related resources for Ruby.
 * [Ruby Machine Learning](https://github.com/tsycho/ruby-machine-learning) - Some Machine Learning algorithms, implemented in Ruby. **[Deprecated]**
 * [Machine Learning Ruby](https://github.com/mizoR/machine-learning-ruby) **[Deprecated]**
@@ -1580,7 +1599,8 @@ be
 
 <a name="rust-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
-* [smartcore](https://github.com/smartcorelib/smartcore) - "The Most Advanced Machine Learning Library In Rust."
+
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.* [smartcore](https://github.com/smartcorelib/smartcore) - "The Most Advanced Machine Learning Library In Rust."
 * [linfa](https://github.com/rust-ml/linfa) - a comprehensive toolkit to build Machine Learning applications with Rust
 * [deeplearn-rs](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
 * [rustlearn](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
@@ -1610,6 +1630,7 @@ be
 <a name="r-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.
 * [ahaz](https://cran.r-project.org/web/packages/ahaz/index.html) - ahaz: Regularization for semiparametric additive hazards regression. **[Deprecated]**
 * [arules](https://cran.r-project.org/web/packages/arules/index.html) - arules: Mining Association Rules and Frequent Itemsets
 * [biglasso](https://cran.r-project.org/web/packages/biglasso/index.html) - biglasso: Extending Lasso Model Fitting to Big Data in R.
@@ -1713,6 +1734,7 @@ be
 <a name="sas-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.
 * [Visual Data Mining and Machine Learning](https://www.sas.com/en_us/software/visual-data-mining-machine-learning.html) - Interactive, automated, and programmatic modelling with the latest machine learning algorithms in and end-to-end analytics environment, from data prep to deployment. Free trial available.
 * [Enterprise Miner](https://www.sas.com/en_us/software/enterprise-miner.html) - Data mining and machine learning that creates deployable models using a GUI or code.
 * [Factory Miner](https://www.sas.com/en_us/software/factory-miner.html) - Automatically creates deployable machine learning models across numerous market or customer segments using a GUI.
@@ -1771,6 +1793,7 @@ be
 <a name="scala-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.
 * [Microsoft ML for Apache Spark](https://github.com/Azure/mmlspark) -> A distributed machine learning framework Apache Spark
 * [ONNX-Scala](https://github.com/EmergentOrder/onnx-scala) - An ONNX (Open Neural Network eXchange) API and backend for typeful, functional deep learning in Scala (3).
 * [DeepLearning.scala](https://deeplearning.thoughtworks.school/) - Creating statically typed dynamic neural networks from object-oriented & functional programming constructs.
@@ -1805,6 +1828,7 @@ be
 <a name="swift-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.
 * [Bender](https://github.com/xmartlabs/Bender) - Fast Neural Networks framework built on top of Metal. Supports TensorFlow models.
 * [Swift AI](https://github.com/Swift-AI/Swift-AI) - Highly optimized artificial intelligence and machine learning library written in Swift.
 * [Swift for Tensorflow](https://github.com/tensorflow/swift) - a next-generation platform for machine learning, incorporating the latest research across machine learning, compilers, differentiable programming, systems design, and beyond.
@@ -1823,7 +1847,8 @@ be
 
 <a name="tensorflow-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
-* [Awesome Keras](https://github.com/markusschanta/awesome-keras) - A curated list of awesome Keras projects, libraries and resources.
+
+* [AKF](https://github.com/HMAKT99/AKF) - The AI native file format. Embeds trust scores, provenance, and compliance metadata into ML/AI outputs. Audit against EU AI Act, SOX, HIPAA. 20+ file formats.* [Awesome Keras](https://github.com/markusschanta/awesome-keras) - A curated list of awesome Keras projects, libraries and resources.
 * [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) - A list of all things related to TensorFlow.
 * [Golden TensorFlow](https://golden.com/wiki/TensorFlow) - A page of content on TensorFlow, including academic papers and links to related topics.
 
