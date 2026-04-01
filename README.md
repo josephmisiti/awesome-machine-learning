@@ -701,6 +701,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [GreatCircle](https://github.com/mwgg/GreatCircle) - Library for calculating great circle distance.
 * [MLPleaseHelp](https://github.com/jgreenemi/MLPleaseHelp) - MLPleaseHelp is a simple ML resource search engine. You can use this search engine right now at [https://jgreenemi.github.io/MLPleaseHelp/](https://jgreenemi.github.io/MLPleaseHelp/), provided via GitHub Pages.
 * [Pipcook](https://github.com/alibaba/pipcook) - A JavaScript application framework for machine learning and its engineering.
+* [verifyfetch](https://github.com/hamzaydia/verifyfetch) - Resumable, integrity-verified AI model downloads for the browser. Drop-in support for Transformers.js and WebLLM with constant memory and fail-fast corruption detection.
 
 <a name="javascript-demos-and-scripts"></a>
 #### Demos and Scripts
