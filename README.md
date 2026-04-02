@@ -1139,6 +1139,7 @@ be
 * [Transformers](https://github.com/huggingface/transformers) - A deep learning library containing thousands of pre-trained models on different tasks. The goto place for anything related to Large Language Models.
 * [TextCL](https://github.com/alinapetukhova/textcl) - Text preprocessing package for use in NLP tasks.
 * [VeritasGraph](https://github.com/bibinprathap/VeritasGraph) - Enterprise-Grade Graph RAG for Secure, On-Premise AI with Verifiable Attribution.
+* [veroq](https://github.com/veroq-ai/shield) - Verify any LLM output with one function call. Extracts claims, fact-checks against live evidence (web search, financial data, public records), and returns trust scores with corrections.
 
 <a name="python-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
