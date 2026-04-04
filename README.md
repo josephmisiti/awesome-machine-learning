@@ -23,7 +23,7 @@ Further resources:
 
 ### AI-Powered Learning Platforms
 
-* [LearnAI](https://uselearnai.com) — AI tutor that generates personalized ML curricula and teaches through conversation. Covers Python, scikit-learn, PyTorch, and more.
+* [LearnAI](https://uselearnai.com/chat?topic=Machine%20Learning) — AI tutor that generates personalized ML curricula and teaches through conversation. Covers Python, scikit-learn, PyTorch, and more.
 
 ## Table of Contents
 
