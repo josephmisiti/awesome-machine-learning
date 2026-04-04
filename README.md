@@ -20,6 +20,11 @@ Further resources:
 
 * For a list of free-to-attend meetups and local events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/meetups.md).
 
+
+### AI-Powered Learning Platforms
+
+* [LearnAI](https://uselearnai.com) — AI tutor that generates personalized ML curricula and teaches through conversation. Covers Python, scikit-learn, PyTorch, and more.
+
 ## Table of Contents
 
 ### Frameworks and Libraries
