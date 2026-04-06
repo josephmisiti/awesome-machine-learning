@@ -166,6 +166,7 @@ Further resources:
 
 - [Neural Networks](#tools-neural-networks)
 - [Misc](#tools-misc)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for machine learning workflow orchestration, automated model management, and multi-agent coordination. MIT licensed.
 
 
 [Credits](#credits)
