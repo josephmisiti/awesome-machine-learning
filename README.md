@@ -1527,8 +1527,9 @@ be
 * [EspNet](https://github.com/espnet/espnet) - ESPnet is an end-to-end speech processing toolkit for tasks like speech recognition, translation, and enhancement, using PyTorch and Kaldi-style data processing.
 
 <a name="python-development tools"></a>
-#### Development Tools 
+#### Development Tools
 * [CodeFlash.AI](https://www.codeflash.ai/) – CodeFlash.AI – Ship Blazing-Fast Python Code, Every Time.
+* [HeyTensor](https://heytensor.com) – Browser-based PyTorch tensor shape calculator. Computes shapes through Conv, Linear, LSTM, and Transformer layers without running code. Includes architecture presets (LeNet, ResNet block, Transformer encoder) and a "paste error" mode for parsing PyTorch RuntimeErrors.
 
 <a name="ruby"></a>
 ## Ruby
