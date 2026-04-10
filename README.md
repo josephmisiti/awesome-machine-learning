@@ -748,6 +748,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [ROCAnalysis](https://github.com/davidavdav/ROCAnalysis.jl) - Receiver Operating Characteristics and functions for evaluation probabilistic binary classifiers.
 * [GaussianMixtures](https://github.com/davidavdav/GaussianMixtures.jl) - Large scale Gaussian Mixture Models.
 * [ScikitLearn](https://github.com/cstjean/ScikitLearn.jl) - Julia implementation of the scikit-learn API.
+* [GrugBot420](https://github.com/grug-group420/grugbot420) - Neuromorphic AI engine deploying domain-expert specimens via architectural configuration. Zero-dependency, grug-brained philosophy.
 * [Knet](https://github.com/denizyuret/Knet.jl) - Koç University Deep Learning Framework.
 * [Flux](https://fluxml.ai/) - Relax! Flux is the ML library that doesn't make you tensor
 * [MLJ](https://github.com/alan-turing-institute/MLJ.jl) - A Julia machine learning framework.
