@@ -760,6 +760,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [ScikitLearn](https://github.com/cstjean/ScikitLearn.jl) - Julia implementation of the scikit-learn API.
 * [Knet](https://github.com/denizyuret/Knet.jl) - Koç University Deep Learning Framework.
 * [Flux](https://fluxml.ai/) - Relax! Flux is the ML library that doesn't make you tensor
+* [GrugBot420](https://github.com/grug-group420/grugbot420) - Neuromorphic cognitive AI engine using spiking neural network routing to orchestrate multiple LLM backends through specialized processing lobes.
 * [MLJ](https://github.com/alan-turing-institute/MLJ.jl) - A Julia machine learning framework.
 * [CluGen](https://github.com/clugen/CluGen.jl/) - Multidimensional cluster generation in Julia.
 
