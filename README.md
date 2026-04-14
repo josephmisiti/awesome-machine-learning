@@ -1902,6 +1902,7 @@ be
 * [HyperAgency](https://github.com/vuics/h9y) - agentic AI operating system (h9y.ai) that replaces brittle/fragmented automations with long-lived, self-improving systems. Open-source, self-hosted/cloud, visual workflow, omni-channel, decentralized, extensible.
 * [Bread Dataset Viewer](https://github.com/Bread-Technologies/mle_vscode_extension) - A VS Code extension for viewing and exploring large machine learning datasets (CSV, JSON, Parquet, etc.) directly within the editor without VS Code crashing in a clean UI.
 * [Bread WandB Viewer](https://github.com/Bread-Technologies/bread_wandb_viewer_extension) - A VS Code extension to view Weights & Biases experiments, logs, and artifacts within the IDE, eliminating the need to switch to the web UI and keeping data private.
+* [Helium](https://heliumtrades.com/mcp) - ML-powered options pricing (fair value and ITM probability), AI-generated bull/bear cases with probability-weighted scenarios, multi-dimensional news bias scoring across 15+ NLP dimensions, and ML-ranked search over 3.2M+ articles. REST API and [open-source MCP server](https://github.com/connerlambden/helium-mcp). [Documentation](https://heliumtrades.com/mcp-page/).
 
 <a name="books"></a>
 ## Books
