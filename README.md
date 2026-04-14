@@ -1078,6 +1078,7 @@ be
 * [PyTorchCV](https://github.com/donnyyou/PyTorchCV) - A PyTorch-Based Framework for Deep Learning in Computer Vision.
 * [joliGEN](https://github.com/jolibrain/joliGEN) - Generative AI Image Toolset with GANs and Diffusion for Real-World Applications.
 * [Gempix2](https://gempix2.site) - Free production platform for text-to-image generation using Nano Banana V2 model.
+* [ArtImageHub](https://artimagehub.com/old-photo-restoration) - AI-powered old photo restoration web app using CodeFormer + GFPGAN + Real-ESRGAN; automatically repairs scratches, fading, and blurry faces on old family photographs.
 * [Self-supervised learning](https://pytorch-lightning-bolts.readthedocs.io/en/latest/self_supervised_models.html)
 * [neural-style-pt](https://github.com/ProGamerGov/neural-style-pt) - A PyTorch implementation of Justin Johnson's neural-style (neural style transfer).
 * [Detecto](https://github.com/alankbi/detecto) - Train and run a computer vision model with 5-10 lines of code.
