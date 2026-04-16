@@ -5,6 +5,7 @@ Blogs/Podcasts
 * [LightTag's Labeled Data Blog](https://lighttag.io/blog)
 * [Freecodecamp articles](https://www.freecodecamp.org/news/tag/machine-learning/)
 * [Fennel Blog](https://fennel.ai/blog/)
+* [8bitconcepts](https://8bitconcepts.com/) - AI industry research and analysis covering pricing, enterprise adoption, and evaluation frameworks
 
 Podcasts
 --------
