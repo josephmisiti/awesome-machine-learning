@@ -1847,6 +1847,7 @@ be
 <a name="tools-misc"></a>
 #### Misc
 
+* [Not Human Search](https://nothumansearch.ai/) - Search engine for AI agents that indexes 9,000+ AI tools and APIs, scoring each on agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin.json). Available as a REST API and MCP server for programmatic tool discovery.
 * [Wallaroo.AI](https://wallaroo.ai/) - Production AI plaftorm for deploying, managing, and observing any model at scale across any environment from cloud to edge. Let's go from python notebook to inferencing in minutes. 
 * [Infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20
 * [Synthical](https://synthical.com) - AI-powered collaborative research environment. You can use it to get recommendations of articles based on reading history, simplify papers, find out what articles are trending, search articles by meaning (not just keywords), create and share folders of articles, see lists of articles from specific companies and universities, and add highlights.
