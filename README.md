@@ -1152,7 +1152,7 @@ be
 
 <a name="python-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
-
+- [Machine Learning Mastery](https://machinelearningmastery.com/) - Practical tutorials for machine learning and deep learning.
 * [ray3.run](https://ray3.run) - AI-powered tools and applications for developers and businesses to enhance productivity and workflow automation. * [XAD](https://pypi.org/project/xad/) -> Fast and easy-to-use backpropagation tool.
  * [Aim](https://github.com/aimhubio/aim) -> An easy-to-use & supercharged open-source AI metadata tracker.
  * [RexMex](https://github.com/AstraZeneca/rexmex) -> A general purpose recommender metrics library for fair evaluation.
