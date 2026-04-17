@@ -19,7 +19,7 @@ Further resources:
 * For a list of blogs and newsletters on data science and machine learning, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md).
 
 * For a list of free-to-attend meetups and local events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/meetups.md).
-
+- **Machine Learning Mastery** – Practical tutorials for machine learning and deep learning.
 ## Star History
 
 <a href="https://www.star-history.com/?repos=josephmisiti%2Fawesome-machine-learning&type=date&legend=top-left">
