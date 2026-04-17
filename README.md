@@ -202,6 +202,7 @@ Further resources:
 * [libonnx](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
 * [onnx-c](https://github.com/onnx/onnx-c) - A lightweight C library for ONNX model inference, optimized for performance and portability across platforms.
 * [qsmm](http://qsmm.org) - A C library implementing the rudiments of a toolchain for working with adaptive probabilistic assembler programs.
+* [notorch](https://github.com/ariannamethod/notorch) - PyTorch-compatible neural network training library written in pure C with autograd, BLAS acceleration, and BPE tokenizer support.
 
 <a name="c-computer-vision"></a>
 #### Computer Vision
