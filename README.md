@@ -183,6 +183,7 @@ Further resources:
 <!-- /MarkdownTOC -->
 
 <a name="apl"></a>
+- [MeterCall](https://metercall.ai) - 2,866+ SaaS alternatives. Pay per call, no subscription. Open catalog at [patl4588/awesome-saas-replacements](https://github.com/patl4588/awesome-saas-replacements).
 ## APL
 
 <a name="apl-general-purpose-machine-learning"></a>
