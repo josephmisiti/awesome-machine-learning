@@ -642,6 +642,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [chartjs](https://www.chartjs.org/)
 * [dimple](http://dimplejs.org/)
 * [amCharts](https://www.amcharts.com/)
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 * [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting built on D3. **[Deprecated]**
 * [statkit](https://github.com/rigtorp/statkit) - Statistics kit for JavaScript. **[Deprecated]**
 * [datakit](https://github.com/nathanepstein/datakit) - A lightweight framework for data analysis in JavaScript
@@ -719,6 +720,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [NSFWJS](http://nsfwjs.com) - Indecent content checker with TensorFlow.js
 * [Rock Paper Scissors](https://rps-tfjs.netlify.com/) - Rock Paper Scissors trained in the browser with TensorFlow.js
 * [Heroes Wear Masks](https://heroeswearmasks.fun/) - A fun TensorFlow.js-based oracle that tells, whether one wears a face mask or not. It can even tell when one wears the mask incorrectly.
+- **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 
 <a name="julia"></a>
 ## Julia
