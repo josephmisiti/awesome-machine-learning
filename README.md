@@ -752,6 +752,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [Flux](https://fluxml.ai/) - Relax! Flux is the ML library that doesn't make you tensor
 * [MLJ](https://github.com/alan-turing-institute/MLJ.jl) - A Julia machine learning framework.
 * [CluGen](https://github.com/clugen/CluGen.jl/) - Multidimensional cluster generation in Julia.
+* [grugbot420](https://github.com/grug-group420/grugbot420) - A neuromorphic cognitive engine in Julia that deploys domain-expert AI specimens through architectural configuration rather than traditional training.
 
 <a name="julia-natural-language-processing"></a>
 #### Natural Language Processing
