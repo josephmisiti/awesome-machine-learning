@@ -516,6 +516,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 #### Computer vision
 
 * [GoCV](https://github.com/hybridgroup/gocv) - Package for computer vision using OpenCV 4 and beyond.
+* [DataVLab](https://datavlab.ai) - Professional data annotation and labeling services for computer vision/AI
 
 <a name="go-reinforcement-learning"></a>
 #### Reinforcement learning
