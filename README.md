@@ -190,6 +190,8 @@ Further resources:
 
 <a name="apl-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
+* [ACLAS Neuro-Edu SDK](https://github.com/aclascollege/neuro-edu) - Autonomous cognitive simulation framework for AI-powered education, modeling human knowledge acquisition with neural kernels and thermodynamic entropy analysis.
+
 * [naive-apl](https://github.com/mattcunningham/naive-apl) - Naive Bayesian Classifier implementation in APL. **[Deprecated]**
 
 <a name="c"></a>
