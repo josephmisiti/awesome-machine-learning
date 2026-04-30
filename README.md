@@ -1327,6 +1327,7 @@ be
 * [cleanlab](https://github.com/cleanlab/cleanlab): The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 * [AutoGluon](https://github.com/awslabs/autogluon): AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
 * [PyBroker](https://github.com/edtechre/pybroker) - Algorithmic Trading with Machine Learning.
+* [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI-powered crypto trading framework with ML ensemble (LightGBM + XGBoost). Supports 3 bot types (AI, Grid, DCA), 12 exchanges via CCXT, and Telegram bot integration.
 * [Frouros](https://github.com/IFCA/frouros): Frouros is an open source Python library for drift detection in machine learning systems.
 * [CometML](https://github.com/comet-ml/comet-examples): The best-in-class MLOps platform with experiment tracking, model production monitoring, a model registry, and data lineage from training straight through to production.
 * [ClearML](https://github.com/clearml/clearml) -  Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution. 
