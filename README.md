@@ -1483,7 +1483,7 @@ be
 #### Python Survival Analysis
 * [lifelines](https://github.com/CamDavidsonPilon/lifelines) - lifelines is a complete survival analysis library, written in pure Python
 * [Scikit-Survival](https://github.com/sebp/scikit-survival) - scikit-survival is a Python module for survival analysis built on top of scikit-learn. It allows doing survival analysis while utilizing the power of scikit-learn, e.g., for pre-processing or doing cross-validation.
-* [comprisk](https://github.com/sunnyadn/comprisk) - Python toolkit for competing risks. Random Survival Forest today (10–22× faster than R's randomForestSRC on real EHR; scales to n=10⁶ in ~1 min); Fine-Gray regression + cumulative incidence + Gray's K-sample + cause-specific Cox in v0.4.
+* [comprisk](https://github.com/sunnyadn/comprisk) - Python toolkit for competing risks. Random Survival Forest with Aalen–Johansen CIF, cause-specific C-indices, and OOB permutation VIMP. 10–22× faster than R's randomForestSRC on real EHR data (CHF + SEER); scales to n=10⁶ in ~1 min.
 
 <a name="python-federated-learning"></a>
 #### Federated Learning
