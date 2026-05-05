@@ -5,6 +5,7 @@ Blogs/Podcasts
 * [LightTag's Labeled Data Blog](https://lighttag.io/blog)
 * [Freecodecamp articles](https://www.freecodecamp.org/news/tag/machine-learning/)
 * [Fennel Blog](https://fennel.ai/blog/)
+* [Digital Mind News](https://digitalmindnews.com/). Daily AI news, research, and industry analysis aggregated from 30+ sources. [RSS](https://digitalmindnews.com/feed/).
 
 Podcasts
 --------
