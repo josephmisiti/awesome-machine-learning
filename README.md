@@ -191,6 +191,7 @@ Further resources:
 <a name="apl-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 * [naive-apl](https://github.com/mattcunningham/naive-apl) - Naive Bayesian Classifier implementation in APL. **[Deprecated]**
+- [x711](https://x711.io) - Universal pay-per-call tool API for AI agents. Web search, price feeds, shared Hive memory. Supports x402 USDC micropayments on Base + Solana. MCP-compatible, 10 free calls/day.
 
 <a name="c"></a>
 ## C
