@@ -65,7 +65,65 @@ Further resources:
       - [Data Visualization](#clojure-data-visualization)
       - [Interop](#clojure-interop)
       - [Misc](#clojure-misc)
-      - [Extra](#clojure-extra)
+      - [Extra](#clojure-extra)Neural Networks
+layer - Neural network inference from the command line
+
+Misc
+Wallaroo.AI - Production AI plaftorm for deploying, managing, and observing any model at scale across any environment from cloud to edge. Let's go from python notebook to inferencing in minutes.
+Infinity - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20
+Synthical - AI-powered collaborative research environment. You can use it to get recommendations of articles based on reading history, simplify papers, find out what articles are trending, search articles by meaning (not just keywords), create and share folders of articles, see lists of articles from specific companies and universities, and add highlights.
+Humanloop – Humanloop is a platform for prompt experimentation, finetuning models for better performance, cost optimization, and collecting model generated data and user feedback.
+Qdrant – Qdrant is open source vector similarity search engine with extended filtering support, written in Rust.
+Localforge – Is an open source on-prem AI coding autonomous assistant that lives inside your repo, edits and tests files at SSD speed. Think Claude Code but with UI. plug in any LLM (OpenAI, Gemini, Ollama, etc.) and let it work for you.
+milvus – Milvus is open source vector database for production AI, written in Go and C++, scalable and blazing fast for billions of embedding vectors.
+Weaviate – Weaviate is an open source vector search engine and vector database. Weaviate uses machine learning to vectorize and store data, and to find answers to natural language queries. With Weaviate you can also bring your custom ML models to production scale.
+txtai - Build semantic search applications and workflows.
+MLReef - MLReef is an end-to-end development platform using the power of git to give structure and deep collaboration possibilities to the ML development process.
+Chroma - Open-source search and retrieval database for AI applications. Vector, full-text, regex, and metadata search. Self-host or Cloud available.
+Pinecone - Vector database for applications that require real-time, scalable vector embedding and similarity search.
+CatalyzeX - Browser extension (Chrome and Firefox) that automatically finds and shows code implementations for machine learning papers anywhere: Google, Twitter, Arxiv, Scholar, etc.
+ML Workspace - All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) and dev tools (e.g., Jupyter, VS Code).
+Notebooks - A starter kit for Jupyter notebooks and machine learning. Companion docker images consist of all combinations of python versions, machine learning frameworks (Keras, PyTorch and Tensorflow) and CPU/CUDA versions.
+Deepnote - Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps.
+DVC - Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
+DVClive - Python library for experiment metrics logging into simply formatted local files.
+VDP - open source visual data ETL to streamline the end-to-end visual data processing pipeline: extract unstructured visual data from pre-built data sources, transform it into analysable structured insights by Vision AI models imported from various ML platforms, and load the insights into warehouses or applications.
+Kedro - Kedro is a data and development workflow framework that implements best practices for data pipelines with an eye towards productionizing machine learning models.
+Hamilton - a lightweight library to define data transformations as a directed-acyclic graph (DAG). It helps author reliable feature engineering and machine learning pipelines, and more.
+guild.ai - Tool to log, analyze, compare and "optimize" experiments. It's cross-platform and framework independent, and provided integrated visualizers such as tensorboard.
+Sacred - Python tool to help you configure, organize, log and reproduce experiments. Like a notebook lab in the context of Chemistry/Biology. The community has built multiple add-ons leveraging the proposed standard.
+Comet - ML platform for tracking experiments, hyper-parameters, artifacts and more. It's deeply integrated with over 15+ deep learning frameworks and orchestration tools. Users can also use the platform to monitor their models in production.
+MLFlow - platform to manage the ML lifecycle, including experimentation, reproducibility and deployment. Framework and language agnostic, take a look at all the built-in integrations.
+Weights & Biases - Machine learning experiment tracking, dataset versioning, hyperparameter search, visualization, and collaboration
+More tools to improve the ML lifecycle: Catalyst, PachydermIO. The following are GitHub-alike and targeting teams Weights & Biases, Neptune.ai, Comet.ml, Valohai.ai, DAGsHub.
+Arize AI - Model validation and performance monitoring, drift detection, explainability, visualization across structured and unstructured data
+MachineLearningWithTensorFlow2ed - a book on general purpose machine learning techniques regression, classification, unsupervised clustering, reinforcement learning, auto encoders, convolutional neural networks, RNNs, LSTMs, using TensorFlow 1.14.1.
+m2cgen - A tool that allows the conversion of ML models into native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart) with zero dependencies.
+CML - A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate models in production like environments and automatically generate visual reports with metrics and graphs in pull/merge requests. Framework & language agnostic.
+Pythonizr - An online tool to generate boilerplate machine learning code that uses scikit-learn.
+Flyte - Flyte makes it easy to create concurrent, scalable, and maintainable workflows for machine learning and data processing.
+GPU Per Hour - Real-time GPU cloud price comparison across 30+ providers.
+Chaos Genius - ML powered analytics engine for outlier/anomaly detection and root cause analysis.
+MLEM - Version and deploy your ML models following GitOps principles
+DockerDL - Ready to use deeplearning docker images.
+Aqueduct - Aqueduct enables you to easily define, run, and manage AI & ML tasks on any cloud infrastructure.
+Ambrosia - Ambrosia helps you clean up your LLM datasets using other LLMs.
+Fiddler AI - The all-in-one AI Observability and Security platform for responsible AI. It provides monitoring, analytics, and centralized controls to operationalize ML, GenAI, and LLM applications with trust. Fiddler helps enterprises scale LLM and ML deployments to deliver high performance AI, reduce costs, and be responsible in governance.
+Maxim AI - The agent simulation, evaluation, and observability platform helping product teams ship their AI applications with the quality and speed needed for real-world use.
+promptfoo - Open-source LLM evaluation and red teaming framework. Test prompts, models, agents, and RAG pipelines. Run adversarial attacks (jailbreaks, prompt injection) and integrate security testing into CI/CD.
+Agentic Radar - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
+ClawMoat - Open-source runtime security scanner for AI agents. Detects prompt injection, jailbreak, PII leakage, memory poisoning, and tool misuse. Zero deps, MIT licensed.
+Agentic Signal - Visual AI agent workflow automation platform with local LLM integration. Build intelligent workflows using drag-and-drop, no cloud required.
+Agentfield - Open source Kubernetes-style control plane for deploying AI agents as distributed microservices, with built-in service discovery, durable workflows, and observability.
+ScribePal - Chrome extension that uses local LLMs to assist with writing and drafting responses based on the context of your open tabs.
+Local LLM NPC - Godot 4.x asset that enables NPCs to interact with players using local LLMs for structured, offline-first learning conversations in games.
+Awesome Hugging Face Models - Curated list of top Hugging Face models for NLP, vision, and audio tasks with demos and benchmarks.
+Awesome RAG Production - A curated collection of battle-tested tools, frameworks, and best practices for building, scaling, and monitoring production-grade Retrieval-Augmented Generation (RAG) systems. Covers frameworks, vector databases, retrieval & reranking, evaluation, observability, deployment, and security.
+PraisonAI - Production-ready Multi-AI Agents framework with self-reflection. Fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, MCP integration, agentic workflows (route/parallel/loop/repeat), built-in memory, Python & JS SDKs.
+RunAnywhere - Open-source SDK for running LLMs and multimodal models on-device across iOS, Android, and cross-platform apps.
+HyperAgency - agentic AI operating system (h9y.ai) that replaces brittle/fragmented automations with long-lived, self-improving systems. Open-source, self-hosted/cloud, visual workflow, omni-channel, decentralized, extensible.
+Bread Dataset Viewer - A VS Code extension for viewing and exploring large machine learning datasets (CSV, JSON, Parquet, etc.) directly within the editor without VS Code crashing in a clean UI.
+Bread WandB Viewer - A VS Code extension to view Weights & Biases experiments, logs, and artifacts within the IDE, eliminating the need to switch to the web UI and keeping data private.
   - [Crystal](#crystal)
       - [General-Purpose Machine Learning](#crystal-general-purpose-machine-learning)
   - [CUDA PTX](#cuda-ptx)
@@ -1883,6 +1941,7 @@ be
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A tool that allows the conversion of ML models into native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart) with zero dependencies.
 * [CML](https://github.com/iterative/cml) - A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate models in production like environments and automatically generate visual reports with metrics and graphs in pull/merge requests. Framework & language agnostic.
 * [Pythonizr](https://pythonizr.com) - An online tool to generate boilerplate machine learning code that uses scikit-learn.
+* [StepByStepML](https://www.stepbystepml.com) - An interactive educational tool for university students. Plug in datasets to visually calculate algorithms (like Naive Bayes, KNN, and Decision Trees) with fully expanded, step-by-step manual math for exam prep.
 * [Flyte](https://flyte.org/) - Flyte makes it easy to create concurrent, scalable, and maintainable workflows for machine learning and data processing.
 * [GPU Per Hour](https://gpuperhour.com) - Real-time GPU cloud price comparison across 30+ providers.
 * [Chaos Genius](https://github.com/chaos-genius/chaos_genius/) - ML powered analytics engine for outlier/anomaly detection and root cause analysis.
