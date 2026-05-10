@@ -19,7 +19,7 @@ While you work on your individual projects, I would maybe deepen your (statistic
 
 - T. Hastie, R. Tibshirani, J. Friedman, T. Hastie, J. Friedman, and R. Tibshirani. [The Elements of Statistical Learning](https://statweb.stanford.edu/~tibs/ElemStatLearn/), volume 2. Springer, 2009.
 - C. M. Bishop et al. [Pattern Recognition and Machine Learning](https://www.springer.com/us/book/9780387310732), volume 1. Springer New York, 2006.
-- Duda, Richard O., Peter E. Hart, and David G. Stork. [Pattern Classification](https://www.wiley.com/WileyCDA/WileyTitle/productCd-0471056693.html). John Wiley & Sons, 2012.
+- Duda, Richard O., Peter E. Hart, and David G. Stork. [Pattern Classification](https://books.google.co.in/books/about/Pattern_Classification.html?id=Br33IRC3PkQC&redir_esc=y). John Wiley & Sons, 2012.
 
 When you are through all of that and still hungry to learn more, I recommend
 
