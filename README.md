@@ -177,6 +177,7 @@ Further resources:
 
 ### [Tools](#tools-1)
 
+- [Educational Tools](#tools-educational-tools)
 - [Neural Networks](#tools-neural-networks)
 - [Misc](#tools-misc)
 
@@ -1843,6 +1844,10 @@ be
 
 <a name="tools"></a>
 ## Tools
+
+<a name="tools-educational-tools"></a>
+#### Educational Tools
+* [NN Visual](https://nn-visual.com) - Interactive visualizations explaining neural networks, backpropagation, attention mechanisms, and transformers.
 
 <a name="tools-neural-networks"></a>
 #### Neural Networks
