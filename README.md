@@ -1618,6 +1618,7 @@ be
 * [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - Fast State-of-the-Art Tokenizers optimized for Research and Production
 * [rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
 * [shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - Python-free Rust inference server for NLP models with OpenAI API compatibility and hot model swapping.
+* [Dakera](https://github.com/dakera-ai/dakera-mcp) - Self-hosted agent memory server with HNSW vector indexing and RocksDB persistence. MCP-native protocol for AI agent workflows.
 
 <a name="r"></a>
 ## R
