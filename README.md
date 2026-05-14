@@ -139,6 +139,7 @@ Further resources:
       - [Computer Vision](#python-computer-vision)
       - [Natural Language Processing](#python-natural-language-processing)
       - [General-Purpose Machine Learning](#python-general-purpose-machine-learning)
+- [LangChain](https://github.com/langchain-ai/langchain) - Framework for developing applications powered by language models.
       - [Data Analysis / Data Visualization](#python-data-analysis--data-visualization)
       - [Misc Scripts / iPython Notebooks / Codebases](#python-misc-scripts--ipython-notebooks--codebases)
       - [Neural Networks](#python-neural-networks)
