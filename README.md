@@ -204,6 +204,7 @@ Further resources:
 * [neonrvm](https://github.com/siavashserver/neonrvm) - neonrvm is an open source machine learning library based on RVM technique. It's written in C programming language and comes with Python programming language bindings.
 * [cONNXr](https://github.com/alrevuelta/cONNXr) - An `ONNX` runtime written in pure C (99) with zero dependencies focused on small embedded devices. Run inference on your machine learning models no matter which framework you train it with. Easy to install and compiles everywhere, even in very old devices.
 * [libonnx](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
+* [nn2](https://github.com/facex-engine/facex/tree/master/nn2) - Zero-dependency neural network inference engine in pure C with hand-written AVX-512 / AVX2 / NEON SIMD kernels. Runs ONNX-exported models and ships as the runtime for the FaceX face recognition engine (Apache 2.0).
 * [onnx-c](https://github.com/onnx/onnx-c) - A lightweight C library for ONNX model inference, optimized for performance and portability across platforms.
 * [qsmm](http://qsmm.org) - A C library implementing the rudiments of a toolchain for working with adaptive probabilistic assembler programs.
 
