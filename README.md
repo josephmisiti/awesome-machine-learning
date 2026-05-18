@@ -1103,6 +1103,8 @@ be
 * [segmentation_models](https://github.com/qubvel/segmentation_models) - A TensorFlow Keras-based toolkit that offers pre-trained segmentation models for computer vision tasks. It simplifies the development of image segmentation applications by providing a collection of popular architecture implementations, such as UNet and PSPNet, along with pre-trained weights, making it easier for researchers and developers to achieve high-quality pixel-level object segmentation in images.
 * [MLX](https://github.com/ml-explore/mlx)- MLX is an array framework for machine learning on Apple silicon, developed by Apple machine learning research.
 
+* [FakeShield AI](https://github.com/aasimansari1/fake-news-detector) - A Flask-based fake news detector using TF-IDF + NLP pipeline (Passive Aggressive, Naive Bayes, Logistic Regression). Provides confidence score and key word evidence per prediction.
+
 <a name="python-natural-language-processing"></a>
 #### Natural Language Processing
 
@@ -1154,6 +1156,8 @@ be
 * [Transformers](https://github.com/huggingface/transformers) - A deep learning library containing thousands of pre-trained models on different tasks. The goto place for anything related to Large Language Models.
 * [TextCL](https://github.com/alinapetukhova/textcl) - Text preprocessing package for use in NLP tasks.
 * [VeritasGraph](https://github.com/bibinprathap/VeritasGraph) - Enterprise-Grade Graph RAG for Secure, On-Premise AI with Verifiable Attribution.
+
+* [Smart Traffic Management System](https://github.com/aasimansari1/smart-traffic-system) - YOLOv8-powered adaptive traffic signal controller that dynamically adjusts green time (10-60s) based on real-time vehicle density, with emergency vehicle override detection.
 
 <a name="python-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
