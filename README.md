@@ -1060,6 +1060,7 @@ be
 
 <a name="python"></a>
 ## Python
+- [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) - Official OWASP reference implementation for defending AI agents against memory poisoning (ASI06) and indirect prompt injection attacks.
 
 <a name="python-computer-vision"></a>
 #### Computer Vision
