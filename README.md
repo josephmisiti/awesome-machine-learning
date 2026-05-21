@@ -1928,6 +1928,7 @@ be
 * [Pollinations.AI](https://pollinations.ai) - Free, no-signup APIs for text, image, and audio generation with no API keys required. Offers OpenAI-compatible interfaces and React hooks for easy integration.
 * [Model Zoo](https://modelzoo.co/) - Discover open source deep learning code and pretrained models.
 
+* [AI Models Catalog](https://github.com/i-need-token/ai-models) - Structured database of 4,587+ AI models across 95 providers with pricing, context windows, and capabilities. Machine-readable YAML with TypeScript types and Zod validation.
 ## Credits
 
 * Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
