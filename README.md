@@ -717,6 +717,8 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [MLPleaseHelp](https://github.com/jgreenemi/MLPleaseHelp) - MLPleaseHelp is a simple ML resource search engine. You can use this search engine right now at [https://jgreenemi.github.io/MLPleaseHelp/](https://jgreenemi.github.io/MLPleaseHelp/), provided via GitHub Pages.
 * [Pipcook](https://github.com/alibaba/pipcook) - A JavaScript application framework for machine learning and its engineering.
 
+* [ONNX2Anything](https://github.com/UnstoppableCurry/onnx2anything) - Convert ONNX models to edge inference formats (NCNN, MNN, TNN, Tengine, PaddleLite) entirely in the browser using WebAssembly and Pyodide. No install, no server, your model never leaves your machine.
+
 <a name="javascript-demos-and-scripts"></a>
 #### Demos and Scripts
 * [The Bot](https://github.com/sta-ger/TheBot) - Example of how the neural network learns to predict the angle between two points created with [Synaptic](https://github.com/cazala/synaptic).
