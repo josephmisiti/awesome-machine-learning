@@ -1540,6 +1540,9 @@ be
 <a name="python-speech-recognition"></a>
 #### Speech Recognition
 * [EspNet](https://github.com/espnet/espnet) - ESPnet is an end-to-end speech processing toolkit for tasks like speech recognition, translation, and enhancement, using PyTorch and Kaldi-style data processing.
+* [FunASR](https://github.com/modelscope/FunASR) - A fundamental end-to-end speech recognition toolkit with production-ready models for ASR, VAD, punctuation, speaker diarization, and emotion detection. Supports 50+ languages with a unified Python interface.
+* [SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - Multi-task speech understanding model for ASR, language identification, emotion recognition, and audio event detection. 7x faster than Whisper-small with 5 language support.
+* [Fun-ASR](https://github.com/FunAudioLLM/Fun-ASR) - LLM-based ASR model supporting 31 languages including Chinese dialects, with native punctuation and timestamp output.
 
 <a name="python-development tools"></a>
 #### Development Tools 
