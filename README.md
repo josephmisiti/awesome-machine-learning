@@ -1204,6 +1204,7 @@ be
 * [BigML](https://bigml.com) - A library that contacts external servers.
 * [pattern](https://github.com/clips/pattern) - Web mining module for Python.
 * [Neurolink](https://github.com/juspay/neurolink) - Enterprise-grade LLM integration framework for building production-ready AI applications with built-in hallucination prevention, RAG, and MCP support.
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Solana-native MCP server for agent trust scoring and identity verification. 4 free preflight tools score any Solana wallet (on-chain activity, transaction patterns, network age, recurring behavior); paid tools return signed trust receipts via HTTP 402 + USDC on Solana (<1s settlement). Install: `pip install twzrd-agent-intel`.
 * [NuPIC](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing.
 * [Pylearn2](https://github.com/lisa-lab/pylearn2) - A Machine Learning library based on [Theano](https://github.com/Theano/Theano). **[Deprecated]**
 * [keras](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow](https://github.com/tensorflow/tensorflow), [CNTK](https://github.com/Microsoft/CNTK) and [Theano](https://github.com/Theano/Theano).
