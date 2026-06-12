@@ -1330,6 +1330,7 @@ be
 * [AutoGluon](https://github.com/awslabs/autogluon): AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
 * [PyBroker](https://github.com/edtechre/pybroker) - Algorithmic Trading with Machine Learning.
 * [Frouros](https://github.com/IFCA/frouros): Frouros is an open source Python library for drift detection in machine learning systems.
+* [Adaptive Reliability Layer](https://github.com/pberlizov/adaptive-reliability-layer): A bounded controller for production ML under distribution shift — detects drift, learns from delayed labels, and takes the smallest safe steering step to defer unnecessary retrains.
 * [CometML](https://github.com/comet-ml/comet-examples): The best-in-class MLOps platform with experiment tracking, model production monitoring, a model registry, and data lineage from training straight through to production.
 * [ClearML](https://github.com/clearml/clearml) -  Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution. 
 * [Okrolearn](https://github.com/Okerew/okrolearn): A python machine learning library created to combine powefull data analasys features with tensors and machine learning components, while maintaining support for other libraries.
