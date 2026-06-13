@@ -1472,6 +1472,7 @@ be
 * [Jina AI](https://jina.ai/) An easier way to build neural search in the cloud. Compatible with Jupyter Notebooks.
 * [sequitur](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
 * [ANEE](https://github.com/abkmystery/ANEE) - Adaptive Neural Execution Engine for transformers. Per-token sparse inference with dynamic layer skipping, profiler-based gating, and KV-cache-safe compute reduction.
+* [Genesis 2](https://github.com/larionovavi-stack/genesis2-cascade-moe) - Patented Cascade MoE neural network with shared neuron pool. CPU-only (no GPU required), zero catastrophic forgetting, 18ms inference, 130ms learning per new fact. 10,800+ experts across 22 domains.
 
 
 
