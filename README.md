@@ -283,6 +283,7 @@ Further resources:
 * [XAD](https://github.com/auto-differentiation/XAD) - Comprehensive backpropagation tool for C++.
 * [Truss](https://truss.baseten.co) - An open source framework for packaging and serving ML models.
 * [nndeploy](https://github.com/nndeploy/nndeploy) - An Easy-to-Use and High-Performance AI deployment framework.
+* [ols-regression-engine](https://github.com/VojtechNovakk/ols-regression-engine) - A low-level Linear Regression Engine utilizing the Ordinary Least Squares (OLS) method and QR decomposition.
 
 <a name="cpp-natural-language-processing"></a>
 #### Natural Language Processing
