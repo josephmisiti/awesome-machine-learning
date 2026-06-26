@@ -1106,6 +1106,7 @@ be
 * [MLX](https://github.com/ml-explore/mlx)- MLX is an array framework for machine learning on Apple silicon, developed by Apple machine learning research.
 
 <a name="python-natural-language-processing"></a>
+* [SuperCompress](https://github.com/arjunkshah/supercompress) - Learned context compression for LLMs. ~5K param CPU policy cuts 65% of tokens with 100% oracle recall.
 #### Natural Language Processing
 
 * [pkuseg-python](https://github.com/lancopku/pkuseg-python) - A better version of Jieba, developed by Peking University.
