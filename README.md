@@ -298,6 +298,7 @@ Further resources:
 * [MIT Information Extraction Toolkit](https://github.com/mit-nlp/MITIE) - C, C++, and Python tools for named entity recognition and relation extraction
 * [ucto](https://github.com/LanguageMachines/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
 * [SentencePiece](https://github.com/google/sentencepiece) - A C++ library for unsupervised text tokenization and detokenization, widely used in modern NLP models.
+* [SuperCompress](https://supercompress.vercel.app) - Learned prompt compression that reduces LLM token costs by ~65% using a ~5K-param CPU policy (~60ms latency). Open-source (MIT).
 
 <a name="cpp-speech-recognition"></a>
 #### Speech Recognition
