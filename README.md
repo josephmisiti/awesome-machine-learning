@@ -690,6 +690,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [Brain.js](https://github.com/BrainJS/brain.js) - Neural networks in JavaScript - continued community fork of [Brain](https://github.com/harthur/brain).
 * [Bayesian-Bandit](https://github.com/omphalos/bayesian-bandit.js) - Bayesian bandit implementation for Node and the browser. **[Deprecated]**
 * [Synaptic](https://github.com/cazala/synaptic) - Architecture-free neural network library for Node.js and the browser.
+* [altor-vec](https://github.com/altor-lab/altor-vec) - In-browser HNSW vector similarity search engine compiled to 54KB WASM. Semantic search for JavaScript apps with no server required.
 * [kNear](https://github.com/NathanEpstein/kNear) - JavaScript implementation of the k nearest neighbors algorithm for supervised learning.
 * [NeuralN](https://github.com/totemstech/neuraln) - C++ Neural Network library for Node.js. It has advantage on large dataset and multi-threaded training. **[Deprecated]**
 * [kalman](https://github.com/itamarwe/kalman) - Kalman filter for JavaScript. **[Deprecated]**
