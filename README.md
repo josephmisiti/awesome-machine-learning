@@ -1066,6 +1066,7 @@ be
 <a name="python-computer-vision"></a>
 #### Computer Vision
 
+* [FiftyOne](https://github.com/voxel51/fiftyone) - Open-source tool to visualize, natively annotate, curate, and evaluate computer vision datasets and models.
 * [LightlyTrain](https://github.com/lightly-ai/lightly-train) - Pretrain computer vision models on unlabeled data for industrial applications
 * [Scikit-Image](https://github.com/scikit-image/scikit-image) - A collection of algorithms for image processing in Python.
 * [Scikit-Opt](https://github.com/guofei9987/scikit-opt) - Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)
