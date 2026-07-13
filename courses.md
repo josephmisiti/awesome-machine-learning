@@ -71,3 +71,4 @@ The following is a list of free or paid online courses on machine learning, stat
 * [LabEx Machine Learning Skill Tree](https://labex.io/skilltrees/ml) - free and $ Hands-on labs
 * [LLM Evaluation with Opik](https://www.comet.com/site/llm-course/) - free Hands-on labs
 * [Advanced Machine Learning](https://www.trainindata.com/p/advanced-machine-learning) - $ intermediate and advanced courses
+* [zero2robot](https://www.zero2robot.com/) - Free, from-scratch course on embodied AI and robot learning; build a robot policy one readable file at a time, from a bare MuJoCo simulator to a vision-language-action model, on a free Colab T4 - free
