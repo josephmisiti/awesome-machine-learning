@@ -707,6 +707,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [WebDNN](https://github.com/mil-tokyo/webdnn) - Fast Deep Neural Network JavaScript Framework. WebDNN uses next generation JavaScript API, WebGPU for GPU execution, and WebAssembly for CPU execution.
 * [WebNN](https://webnn.dev) - A new web standard that allows web apps and frameworks to accelerate deep neural networks with on-device hardware such as GPUs, CPUs, or purpose-built AI accelerators.
 * [Kandle](https://github.com/final-kk/kandle) - A JavaScript Native PyTorch-aligned Machine Learning Framework, built from scratch on WebGPU.
+* [LocalMode](https://github.com/LocalMode-AI/LocalMode) - Local-first, privacy-first AI toolkit that runs models entirely in the browser (Transformers.js, WebLLM, wllama, WebGPU/WASM) with a zero-dependency core for embeddings, vector search, RAG, and agents. No servers, no API keys.
 
 <a name="javascript-misc"></a>
 #### Misc
