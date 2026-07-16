@@ -1457,7 +1457,7 @@ be
 * [Heart_Disease-Prediction](https://github.com/ShivamChoudhary17/Heart_Disease) - Given clinical parameters about a patient, can we predict whether or not they have heart disease?
 * [Flight Fare Prediction](https://github.com/ShivamChoudhary17/Flight_Fare_Prediction) - This basically to gauge the understanding of Machine Learning Workflow and Regression technique in specific.
 * [Keras Tuner](https://github.com/keras-team/keras-tuner) - An easy-to-use, scalable hyperparameter optimization framework that solves the pain points of hyperparameter search.
-
+* [AI Systems Design From First Principles](https://aminblm.github.io/ai_systems_design_from_scratch/) - Rebuilding enterprise systems and AI from first principles.
 
 
 <a name="python-neural-networks"></a>
