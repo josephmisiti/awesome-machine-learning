@@ -1546,6 +1546,7 @@ be
 <a name="python-speech-recognition"></a>
 #### Speech Recognition
 * [EspNet](https://github.com/espnet/espnet) - ESPnet is an end-to-end speech processing toolkit for tasks like speech recognition, translation, and enhancement, using PyTorch and Kaldi-style data processing.
+* [FunASR](https://github.com/modelscope/FunASR) - An industrial-grade speech recognition toolkit supporting multilingual ASR, VAD, punctuation restoration, speaker diarization, and emotion recognition.
 
 <a name="python-development tools"></a>
 #### Development Tools 
