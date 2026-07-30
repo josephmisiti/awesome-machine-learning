@@ -1861,6 +1861,7 @@ be
 <a name="tools-neural-networks"></a>
 #### Neural Networks
 * [layer](https://github.com/cloudkj/layer) - Neural network inference from the command line
+* [BESSER Neural Network Editor](https://editor.besser-pearl.org) - Browser-based visual editor for designing neural networks and automatically generating PyTorch and TensorFlow code.
 
 <a name="tools-misc"></a>
 #### Misc
