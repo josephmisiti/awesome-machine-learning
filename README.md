@@ -1110,6 +1110,7 @@ be
 <a name="python-natural-language-processing"></a>
 #### Natural Language Processing
 
+* [ragleap-rag](https://github.com/antonyrag/ragleap-core) - CPU-only RAG (Retrieval-Augmented Generation) library with a 23MB ONNX reranker, 6 vector backends, and 8 embedding providers.
 * [pkuseg-python](https://github.com/lancopku/pkuseg-python) - A better version of Jieba, developed by Peking University.
 * [NLTK](https://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
 * [Pattern](https://github.com/clips/pattern) - A web mining module for the Python programming language. It has tools for natural language processing, machine learning, among others.
