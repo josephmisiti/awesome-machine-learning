@@ -1604,6 +1604,7 @@ be
 
 <a name="rust-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
+* [NEURAX](https://github.com/rustnew/NEURAX) - Analytical compiler for neural network architectures. Predicts cost, memory, performance before training. <50ms, zero GPU, 99%+ accuracy.
 * [smartcore](https://github.com/smartcorelib/smartcore) - "The Most Advanced Machine Learning Library In Rust."
 * [linfa](https://github.com/rust-ml/linfa) - a comprehensive toolkit to build Machine Learning applications with Rust
 * [deeplearn-rs](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
