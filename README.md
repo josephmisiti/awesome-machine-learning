@@ -1460,6 +1460,7 @@ be
 * [Heart_Disease-Prediction](https://github.com/ShivamChoudhary17/Heart_Disease) - Given clinical parameters about a patient, can we predict whether or not they have heart disease?
 * [Flight Fare Prediction](https://github.com/ShivamChoudhary17/Flight_Fare_Prediction) - This basically to gauge the understanding of Machine Learning Workflow and Regression technique in specific.
 * [Keras Tuner](https://github.com/keras-team/keras-tuner) - An easy-to-use, scalable hyperparameter optimization framework that solves the pain points of hyperparameter search.
+* [Fair Code](https://github.com/yakew7/Fair-Code) - Jupyter notebooks and a benchmark harness that audit real-world-style AI systems (COMPAS, hiring, lending, insurance, welfare, hospital readmission, tenant screening) for algorithmic bias, pairing a biased baseline with a mitigated version and measured before/after fairness metrics.
 
 
 
