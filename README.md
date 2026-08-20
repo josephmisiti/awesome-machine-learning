@@ -219,8 +219,7 @@ Further resources:
 
 <a name="c-speech-recognition"></a>
 #### Speech Recognition
-* [VoxRT](https://github.com/VoxRT/voxrt-asr-linux) - On-device streaming speech recognition runtime with C API for Linux (aarch64/x86_64). Based on NVIDIA NeMo FastConformer (80 ms 
-  cache-aware lookahead). Companion Silero VAD, wake-word, and 14-command KWS via same runtime.
+* [VoxRT](https://github.com/VoxRT/voxrt-asr-linux) - On-device streaming speech recognition runtime with C API for Linux (aarch64/x86_64). Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Companion Silero VAD, wake-word, and 14-command KWS via same runtime.
 
 <a name="cpp"></a>
 ## C++
@@ -310,8 +309,7 @@ Further resources:
 #### Speech Recognition
 * [Kaldi](https://github.com/kaldi-asr/kaldi) - Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
 * [Vosk](https://github.com/alphacep/vosk-api) - An offline speech recognition toolkit with C++ support, designed for low-resource devices and multiple languages.
-* [VoxRT](https://github.com/VoxRT/voxrt-asr-linux) - On-device streaming speech recognition runtime with C/C++ headers for Linux (aarch64/x86_64). Based on NVIDIA NeMo FastConformer 
-  (80 ms cache-aware lookahead). Companion Silero VAD, wake-word, and 14-command KWS via same runtime.
+* [VoxRT](https://github.com/VoxRT/voxrt-asr-linux) - On-device streaming speech recognition runtime with C/C++ headers for Linux (aarch64/x86_64). Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Companion Silero VAD, wake-word, and 14-command KWS via same runtime.
 
 <a name="cpp-sequence-analysis"></a>
 #### Sequence Analysis
@@ -535,8 +533,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 
 <a name="go-speech-recognition"></a>
 #### Speech Recognition
-* [VoxRT](https://github.com/VoxRT/voxrt-asr-linux) - On-device streaming speech recognition runtime with Go bindings. Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead).
-   Ships alongside C/C++, PyPI, and npm packages for Linux (aarch64/x86_64).
+* [VoxRT](https://github.com/VoxRT/voxrt-asr-linux) - On-device streaming speech recognition runtime with Go bindings. Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Ships alongside C/C++, PyPI, and npm packages for Linux (aarch64/x86_64).
 
 <a name="go-reinforcement-learning"></a>
 #### Reinforcement learning
@@ -723,8 +720,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 
 <a name="javascript-speech-recognition"></a>
 #### Speech Recognition
-* [VoxRT](https://github.com/VoxRT/voxrt-asr-linux) - On-device streaming speech recognition runtime with npm bindings. Based on NVIDIA NeMo FastConformer (80 ms cache-aware
-  lookahead). Ships alongside C/C++, Python (PyPI), and Go packages for Linux (aarch64/x86_64).
+* [VoxRT](https://github.com/VoxRT/voxrt-asr-linux) - On-device streaming speech recognition runtime with npm bindings. Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Ships alongside C/C++, Python (PyPI), and Go packages for Linux (aarch64/x86_64).
 
 <a name="javascript-misc"></a>
 #### Misc
@@ -836,8 +832,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 
 <a name="kotlin-speech-recognition"></a>
 #### Speech Recognition
-* [VoxRT](https://github.com/VoxRT/voxrt-asr-android) - On-device streaming speech recognition SDK for Android with Kotlin bindings (JitPack). Based on NVIDIA NeMo FastConformer (80 ms
-   cache-aware lookahead). Companion Silero VAD, wake-word, and 14-command KWS via same runtime.
+* [VoxRT](https://github.com/VoxRT/voxrt-asr-android) - On-device streaming speech recognition SDK for Android with Kotlin bindings (JitPack). Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Companion Silero VAD, wake-word, and 14-command KWS via same runtime.
 
 <a name="lua"></a>
 ## Lua
@@ -1572,8 +1567,7 @@ be
 <a name="python-speech-recognition"></a>
 #### Speech Recognition
 * [EspNet](https://github.com/espnet/espnet) - ESPnet is an end-to-end speech processing toolkit for tasks like speech recognition, translation, and enhancement, using PyTorch and Kaldi-style data processing.
-* [VoxRT](https://github.com/VoxRT/voxrt-asr-linux) - On-device streaming speech recognition toolkit with Python bindings. Based on NVIDIA NeMo FastConformer (80 ms cache-aware
-  lookahead). Ships companion VAD (Silero), wake-word, and 14-command keyword spotting via same runtime.
+* [VoxRT](https://github.com/VoxRT/voxrt-asr-linux) - On-device streaming speech recognition toolkit with Python bindings. Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Ships companion VAD (Silero), wake-word, and 14-command keyword spotting via same runtime.
 
 <a name="python-development tools"></a>
 #### Development Tools 
@@ -1870,8 +1864,7 @@ be
 
 <a name="swift-speech-recognition"></a>
 #### Speech Recognition
-* [VoxRT](https://github.com/VoxRT/voxrt-asr-ios) - On-device streaming speech recognition SDK for iOS with Swift bindings (SPM). Based on NVIDIA NeMo FastConformer (80 ms cache-aware
-  lookahead). Companion Silero VAD, wake-word, and 14-command KWS via same runtime.
+* [VoxRT](https://github.com/VoxRT/voxrt-asr-ios) - On-device streaming speech recognition SDK for iOS with Swift bindings (SPM). Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Companion Silero VAD, wake-word, and 14-command KWS via same runtime.
 
 <a name="tensorflow"></a>
 ## TensorFlow
