@@ -86,6 +86,7 @@ Further resources:
       - [Data Analysis / Data Visualization](#go-data-analysis--data-visualization)
       - [Computer vision](#go-computer-vision)
       - [Reinforcement learning](#go-reinforcement-learning)
+      - [Speech Recognition](#go-speech-recognition)
   - [Haskell](#haskell)
       - [General-Purpose Machine Learning](#haskell-general-purpose-machine-learning)
   - [Java](#java)
