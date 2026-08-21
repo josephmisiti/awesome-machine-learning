@@ -47,6 +47,7 @@ Further resources:
   - [C](#c)
       - [General-Purpose Machine Learning](#c-general-purpose-machine-learning)
       - [Computer Vision](#c-computer-vision)
+      - [Speech Recognition](#c-speech-recognition)
   - [C++](#cpp)
       - [Computer Vision](#cpp-computer-vision)
       - [General-Purpose Machine Learning](#cpp-general-purpose-machine-learning)
@@ -85,6 +86,7 @@ Further resources:
       - [Data Analysis / Data Visualization](#go-data-analysis--data-visualization)
       - [Computer vision](#go-computer-vision)
       - [Reinforcement learning](#go-reinforcement-learning)
+      - [Speech Recognition](#go-speech-recognition)
   - [Haskell](#haskell)
       - [General-Purpose Machine Learning](#haskell-general-purpose-machine-learning)
   - [Java](#java)
@@ -99,6 +101,7 @@ Further resources:
       - [General-Purpose Machine Learning](#javascript-general-purpose-machine-learning)
       - [Misc](#javascript-misc)
       - [Demos and Scripts](#javascript-demos-and-scripts)
+      - [Speech Recognition](#javascript-speech-recognition)
   - [Julia](#julia)
       - [General-Purpose Machine Learning](#julia-general-purpose-machine-learning)
       - [Natural Language Processing](#julia-natural-language-processing)
@@ -106,6 +109,7 @@ Further resources:
       - [Misc Stuff / Presentations](#julia-misc-stuff--presentations)
   - [Kotlin](#kotlin)
       - [Deep Learning](#kotlin-deep-learning)
+      - [Speech Recognition](#kotlin-speech-recognition)
   - [Lua](#lua)
       - [General-Purpose Machine Learning](#lua-general-purpose-machine-learning)
       - [Demos and Scripts](#lua-demos-and-scripts)
@@ -172,6 +176,7 @@ Further resources:
       - [Neural Networks](#scheme-neural-networks)
   - [Swift](#swift)
       - [General-Purpose Machine Learning](#swift-general-purpose-machine-learning)
+      - [Speech Recognition](#swift-speech-recognition)
   - [TensorFlow](#tensorflow)
       - [General-Purpose Machine Learning](#tensorflow-general-purpose-machine-learning)
 
@@ -216,6 +221,10 @@ Further resources:
 * [VLFeat](http://www.vlfeat.org/) - VLFeat is an open and portable library of computer vision algorithms, which has a Matlab toolbox.
 * [YOLOv8](https://github.com/ultralytics/ultralytics) - Ultralytics' YOLOv8 implementation with C++ support for real-time object detection and tracking, optimized for edge devices.
 * [SpecX](https://specx.pro) - Specialized AI vision for extracting engineering specs from PDF/JPG to Excel.
+
+<a name="c-speech-recognition"></a>
+#### Speech Recognition
+* [VoxRT](https://github.com/VoxRT/voxrt-asr-linux) - On-device streaming speech recognition runtime with C API for Linux (aarch64/x86_64). Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Companion Silero VAD, wake-word, and 14-command KWS via same runtime.
 
 <a name="cpp"></a>
 ## C++
@@ -305,6 +314,7 @@ Further resources:
 #### Speech Recognition
 * [Kaldi](https://github.com/kaldi-asr/kaldi) - Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
 * [Vosk](https://github.com/alphacep/vosk-api) - An offline speech recognition toolkit with C++ support, designed for low-resource devices and multiple languages.
+* [VoxRT](https://github.com/VoxRT/voxrt-asr-linux) - On-device streaming speech recognition runtime with C/C++ headers for Linux (aarch64/x86_64). Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Companion Silero VAD, wake-word, and 14-command KWS via same runtime.
 
 <a name="cpp-sequence-analysis"></a>
 #### Sequence Analysis
@@ -526,6 +536,10 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 
 * [GoCV](https://github.com/hybridgroup/gocv) - Package for computer vision using OpenCV 4 and beyond.
 
+<a name="go-speech-recognition"></a>
+#### Speech Recognition
+* [VoxRT](https://github.com/VoxRT/voxrt-asr-linux) - On-device streaming speech recognition runtime with Go bindings. Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Ships alongside C/C++, PyPI, and npm packages for Linux (aarch64/x86_64).
+
 <a name="go-reinforcement-learning"></a>
 #### Reinforcement learning
 
@@ -709,6 +723,10 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [WebNN](https://webnn.dev) - A new web standard that allows web apps and frameworks to accelerate deep neural networks with on-device hardware such as GPUs, CPUs, or purpose-built AI accelerators.
 * [Kandle](https://github.com/final-kk/kandle) - A JavaScript Native PyTorch-aligned Machine Learning Framework, built from scratch on WebGPU.
 
+<a name="javascript-speech-recognition"></a>
+#### Speech Recognition
+* [VoxRT](https://github.com/VoxRT/voxrt-asr-linux) - On-device streaming speech recognition runtime with npm bindings. Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Ships alongside C/C++, Python (PyPI), and Go packages for Linux (aarch64/x86_64).
+
 <a name="javascript-misc"></a>
 #### Misc
 
@@ -816,6 +834,10 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 <a name="kotlin-deep-learning"></a>
 #### Deep Learning
 * [KotlinDL](https://github.com/JetBrains/KotlinDL) - Deep learning framework written in Kotlin.
+
+<a name="kotlin-speech-recognition"></a>
+#### Speech Recognition
+* [VoxRT](https://github.com/VoxRT/voxrt-asr-android) - On-device streaming speech recognition SDK for Android with Kotlin bindings (JitPack). Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Companion Silero VAD, wake-word, and 14-command KWS via same runtime.
 
 <a name="lua"></a>
 ## Lua
@@ -1550,6 +1572,7 @@ be
 <a name="python-speech-recognition"></a>
 #### Speech Recognition
 * [EspNet](https://github.com/espnet/espnet) - ESPnet is an end-to-end speech processing toolkit for tasks like speech recognition, translation, and enhancement, using PyTorch and Kaldi-style data processing.
+* [VoxRT](https://github.com/VoxRT/voxrt-asr-linux) - On-device streaming speech recognition toolkit with Python bindings. Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Ships companion VAD (Silero), wake-word, and 14-command keyword spotting via same runtime.
 
 <a name="python-development tools"></a>
 #### Development Tools 
@@ -1843,6 +1866,10 @@ be
 * [PredictionBuilder](https://github.com/denissimon/prediction-builder-swift) - A library for machine learning that builds predictions using a linear regression.
 * [Awesome CoreML](https://github.com/SwiftBrain/awesome-CoreML-models) - A curated list of pretrained CoreML models.
 * [Awesome Core ML Models](https://github.com/likedan/Awesome-CoreML-Models) - A curated list of machine learning models in CoreML format.
+
+<a name="swift-speech-recognition"></a>
+#### Speech Recognition
+* [VoxRT](https://github.com/VoxRT/voxrt-asr-ios) - On-device streaming speech recognition SDK for iOS with Swift bindings (SPM). Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Companion Silero VAD, wake-word, and 14-command KWS via same runtime.
 
 <a name="tensorflow"></a>
 ## TensorFlow
