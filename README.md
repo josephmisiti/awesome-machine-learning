@@ -214,6 +214,7 @@ Further resources:
 * [notorch](https://github.com/ariannamethod/notorch) - Neural networks framework in pure C: training and inference, no dependencies.
 * [qsmm](http://qsmm.org) - A C library implementing the rudiments of a toolchain for working with adaptive probabilistic assembler programs.
 * [qwen3.8-27b-in-c](https://github.com/shyringo/qwen3.8-27b-in-c) - A native C inference engine for running Qwen3.8-27B locally on a single laptop CPU, with direct GGUF loading and a tested 8 GB memory path.
+* [Thimble](https://github.com/nikshepsvn/thimble) - A 48M-parameter grammar-constrained tool-calling model with a single-file, dependency-free C inference engine (int8, 48 MB weights, byte-verified against the reference stack); output is always schema-valid JSON.
 
 <a name="c-computer-vision"></a>
 #### Computer Vision
