@@ -1131,6 +1131,7 @@ be
 * [segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch) - A PyTorch-based toolkit that offers pre-trained segmentation models for computer vision tasks. It simplifies the development of image segmentation applications by providing a collection of popular architecture implementations, such as UNet and PSPNet, along with pre-trained weights, making it easier for researchers and developers to achieve high-quality pixel-level object segmentation in images.
 * [segmentation_models](https://github.com/qubvel/segmentation_models) - A TensorFlow Keras-based toolkit that offers pre-trained segmentation models for computer vision tasks. It simplifies the development of image segmentation applications by providing a collection of popular architecture implementations, such as UNet and PSPNet, along with pre-trained weights, making it easier for researchers and developers to achieve high-quality pixel-level object segmentation in images.
 * [MLX](https://github.com/ml-explore/mlx)- MLX is an array framework for machine learning on Apple silicon, developed by Apple machine learning research.
+* [trackers](https://github.com/roboflow/trackers) - A unified library for multi-object tracking with clean-room implementations of SORT, ByteTrack, OC-SORT, BoT-SORT, C-BIoU and McByte. Works with any detector and ships benchmarks on MOT17, SportsMOT, SoccerNet and DanceTrack.
 
 <a name="python-natural-language-processing"></a>
 #### Natural Language Processing
