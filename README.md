@@ -1369,6 +1369,8 @@ be
 * [pyclugen](https://github.com/clugen/pyclugen) - Multidimensional cluster generation in Python.
 * [mlforgex](https://github.com/dhgefergfefruiwefhjhcduc/ML_Forgex) - Lightweight ML utility for automated training, evaluation, and prediction with CLI and Python API support.
 * [autobatcher](https://github.com/doublewordai/autobatcher) - Drop-in AsyncOpenAI replacement that transparently batches requests via the Batch API for cheaper LLM inference.
+* [semantic_clusterer](https://github.com/Baishnab1708/semantic_clusterer) - Fast, zero-configuration unsupervised semantic text clustering and exact-K partitioning with built-in ONNX embeddings.
+
 
 <a name="python-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization
