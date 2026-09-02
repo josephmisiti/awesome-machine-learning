@@ -1577,6 +1577,7 @@ be
 #### Speech Recognition
 * [EspNet](https://github.com/espnet/espnet) - ESPnet is an end-to-end speech processing toolkit for tasks like speech recognition, translation, and enhancement, using PyTorch and Kaldi-style data processing.
 * [VoxRT](https://github.com/VoxRT/voxrt-asr-linux) - On-device streaming speech recognition toolkit with Python bindings. Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Ships companion VAD (Silero), wake-word, and 14-command keyword spotting via same runtime.
+* [FunASR](https://github.com/modelscope/FunASR) - An industrial-grade speech recognition toolkit supporting multilingual ASR, VAD, punctuation restoration, speaker diarization, and emotion recognition.
 
 <a name="python-development tools"></a>
 #### Development Tools 
