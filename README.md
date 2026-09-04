@@ -214,6 +214,7 @@ Further resources:
 * [notorch](https://github.com/ariannamethod/notorch) - Neural networks framework in pure C: training and inference, no dependencies.
 * [qsmm](http://qsmm.org) - A C library implementing the rudiments of a toolchain for working with adaptive probabilistic assembler programs.
 * [qwen3.8-27b-in-c](https://github.com/shyringo/qwen3.8-27b-in-c) - A native C inference engine for running Qwen3.8-27B locally on a single laptop CPU, with direct GGUF loading and a tested 8 GB memory path.
+* [qwen3.8-flash-next-in-c](https://github.com/shyringo/qwen3.8-flash-next-in-c) - A native C inference engine for Qwen3.8-Flash-Next (125B-A6B plus 51B PLE) on a single laptop CPU, with exact batch-4 verification throughput reaching nearly 10 token positions per second on tested hardware.
 * [deepseek-v4-flash-0731-in-c](https://github.com/shyringo/deepseek-v4-flash-0731-in-c) - A native C CPU inference engine for running the 284B-A13B DeepSeek-V4-Flash-0731 on one laptop, reaching up to 1.12 token/s on tested hardware while streaming the 167 GB checkpoint from disk with a tested 8 GB memory path and no GPU or Python.
 
 <a name="c-computer-vision"></a>
