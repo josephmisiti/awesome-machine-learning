@@ -655,6 +655,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [Retext](https://github.com/retextjs/retext) - Extensible system for analyzing and manipulating natural language.
 * [NLP Compromise](https://github.com/spencermountain/compromise) - Natural Language processing in the browser.
 * [nlp.js](https://github.com/axa-group/nlp.js) - An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more.
+* [Glyph](https://github.com/Koda-OSS/Glyph) - Framework-agnostic TypeScript library for generating, searching, and comparing MinHash fingerprints for fast text similarity, deduplication, and retrieval.
 
 
 
