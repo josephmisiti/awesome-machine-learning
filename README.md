@@ -1370,6 +1370,7 @@ be
 * [pyclugen](https://github.com/clugen/pyclugen) - Multidimensional cluster generation in Python.
 * [mlforgex](https://github.com/dhgefergfefruiwefhjhcduc/ML_Forgex) - Lightweight ML utility for automated training, evaluation, and prediction with CLI and Python API support.
 * [autobatcher](https://github.com/doublewordai/autobatcher) - Drop-in AsyncOpenAI replacement that transparently batches requests via the Batch API for cheaper LLM inference.
+* [GPUMesh](https://github.com/K4-LABS/gpumesh) - Borrow your friends' GPUs across your LAN with a Python decorator and CLI pool for parallel sweeps and training.
 
 <a name="python-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization
