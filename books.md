@@ -95,6 +95,7 @@ The following is a list of free and/or open source books on machine learning, st
 * [Deep Learning for Natural Language Processing](https://www.manning.com/books/deep-learning-for-natural-language-processing) Early access book
 * [Deep Learning with R, Third Edition](https://www.manning.com/books/deep-learning-with-r-third-edition)
 * [AI Model Evaluation](https://www.manning.com/books/ai-model-evaluation) 
+* [Building Speech AI: A Practitioner's Guide](https://prdeepakbabu.github.io/building-speech-ai) - Deepak Babu Piskala. Practitioner-focused guide to speech representation, ASR, neural TTS, self-supervised speech models, and audio language models, with companion code.
 
 ## Natural Language Processing
 
