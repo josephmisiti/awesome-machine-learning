@@ -197,8 +197,9 @@ Further resources:
 
 <a name="apl-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
+- [SuperL8](https://github.com/jajmangold/superl8) - INT8 DP4A FlashAttention-2 and GEMM kernels for Volta GPUs. PyTorch CUDA extension.
 * [naive-apl](https://github.com/mattcunningham/naive-apl) - Naive Bayesian Classifier implementation in APL. **[Deprecated]**
-
+- [SuperL8](https://github.com/jajmangold/superl8) - INT8 DP4A FlashAttention-2 and GEMM kernels for Volta GPUs. PyTorch CUDA extension.
 <a name="c"></a>
 ## C
 
