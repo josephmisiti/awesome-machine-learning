@@ -1187,6 +1187,7 @@ be
 * [TextCL](https://github.com/alinapetukhova/textcl) - Text preprocessing package for use in NLP tasks.
 * [VeritasGraph](https://github.com/bibinprathap/VeritasGraph) - Enterprise-Grade Graph RAG for Secure, On-Premise AI with Verifiable Attribution.
 * [yasbd-lib](https://github.com/speedyk-005/yasbd-lib) - High-accuracy, rule-based sentence boundary detector (SBD) with drop-in pysbd adapter, streaming APIs, CLI, and a spaCy component across 39+ languages.
+* [jevos](https://github.com/feder-cr/jev) - A 1B-parameter yes/no text classifier that runs on a CPU: send text and a yes/no question over HTTP, get back P(yes) via one forward pass in ~50ms with llama.cpp, no GPU required.
 
 <a name="python-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
