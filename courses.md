@@ -72,3 +72,4 @@ The following is a list of free or paid online courses on machine learning, stat
 * [LLM Evaluation with Opik](https://www.comet.com/site/llm-course/) - free Hands-on labs
 * [Advanced Machine Learning](https://www.trainindata.com/p/advanced-machine-learning) - $ intermediate and advanced courses
 * [IIT Bombay e-Postgraduate Diploma in Artificial Intelligence and Data Science](https://www.mygreatlearning.com/iit-bombay-pg-diploma-ai-data-science) - Online postgraduate diploma covering artificial intelligence, machine learning and data science - $
+* [ML Academy](https://mltraining.org) - 123 interactive lessons that run entirely in the browser; every algorithm is implemented from scratch and every numeric claim in the lesson text is recomputed by a test suite - free
