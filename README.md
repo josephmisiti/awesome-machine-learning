@@ -1373,6 +1373,7 @@ be
 * [pyclugen](https://github.com/clugen/pyclugen) - Multidimensional cluster generation in Python.
 * [mlforgex](https://github.com/dhgefergfefruiwefhjhcduc/ML_Forgex) - Lightweight ML utility for automated training, evaluation, and prediction with CLI and Python API support.
 * [autobatcher](https://github.com/doublewordai/autobatcher) - Drop-in AsyncOpenAI replacement that transparently batches requests via the Batch API for cheaper LLM inference.
+* [PySAD](https://github.com/selimfirat/pysad) - A Python framework for anomaly detection on streaming data, with online detectors, stream simulators, and evaluators.
 
 <a name="python-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization
