@@ -728,6 +728,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [WebNN](https://webnn.dev) - A new web standard that allows web apps and frameworks to accelerate deep neural networks with on-device hardware such as GPUs, CPUs, or purpose-built AI accelerators.
 * [Kandle](https://github.com/final-kk/kandle) - A JavaScript Native PyTorch-aligned Machine Learning Framework, built from scratch on WebGPU.
 * [AI on Browser](https://github.com/ai-on-browser/ai-on-browser.github.io) - An educational, pure JavaScript library designed to help developers and students understand the inner workings of ML algorithms without the magic of external libraries.
+* [Axon](https://github.com/wulier-arch/axon) - A zero-dependency JavaScript neural network framework with reverse-mode autodiff, tensors, convolution, layers, optimizers, training loops, and finite-difference gradient checks.
 
 <a name="javascript-speech-recognition"></a>
 #### Speech Recognition
