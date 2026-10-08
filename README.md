@@ -299,7 +299,8 @@ Further resources:
 * [Truss](https://truss.baseten.co) - An open source framework for packaging and serving ML models.
 * [nndeploy](https://github.com/nndeploy/nndeploy) - An Easy-to-Use and High-Performance AI deployment framework.
 * [ols-regression-engine](https://github.com/VojtechNovakk/ols-regression-engine) - A low-level Linear Regression Engine utilizing the Ordinary Least Squares (OLS) method and QR decomposition.
-
+* [llmash](https://github.com/omgitsbase/llmash) - Ollama-compatible LLM inference server on a llama.cpp fork, with CUDA kernels for speculative decoding on NVIDIA GPUs.
+  
 <a name="cpp-natural-language-processing"></a>
 #### Natural Language Processing
 
