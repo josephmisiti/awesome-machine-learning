@@ -23,6 +23,7 @@ Podcasts
 * [AI Stories Podcast](https://www.youtube.com/@aistoriespodcast)
 
 Newsletters
+* [AI Weekly](https://aiweekly.co/). An independent AI news newsletter, published 3x/week since 2015 to 44,000+ professionals — the few AI stories that matter, plus the AI Weekly Index, a quarterly State-of-AI recap, a Who's-Who-of-AI graph (2,335 figures), and an 11-year archive.
 -----------
 
 * [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
