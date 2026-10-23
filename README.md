@@ -1968,6 +1968,7 @@ be
 * [Bread Dataset Viewer](https://github.com/Bread-Technologies/mle_vscode_extension) - A VS Code extension for viewing and exploring large machine learning datasets (CSV, JSON, Parquet, etc.) directly within the editor without VS Code crashing in a clean UI.
 * [Bread WandB Viewer](https://github.com/Bread-Technologies/bread_wandb_viewer_extension) - A VS Code extension to view Weights & Biases experiments, logs, and artifacts within the IDE, eliminating the need to switch to the web UI and keeping data private.
 * [Cortexa](https://automata-index.vercel.app) - Free, open-access search engine for robotics, ML, and AI research papers (arXiv, MDPI, IEEE OA).
+* [Saymore](https://github.com/frankzch/Saymore) - Open-source Chinese speech input and dictation-organizing software for Windows 10/11 x64. Speech recognition, text tidying, terminology and historical hotwords run locally; supports light, deep, email and Gen-Z style tidying; runs on ordinary CPU or accelerates with a 4 GB VRAM GPU.
 <a name="books"></a>
 ## Books
 
