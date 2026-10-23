@@ -99,6 +99,7 @@ Further resources:
       - [Natural Language Processing](#javascript-natural-language-processing)
       - [Data Analysis / Data Visualization](#javascript-data-analysis--data-visualization)
       - [General-Purpose Machine Learning](#javascript-general-purpose-machine-learning)
+      - [Computer Vision](#javascript-computer-vision)
       - [Misc](#javascript-misc)
       - [Demos and Scripts](#javascript-demos-and-scripts)
       - [Speech Recognition](#javascript-speech-recognition)
@@ -728,6 +729,11 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [WebNN](https://webnn.dev) - A new web standard that allows web apps and frameworks to accelerate deep neural networks with on-device hardware such as GPUs, CPUs, or purpose-built AI accelerators.
 * [Kandle](https://github.com/final-kk/kandle) - A JavaScript Native PyTorch-aligned Machine Learning Framework, built from scratch on WebGPU.
 * [AI on Browser](https://github.com/ai-on-browser/ai-on-browser.github.io) - An educational, pure JavaScript library designed to help developers and students understand the inner workings of ML algorithms without the magic of external libraries.
+
+<a name="javascript-computer-vision"></a>
+#### Computer Vision
+
+* [open-face-liveness](https://github.com/abhigyaan-jha/open-face-liveness) - Open-source, in-browser face liveness, anti-spoofing and light-response checks with TensorFlow.js, like the liveness step in Onfido or AWS Rekognition Face Liveness but running locally.
 
 <a name="javascript-speech-recognition"></a>
 #### Speech Recognition
