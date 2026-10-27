@@ -844,6 +844,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 <a name="kotlin-speech-recognition"></a>
 #### Speech Recognition
 * [VoxRT](https://github.com/VoxRT/voxrt-asr-android) - On-device streaming speech recognition SDK for Android with Kotlin bindings (JitPack). Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Companion Silero VAD, wake-word, and 14-command KWS via same runtime.
+* [Voz](https://desertant.com/models/voz/) - On-device speech recognition SDK for Android in Kotlin with word timestamps. Source-available.
 
 <a name="lua"></a>
 ## Lua
@@ -1886,6 +1887,7 @@ be
 <a name="swift-speech-recognition"></a>
 #### Speech Recognition
 * [VoxRT](https://github.com/VoxRT/voxrt-asr-ios) - On-device streaming speech recognition SDK for iOS with Swift bindings (SPM). Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Companion Silero VAD, wake-word, and 14-command KWS via same runtime.
+* [Voz](https://desertant.com/models/voz/) - On-device speech recognition for iOS and macOS (SPM) with word timestamps, running on the Neural Engine. Source-available.
 
 <a name="tensorflow"></a>
 ## TensorFlow
