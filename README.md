@@ -1656,6 +1656,7 @@ be
 * [candle](https://github.com/huggingface/candle) - Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use.
 * [linfa](https://github.com/rust-ml/linfa) - `linfa` aims to provide a comprehensive toolkit to build Machine Learning applications with Rust
 * [delta](https://github.com/delta-rs/delta) - An open source machine learning framework in Rust Δ
+* [lawsynth](https://github.com/caelum0x/lawsynth) - Deterministic, local-first tool that discovers interpretable governing equations (ODEs) from time-series CSV data, an open-source alternative to symbolic regression and SINDy
 
 #### Deep Learning
 
