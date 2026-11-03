@@ -74,3 +74,4 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Advanced Machine Learning](https://www.trainindata.com/p/advanced-machine-learning) - $ intermediate and advanced courses
 * [IIT Bombay e-Postgraduate Diploma in Artificial Intelligence and Data Science](https://www.mygreatlearning.com/iit-bombay-pg-diploma-ai-data-science) - Online postgraduate diploma covering artificial intelligence, machine learning and data science - $
 * [PixelBank](https://pixelbank.dev/learn) - free and $ Interactive courses (ML, computer vision, 3D vision, LLMs, GPU programming) with 1,100+ coding problems for implementing algorithms from scratch
+* [AI Engineer Portfolio Projects](https://github.com/landedjobs/ai-engineer-portfolio-projects) - free Open-source catalog of 85+ buildable AI engineering projects grouped by theme (RAG, agents, evals, fine-tuning, multimodal), each with scope, stack and milestones
