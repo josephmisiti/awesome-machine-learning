@@ -4,4 +4,5 @@ The following is a list of professional events on Machine Learning and Artificia
 
 * [AI & ML Events](https://aiml.events) - The best upcoming hand-picked conferences and exhibitions in the field of artificial intelligence and machine learning
 * [Codementor Events](https://www.codementor.io/events) - The best developer-focused free virtual events platform, ranging from technical to career related topics
+* [GBA AI Calendar](https://wqai.ltd/en/) - AI conferences, hackathons and competitions in China's Greater Bay Area (Shenzhen, Hong Kong, Guangzhou), updated daily, with .ics subscription
 * [Mimetic Events](https://events.trymimetic.com) - Calendar of AI conferences, meetups and hackathons in San Francisco, New York, Los Angeles and other cities, updated daily
