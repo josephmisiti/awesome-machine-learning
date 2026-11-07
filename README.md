@@ -1379,6 +1379,7 @@ be
 * [autobatcher](https://github.com/doublewordai/autobatcher) - Drop-in AsyncOpenAI replacement that transparently batches requests via the Batch API for cheaper LLM inference.
 * [Future AGI](https://github.com/future-agi/future-agi) - Open-source, self-hostable platform to evaluate, trace, and guard LLM applications and AI agents.
 * [GNN Fraud Ring Detection](https://github.com/RishabhPande/GNN-fraud-ring-detection) - GraphSAGE, GAT, GCN and GIN implemented from scratch in pure Python to detect synthetic fraud rings and money-mule chains.
+* [MetalML](https://github.com/tudor-22/MetalML) - scikit-learn compatible library that runs some estimators on the Mac GPU via Apple Metal (experimental).
 
 <a name="python-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization
