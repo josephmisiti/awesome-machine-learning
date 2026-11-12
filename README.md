@@ -38,7 +38,7 @@ Further resources:
 ### Frameworks and Libraries
 <!-- MarkdownTOC depth=4 -->
 <!-- Contents-->
-- [Awesome Machine Learning ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#awesome-machine-learning-)
+- [Awesome Machine Learning ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#awesome-machine-learning--)
   - [Table of Contents](#table-of-contents)
     - [Frameworks and Libraries](#frameworks-and-libraries)
     - [Tools](#tools)
@@ -128,8 +128,7 @@ Further resources:
   - [OCaml](#ocaml)
     - [General-Purpose Machine Learning](#ocaml-general-purpose-machine-learning)
   - [OpenCV](#opencv)
-    - [Computer Vision](#opencv-Computer-Vision)
-    - [Text-Detection](#Text-Character-Number-Detection)
+    - [Computer Vision](#opencv-computer-vision)
   - [Perl](#perl)
     - [Data Analysis / Data Visualization](#perl-data-analysis--data-visualization)
     - [General-Purpose Machine Learning](#perl-general-purpose-machine-learning)
@@ -1031,7 +1030,7 @@ on MNIST digits[DEEP LEARNING].
 <a name="opencv"></a>
 ## OpenCV
 
-<a name="opencv-ComputerVision and Text Detection"></a>
+<a name="opencv-computer-vision"></a>
 ### OpenSource-Computer-Vision
 
 * [OpenCV](https://github.com/opencv/opencv) - A OpenSource Computer Vision Library
@@ -1658,12 +1657,14 @@ be
 * [linfa](https://github.com/rust-ml/linfa) - `linfa` aims to provide a comprehensive toolkit to build Machine Learning applications with Rust
 * [delta](https://github.com/delta-rs/delta) - An open source machine learning framework in Rust Δ
 
+<a name="rust-deep-learning"></a>
 #### Deep Learning
 
 * [tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ API of PyTorch
 * [dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
 * [burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals
 
+<a name="rust-natural-language-processing"></a>
 #### Natural Language Processing
 
 * [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - Fast State-of-the-Art Tokenizers optimized for Research and Production
