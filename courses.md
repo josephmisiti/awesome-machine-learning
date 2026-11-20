@@ -76,3 +76,4 @@ The following is a list of free or paid online courses on machine learning, stat
 * [PixelBank](https://pixelbank.dev/learn) - free and $ Interactive courses (ML, computer vision, 3D vision, LLMs, GPU programming) with 1,100+ coding problems for implementing algorithms from scratch
 * [TensorTonic](https://www.tensortonic.com) - free and $ Hands-on platform for implementing ML algorithms, research papers and CUDA/Triton kernels from scratch, with 1,400+ coding problems tested in the browser
 * [insideout](https://insideout.sh) - free and $ Interactive lessons on machine learning, neural networks, transformers, evaluation, retrieval and agents, with every step of each worked example written out
+* [InferML](https://inferml.in) - free and $ Interactive machine learning course taught in order: every idea has a Sandbox where you move the data and watch the model react, plus practice at five levels, Python problems and section exams. Four sections are free.
