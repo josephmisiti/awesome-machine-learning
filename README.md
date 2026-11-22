@@ -1380,6 +1380,7 @@ be
 * [Future AGI](https://github.com/future-agi/future-agi) - Open-source, self-hostable platform to evaluate, trace, and guard LLM applications and AI agents.
 * [GNN Fraud Ring Detection](https://github.com/RishabhPande/GNN-fraud-ring-detection) - GraphSAGE, GAT, GCN and GIN implemented from scratch in pure Python to detect synthetic fraud rings and money-mule chains.
 * [eigenkit](https://github.com/eigenorbit/eigenkit) - Quantum machine learning in Python: hybrid quantum neural networks as PyTorch modules and quantum kernel models (QSVC/QSVR) with a scikit-learn API, run on PennyLane, Qiskit, CUDA-Q and other simulators or on IBM, IQM and Amazon Braket QPUs.
+* [aidflow](https://github.com/aigensys-labs/aidflow) - Pipeline-first framework for building reproducible, audit-ready production credit scorecards in regulated finance (banking, insurance, fintech). One call — or an interactive UI — drives the whole pipeline (stabilize, WOE-encode, train an ensemble, promote a champion) and exports a self-contained scoring artifact with full feature lineage and SHAP for regulatory review.
 
 <a name="python-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization
