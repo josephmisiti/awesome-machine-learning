@@ -48,6 +48,7 @@ Further resources:
       - [General-Purpose Machine Learning](#c-general-purpose-machine-learning)
       - [Computer Vision](#c-computer-vision)
       - [Speech Recognition](#c-speech-recognition)
+      - [Chebyshev-Compressor](https://github.com/Genesis410/chebyshev-compressor) - Constant-state recurrent model compression and strict C99 inference engine for resource-constrained microcontrollers.
   - [C++](#cpp)
       - [Computer Vision](#cpp-computer-vision)
       - [General-Purpose Machine Learning](#cpp-general-purpose-machine-learning)
