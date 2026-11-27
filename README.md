@@ -1190,6 +1190,7 @@ be
 * [TextCL](https://github.com/alinapetukhova/textcl) - Text preprocessing package for use in NLP tasks.
 * [VeritasGraph](https://github.com/bibinprathap/VeritasGraph) - Enterprise-Grade Graph RAG for Secure, On-Premise AI with Verifiable Attribution.
 * [yasbd-lib](https://github.com/speedyk-005/yasbd-lib) - High-accuracy, rule-based sentence boundary detector (SBD) with drop-in pysbd adapter, streaming APIs, CLI, and a spaCy component across 39+ languages.
+* [SlopTotal](https://github.com/pablocaeg/sloptotal) - Self-hosted detector for AI-generated text that combines 23 open detectors (transformer classifiers, Binoculars, Fast-DetectGPT, statistical tests) into one calibrated score.
 
 <a name="python-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
