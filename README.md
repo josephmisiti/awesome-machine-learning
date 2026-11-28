@@ -1091,7 +1091,7 @@ be
 * [PredictionBuilder](https://github.com/denissimon/prediction-builder) - A library for machine learning that builds predictions using a linear regression.
 * [Rubix ML](https://github.com/RubixML) - A high-level machine learning (ML) library that lets you build programs that learn from data using the PHP language.
 * [19 Questions](https://github.com/fulldecent/19-questions) - A machine learning / bayesian inference assigning attributes to objects.
-
+* [PHP-ML-Native](https://github.com/nimabm/PHP-ML-Extension) - Fast machine learning for PHP, written in C++ as a native Zend extension.
 <a name="python"></a>
 ## Python
 
